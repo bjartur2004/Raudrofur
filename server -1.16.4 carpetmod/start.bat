@@ -1,0 +1,1 @@
+java -Xms512m -Xmx512m -jar fabric-server-launch.jar nogui

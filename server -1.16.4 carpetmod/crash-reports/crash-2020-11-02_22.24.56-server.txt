@@ -1,0 +1,353 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 11/2/20 10:24 PM
+Description: Watching Server
+
+java.lang.Error: Watchdog
+	at java.util.regex.Matcher.group(Unknown Source)
+	at java.util.Formatter$FormatSpecifier.<init>(Unknown Source)
+	at java.util.Formatter.parse(Unknown Source)
+	at java.util.Formatter.format(Unknown Source)
+	at java.util.Formatter.format(Unknown Source)
+	at java.lang.String.format(Unknown Source)
+	at carpet.settings.ParsedRule.translatedDescription(ParsedRule.java:247)
+	at carpet.settings.SettingsManager.displayRuleMenu(SettingsManager.java:414)
+	at carpet.settings.SettingsManager.lambda$registerCommand$27(SettingsManager.java:399)
+	at carpet.settings.SettingsManager$$Lambda$3194/16701127.run(Unknown Source)
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262)
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:176)
+	at net.minecraft.class_2170.method_9249(class_2170.java:249)
+	at net.minecraft.class_3244.method_14370(class_3244.java:1211)
+	at net.minecraft.class_3244.method_31286(class_3244.java:1198)
+	at net.minecraft.class_3244.method_12048(class_3244.java:1177)
+	at net.minecraft.class_2797.method_12115(class_2797.java:36)
+	at net.minecraft.class_2797.method_11054(class_2797.java:9)
+	at net.minecraft.class_2600.method_11072(class_2600.java:21)
+	at net.minecraft.class_2600$$Lambda$4679/21417609.run(Unknown Source)
+	at net.minecraft.class_3738.run(class_3738.java:18)
+	at net.minecraft.class_1255.method_18859(class_1255.java:144)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761)
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155)
+	at net.minecraft.class_1255.method_16075(class_1255.java:118)
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743)
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737)
+	at net.minecraft.class_1255.method_18857(class_1255.java:127)
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722)
+	at net.minecraft.server.MinecraftServer.handler$zea000$modifiedRunLoop(MinecraftServer.java:3319)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257)
+	at net.minecraft.server.MinecraftServer$$Lambda$3896/12653263.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at java.util.regex.Matcher.group(Unknown Source)
+	at java.util.Formatter$FormatSpecifier.<init>(Unknown Source)
+	at java.util.Formatter.parse(Unknown Source)
+	at java.util.Formatter.format(Unknown Source)
+	at java.util.Formatter.format(Unknown Source)
+	at java.lang.String.format(Unknown Source)
+	at carpet.settings.ParsedRule.translatedDescription(ParsedRule.java:247)
+	at carpet.settings.SettingsManager.displayRuleMenu(SettingsManager.java:414)
+	at carpet.settings.SettingsManager.lambda$registerCommand$27(SettingsManager.java:399)
+	at carpet.settings.SettingsManager$$Lambda$3194/16701127.run(Unknown Source)
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262)
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:176)
+	at net.minecraft.class_2170.method_9249(class_2170.java:249)
+	at net.minecraft.class_3244.method_14370(class_3244.java:1211)
+	at net.minecraft.class_3244.method_31286(class_3244.java:1198)
+	at net.minecraft.class_3244.method_12048(class_3244.java:1177)
+	at net.minecraft.class_2797.method_12115(class_2797.java:36)
+	at net.minecraft.class_2797.method_11054(class_2797.java:9)
+	at net.minecraft.class_2600.method_11072(class_2600.java:21)
+	at net.minecraft.class_2600$$Lambda$4679/21417609.run(Unknown Source)
+	at net.minecraft.class_3738.run(class_3738.java:18)
+	at net.minecraft.class_1255.method_18859(class_1255.java:144)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761)
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155)
+	at net.minecraft.class_1255.method_16075(class_1255.java:118)
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743)
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737)
+	at net.minecraft.class_1255.method_18857(class_1255.java:127)
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722)
+	at net.minecraft.server.MinecraftServer.handler$zea000$modifiedRunLoop(MinecraftServer.java:3319)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #7" Id=211 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@15afc04
+	-  locked java.util.Collections$UnmodifiableSet@19d13df
+	-  locked sun.nio.ch.WindowsSelectorImpl@1a29774
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #6" Id=170 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@a019e4
+	-  locked java.util.Collections$UnmodifiableSet@407768
+	-  locked sun.nio.ch.WindowsSelectorImpl@1a89c54
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #5" Id=169 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@a2ac62
+	-  locked java.util.Collections$UnmodifiableSet@8fe6ab
+	-  locked sun.nio.ch.WindowsSelectorImpl@16f3ea5
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #4" Id=168 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@925fe0
+	-  locked java.util.Collections$UnmodifiableSet@1a623ec
+	-  locked sun.nio.ch.WindowsSelectorImpl@c1388d
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #3" Id=103 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@9bb0e6
+	-  locked java.util.Collections$UnmodifiableSet@6a9e8a
+	-  locked sun.nio.ch.WindowsSelectorImpl@196b68
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #2" Id=102 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@13328b6
+	-  locked java.util.Collections$UnmodifiableSet@14a736
+	-  locked sun.nio.ch.WindowsSelectorImpl@a4e3f0
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #1" Id=80 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@19d9be7
+	-  locked java.util.Collections$UnmodifiableSet@1ed6bfa
+	-  locked sun.nio.ch.WindowsSelectorImpl@c14f26
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Java2D Disposer" Id=78 WAITING on java.lang.ref.ReferenceQueue$Lock@1d7896d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@1d7896d
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at sun.java2d.Disposer.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Watchdog" Id=77 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at net.minecraft.class_3178.run(class_3178.java:49)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=71 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@886353
+	-  locked java.util.Collections$UnmodifiableSet@a662c3
+	-  locked sun.nio.ch.WindowsSelectorImpl@e2bece
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=70 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@199c79e
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@199c79e
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=69 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@eb605
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@157643d
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=68 RUNNABLE
+
+
+"Server thread" Id=65 RUNNABLE
+	at java.util.regex.Matcher.group(Unknown Source)
+	at java.util.Formatter$FormatSpecifier.<init>(Unknown Source)
+	at java.util.Formatter.parse(Unknown Source)
+	at java.util.Formatter.format(Unknown Source)
+	at java.util.Formatter.format(Unknown Source)
+	at java.lang.String.format(Unknown Source)
+	at carpet.settings.ParsedRule.translatedDescription(ParsedRule.java:247)
+	at carpet.settings.SettingsManager.displayRuleMenu(SettingsManager.java:414)
+	...
+
+
+"Snooper Timer" Id=66 WAITING on java.util.TaskQueue@70bb97
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@70bb97
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Timer hack thread" Id=61 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.class_156$6.run(class_156.java:636)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@1da2af0
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@1da2af0
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@d50850
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@d50850
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at net.minecraft.class_3178.run(class_3178.java:65)
+	at java.lang.Thread.run(Unknown Source)
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 374 [minecraft:cow:59,minecraft:pig:56,minecraft:sheep:49,minecraft:chicken:39,minecraft:creeper:22], block_entities: 36 [minecraft:chest:19,minecraft:mob_spawner:13,minecraft:beehive:2,minecraft:bell:1,minecraft:blast_furnace:1], block_ticks: 77, fluid_ticks: 52, chunk_source: ServerChunkCache: 2290,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.4
+	Minecraft Version ID: 1.16.4
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_271, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 24903280 bytes (23 MB) / 518979584 bytes (494 MB) up to 518979584 bytes (494 MB)
+	CPUs: 4
+	JVM Flags: 2 total; -Xms512m -Xmx512m
+	Fabric Mods: 
+		carpet: Carpet Mod in Fabric 1.4.12
+		fabric: Fabric API 0.25.0+build.415-1.16
+		fabric-api-base: Fabric API Base 0.2.0+9f0fb4b895
+		fabric-biome-api-v1: Fabric Biome API (v1) 3.0.0+8367596d95
+		fabric-command-api-v1: Fabric Command API (v1) 1.0.9+a4467d2a95
+		fabric-commands-v0: Fabric Commands (v0) 0.2.0+52d3083695
+		fabric-containers-v0: Fabric Containers (v0) 0.1.8+045df74f95
+		fabric-content-registries-v0: Fabric Content Registries (v0) 0.1.9+059ea86695
+		fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.1.2+b7f9825d95
+		fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.1+f8ac1db295
+		fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.0+16acbe5b95
+		fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.3+a4467d2a95
+		fabric-item-api-v1: Fabric Item API (v1) 1.2.0+f8ac1db295
+		fabric-item-groups-v0: Fabric Item Groups (v0) 0.2.1+a4467d2a95
+		fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 1.2.0+74cc3b2095
+		fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.0.1+432ea18895
+		fabric-mining-levels-v0: Fabric Mining Levels (v0) 0.1.2+b764ce9995
+		fabric-networking-blockentity-v0: Fabric Networking Block Entity (v0) 0.2.5+b50ffc7b95
+		fabric-networking-v0: Fabric Networking (v0) 0.1.10+e00ecb5f95
+		fabric-object-builder-api-v1: Fabric Object Builder API (v1) 1.9.2+a89534ab95
+		fabric-object-builders-v0: Fabric Object Builders (v0) 0.7.1+a4467d2a95
+		fabric-particles-v1: fabric-particles-v1 0.2.2+fb0d9b0e95
+		fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.6.1+a4467d2a95
+		fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.1.4+f8ac1db295
+		fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.3.1+facf3bbf95
+		fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.1.0+8724984195
+		fabric-structure-api-v1: Fabric Structure API (v1) 1.1.0+f8ac1db295
+		fabric-tag-extensions-v0: Fabric Tag Extensions (v0) 1.0.3+ac8e8c5995
+		fabric-tool-attribute-api-v1: Fabric Tool Attribute API (v1) 1.2.4+2b46237995
+		fabricloader: Fabric Loader 0.10.6+build.214
+		minecraft: Minecraft 1.16.4
+	Player Count: 1 / 69; [class_3222['A11y_UwU'/2837, l='ServerLevel[world 1.16.4]', x=277.38, y=69.00, z=-212.70]]
+	Data Packs: vanilla, fabric/fabric-tool-attribute-api-v1
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)

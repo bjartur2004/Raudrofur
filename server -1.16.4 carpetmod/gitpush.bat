@@ -1,6 +1,6 @@
 git add .
 pause
-git commit -m "server shutdown"
+git commit -m "manual push"
 pause
 git push
 pause

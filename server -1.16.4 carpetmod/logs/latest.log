@@ -1,335 +1,82 @@
-[22:25:11] [main/INFO]: Loading for game Minecraft 1.16.4
-[22:25:12] [main/INFO]: [FabricLoader] Loading 42 mods: fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, fabric-resource-loader-v0@0.3.1+facf3bbf95, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-biome-api-v1@3.0.0+8367596d95, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric-loot-tables-v1@1.0.1+432ea18895, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-object-builders-v0@0.7.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95
-[22:25:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[22:25:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:25:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:25:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:25:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:25:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:25:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:25:21] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1)
-[22:25:22] [Worker-Main-5/INFO]: Loaded 7 recipes
-[22:25:22] [Worker-Main-5/INFO]: Loaded 927 advancements
-[22:25:23] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 1.199 ms
-[22:25:23] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[22:25:23] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[22:25:23] [Server thread/INFO]: Loading properties
-[22:25:23] [Server thread/INFO]: Default game type: SURVIVAL
-[22:25:23] [Server thread/INFO]: Generating keypair
-[22:25:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:25:24] [Server thread/INFO]: Using default channel type
-[22:25:24] [Server thread/INFO]: Preparing level "world"
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting piglinsSpawningInBastions as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
-[22:25:24] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
-[22:25:25] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
-[22:25:25] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[22:25:25] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[22:25:25] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
-[22:25:25] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
-[22:25:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:25:26] [Server thread/INFO]: Preparing spawn area: 0%
-[22:25:26] [Server thread/INFO]: Preparing spawn area: 0%
-[22:25:26] [Server thread/INFO]: Preparing spawn area: 0%
-[22:25:26] [Server thread/INFO]: Preparing spawn area: 0%
-[22:25:33] [Worker-Main-7/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-7/INFO]: Preparing spawn area: 83%
-[22:25:33] [Worker-Main-4/INFO]: Preparing spawn area: 99%
-[22:25:33] [Server thread/INFO]: Time elapsed: 8271 ms
-[22:25:33] [Server thread/INFO]: Done (8.639s)! For help, type "help"
-[22:25:49] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[22:25:49] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54179] logged in with entity id 309 at (277.3782805046185, 69.0, -212.69999998807907)
-[22:25:49] [Server thread/INFO]: A11y_UwU joined the game
-[22:30:48] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "de":]
-[22:30:48] [Server thread/INFO]: [A11y_UwU: - defaultLoggers [none] [tps] [mobcaps,tps]]
-[22:30:48] [Server thread/INFO]: [A11y_UwU: - desertShrubs [true] [false]]
-[22:30:48] [Server thread/INFO]: [A11y_UwU: - hardcodeTNTangle [-1] [-1.0]]
-[22:30:48] [Server thread/INFO]: [A11y_UwU: - portalCreativeDelay [1] [40] [80] [72000]]
-[22:30:48] [Server thread/INFO]: [A11y_UwU: - portalSurvivalDelay [1] [40] [80] [72000]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: Current Carpet Mod Settings:]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - carpets [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - commandTick [true] [false] [ops]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - ctrlQCraftingFix [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - flippinCactus [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - lagFreeSpawning [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - leadFix [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - maxEntityCollisions [0] [1] [20] [2]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - missingTools [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - onePlayerSleeping [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - persistentParrots [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - piglinsSpawningInBastions [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - placementRotationFix [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - portalSurvivalDelay [1] [40] [80] [72000]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - renewableCoral [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - renewableSponges [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - rotatorBlock [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - shulkerSpawningInEndCities [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: - stackableShulkerBoxes [true] [false]]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: Carpet Mod version: 1.4.12+v201001]
-[22:32:30] [Server thread/INFO]: [A11y_UwU: Browse Categories:
-[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [tnt] [bugfix] [creative] [command]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "command":]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandDistance [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandDraw [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandInfo [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandLog [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandPerimeterInfo [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandPlayer [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandProfile [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandScript [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandScriptACE [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandSpawn [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandTick [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - commandTrackAI [true] [false] [ops]]
-[22:32:41] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
-[22:32:50] [Server thread/INFO]: [A11y_UwU: commandScript: ops, [change permanently?]]
-[22:32:53] [Server thread/INFO]: [A11y_UwU: Rule commandScript will now default to ops]
-[22:33:00] [Server thread/INFO]: [A11y_UwU: commandScript: ops, [change permanently?]]
-[22:33:02] [Server thread/INFO]: [A11y_UwU: Rule commandScript will now default to ops]
-[22:33:20] [Server thread/INFO]: [A11y_UwU: commandScript: ops, [change permanently?]]
-[22:33:22] [Server thread/INFO]: [A11y_UwU: Rule commandScript will now default to ops]
-[22:34:07] [Server thread/INFO]: [A11y_UwU: carpets: true, [change permanently?]]
-[22:34:10] [Server thread/INFO]: [A11y_UwU: Rule carpets will now default to true]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: Current Carpet Mod Settings:]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - carpets [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - commandScript [true] [false] [ops]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - commandTick [true] [false] [ops]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - ctrlQCraftingFix [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - flippinCactus [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - lagFreeSpawning [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - leadFix [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - maxEntityCollisions [0] [1] [20] [2]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - missingTools [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - onePlayerSleeping [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - persistentParrots [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - piglinsSpawningInBastions [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - placementRotationFix [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - portalSurvivalDelay [1] [40] [80] [72000]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - renewableCoral [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - renewableSponges [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - rotatorBlock [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - shulkerSpawningInEndCities [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: - stackableShulkerBoxes [true] [false]]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: Carpet Mod version: 1.4.12+v201001]
-[22:36:59] [Server thread/INFO]: [A11y_UwU: Browse Categories:
-[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [tnt] [bugfix] [creative] [command]]
-[22:37:09] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "experimental":]
-[22:37:09] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
-[22:37:09] [Server thread/INFO]: [A11y_UwU: - flatWorldStructureSpawning [true] [false]]
-[22:37:09] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:37:09] [Server thread/INFO]: [A11y_UwU: - superSecretSetting [true] [false]]
-[22:37:16] [Server thread/INFO]: [A11y_UwU: superSecretSetting: true, [change permanently?]]
-[22:37:19] [Server thread/INFO]: [A11y_UwU: Rule superSecretSetting will now default to true]
-[22:37:49] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "experimental":]
-[22:37:49] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
-[22:37:49] [Server thread/INFO]: [A11y_UwU: - flatWorldStructureSpawning [true] [false]]
-[22:37:49] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:37:49] [Server thread/INFO]: [A11y_UwU: - superSecretSetting [true] [false]]
-[22:38:30] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "extras":]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: Current Carpet Mod Settings:]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - carpets [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - commandScript [true] [false] [ops]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - commandTick [true] [false] [ops]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - ctrlQCraftingFix [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - flippinCactus [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - lagFreeSpawning [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - leadFix [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - maxEntityCollisions [0] [1] [20] [2]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - missingTools [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - onePlayerSleeping [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - persistentParrots [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - piglinsSpawningInBastions [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - placementRotationFix [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - portalSurvivalDelay [1] [40] [80] [72000]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - renewableCoral [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - renewableSponges [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - rotatorBlock [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - shulkerSpawningInEndCities [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - stackableShulkerBoxes [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: - superSecretSetting [true] [false]]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: Carpet Mod version: 1.4.12+v201001]
-[22:38:42] [Server thread/INFO]: [A11y_UwU: Browse Categories:
-[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [tnt] [bugfix] [creative] [command]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "feature":]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - combineXPOrbs [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - desertShrubs [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - flippinCactus [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - huskSpawningInTemples [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - language [none] [zh_cn] [zh_tw]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - persistentParrots [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - piglinsSpawningInBastions [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - renewableBlackstone [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - renewableCoral [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - renewableSponges [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - rotatorBlock [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - shulkerSpawningInEndCities [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - silverFishDropGravel [true] [false]]
-[22:38:55] [Server thread/INFO]: [A11y_UwU: - stackableShulkerBoxes [true] [false]]
-[22:39:01] [Server thread/INFO]: [A11y_UwU: renewableBlackstone: true, [change permanently?]]
-[22:39:04] [Server thread/INFO]: [A11y_UwU: Rule renewableBlackstone will now default to true]
-[22:39:20] [Server thread/INFO]: [A11y_UwU: combineXPOrbs: true, [change permanently?]]
-[22:39:21] [Server thread/INFO]: [A11y_UwU: Rule combineXPOrbs will now default to true]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "client":]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - cleanLogs [true] [false]]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - creativeFlyDrag [0.09]]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - creativeFlySpeed [1.0]]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - creativeNoClip [true] [false]]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - customMOTD [_]]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - fogOff [true] [false]]
-[22:39:30] [Server thread/INFO]: [A11y_UwU: - smoothClientAnimations [true] [false]]
-[22:39:38] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "dispenser":]
-[22:39:38] [Server thread/INFO]: [A11y_UwU: - rotatorBlock [true] [false]]
-[22:39:43] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "scarpet":]
-[22:39:43] [Server thread/INFO]: [A11y_UwU: - commandScript [true] [false] [ops]]
-[22:39:43] [Server thread/INFO]: [A11y_UwU: - commandScriptACE [true] [false] [ops]]
-[22:39:43] [Server thread/INFO]: [A11y_UwU: - scriptsAutoload [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "survival":]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - antiCheatDisabled [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - carpets [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - cleanLogs [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - ctrlQCraftingFix [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - defaultLoggers [none] [tps] [mobcaps,tps]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - flippinCactus [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - missingTools [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - onePlayerSleeping [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - persistentParrots [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - portalSurvivalDelay [1] [40] [80] [72000]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - smoothClientAnimations [true] [false]]
-[22:39:50] [Server thread/INFO]: [A11y_UwU: - stackableShulkerBoxes [true] [false]]
-[22:40:07] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "experimental":]
-[22:40:07] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
-[22:40:07] [Server thread/INFO]: [A11y_UwU: - flatWorldStructureSpawning [true] [false]]
-[22:40:07] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
-[22:40:07] [Server thread/INFO]: [A11y_UwU: - superSecretSetting [true] [false]]
-[22:48:28] [Server thread/INFO]: All Carpet Mod Settings:
-[22:48:28] [Server thread/INFO]: - antiCheatDisabled [true] [false]
-[22:48:28] [Server thread/INFO]: - carpets [true] [false]
-[22:48:28] [Server thread/INFO]: - cleanLogs [true] [false]
-[22:48:28] [Server thread/INFO]: - combineXPOrbs [true] [false]
-[22:48:28] [Server thread/INFO]: - commandDistance [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandDraw [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandInfo [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandLog [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandPerimeterInfo [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandPlayer [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandProfile [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandScript [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandScriptACE [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandSpawn [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandTick [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - commandTrackAI [true] [false] [ops]
-[22:48:28] [Server thread/INFO]: - creativeFlyDrag [0.09]
-[22:48:28] [Server thread/INFO]: - creativeFlySpeed [1.0]
-[22:48:28] [Server thread/INFO]: - creativeNoClip [true] [false]
-[22:48:28] [Server thread/INFO]: - ctrlQCraftingFix [true] [false]
-[22:48:28] [Server thread/INFO]: - customMOTD [_]
-[22:48:28] [Server thread/INFO]: - defaultLoggers [none] [tps] [mobcaps,tps]
-[22:48:28] [Server thread/INFO]: - desertShrubs [true] [false]
-[22:48:28] [Server thread/INFO]: - explosionNoBlockDamage [true] [false]
-[22:48:28] [Server thread/INFO]: - extremeBehaviours [true] [false]
-[22:48:28] [Server thread/INFO]: - fastRedstoneDust [true] [false]
-[22:48:28] [Server thread/INFO]: - fillLimit [32768] [250000] [1000000]
-[22:48:28] [Server thread/INFO]: - fillUpdates [true] [false]
-[22:48:28] [Server thread/INFO]: - flatWorldStructureSpawning [true] [false]
-[22:48:28] [Server thread/INFO]: - flippinCactus [true] [false]
-[22:48:28] [Server thread/INFO]: - fogOff [true] [false]
-[22:48:28] [Server thread/INFO]: - forceloadLimit [256]
-[22:48:28] [Server thread/INFO]: - hardcodeTNTangle [-1] [-1.0]
-[22:48:28] [Server thread/INFO]: - hopperCounters [true] [false]
-[22:48:28] [Server thread/INFO]: - huskSpawningInTemples [true] [false]
-[22:48:28] [Server thread/INFO]: - interactionUpdates [true] [false]
-[22:48:28] [Server thread/INFO]: - lagFreeSpawning [true] [false]
-[22:48:28] [Server thread/INFO]: - language [none] [zh_cn] [zh_tw]
-[22:48:28] [Server thread/INFO]: - leadFix [true] [false]
-[22:48:28] [Server thread/INFO]: - maxEntityCollisions [0] [1] [20] [2]
-[22:48:28] [Server thread/INFO]: - mergeTNT [true] [false]
-[22:48:28] [Server thread/INFO]: - missingTools [true] [false]
-[22:48:28] [Server thread/INFO]: - movableBlockEntities [true] [false]
-[22:48:28] [Server thread/INFO]: - onePlayerSleeping [true] [false]
-[22:48:28] [Server thread/INFO]: - optimizedTNT [true] [false]
-[22:48:28] [Server thread/INFO]: - persistentParrots [true] [false]
-[22:48:28] [Server thread/INFO]: - piglinsSpawningInBastions [true] [false]
-[22:48:28] [Server thread/INFO]: - placementRotationFix [true] [false]
-[22:48:28] [Server thread/INFO]: - portalCreativeDelay [1] [40] [80] [72000]
-[22:48:28] [Server thread/INFO]: - portalSurvivalDelay [1] [40] [80] [72000]
-[22:48:28] [Server thread/INFO]: - pushLimit [10] [12] [14] [100]
-[22:48:28] [Server thread/INFO]: - quasiConnectivity [true] [false]
-[22:48:28] [Server thread/INFO]: - railPowerLimit [9] [15] [30]
-[22:48:28] [Server thread/INFO]: - renewableBlackstone [true] [false]
-[22:48:28] [Server thread/INFO]: - renewableCoral [true] [false]
-[22:48:28] [Server thread/INFO]: - renewableSponges [true] [false]
-[22:48:28] [Server thread/INFO]: - rotatorBlock [true] [false]
-[22:48:28] [Server thread/INFO]: - scriptsAutoload [true] [false]
-[22:48:28] [Server thread/INFO]: - shulkerSpawningInEndCities [true] [false]
-[22:48:28] [Server thread/INFO]: - silverFishDropGravel [true] [false]
-[22:48:28] [Server thread/INFO]: - smoothClientAnimations [true] [false]
-[22:48:28] [Server thread/INFO]: - spawnChunksSize [0] [11]
-[22:48:28] [Server thread/INFO]: - stackableShulkerBoxes [true] [false]
-[22:48:28] [Server thread/INFO]: - summonNaturalLightning [true] [false]
-[22:48:28] [Server thread/INFO]: - superSecretSetting [true] [false]
-[22:48:28] [Server thread/INFO]: - tntDoNotUpdate [true] [false]
-[22:48:28] [Server thread/INFO]: - tntPrimerMomentumRemoved [true] [false]
-[22:48:28] [Server thread/INFO]: - tntRandomRange [-1] [-1.0]
-[22:48:28] [Server thread/INFO]: - viewDistance [0] [12] [16] [32]
-[22:48:28] [Server thread/INFO]: - xpNoCooldown [true] [false]
-[23:15:40] [Server thread/INFO]: Villager class_1646['Leatherworker'/116, l='ServerLevel[world 1.16.4]', x=273.53, y=67.00, z=-221.23] died, message: 'Leatherworker was slain by Zombie'
-[23:19:00] [Server thread/INFO]: Villager class_1646['Leatherworker'/117, l='ServerLevel[world 1.16.4]', x=296.70, y=66.00, z=-212.30] died, message: 'Leatherworker was slain by Husk'
-[23:25:39] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[23:26:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1de7f60[id=<null>,name=endertad,properties={},legacy=false] (/89.160.244.218:51557) lost connection: Disconnected
-[23:26:27] [User Authenticator #2/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[23:26:27] [Server thread/INFO]: endertad[/89.160.244.218:51562] logged in with entity id 5654 at (197.5, 70.0, -238.5)
-[23:26:27] [Server thread/INFO]: endertad joined the game
-[23:26:30] [Server thread/INFO]: A11y_UwU has made the advancement [Sweet Dreams]
-[23:26:40] [Server thread/INFO]: <A11y_UwU> lit
-[23:26:42] [Server thread/INFO]: <endertad> ok
-[23:26:44] [Server thread/INFO]: endertad lost connection: Disconnected
-[23:26:44] [Server thread/INFO]: endertad left the game
-[23:27:06] [Server thread/INFO]: Stopping the server
-[23:27:06] [Server thread/INFO]: Stopping server
-[23:27:06] [Server thread/INFO]: Saving players
-[23:27:06] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[23:27:06] [Server thread/INFO]: A11y_UwU left the game
-[23:27:06] [Server thread/INFO]: Saving worlds
-[23:27:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world 1.16.4]'/minecraft:overworld
-[23:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:27:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world 1.16.4]'/minecraft:the_nether
-[23:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:27:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world 1.16.4]'/minecraft:the_end
-[23:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:50:05] [main/INFO]: Loading for game Minecraft 1.16.4
+[23:50:06] [main/INFO]: [FabricLoader] Loading 42 mods: fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, fabric-resource-loader-v0@0.3.1+facf3bbf95, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-biome-api-v1@3.0.0+8367596d95, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric-loot-tables-v1@1.0.1+432ea18895, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-object-builders-v0@0.7.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95
+[23:50:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[23:50:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:50:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:50:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:50:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:50:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:50:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:50:16] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1)
+[23:50:18] [Worker-Main-4/INFO]: Loaded 7 recipes
+[23:50:18] [Worker-Main-4/INFO]: Loaded 927 advancements
+[23:50:19] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 1.193 ms
+[23:50:19] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[23:50:19] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[23:50:19] [Server thread/INFO]: Loading properties
+[23:50:19] [Server thread/INFO]: Default game type: SURVIVAL
+[23:50:19] [Server thread/INFO]: Generating keypair
+[23:50:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:50:20] [Server thread/INFO]: Using default channel type
+[23:50:21] [Server thread/INFO]: Preparing level "world"
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting piglinsSpawningInBastions as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting superSecretSetting as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting commandScript as ops from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[23:50:21] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[23:50:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[23:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[23:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[23:50:27] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[23:50:28] [Server thread/INFO]: Preparing spawn area: 83%
+[23:50:28] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[23:50:28] [Server thread/INFO]: Time elapsed: 7222 ms
+[23:50:28] [Server thread/INFO]: Done (7.514s)! For help, type "help"
+[23:50:49] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:50:49] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59744] logged in with entity id 305 at (273.42500001192093, 68.25, -211.45148109816037)
+[23:50:49] [Server thread/INFO]: A11y_UwU joined the game
+[23:50:57] [Server thread/INFO]: Stopping the server
+[23:50:57] [Server thread/INFO]: Stopping server
+[23:50:57] [Server thread/INFO]: Saving players
+[23:50:57] [Server thread/INFO]: A11y_UwU lost connection: Internal Exception: java.lang.StackOverflowError
+[23:50:57] [Server thread/INFO]: A11y_UwU left the game
+[23:50:57] [Server thread/INFO]: Saving worlds
+[23:50:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world 1.16.4]'/minecraft:overworld
+[23:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:50:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world 1.16.4]'/minecraft:the_nether
+[23:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:50:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world 1.16.4]'/minecraft:the_end
+[23:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

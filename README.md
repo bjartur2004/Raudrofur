@@ -7,6 +7,8 @@ minecraft server 1.16.3 w-carpetmod
 serverið er með Fabric mod loaderinn og modin: fabric API, carpet og Vanilla Enhanced
 carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa að downloada og setja upp fabric loaderinn ásamt fabric API og Vanilla Enhanced
 
+## Filgiði öllum skrefunum náhvæmlega og lesið öll skrefin vandlega :P
+
 ## Skref 1
 ### Downloada modunum
 ýtið á linkið hér <a id="raw-url" href="https://github.com/bjartur2004/Raudrofur/blob/main/Mods%20for%20members!!!.zip">Download Mods UwU</a> og svo á "download" takkan til að hala nyður öllum fælum sem þið þurfið

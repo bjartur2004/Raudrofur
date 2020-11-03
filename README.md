@@ -12,7 +12,7 @@ carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa
 ýtið á linkið hér <a id="raw-url" href="https://github.com/bjartur2004/Raudrofur/blob/main/Mods%20for%20members!!!.zip">Download Mods UwU</a> og svo á "download" takkan til að hala nyður öllum fælum sem þið þurfið
   > ![Download](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/download%20takkin.png)
   
-setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið innihaldið yfir áskjáborðið til þess að "unzipa" því
+setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið innihaldið yfir á skjáborðið til þess að unzipa því
 
   > ![Unzip](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/unzip.png)
   

@@ -20,7 +20,7 @@ carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa
 
 
 ## Skref 3
-### setja upp Facric loaderinn
+### setja upp Fabric loaderinn
 
 
 

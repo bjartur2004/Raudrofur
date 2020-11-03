@@ -11,7 +11,7 @@ carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa
 ### Downloada modunum
 ýtið á linkið hér og svo á "download" takkan til að hala nyður öllum fælum sem þið þurfið
 <a id="raw-url" href="https://github.com/bjartur2004/Raudrofur/blob/main/Mods%20for%20members!!!.zip">Download Mods UwU</a>
-![Download](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/download%20takkin.png)
+> ![Download](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/download%20takkin.png)
 
 ## Skref 2
 ### Búa til nýtt version fyrir modin

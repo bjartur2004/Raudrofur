@@ -22,7 +22,7 @@ setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið i
 leitið eftir möppu sem heitir %appdata% (þarf að skrifa allt nafnið til að hún komi upp)
 inní henni farið í möppuna .minecraft 
 
-farið nú í "Mods for members!!!" möppuna, dragið fabric-installer-0.6.1.51.jar inn á desktoppið og opnið skránna
+farið nú í "Mods for members!!!" möppuna, dragið fabric-installer-0.6.1.51.jar inn á skjáborðið og opnið skránna
 þá poppar upp gluggi, hér þarf Minecraft Version: að vera 1.16.4 og svo ýta á Install
 og segja ok þegar annar gluggi poppar upp
 

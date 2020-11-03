@@ -31,7 +31,7 @@ og segja ok þegar annar gluggi poppar upp
 
 ## Skref 3
 ### Setja inn modin
-í glugganum með oppnum .minecraft, finnið þið möppu sem heitir "mods". ef hún er ekki til búið þið einflaslega möppuna til (hún þarf að heita "mods") og farið inni hana
+í glugganum með oppnum .minecraft, finnið þið möppu sem heitir "mods". ef hún er ekki til búið þið einflaldega möppuna til (hún þarf að heita "mods") og farið inni hana
 oppnið svo "mods sem fara í -mods- möppuna" sem kemur í "Mods for members!!!" og dragið alla 3 filana sem þar eru í mods möppuna
 
   > ![dragover](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/dragayfir.png)

@@ -16,32 +16,39 @@ carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa
 setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið innihaldið yfir áskjáborðið til þess að "unzipa" því
 
   > ![Unzip](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/unzip.png)
-
+  
 ## Skref 2
-### Búa til nýtt installation fyrir modin
-oppnið nú minecraft launcherinn og smellið á "Installations" og þar inni á "New..."
-  > ![innstalations](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/innstalations.png)
-
-fyrir nafn setjið þið inn nafn fyrir þetta installation (t.d. 1.16.4 Fabric) og gangið úr skugga um að Relese 1.16.4 sé valið sem Version og ýtið svo á "Create"
-
-  > ![innstalations](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/create.png)
-
-## Skref 3
 ### setja upp Fabric loaderinn
 leitið eftir möppu sem heitir %appdata% (þarf að skrifa allt nafnið til að hún komi upp)
 inní henni farið í möppuna .minecraft 
-svo í versions
-og loks velja þá möppu sem heitir það sama og þið nefnduð installationið sem þið gerðuð í síðasta skrefi
 
+farið nú í "Mods for members!!!" möppuna, dragið fabric-installer-0.6.1.51.jar inn á desktoppið og opnið skránna
+þá poppar upp gluggi, hér þarf Minecraft Version: að vera 1.16.4 og svo ýta á Install
+og segja ok þegar annar gluggi poppar upp
+
+  > ![innstall](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/install%20fabric.png)
+
+
+## Skref 3
+### Setja inn modin
+í glugganum með oppnum .minecraft, finnið þið möppu sem heitir "mods". ef hún er ekki til búið þið einflaslega möppuna til (hún þarf að heita "mods") og farið inni hana
+oppnið svo "mods sem fara í -mods- möppuna" sem kemur í "Mods for members!!!" og dragið alla 3 filana sem þar eru í mods möppuna
+
+  > ![dragover](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/dragayfir.png)
+  
+ef allt tókst eru modin kopmin inn!!!
 
 ## Skref 4
-### Setja inn modin
-
-
-
-## Skref 5
 ### opna minecraft og bæta við serverinu
+opnið núna minecraft og verið viss um að Fabric 1.16.4 er valið sem versionið 
+
+  > ![open](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/opna.png)
+  
+farið í multyplayer of svo add server. setjið inn nafn fyrir serverið (t.d. Rauðrófurnar) og setjið 89.160.244.97 sem Server Address
+ýtið svo á done
 
 
+## Og þá er allt komið, Woob Woob!
+ef serverið er í gangi geturu joinað og séð hjvort að allt sé í lagi
 
-
+**mundu að alltaf þegar þú villt joina serverið þarftu að velja fabric 1.16.4 sem version áður en þú kveikir á leiknum**

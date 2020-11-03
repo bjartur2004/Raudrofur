@@ -1,0 +1,18 @@
+{
+  "enableObsidianGear": true,
+  "enableEmeraldGear": true,
+  "enableSteelGear": true,
+  "enableRubyGear": true,
+  "enableSapphireGear": true,
+  "enableAmethystGear": true,
+  "enableFood": true,
+  "enableDarkGranite": true,
+  "enableMarble": true,
+  "enableRedwoodForest": true,
+  "enableDiverseForest": true,
+  "enableDesertMountain": true,
+  "enableExtremeMountain": true,
+  "enableExtremeJungle": true,
+  "enableFrozenDesert": true,
+  "enableHoneySlime": true
+}

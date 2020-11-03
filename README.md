@@ -22,7 +22,7 @@ setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið i
 oppnið nú minecraft launcherinn og smellið á "Installations" og þar inni á "New..."
   > ![innstalations](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/innstalations.png)
 
-fyrir nafn setjið þið inn nafn fyrir þetta installation (t.d. 1.16.4 Fabric) og gangið úr skugga um að 1.16.4 sé valið sem Version og ýtið svo á "Create"
+fyrir nafn setjið þið inn nafn fyrir þetta installation (t.d. 1.16.4 Fabric) og gangið úr skugga um að Relese 1.16.4 sé valið sem Version og ýtið svo á "Create"
 
   > ![innstalations](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/create.png)
 

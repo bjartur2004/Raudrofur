@@ -28,8 +28,10 @@ fyrir nafn setjið þið inn nafn fyrir þetta installation (t.d. 1.16.4 Fabric)
 
 ## Skref 3
 ### setja upp Fabric loaderinn
-
-
+leitið eftir möppu sem heitir %appdata% (þarf að skrifa allt nafnið til að hún komi upp)
+inní henni farið í möppuna .minecraft 
+svo í versions
+og loks velja þá möppu sem heitir það sama og þið nefnduð installationið sem þið gerðuð í síðasta skrefi
 
 
 ## Skref 4

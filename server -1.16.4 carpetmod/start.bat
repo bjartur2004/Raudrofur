@@ -1,4 +1,4 @@
-java -Xms512m -Xmx512m -jar fabric-server-launch.jar nogui
+java -Xms1g -Xmx1g -jar fabric-server-launch.jar nogui
 
 echo pushing to github
 git add .

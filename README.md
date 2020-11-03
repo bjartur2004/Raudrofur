@@ -12,7 +12,7 @@ carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa
 ýtið á linkið hér og svo á "download" takkan til að hala nyður öllum fælum sem þið þurfið
 <a id="raw-url" href="https://github.com/bjartur2004/Raudrofur/blob/main/Mods%20for%20members!!!.zip">Download Mods UwU</a>
   > ![Download](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/download%20takkin.png)
-setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið innihaldið yfir áskjáborðið til þess að "unzipa" því
+####setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið innihaldið yfir áskjáborðið til þess að "unzipa" því
   > ![Unzip](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/unzip.png)
 
 ## Skref 2
@@ -20,7 +20,7 @@ setið filin sem þið downloduðuð á skjáborðið, opniði hann og dragið i
 oppnið nú minecraft launcherinn og smellið á "Installations" og þar inni á "New..."
   > ![innstalations](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/innstalations.png)
 
-fyrir nafn setjið þið inn nafn fyrir þetta installation (t.d. 1.16.4 Fabric) og gangið úr skugga um að 1.16.4 sé valið sem Version og ýtið svo á "Create"
+####fyrir nafn setjið þið inn nafn fyrir þetta installation (t.d. 1.16.4 Fabric) og gangið úr skugga um að 1.16.4 sé valið sem Version og ýtið svo á "Create"
 
   > ![innstalations](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/create.png)
 

@@ -10,7 +10,7 @@ carpet þarf bara serverið að vera með en allir sem spila á serverinu þurfa
 ## Skref 1
 ### Downloada modunum
 ýtið á linkið hér til að downloada folder með öllum fælum sem þurfa
-<a id="raw-url" href="https://raw.githubusercontent.com/bjartur2004/Raudrofur/tree/main/Mods%20for%20members!!!">Download Mods UwU</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/bjartur2004/Raudrofur/blob/main/Mods%20for%20members!!!.zip">Download Mods UwU</a>
 
 ## Skref 2
 ### Búa til nýtt version fyrir modin

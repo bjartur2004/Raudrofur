@@ -27,6 +27,7 @@ farið nú í "Mods for members!!!" möppuna, dragið fabric-installer-0.6.1.51.
 þá poppar upp gluggi, hér þarf Minecraft Version: að vera 1.16.4 og svo ýta á Install
 og segja ok þegar annar gluggi poppar upp
 
+**ef gluggin opnast ekki eða blickar og hverfur strax þarftu kannski að downloada java eða velja það sem app til að opna fileinn**
   > ![innstall](https://github.com/bjartur2004/Raudrofur/blob/main/wiki/install%20fabric.png)
 
 

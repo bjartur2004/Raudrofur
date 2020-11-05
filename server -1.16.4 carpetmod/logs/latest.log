@@ -1,15 +1,329 @@
-[04:48:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:48:40] [Server thread/INFO]: <--[HERE]
-[04:48:43] [Server thread/INFO]: Stopping the server
-[04:48:43] [Server thread/INFO]: Stopping server
-[04:48:43] [Server thread/INFO]: Saving players
-[04:48:43] [Server thread/INFO]: Saving worlds
-[04:48:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:48:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:48:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:48:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:48:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:48:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:48:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:48:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:48:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:39:04] [main/INFO]: Loading for game Minecraft 1.16.4
+[12:39:07] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[12:39:07] [main/INFO]: [FabricLoader] Loading 47 mods: fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-biome-api-v1@3.0.0+8367596d95, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, vanillaenhanced@1.3.0, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric-loot-tables-v1@1.0.1+432ea18895, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-object-builders-v0@0.7.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95
+[12:39:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[12:39:17] [main/INFO]: [VanillaEnhanced] Hello there.
+[12:39:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:39:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:39:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:39:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:39:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:39:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:39:20] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[12:39:21] [Worker-Main-4/INFO]: Loaded 7 recipes
+[12:39:21] [Worker-Main-4/INFO]: Loaded 927 advancements
+[12:39:23] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.632 ms
+[12:39:23] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[12:39:23] [Server thread/INFO]: Loading properties
+[12:39:23] [Server thread/INFO]: Default game type: SURVIVAL
+[12:39:23] [Server thread/INFO]: Generating keypair
+[12:39:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:39:23] [Server thread/INFO]: Using default channel type
+[12:39:24] [Server thread/INFO]: Preparing level "world"
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting commandScript as ops from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[12:39:24] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[12:39:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:27] [Server thread/INFO]: Preparing spawn area: 0%
+[12:39:28] [Server thread/INFO]: Time elapsed: 3067 ms
+[12:39:28] [Server thread/INFO]: Done (3.348s)! For help, type "help"
+[12:39:37] [User Authenticator #1/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[12:39:38] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:50887] logged in with entity id 225 at (-249.1260294776246, 71.0, 661.13080762895)
+[12:39:38] [Server thread/INFO]: SKAF_PathFinder joined the game
+[12:39:57] [Server thread/INFO]: [SKAF_PathFinder: Player SKAF_PathFinder is already logged on]
+[12:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[12:44:36] [Server thread/INFO]: <SKAF_PathFinder> Are you on console???
+[13:16:31] [User Authenticator #2/INFO]: UUID of player Walle_anonim is 4ea57291-b9e4-44a3-932e-f1b3dddfeab8
+[13:16:31] [Server thread/INFO]: Walle_anonim[/84.17.55.17:3425] logged in with entity id 5250 at (160.5, 71.0, -15.5)
+[13:16:31] [Server thread/INFO]: Walle_anonim joined the game
+[13:16:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=160, y=68, z=-16}
+[13:16:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=158, y=68, z=-17}
+[13:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-16}
+[13:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-16}
+[13:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=156, y=68, z=-15}
+[13:16:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=158, y=68, z=-17}
+[13:17:16] [Server thread/INFO]: <Walle_anonim> elo
+[13:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=158, y=68, z=-17}
+[13:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=158, y=68, z=-17}
+[13:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:19] [Server thread/INFO]: <SKAF_PathFinder> Hallo
+[13:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=157, y=68, z=-17}
+[13:17:24] [Server thread/INFO]: <SKAF_PathFinder> You new hereÐ
+[13:17:28] [Server thread/INFO]: <SKAF_PathFinder> ?***
+[13:17:29] [Server thread/INFO]: <Walle_anonim> yup
+[13:17:44] [Server thread/INFO]: <SKAF_PathFinder> Well welcome to Beetroot land
+[13:17:52] [Server thread/INFO]: <Walle_anonim> XD
+[13:18:06] [Server thread/INFO]: <SKAF_PathFinder> Bjartur named it
+[13:18:06] [Server thread/WARN]: Walle_anonim moved wrongly!
+[13:18:07] [Server thread/WARN]: Walle_anonim moved wrongly!
+[13:18:47] [Server thread/INFO]: <SKAF_PathFinder> Do you want to be my neighbour??
+[13:18:51] [Server thread/INFO]: <Walle_anonim> sure
+[13:19:11] [Server thread/INFO]: <SKAF_PathFinder> come to -244 71 659
+[13:19:31] [Server thread/INFO]: <SKAF_PathFinder> Me Axel, Emil and Kalli are neighbours
+[13:19:36] [Server thread/INFO]: <SKAF_PathFinder> Join da club
+[13:22:47] [Server thread/INFO]: <SKAF_PathFinder> Do you have the mod?
+[13:23:07] [Server thread/INFO]: <Walle_anonim> I did not get everything working it apperes
+[13:23:19] [Server thread/INFO]: <SKAF_PathFinder> Can you see red wood?
+[13:23:26] [Server thread/INFO]: <Walle_anonim> nope
+[13:23:37] [Server thread/INFO]: <SKAF_PathFinder> Then something wrong
+[13:23:41] [Server thread/INFO]: <Walle_anonim> ye
+[13:23:45] [Server thread/INFO]: <SKAF_PathFinder> You have java?
+[13:23:56] [Server thread/INFO]: <Walle_anonim> yup
+[13:24:11] [Server thread/INFO]: <SKAF_PathFinder> Jarfix?
+[13:24:33] [Server thread/INFO]: <Walle_anonim> the java thing works
+[13:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
+[13:24:46] [Server thread/INFO]: <Walle_anonim> I just have to try some stuff with the mod
+[13:24:53] [Server thread/INFO]: <SKAF_PathFinder> Aight
+[13:26:03] [Server thread/INFO]: <SKAF_PathFinder> Are you coming tho?
+[13:26:09] [Server thread/INFO]: <Walle_anonim> ya
+[13:26:16] [Server thread/INFO]: <SKAF_PathFinder> K
+[13:29:35] [Server thread/WARN]: Walle_anonim moved too quickly! -0.7870197804373333,-3.0,9.715411957356707
+[13:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[13:30:50] [Server thread/WARN]: Walle_anonim moved wrongly!
+[13:30:54] [Server thread/INFO]: <SKAF_PathFinder> Hello
+[13:30:57] [Server thread/INFO]: <Walle_anonim> hi
+[13:30:57] [Server thread/INFO]: <SKAF_PathFinder> Behind ya
+[13:32:22] [Server thread/INFO]: <SKAF_PathFinder> One of the rules is to not steal
+[13:32:33] [Server thread/INFO]: <Walle_anonim> I know XD
+[13:33:27] [Server thread/INFO]: <SKAF_PathFinder> Make a house my friend
+[13:35:59] [Server thread/INFO]: Walle_anonim lost connection: Disconnected
+[13:35:59] [Server thread/INFO]: Walle_anonim left the game
+[13:36:02] [Server thread/INFO]: <SKAF_PathFinder> Bye
+[13:41:40] [User Authenticator #3/INFO]: UUID of player Walle_anonim is 4ea57291-b9e4-44a3-932e-f1b3dddfeab8
+[13:41:40] [Server thread/INFO]: Walle_anonim[/84.17.55.17:3423] logged in with entity id 11202 at (-150.10479162520403, 64.0, 679.5966499865382)
+[13:41:40] [Server thread/INFO]: Walle_anonim joined the game
+[13:41:47] [Server thread/INFO]: <SKAF_PathFinder> Better?
+[13:41:51] [Server thread/INFO]: <Walle_anonim> yup
+[13:41:55] [Server thread/INFO]: <SKAF_PathFinder> YEAH
+[13:42:05] [Server thread/INFO]: <SKAF_PathFinder> Now build a house under Axels
+[13:43:02] [Server thread/INFO]: <Walle_anonim> where
+[13:43:12] [Server thread/INFO]: Walle_anonim has made the advancement [Stone Age]
+[13:43:15] [Server thread/INFO]: <SKAF_PathFinder> His house is up there
+[13:43:20] [Server thread/INFO]: Walle_anonim has made the advancement [Getting an Upgrade]
+[13:43:23] [Server thread/INFO]: <SKAF_PathFinder> Just make it near it
+[13:43:33] [Server thread/INFO]: <SKAF_PathFinder> I want to expand my base
+[13:45:31] [Server thread/INFO]: <SKAF_PathFinder> Hola
+[13:45:34] [Server thread/INFO]: <Walle_anonim> elo
+[13:45:48] [Server thread/INFO]: <SKAF_PathFinder> That way is Kalli
+[13:46:01] [Server thread/INFO]: <Walle_anonim> aight
+[13:48:22] [Server thread/INFO]: Walle_anonim hit the ground too hard
+[13:48:27] [Server thread/INFO]: <SKAF_PathFinder> f
+[13:48:35] [Server thread/INFO]: <Walle_anonim> nah
+[13:48:41] [Server thread/INFO]: <Walle_anonim> had low hunger
+[13:57:09] [Server thread/INFO]: Walle_anonim has made the advancement [Acquire Hardware]
+[13:57:17] [Server thread/INFO]: <SKAF_PathFinder> Are you stealingÐ
+[13:57:42] [Server thread/INFO]: <SKAF_PathFinder> No you ok
+[13:57:55] [Server thread/INFO]: <SKAF_PathFinder> vc?
+[13:58:24] [Server thread/INFO]: <Walle_anonim> I am not planing to be here long
+[13:58:30] [Server thread/INFO]: <Walle_anonim> another time
+[13:58:59] [Server thread/INFO]: Walle_anonim has made the advancement [Monster Hunter]
+[13:59:53] [Server thread/INFO]: Walle_anonim has made the advancement [Suit Up]
+[14:01:19] [Server thread/INFO]: Walle_anonim has made the advancement [Fishy Business]
+[14:14:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['item.vanillaenhanced.sapphire'/16108, l='ServerLevel[world]', x=-189.13, y=22.29, z=708.19]
+[14:18:35] [Server thread/INFO]: <SKAF_PathFinder> Were you building your house?
+[14:18:42] [Server thread/INFO]: <SKAF_PathFinder> Where***
+[14:18:45] [Server thread/INFO]: <Walle_anonim> under Axels
+[14:18:50] [Server thread/INFO]: <SKAF_PathFinder> Yeahhh
+[14:19:02] [Server thread/INFO]: <SKAF_PathFinder> I will make a path to you eventually
+[14:20:22] [Server thread/INFO]: Walle_anonim lost connection: Disconnected
+[14:20:22] [Server thread/INFO]: Walle_anonim left the game
+[14:26:14] [Server thread/INFO]: SKAF_PathFinder lost connection: You logged in from another location
+[14:26:14] [Server thread/INFO]: SKAF_PathFinder left the game
+[14:26:15] [Server thread/INFO]: SKAF_PathFinder[local] logged in with entity id 18480 at (134.0580337243694, 11.0, 756.472056305798)
+[14:26:15] [Server thread/INFO]: SKAF_PathFinder joined the game
+[14:26:15] [Server thread/WARN]: handleDisconnection() called twice
+[14:26:21] [User Authenticator #4/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[14:26:21] [Server thread/INFO]: SKAF_PathFinder lost connection: Killed
+[14:26:21] [Server thread/INFO]: SKAF_PathFinder left the game
+[14:26:21] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51090] logged in with entity id 18489 at (134.0580337243694, 11.0, 756.472056305798)
+[14:26:21] [Server thread/INFO]: SKAF_PathFinder joined the game
+[14:31:10] [Server thread/INFO]: Incorrect argument for command
+[14:31:10] [Server thread/INFO]: ...eve spawn ~ ~ ~<--[HERE]
+[14:31:38] [Server thread/INFO]: Steve[local] logged in with entity id 19237 at (180.52806952922512, 35.92159999847412, 767.6999999880791)
+[14:31:38] [Server thread/INFO]: Steve joined the game
+[14:31:44] [Server thread/INFO]: <SKAF_PathFinder> Hello steve
+[14:31:49] [Server thread/INFO]: Steve lost connection: Killed
+[14:31:49] [Server thread/INFO]: Steve left the game
+[14:32:07] [Server thread/INFO]: [Server] lol
+[14:32:18] [Server thread/INFO]: <SKAF_PathFinder> BJARTUR
+[14:32:23] [Server thread/INFO]: <SKAF_PathFinder> HELLO MY FRIEND
+[14:33:11] [Server thread/INFO]: [Server] ?g er ? t?ma.. ? svona 3 kl t?ma eftir enn_? af sk?lanum lol
+[14:33:22] [Server thread/INFO]: <SKAF_PathFinder> lol
+[14:34:36] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -10.587112191330718,0.07840000152587834,-0.022224833923701226
+[14:36:24] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[14:36:24] [Server thread/INFO]: SKAF_PathFinder left the game
+[15:05:58] [User Authenticator #5/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[15:05:58] [Server thread/INFO]: Fibblifubb[/89.160.200.16:59110] logged in with entity id 20085 at (160.5, 71.0, -15.5)
+[15:05:58] [Server thread/INFO]: Fibblifubb joined the game
+[15:07:40] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[15:07:40] [Server thread/INFO]: Fibblifubb left the game
+[15:08:01] [Server thread/INFO]: [Server] hell yeah
+[15:08:40] [User Authenticator #6/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[15:08:40] [Server thread/INFO]: Fibblifubb[/89.160.200.16:59655] logged in with entity id 20376 at (240.5631196182849, 68.0, -16.492281829088547)
+[15:08:40] [Server thread/INFO]: Fibblifubb joined the game
+[15:11:55] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[15:11:55] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51285] logged in with entity id 20752 at (-244.91930648999002, 71.0, 665.2728891976501)
+[15:11:55] [Server thread/INFO]: SKAF_PathFinder joined the game
+[15:13:07] [Server thread/INFO]: <SKAF_PathFinder> wwWWWW
+[15:13:12] [Server thread/INFO]: <SKAF_PathFinder> Fibblifubb
+[15:13:14] [Server thread/INFO]: <SKAF_PathFinder> Hello
+[15:14:56] [Server thread/INFO]: Fibblifubb has made the advancement [Stone Age]
+[15:15:01] [Server thread/INFO]: Fibblifubb has made the advancement [Getting an Upgrade]
+[15:15:13] [Server thread/INFO]: <Fibblifubb> ó hæ
+[15:15:26] [Server thread/INFO]: <Fibblifubb> var í öðrum tab
+[15:15:32] [Server thread/INFO]: <SKAF_PathFinder> lol
+[15:15:39] [Server thread/INFO]: <SKAF_PathFinder> You got a house?
+[15:15:44] [Server thread/INFO]: <Fibblifubb> nah var að byrja
+[15:15:49] [Server thread/INFO]: <SKAF_PathFinder> Oh
+[15:16:09] [Server thread/INFO]: <SKAF_PathFinder> Wanna be my and Adrians neighbour??
+[15:16:15] [Server thread/INFO]: <Fibblifubb> where you at
+[15:16:30] [Server thread/INFO]: <SKAF_PathFinder> -247 72 657
+[15:16:51] [Server thread/INFO]: <Fibblifubb> ok skal kíkja hjá þegar ég er komin með smá stuff
+[15:16:56] [Server thread/INFO]: <SKAF_PathFinder> Aight
+[15:21:10] [User Authenticator #8/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
+[15:21:10] [Server thread/INFO]: Kallakalli[/89.160.244.150:53131] logged in with entity id 22945 at (-191.43731552073788, 64.0, 822.3538998430107)
+[15:21:10] [Server thread/INFO]: Kallakalli joined the game
+[15:21:18] [Server thread/INFO]: <Fibblifubb> stór strákur
+[15:21:22] [Server thread/INFO]: <SKAF_PathFinder> ?
+[15:21:26] [Server thread/INFO]: <Kallakalli> ja+
+[15:21:39] [Server thread/INFO]: <Fibblifubb> eins og ég hélt
+[15:22:32] [Server thread/INFO]: <SKAF_PathFinder> Vc?
+[15:22:38] [Server thread/INFO]: <Kallakalli> sure
+[15:22:45] [Server thread/INFO]: <Fibblifubb> nah ég að hlusta á tónlist
+[15:23:13] [Server thread/INFO]: Fibblifubb has made the advancement [Monster Hunter]
+[15:25:27] [Server thread/INFO]: Kallakalli was slain by Zombie
+[15:25:31] [Server thread/INFO]: Fibblifubb has made the advancement [Acquire Hardware]
+[15:25:33] [Server thread/INFO]: <Fibblifubb> f
+[15:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[15:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[15:41:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=297, y=90, z=454} class_2338{x=297, y=90, z=455}
+[15:44:41] [Server thread/WARN]: Fibblifubb moved too quickly! -9.28925773894155,0.0,3.9904680745598853
+[15:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[15:50:40] [Server thread/INFO]: <Fibblifubb> yo
+[15:50:44] [Server thread/INFO]: <SKAF_PathFinder> yo
+[15:51:34] [Server thread/INFO]: <SKAF_PathFinder> You steal my stuff?
+[15:51:40] [Server thread/INFO]: <Fibblifubb> why would i?
+[15:52:40] [Server thread/INFO]: <SKAF_PathFinder> idk would you?
+[15:53:06] [Server thread/INFO]: <Fibblifubb> i guess you´l l have to figure that out yourself ;)
+[15:53:24] [Server thread/INFO]: <SKAF_PathFinder> I don't play these games
+[15:53:46] [Server thread/INFO]: <Fibblifubb> what are you doing right now then?
+[15:53:56] [Server thread/INFO]: <SKAF_PathFinder> Did you?
+[15:54:13] [Server thread/INFO]: <Fibblifubb> who knows :)
+[15:57:04] [User Authenticator #9/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[15:57:04] [Server thread/INFO]: endertad[/89.160.244.218:54888] logged in with entity id 33705 at (-235.08357192612985, 83.0, 614.522579176168)
+[15:57:04] [Server thread/INFO]: endertad joined the game
+[15:57:11] [Server thread/INFO]: <Fibblifubb> yo
+[15:57:15] [Server thread/INFO]: <endertad> why here
+[15:57:18] [Server thread/INFO]: <Fibblifubb> i am a squater
+[15:57:24] [Server thread/INFO]: <endertad> its my house
+[15:57:29] [Server thread/INFO]: <Fibblifubb> want soem soup?
+[15:57:32] [Server thread/INFO]: <endertad> komdu i rauðrofurnar
+[15:57:36] [Server thread/INFO]: <endertad> yes
+[15:57:57] [User Authenticator #10/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[15:57:57] [Server thread/INFO]: A11y_UwU[/127.0.0.1:53169] logged in with entity id 33882 at (228.7644779718848, 67.0, -8.026607141542486)
+[15:57:57] [Server thread/INFO]: A11y_UwU joined the game
+[15:57:59] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[15:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[15:58:02] [Server thread/INFO]: <Fibblifubb> where does adrian live?
+[15:58:15] [Server thread/INFO]: <endertad> idk
+[15:58:22] [Server thread/INFO]: <Fibblifubb> cool
+[15:59:01] [Server thread/INFO]: <Fibblifubb> massive farm
+[15:59:09] [Server thread/INFO]: endertad was slain by SKAF_PathFinder
+[16:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[16:07:54] [Server thread/INFO]: endertad was shot by Skeleton
+[16:08:50] [Server thread/INFO]: Kallakalli was slain by Zombie
+[16:09:36] [Server thread/INFO]: endertad lost connection: Disconnected
+[16:09:36] [Server thread/INFO]: endertad left the game
+[16:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3811ms or 76 ticks behind
+[16:12:35] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[16:12:35] [Server thread/INFO]: Fibblifubb left the game
+[16:13:52] [User Authenticator #11/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[16:13:52] [Server thread/INFO]: endertad[/89.160.244.218:55507] logged in with entity id 39251 at (-172.3263975252634, 24.0, 711.235122797798)
+[16:13:52] [Server thread/INFO]: endertad joined the game
+[16:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4710ms or 94 ticks behind
+[16:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[16:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10046ms or 200 ticks behind
+[16:15:49] [Server thread/INFO]: endertad was blown up by Creeper
+[16:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16473ms or 329 ticks behind
+[16:16:18] [Server thread/INFO]: Kallakalli was shot by Skeleton
+[16:16:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17790ms or 355 ticks behind
+[16:17:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20438ms or 408 ticks behind
+[16:17:42] [Server thread/INFO]: Kallakalli was slain by Zombie
+[16:17:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19426ms or 388 ticks behind
+[16:17:59] [Server thread/INFO]: Kallakalli lost connection: Disconnected
+[16:17:59] [Server thread/INFO]: Kallakalli left the game
+[16:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15847ms or 316 ticks behind
+[16:18:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14104ms or 282 ticks behind
+[16:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13831ms or 276 ticks behind
+[16:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15974ms or 319 ticks behind
+[16:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13541ms or 270 ticks behind
+[16:20:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16299ms or 325 ticks behind
+[16:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13571ms or 271 ticks behind
+[16:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13212ms or 264 ticks behind
+[16:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14286ms or 285 ticks behind
+[16:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16322ms or 326 ticks behind
+[16:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13739ms or 274 ticks behind
+[16:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10135ms or 202 ticks behind
+[16:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16782ms or 335 ticks behind
+[16:24:47] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -5.941309260923163,-8.37404208100915,2.6009605221456695
+[16:24:47] [Server thread/WARN]: A11y_UwU moved too quickly! 7.374767244025577,1.0,-7.0762005609640255
+[16:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23841ms or 476 ticks behind
+[16:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14984ms or 299 ticks behind
+[16:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10520ms or 210 ticks behind
+[16:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11737ms or 234 ticks behind
+[16:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10888ms or 217 ticks behind
+[16:27:16] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[16:27:16] [Server thread/INFO]: SKAF_PathFinder left the game
+[16:27:16] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[16:27:16] [Server thread/INFO]: A11y_UwU left the game
+[16:27:16] [Server thread/INFO]: endertad lost connection: Disconnected
+[16:27:16] [Server thread/INFO]: endertad left the game
+[16:27:17] [User Authenticator #12/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[16:27:19] [User Authenticator #13/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[16:27:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@83d9d6[id=fdcf66c3-a2b9-42db-81e9-59a74d9badae,name=endertad,properties={textures=[com.mojang.authlib.properties.Property@888d08]},legacy=false] (/89.160.244.218:55929) lost connection: Disconnected
+[16:27:22] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51431] logged in with entity id 45576 at (-2334.464740404687, 73.0, 1927.443929712471)
+[16:27:22] [Server thread/INFO]: SKAF_PathFinder joined the game
+[16:27:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:27:23] [Server thread/INFO]: ss<--[HERE]
+[16:27:25] [Server thread/INFO]: Stopping the server
+[16:27:25] [Server thread/INFO]: Stopping server
+[16:27:25] [Server thread/INFO]: Saving players
+[16:27:25] [Server thread/INFO]: Saving worlds
+[16:27:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:27:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:27:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:27:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:27:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:27:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

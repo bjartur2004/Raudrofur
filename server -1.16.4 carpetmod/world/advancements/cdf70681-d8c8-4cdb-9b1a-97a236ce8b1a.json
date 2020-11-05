@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-11-04 16:06:19 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-03 22:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },
@@ -209,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-11-03 22:33:14 +0000"
@@ -296,6 +314,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-11-04 22:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-11-05 16:08:01 +0000"
     },
     "done": true
   },
@@ -398,6 +422,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2020-11-04 18:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-11-05 16:14:47 +0000"
     },
     "done": true
   },
@@ -809,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-11-05 16:08:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-11-04 16:38:37 +0000"
@@ -854,6 +890,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2020-11-04 17:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },
@@ -937,6 +979,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2020-11-04 17:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },
@@ -1069,6 +1117,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-11-04 16:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },
@@ -1264,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-11-05 16:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-11-04 16:23:02 +0000"
@@ -1291,6 +1351,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-11-04 16:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },
@@ -1339,6 +1405,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-11-03 22:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-11-05 16:14:47 +0000"
     },
     "done": true
   },
@@ -1441,6 +1513,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-11-04 16:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },
@@ -1566,6 +1644,7 @@
       "minecraft:mountains": "2020-11-04 16:34:48 +0000",
       "minecraft:taiga": "2020-11-04 17:27:46 +0000",
       "minecraft:desert_hills": "2020-11-03 22:18:59 +0000",
+      "minecraft:giant_tree_taiga": "2020-11-05 16:10:02 +0000",
       "minecraft:deep_cold_ocean": "2020-11-03 22:25:40 +0000",
       "minecraft:taiga_hills": "2020-11-04 17:26:37 +0000",
       "minecraft:desert": "2020-11-03 22:18:22 +0000",
@@ -1580,6 +1659,7 @@
       "minecraft:birch_forest_hills": "2020-11-03 22:24:48 +0000",
       "minecraft:wooded_mountains": "2020-11-03 22:18:39 +0000",
       "minecraft:wooded_hills": "2020-11-03 22:22:02 +0000",
+      "minecraft:giant_tree_taiga_hills": "2020-11-05 16:10:13 +0000",
       "minecraft:swamp": "2020-11-03 22:18:40 +0000",
       "minecraft:savanna": "2020-11-04 16:34:43 +0000",
       "minecraft:plains": "2020-11-03 21:01:37 +0000"
@@ -1781,6 +1861,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2020-11-04 17:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-11-05 16:15:26 +0000"
     },
     "done": true
   },

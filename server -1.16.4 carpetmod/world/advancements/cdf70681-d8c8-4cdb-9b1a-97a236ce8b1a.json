@@ -311,15 +311,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2020-11-04 22:06:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-11-04 21:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2020-11-04 22:06:26 +0000"
     },
     "done": true
   },
@@ -686,6 +686,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-11-04 17:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-11-04 22:31:12 +0000"
     },
     "done": true
   },

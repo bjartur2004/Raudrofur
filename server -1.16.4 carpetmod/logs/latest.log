@@ -1,13 +1,94 @@
-[01:47:40] [Server thread/INFO]: Stopping the server
-[01:47:40] [Server thread/INFO]: Stopping server
-[01:47:40] [Server thread/INFO]: Saving players
-[01:47:40] [Server thread/INFO]: Saving worlds
-[01:47:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:20:23] [main/INFO]: Loading for game Minecraft 1.16.4
+[13:20:23] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[13:20:23] [main/INFO]: [FabricLoader] Loading 47 mods: fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-biome-api-v1@3.0.0+8367596d95, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, vanillaenhanced@1.3.0, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric-loot-tables-v1@1.0.1+432ea18895, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-object-builders-v0@0.7.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95
+[13:20:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[13:20:33] [main/INFO]: [VanillaEnhanced] Hello there.
+[13:20:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:20:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:20:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:20:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:20:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:20:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:20:35] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[13:20:37] [Worker-Main-4/INFO]: Loaded 7 recipes
+[13:20:37] [Worker-Main-4/INFO]: Loaded 927 advancements
+[13:20:38] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.459 ms
+[13:20:38] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:20:38] [Server thread/INFO]: Loading properties
+[13:20:38] [Server thread/INFO]: Default game type: SURVIVAL
+[13:20:38] [Server thread/INFO]: Generating keypair
+[13:20:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:20:39] [Server thread/INFO]: Using default channel type
+[13:20:40] [Server thread/INFO]: Preparing level "world"
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
+[13:20:40] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[13:20:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:20:42] [Server thread/INFO]: Preparing spawn area: 0%
+[13:20:42] [Server thread/INFO]: Preparing spawn area: 0%
+[13:20:42] [Server thread/INFO]: Preparing spawn area: 0%
+[13:20:42] [Server thread/INFO]: Preparing spawn area: 0%
+[13:20:42] [Server thread/INFO]: Preparing spawn area: 50%
+[13:20:43] [Server thread/INFO]: Time elapsed: 2497 ms
+[13:20:43] [Server thread/INFO]: Done (2.840s)! For help, type "help"
+[13:24:16] [User Authenticator #1/INFO]: UUID of player Fez05 is f5747f38-226a-4f0c-a400-a33ceb0c8477
+[13:24:16] [Server thread/INFO]: Fez05[/194.144.190.143:52762] logged in with entity id 158 at (-226.70979445577524, 83.0, 612.4395389160208)
+[13:24:16] [Server thread/INFO]: Fez05 joined the game
+[13:24:33] [User Authenticator #2/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[13:24:33] [Server thread/INFO]: endertad[/89.160.244.218:60237] logged in with entity id 402 at (-241.38382027441088, 83.0, 616.2429028418334)
+[13:24:33] [Server thread/INFO]: endertad joined the game
+[13:29:48] [Server thread/INFO]: Fez05 fell from a high place
+[13:30:33] [Server thread/INFO]: Fez05 was slain by Zombie
+[13:52:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/4254, l='ServerLevel[world]', x=-134.13, y=74.00, z=531.23]
+[14:06:16] [Server thread/INFO]: Fez05 lost connection: Disconnected
+[14:06:16] [Server thread/INFO]: Fez05 left the game
+[14:08:11] [User Authenticator #3/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[14:08:11] [Server thread/INFO]: Fibblifubb[/89.160.200.16:53687] logged in with entity id 6155 at (-366.26710606915975, 15.0, 622.1949938978439)
+[14:08:11] [Server thread/INFO]: Fibblifubb joined the game
+[14:11:13] [Server thread/INFO]: Fibblifubb has made the advancement [Diamonds!]
+[14:18:11] [Server thread/INFO]: endertad has made the advancement [We Need to Go Deeper]
+[14:25:00] [Server thread/INFO]: Fibblifubb has made the advancement [Sweet Dreams]
+[14:25:54] [Server thread/INFO]: <Fibblifubb> -248 681
+[14:26:35] [Server thread/INFO]: Fibblifubb has made the advancement [Ice Bucket Challenge]
+[14:36:53] [Server thread/INFO]: endertad has made the advancement [Ice Bucket Challenge]
+[14:41:32] [Server thread/INFO]: Fibblifubb has made the advancement [Enchanter]
+[14:42:12] [Server thread/INFO]: endertad has made the advancement [Take Aim]
+[14:50:42] [Server thread/INFO]: Fibblifubb has made the advancement [We Need to Go Deeper]
+[14:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[14:52:47] [Server thread/INFO]: endertad lost connection: Disconnected
+[14:52:47] [Server thread/INFO]: endertad left the game
+[14:53:25] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[14:53:25] [Server thread/INFO]: Fibblifubb left the game
+[19:40:17] [Server thread/INFO]: Stopping the server
+[19:40:17] [Server thread/INFO]: Stopping server
+[19:40:17] [Server thread/INFO]: Saving players
+[19:40:17] [Server thread/INFO]: Saving worlds
+[19:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

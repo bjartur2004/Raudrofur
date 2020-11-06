@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-05 16:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-11-03 22:31:49 +0000"
@@ -200,6 +206,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-11-04 21:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-05 16:48:19 +0000"
     },
     "done": true
   },
@@ -380,8 +392,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-11-04 16:56:14 +0000",
+      "cooked_mutton": "2020-11-05 16:46:12 +0000",
       "sweet_berries": "2020-11-04 19:13:39 +0000",
       "cooked_beef": "2020-11-04 18:26:25 +0000",
+      "bread": "2020-11-05 16:52:49 +0000",
       "melon_slice": "2020-11-04 17:45:40 +0000",
       "beetroot": "2020-11-04 22:02:10 +0000",
       "cooked_chicken": "2020-11-04 16:44:48 +0000",
@@ -695,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-05 16:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-11-04 21:22:36 +0000"
@@ -806,6 +826,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-03 22:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-11-05 17:18:23 +0000"
     },
     "done": true
   },
@@ -922,6 +948,7 @@
       "minecraft:skeleton": "2020-11-04 17:31:27 +0000",
       "minecraft:spider": "2020-11-04 16:09:35 +0000",
       "minecraft:creeper": "2020-11-04 16:59:50 +0000",
+      "minecraft:husk": "2020-11-05 21:27:57 +0000",
       "minecraft:enderman": "2020-11-04 22:00:05 +0000",
       "minecraft:zombie": "2020-11-04 16:59:06 +0000",
       "minecraft:drowned": "2020-11-04 16:47:56 +0000"
@@ -985,6 +1012,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-11-05 16:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-11-05 17:31:45 +0000"
     },
     "done": true
   },
@@ -1552,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-11-05 17:18:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-03 22:22:57 +0000"
@@ -1828,6 +1867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-05 16:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-11-04 17:17:41 +0000"
@@ -1870,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-11-05 16:48:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-11-03 22:31:49 +0000"
@@ -1885,6 +1936,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-11-04 17:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-11-05 17:08:15 +0000"
     },
     "done": true
   },

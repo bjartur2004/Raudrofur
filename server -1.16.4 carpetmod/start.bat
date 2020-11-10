@@ -1,4 +1,5 @@
-java -Xms1g -Xmx1g -jar fabric-server-launch.jar nogui
+java -Xms2g -Xmx2g -jar fabric-server-launch.jar nogui
+
 
 echo pushing to github
 git pull

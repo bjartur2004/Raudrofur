@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-11-10 16:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2020-11-04 17:54:56 +0000"
@@ -276,7 +282,8 @@
       "sweet_berries": "2020-11-04 18:28:07 +0000",
       "cooked_beef": "2020-11-09 18:46:46 +0000",
       "bread": "2020-11-06 13:37:22 +0000",
-      "melon_slice": "2020-11-05 16:37:15 +0000"
+      "melon_slice": "2020-11-05 16:37:15 +0000",
+      "carrot": "2020-11-10 17:07:45 +0000"
     },
     "done": false
   },
@@ -361,6 +368,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-04 18:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-11-10 16:57:54 +0000"
     },
     "done": true
   },
@@ -556,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-11-10 16:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-11-04 18:33:17 +0000"
@@ -572,6 +591,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-11-05 16:58:14 +0000",
       "minecraft:spider": "2020-11-04 18:08:16 +0000",
+      "minecraft:creeper": "2020-11-10 16:59:44 +0000",
       "minecraft:enderman": "2020-11-09 18:27:35 +0000",
       "minecraft:zombie": "2020-11-05 16:47:40 +0000",
       "minecraft:zombie_villager": "2020-11-06 13:34:31 +0000"
@@ -740,6 +760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-11-10 16:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2020-11-04 17:54:56 +0000"
@@ -851,6 +877,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-11-04 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-11-10 16:57:54 +0000"
     },
     "done": true
   },

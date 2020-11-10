@@ -986,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-11-10 17:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-09 21:31:22 +0000"
@@ -1480,6 +1486,7 @@
       "minecraft:beach": "2020-11-09 21:26:11 +0000",
       "minecraft:dark_forest": "2020-11-09 21:22:49 +0000",
       "minecraft:river": "2020-11-09 21:20:49 +0000",
+      "minecraft:lukewarm_ocean": "2020-11-10 17:04:05 +0000",
       "minecraft:birch_forest_hills": "2020-11-09 21:30:48 +0000",
       "minecraft:wooded_mountains": "2020-11-09 22:50:11 +0000",
       "minecraft:wooded_hills": "2020-11-09 21:21:20 +0000",

@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-11-03 21:37:54 +0000"
@@ -541,6 +547,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-11-06 14:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
     },
     "done": true
   },
@@ -1319,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-11-06 14:18:11 +0000"
@@ -1334,6 +1352,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-11-05 16:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-11-10 13:33:49 +0000"
     },
     "done": true
   },
@@ -1421,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-11-06 14:10:41 +0000"
@@ -1472,6 +1502,7 @@
       "rotten_flesh": "2020-11-04 16:17:19 +0000",
       "suspicious_stew": "2020-11-09 19:08:04 +0000",
       "melon_slice": "2020-11-05 16:38:03 +0000",
+      "mushroom_stew": "2020-11-10 13:32:19 +0000",
       "carrot": "2020-11-08 16:28:06 +0000"
     },
     "done": false
@@ -1503,6 +1534,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-11-06 14:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
     },
     "done": true
   },
@@ -1557,6 +1594,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-11-08 17:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-11-10 13:33:49 +0000"
     },
     "done": true
   },
@@ -1719,6 +1762,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2020-11-06 14:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
     },
     "done": true
   },
@@ -1980,6 +2029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2020-11-04 18:52:14 +0000"
@@ -2046,6 +2101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-11-04 16:17:38 +0000"
@@ -2055,6 +2116,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-11-08 16:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-10 13:42:11 +0000"
     },
     "done": true
   },

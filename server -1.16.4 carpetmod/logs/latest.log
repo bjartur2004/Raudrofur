@@ -1,102 +1,335 @@
-[00:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2863ms or 114 ticks behind
-[00:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 91 ticks behind
-[00:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 89 ticks behind
-[00:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1967ms or 78 ticks behind
-[00:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2415ms or 96 ticks behind
-[00:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 112 ticks behind
-[00:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 116 ticks behind
-[00:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 99 ticks behind
-[00:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3124ms or 124 ticks behind
-[00:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 88 ticks behind
-[00:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3399ms or 135 ticks behind
-[00:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 84 ticks behind
-[00:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 85 ticks behind
-[00:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1934ms or 77 ticks behind
-[00:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 89 ticks behind
-[00:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1811ms or 72 ticks behind
-[00:03:59] [Server thread/INFO]: [A11y_UwU: Current tps is: 20.0]
-[00:04:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42736, l='ServerLevel[world]', x=-461.20, y=76.00, z=288.17]
-[00:22:12] [Server thread/INFO]: A11y_UwU was blown up by Creeper
-[00:25:21] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[00:26:00] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[00:30:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/49730, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
-[00:36:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51156, l='ServerLevel[world]', x=-461.80, y=76.00, z=288.17]
-[01:09:40] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[01:10:51] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[01:12:43] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[01:16:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/60341, l='ServerLevel[world]', x=-461.75, y=76.00, z=287.76]
-[01:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
-[01:23:29] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[01:25:03] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[01:28:04] [Server thread/INFO]: [A11y_UwU: carpets: true, [change permanently?]]
-[01:28:06] [Server thread/INFO]: [A11y_UwU: Rule carpets will now default to true]
-[01:29:02] [Server thread/INFO]: [A11y_UwU: Initial point set to: [ -405.0, 36.0, 643.0]]
-[01:29:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63423, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.32]
-[01:31:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63850, l='ServerLevel[world]', x=-461.44, y=76.00, z=288.17]
-[01:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[01:31:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63897, l='ServerLevel[world]', x=-461.79, y=76.00, z=287.63]
-[01:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01:46:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/67072, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.67]
-[01:49:34] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[01:50:03] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[01:51:05] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[01:51:43] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[01:54:42] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[01:58:23] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[01:59:46] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[02:02:39] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[02:04:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/72350, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.80]
-[02:04:39] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[02:08:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/73893, l='ServerLevel[world]', x=-461.73, y=76.00, z=286.90]
-[02:30:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/82858, l='ServerLevel[world]', x=-461.72, y=76.00, z=286.83]
-[02:31:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/83051, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.26]
-[02:33:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/83823, l='ServerLevel[world]', x=-461.65, y=76.00, z=287.33]
-[02:50:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/87728, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
-[03:10:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/91836, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:10:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/91979, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.30]
-[03:11:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92199, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:12:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92342, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:13:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92482, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.30]
-[03:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92637, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.30]
-[03:14:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92768, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:14:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92828, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.30]
-[03:15:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93074, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.30]
-[03:16:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93178, l='ServerLevel[world]', x=-461.76, y=76.00, z=287.34]
-[03:16:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93285, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.30]
-[03:17:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93425, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:17:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93505, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:18:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93594, l='ServerLevel[world]', x=-417.30, y=35.00, z=635.70]
-[03:33:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/96964, l='ServerLevel[world]', x=-461.67, y=76.00, z=286.83]
-[03:34:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/97188, l='ServerLevel[world]', x=-461.21, y=76.00, z=287.77]
-[03:50:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/100538, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.25]
-[03:55:19] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[03:55:19] [Server thread/INFO]: A11y_UwU left the game
-[03:55:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/101590, l='ServerLevel[world]', x=-461.40, y=76.00, z=287.72]
-[03:56:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/101675, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.77]
-[04:02:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/102565, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.74]
-[04:03:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/102611, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
-[04:28:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/105997, l='ServerLevel[world]', x=-461.74, y=76.00, z=287.28]
-[04:50:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/108880, l='ServerLevel[world]', x=-461.31, y=76.00, z=287.75]
-[04:57:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/109732, l='ServerLevel[world]', x=-461.24, y=76.00, z=287.70]
-[04:57:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/109782, l='ServerLevel[world]', x=-461.34, y=76.00, z=286.90]
-[05:03:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/110575, l='ServerLevel[world]', x=-461.23, y=76.00, z=287.68]
-[05:07:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111066, l='ServerLevel[world]', x=-461.79, y=76.00, z=287.24]
-[05:23:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113283, l='ServerLevel[world]', x=-461.81, y=76.00, z=287.25]
-[05:40:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/115532, l='ServerLevel[world]', x=-460.87, y=76.00, z=288.00]
-[05:53:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/117279, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.24]
-[08:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9465213ms or 189304 ticks behind
-[08:36:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[08:36:18] [Server thread/INFO]: h_.........................<--[HERE]
-[08:36:34] [Server thread/INFO]: Stopping the server
-[08:36:34] [Server thread/INFO]: Stopping server
-[08:36:34] [Server thread/INFO]: Saving players
-[08:36:34] [Server thread/INFO]: Saving worlds
-[08:36:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:38:06] [main/INFO]: Loading for game Minecraft 1.16.4
+[08:38:06] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[08:38:06] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-commands-v0@0.2.0+52d3083695, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-loot-tables-v1@1.0.1+432ea18895, carpet-extra@1.4.14, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[08:38:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[08:38:15] [main/INFO]: [VanillaEnhanced] Hello there.
+[08:38:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:38:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:38:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:38:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:38:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:38:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:38:17] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[08:38:19] [Worker-Main-4/INFO]: Loaded 7 recipes
+[08:38:19] [Worker-Main-4/INFO]: Loaded 927 advancements
+[08:38:20] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 3.056 ms
+[08:38:20] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[08:38:20] [Server thread/INFO]: Loading properties
+[08:38:20] [Server thread/INFO]: Default game type: SURVIVAL
+[08:38:20] [Server thread/INFO]: Generating keypair
+[08:38:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:38:21] [Server thread/INFO]: Using default channel type
+[08:38:25] [Server thread/INFO]: Preparing level "world"
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
+[08:38:25] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[08:38:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:38:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:38:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:38:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:38:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:38:30] [Server thread/INFO]: Time elapsed: 4471 ms
+[08:38:30] [Server thread/INFO]: Done (4.874s)! For help, type "help"
+[08:40:02] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[08:40:03] [Server thread/INFO]: A11y_UwU[/127.0.0.1:60078] logged in with entity id 121 at (-414.30000001192093, 34.0, 637.5392369980118)
+[08:40:03] [Server thread/INFO]: A11y_UwU joined the game
+[08:40:04] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
+[08:40:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[08:42:02] [Server thread/INFO]: Iron[local] logged in with entity id 1013 at (-457.345170048338, 74.0, 300.300000011921)
+[08:42:02] [Server thread/INFO]: Iron joined the game
+[08:42:08] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[08:42:08] [Server thread/INFO]: A11y_UwU left the game
+[08:59:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3292, l='ServerLevel[world]', x=-461.63, y=76.00, z=287.88]
+[09:28:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7067, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.62]
+[10:02:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11413, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.78]
+[10:15:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:15:29] [Server thread/INFO]: 0< <--[HERE]
+[10:19:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13580, l='ServerLevel[world]', x=-461.79, y=76.00, z=287.25]
+[10:27:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14618, l='ServerLevel[world]', x=-461.26, y=76.00, z=287.81]
+[10:34:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15681, l='ServerLevel[world]', x=-461.26, y=76.00, z=287.31]
+[10:37:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15957, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.23]
+[10:37:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15978, l='ServerLevel[world]', x=-461.78, y=76.00, z=286.83]
+[10:43:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16837, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
+[10:49:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17605, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.18]
+[11:10:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20340, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.72]
+[11:21:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21792, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
+[11:22:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21982, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.60]
+[11:32:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23306, l='ServerLevel[world]', x=-461.37, y=76.00, z=286.91]
+[11:41:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24470, l='ServerLevel[world]', x=-461.69, y=76.00, z=287.72]
+[12:09:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28172, l='ServerLevel[world]', x=-461.69, y=76.00, z=287.78]
+[12:16:29] [User Authenticator #2/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[12:16:29] [Server thread/INFO]: Fibblifubb[/89.160.200.16:54001] logged in with entity id 29054 at (-234.65629421919098, 83.0, 611.056307093292)
+[12:16:29] [Server thread/INFO]: Fibblifubb joined the game
+[12:19:01] [User Authenticator #3/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[12:19:01] [Server thread/INFO]: RuKlo[/157.157.141.64:56452] logged in with entity id 29937 at (1554.5835416290338, 10.0, 1145.699999988079)
+[12:19:01] [Server thread/INFO]: RuKlo joined the game
+[12:19:13] [Server thread/INFO]: <RuKlo> þú ert með flott nafn
+[12:19:18] [Server thread/INFO]: <Fibblifubb> takk
+[12:19:28] [Server thread/INFO]: <RuKlo> hver ert þú?
+[12:19:38] [Server thread/INFO]: <Fibblifubb> berynjar
+[12:19:41] [Server thread/INFO]: <Fibblifubb> brynjar
+[12:19:42] [Server thread/INFO]: <RuKlo> ah cool
+[12:19:45] [Server thread/INFO]: <RuKlo> ég er hlynur
+[12:19:51] [Server thread/INFO]: <Fibblifubb> oh noice
+[12:22:11] [Server thread/INFO]: Fibblifubb has made the advancement [Those Were the Days]
+[12:22:21] [Server thread/INFO]: <RuKlo> VOOO!!!! VEL GERT!
+[12:22:37] [Server thread/INFO]: <Fibblifubb> alveg óvart
+[12:22:42] [Server thread/INFO]: <Fibblifubb> en takk
+[12:22:44] [Server thread/INFO]: <RuKlo> haha
+[12:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[12:27:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:27:12] [Server thread/INFO]: <--[HERE]
+[12:32:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/35288, l='ServerLevel[world]', x=-461.24, y=76.00, z=286.83]
+[12:32:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/35288, l='ServerLevel[world]', x=-461.24, y=76.00, z=286.83]
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.101762750580747,0.0,2.4727136114144628
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.490291492714505,0.0,2.5678204996657996
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.878820221836122,0.0,2.6629274430501937
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -11.26734893924663,0.0,2.758034436054345
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -11.655877646117233,0.0,2.8531414737162777
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -12.044406343501805,0.0,2.9482485515702024
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -12.43293503234895,0.0,3.0433556655968914
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -12.821463713512458,0.0,3.138462812179114
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -13.209992387760622,0.0,3.2335699880612765
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -13.598521055785113,0.0,3.3286771903134422
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -13.987049718208254,0.0,3.423784416298531
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -14.375578375590294,0.0,3.5188916636433305
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -14.764107028435092,0.0,3.613998930211835
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -15.152635677196486,0.0,3.7091062140816575
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -15.541164322282839,0.0,3.8042135135226545
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -15.929692964061587,0.0,3.899320826977771
+[12:33:37] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -16.31822160286356,0.0,3.994428153045533
+[12:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.101745264677447,0.0,2.472787699032267
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.490102027212515,0.0,2.5685715623922647
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.877944964369362,0.0,2.6662415453829453
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -11.264740983002184,0.0,2.7674068704075694
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -11.649996210244353,0.0,2.8733119077490983
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -12.033269386629172,0.0,2.9848921664111003
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -12.414175660928777,0.0,3.102831469626551
+[12:33:38] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! -10.09556098351618,0.0,2.4922338803741013
+[12:35:02] [Server thread/INFO]: <Fibblifubb> geturðu sofið?
+[12:35:07] [Server thread/INFO]: <RuKlo> ja er að labba heim
+[12:35:11] [Server thread/INFO]: <Fibblifubb> kk takk
+[12:36:22] [Server thread/INFO]: RuKlo was slain by Zombie
+[12:36:24] [Server thread/INFO]: <Fibblifubb> F
+[12:36:28] [Server thread/INFO]: <RuKlo> takk
+[12:38:42] [Server thread/WARN]: RuKlo moved too quickly! -5.481603213151175,-0.8322033533667508,-8.699502380732838
+[12:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[12:39:30] [Server thread/INFO]: [Server] f
+[12:39:34] [Server thread/INFO]: <RuKlo> bruh
+[12:39:56] [Server thread/INFO]: <RuKlo> ./give RuKlo 64 Netherite_Ingot ????
+[12:40:13] [Server thread/INFO]: <Fibblifubb> maybe... UwU?
+[12:40:19] [Server thread/INFO]: [Server] lol
+[12:40:26] [Server thread/INFO]: <RuKlo> ./give RuKlo Netherrite_ingot 64 ????
+[12:40:29] [Server thread/INFO]: <Fibblifubb> yo má ég fá seed ið btw
+[12:40:30] [Server thread/INFO]: [Server] no UwU'
+[12:40:31] [Server thread/INFO]: <RuKlo> sorry skrifaði það vitlaust
+[12:40:40] [Server thread/INFO]: <RuKlo> ja megum við fá seedið
+[12:40:50] [Server thread/INFO]: <RuKlo> þannig að við getum fundið öll monuments pls owo
+[12:41:12] [Server thread/INFO]: <Fibblifubb> ég vil sjá hvort þetta er nógu stór sjór
+[12:41:15] [Server thread/INFO]: [Server] yess set inn seedid
+[12:41:17] [Server thread/INFO]: Seed: [-3109399151369964797]
+[12:41:19] [Server thread/INFO]: RuKlo has made the advancement [A Seedy Place]
+[12:41:28] [Server thread/INFO]: <Fibblifubb> ekki svona seed
+[12:41:41] [Server thread/INFO]: <RuKlo> hahaha
+[12:41:46] [Server thread/INFO]: [Server] -3109399151369964797
+[12:41:47] [Server thread/INFO]: <Fibblifubb> :)
+[12:41:58] [Server thread/INFO]: [Server] nice lul
+[12:42:00] [Server thread/INFO]: <Fibblifubb> geturðu sett það á discord líka
+[12:42:09] [Server thread/INFO]: [Server] ye
+[12:43:22] [Server thread/INFO]: [Server] setti _ad ? server info
+[12:43:27] [Server thread/INFO]: <Fibblifubb> kk
+[12:43:31] [Server thread/INFO]: <RuKlo> takk
+[12:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4217ms or 84 ticks behind
+[12:43:59] [Server thread/INFO]: <Fibblifubb> sé það ekki
+[12:44:22] [Server thread/INFO]: [Server] #reglur og serverinfo 
+[12:44:30] [Server thread/INFO]: <Fibblifubb> ó ég er blindur ok
+[12:44:31] [Server thread/INFO]: <RuKlo> ja
+[12:44:32] [Server thread/INFO]: [Server] er ? um serverip
+[12:44:38] [Server thread/INFO]: [Server] nett
+[12:47:01] [Server thread/INFO]: <RuKlo> getur du sofa?
+[12:47:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43648, l='ServerLevel[world]', x=-461.20, y=76.00, z=287.83]
+[12:47:12] [Server thread/INFO]: <Fibblifubb> nei er í sjónum
+[12:47:16] [Server thread/INFO]: <RuKlo> aight
+[12:47:23] [Server thread/INFO]: <RuKlo> eg er hlidina village
+[12:47:26] [Server thread/INFO]: <RuKlo> eg get sofið dar
+[12:47:32] [Server thread/INFO]: <Fibblifubb> kk
+[12:48:53] [Server thread/WARN]: RuKlo moved too quickly! 5.517799710200052,0.8322033533667508,-8.336622118813466
+[12:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
+[12:51:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/47469, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
+[12:53:59] [Server thread/WARN]: RuKlo moved too quickly! 5.574871462061083,0.6769847825199946,8.56085004266356
+[12:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
+[12:59:06] [Server thread/WARN]: RuKlo moved too quickly! 6.326015059913516,-0.2046003784434305,-8.146531413302455
+[12:59:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6816ms or 136 ticks behind
+[13:04:11] [Server thread/WARN]: RuKlo moved too quickly! -8.393165648904414,-0.20326439933128881,5.900619996899877
+[13:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
+[13:09:15] [Server thread/WARN]: RuKlo moved too quickly! -10.14240048399688,1.380023674395531,-0.4421246137114849
+[13:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3535ms or 70 ticks behind
+[13:11:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/61890, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.75]
+[13:19:17] [Server thread/WARN]: Fibblifubb moved too quickly! -10.124944625099317,0.0,0.03145303131773858
+[13:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[13:21:53] [Server thread/INFO]: Fibblifubb has made the advancement [A Terrible Fortress]
+[13:21:58] [Server thread/INFO]: <RuKlo> uuuh
+[13:22:02] [Server thread/INFO]: <RuKlo> spooky
+[13:22:14] [Server thread/INFO]: <Fibblifubb> ekki óvart í þetta sinn
+[13:22:18] [Server thread/INFO]: <RuKlo> hahahah
+[13:23:39] [Server thread/INFO]: Fibblifubb has made the advancement [Into Fire]
+[13:24:20] [Server thread/WARN]: RuKlo moved too quickly! 8.204993260997298,-0.24918707874468282,5.80666363370392
+[13:24:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[13:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[13:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/70124, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.32]
+[13:31:03] [User Authenticator #4/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[13:31:03] [Server thread/INFO]: endertad[/89.160.244.218:62067] logged in with entity id 70803 at (-223.78594916357383, 83.0, 609.4490425681163)
+[13:31:03] [Server thread/INFO]: endertad joined the game
+[13:31:07] [Server thread/INFO]: <RuKlo> halo
+[13:31:27] [Server thread/INFO]: <endertad> hi
+[13:31:30] [Server thread/INFO]: <Fibblifubb> hi
+[13:31:55] [Server thread/INFO]: <endertad> why is there random shit on my floor
+[13:32:03] [Server thread/INFO]: <RuKlo> idk...
+[13:32:13] [Server thread/INFO]: <endertad> Fibblifubb
+[13:32:17] [Server thread/INFO]: <Fibblifubb> ye
+[13:32:45] [Server thread/INFO]: <endertad> was it you
+[13:32:48] [Server thread/INFO]: <Fibblifubb> ye
+[13:32:53] [Server thread/INFO]: <Fibblifubb> why do you care
+[13:33:05] [Server thread/INFO]: <endertad> its annoying
+[13:33:20] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[13:33:20] [Server thread/INFO]: Fibblifubb left the game
+[13:34:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4167ms or 83 ticks behind
+[13:34:29] [User Authenticator #5/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
+[13:34:29] [Server thread/INFO]: Kallakalli[/89.160.244.150:62351] logged in with entity id 72498 at (-184.32885285251817, 64.0, 825.4610009920708)
+[13:34:29] [Server thread/INFO]: Kallakalli joined the game
+[13:34:32] [Server thread/INFO]: <endertad> yo
+[13:34:36] [Server thread/INFO]: <RuKlo> óskar!!
+[13:34:43] [Server thread/INFO]: <Kallakalli> allo
+[13:34:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/72947, l='ServerLevel[world]', x=-461.33, y=76.00, z=288.17]
+[13:35:28] [User Authenticator #6/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[13:35:28] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:52552] logged in with entity id 73379 at (-202.30000001192093, 13.0, 987.3000000119209)
+[13:35:28] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[13:35:33] [Server thread/INFO]: <RuKlo> Andri!!
+[13:35:36] [Server thread/INFO]: <Kallakalli> YO
+[13:35:36] [Server thread/INFO]: <_RedHeroGamer_> Hola
+[13:35:40] [Server thread/INFO]: <_RedHeroGamer_> vc?
+[13:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[13:36:05] [User Authenticator #7/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[13:36:06] [Server thread/INFO]: Fibblifubb[/89.160.200.16:56909] logged in with entity id 73754 at (-505.4191152284049, 68.0, 221.09253024037048)
+[13:36:06] [Server thread/INFO]: Fibblifubb joined the game
+[13:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
+[13:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[13:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5353ms or 107 ticks behind
+[13:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
+[13:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[13:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5259ms or 105 ticks behind
+[13:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5355ms or 107 ticks behind
+[13:38:36] [Server thread/INFO]: <_RedHeroGamer_> Hola endrtad
+[13:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[13:38:42] [Server thread/INFO]: <endertad> hello
+[13:38:48] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/75290, l='ServerLevel[world]', x=-247.77, y=19.01, z=1028.47]
+[13:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4107ms or 82 ticks behind
+[13:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4485ms or 89 ticks behind
+[13:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[13:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4714ms or 94 ticks behind
+[13:40:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/76086, l='ServerLevel[world]', x=-461.70, y=76.00, z=287.70]
+[13:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[13:40:40] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[13:40:40] [Server thread/INFO]: Fibblifubb left the game
+[13:40:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9439ms or 188 ticks behind
+[13:40:44] [User Authenticator #8/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[13:40:44] [Server thread/INFO]: Fibblifubb[/89.160.200.16:57058] logged in with entity id 76387 at (-460.3409493249135, 68.85667992656577, 145.57357026921366)
+[13:40:44] [Server thread/INFO]: Fibblifubb joined the game
+[13:41:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5162ms or 103 ticks behind
+[13:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[13:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[13:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[13:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6154ms or 123 ticks behind
+[13:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10787ms or 215 ticks behind
+[13:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
+[13:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10048ms or 200 ticks behind
+[13:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7851ms or 157 ticks behind
+[13:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9745ms or 194 ticks behind
+[13:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17494ms or 349 ticks behind
+[13:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17887ms or 357 ticks behind
+[13:45:30] [Server thread/INFO]: Iron lost connection: Killed
+[13:45:30] [Server thread/INFO]: Iron left the game
+[13:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22130ms or 442 ticks behind
+[13:46:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24105ms or 482 ticks behind
+[13:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15232ms or 304 ticks behind
+[13:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15981ms or 319 ticks behind
+[13:48:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17777ms or 355 ticks behind
+[13:48:56] [Server thread/INFO]: Fibblifubb has made the advancement [Eye Spy]
+[13:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30472ms or 609 ticks behind
+[13:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18995ms or 379 ticks behind
+[13:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31296ms or 625 ticks behind
+[13:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22286ms or 445 ticks behind
+[13:51:40] [Server thread/INFO]: _RedHeroGamer_ has made the advancement [We Need to Go Deeper]
+[13:51:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33128ms or 662 ticks behind
+[13:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28223ms or 564 ticks behind
+[13:53:02] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[13:53:02] [Server thread/INFO]: Fibblifubb left the game
+[13:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24288ms or 485 ticks behind
+[13:53:08] [User Authenticator #9/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[13:53:08] [Server thread/INFO]: Fibblifubb[/89.160.200.16:57437] logged in with entity id 81288 at (-1972.6929437261456, 32.0, -359.0567799623191)
+[13:53:08] [Server thread/INFO]: Fibblifubb joined the game
+[13:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21473ms or 429 ticks behind
+[13:54:12] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
+[13:54:12] [Server thread/INFO]: _RedHeroGamer_ left the game
+[13:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16072ms or 321 ticks behind
+[13:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12874ms or 257 ticks behind
+[13:54:58] [User Authenticator #10/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[13:54:58] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:52808] logged in with entity id 81938 at (-256.81983728351895, 67.71360000610352, 726.1455730288175)
+[13:54:58] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[13:54:59] [Server thread/INFO]: <Fibblifubb> er þetta að lagga fyrir ykkur?
+[13:55:03] [Server thread/INFO]: <RuKlo> ja
+[13:55:05] [Server thread/INFO]: <Kallakalli> ja
+[13:55:05] [Server thread/INFO]: _RedHeroGamer_ was slain by endertad
+[13:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14427ms or 288 ticks behind
+[13:55:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18709ms or 374 ticks behind
+[13:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13391ms or 267 ticks behind
+[13:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11579ms or 231 ticks behind
+[13:56:41] [Server thread/INFO]: [Server] .. heyy ?g er ad p?la ? ad restarta.
+[13:56:45] [Server thread/INFO]: <Fibblifubb> ok
+[13:56:48] [Server thread/INFO]: <RuKlo> aight
+[13:56:50] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[13:56:50] [Server thread/INFO]: Fibblifubb left the game
+[13:56:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:56:55] [Server thread/INFO]: <--[HERE]
+[13:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4755ms or 95 ticks behind
+[13:57:00] [Server thread/INFO]: Stopping the server
+[13:57:01] [Server thread/INFO]: Stopping server
+[13:57:01] [Server thread/INFO]: Saving players
+[13:57:01] [Server thread/INFO]: RuKlo lost connection: Internal Exception: java.lang.StackOverflowError
+[13:57:01] [Server thread/INFO]: RuKlo left the game
+[13:57:01] [Server thread/INFO]: Kallakalli lost connection: Internal Exception: java.lang.StackOverflowError
+[13:57:01] [Server thread/INFO]: Kallakalli left the game
+[13:57:01] [Server thread/INFO]: Saving worlds
+[13:57:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:57:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:57:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:57:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:57:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:57:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,73 +1,1345 @@
-[18:26:49] [main/INFO]: Loading for game Minecraft 1.16.4
-[18:26:49] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+[09:33:09] [main/INFO]: Loading for game Minecraft 1.16.4
+[09:33:10] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
 - Unsupported root entry "$schema" at line 2 column 14
-[18:26:50] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
-[18:26:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[18:26:59] [main/INFO]: [VanillaEnhanced] Hello there.
-[18:27:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:27:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:02] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
-[18:27:04] [Worker-Main-5/INFO]: Loaded 7 recipes
-[18:27:04] [Worker-Main-5/INFO]: Loaded 927 advancements
-[18:27:05] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 2.121 ms
-[18:27:05] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[18:27:05] [Server thread/INFO]: Loading properties
-[18:27:05] [Server thread/INFO]: Default game type: SURVIVAL
-[18:27:05] [Server thread/INFO]: Generating keypair
-[18:27:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:27:05] [Server thread/INFO]: Using default channel type
-[18:27:06] [Server thread/INFO]: Preparing level "world"
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
-[18:27:06] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
-[18:27:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:27:08] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:08] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:08] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:09] [Server thread/INFO]: Preparing spawn area: 32%
-[18:27:09] [Server thread/INFO]: Time elapsed: 2577 ms
-[18:27:09] [Server thread/INFO]: Done (3.005s)! For help, type "help"
-[18:31:35] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[18:31:35] [Server thread/INFO]: A11y_UwU[/127.0.0.1:64498] logged in with entity id 110 at (-467.179649455775, 11.0, 354.30000001192093)
-[18:31:36] [Server thread/INFO]: A11y_UwU joined the game
-[18:31:36] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
-[18:37:13] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[18:37:13] [Server thread/INFO]: A11y_UwU left the game
-[18:38:47] [Server thread/INFO]: Stopping the server
-[18:38:47] [Server thread/INFO]: Stopping server
-[18:38:47] [Server thread/INFO]: Saving players
-[18:38:47] [Server thread/INFO]: Saving worlds
-[18:38:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:38:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:38:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:38:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:38:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:38:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:38:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:38:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:38:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:33:10] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[09:33:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[09:33:19] [main/INFO]: [VanillaEnhanced] Hello there.
+[09:33:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:33:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:33:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:33:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:33:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:33:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:33:22] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[09:33:23] [Worker-Main-4/INFO]: Loaded 7 recipes
+[09:33:23] [Worker-Main-4/INFO]: Loaded 927 advancements
+[09:33:24] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 2.337 ms
+[09:33:24] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[09:33:24] [Server thread/INFO]: Loading properties
+[09:33:24] [Server thread/INFO]: Default game type: SURVIVAL
+[09:33:24] [Server thread/INFO]: Generating keypair
+[09:33:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:33:25] [Server thread/INFO]: Using default channel type
+[09:33:30] [Server thread/INFO]: Preparing level "world"
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
+[09:33:30] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[09:33:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:33:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:33:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:33:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:33:32] [Server thread/INFO]: Preparing spawn area: 0%
+[09:33:33] [Server thread/INFO]: Time elapsed: 2185 ms
+[09:33:33] [Server thread/INFO]: Done (2.699s)! For help, type "help"
+[10:05:15] [User Authenticator #1/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[10:05:15] [Server thread/INFO]: _Velmca[/194.105.229.73:42816] logged in with entity id 110 at (249.32049543586112, 66.0, -20.586643155774638)
+[10:05:15] [Server thread/INFO]: _Velmca joined the game
+[10:20:14] [Server thread/INFO]: _Velmca has made the advancement [Hot Stuff]
+[10:30:03] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[10:30:03] [Server thread/INFO]: _Velmca left the game
+[11:57:06] [User Authenticator #2/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[11:57:06] [Server thread/INFO]: RuKlo[/157.157.141.64:59558] logged in with entity id 3212 at (1596.0645239844691, 66.0, 1155.0345030650576)
+[11:57:06] [Server thread/INFO]: RuKlo joined the game
+[11:57:15] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[11:57:15] [Server thread/INFO]: RuKlo left the game
+[13:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4858057ms or 97161 ticks behind
+[13:20:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:20:13] [Server thread/INFO]: sdsad<--[HERE]
+[13:22:17] [User Authenticator #3/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[13:22:17] [Server thread/INFO]: RuKlo[/157.157.141.64:60184] logged in with entity id 3367 at (1586.7632307179338, 68.0, 1155.201380354938)
+[13:22:17] [Server thread/INFO]: RuKlo joined the game
+[13:23:44] [User Authenticator #4/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[13:23:44] [Server thread/INFO]: endertad[/89.160.244.218:54126] logged in with entity id 3653 at (-223.29941436635085, 83.0, 613.7579940405889)
+[13:23:44] [Server thread/INFO]: endertad joined the game
+[13:23:47] [Server thread/INFO]: <RuKlo> halo
+[13:25:43] [Server thread/INFO]: RuKlo has made the advancement [We Need to Go Deeper]
+[13:26:37] [Server thread/INFO]: <endertad> hæ
+[13:32:42] [Server thread/INFO]: <RuKlo> getur þú farið að sofa?
+[13:33:05] [Server thread/INFO]: <RuKlo> takk :D
+[13:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[13:46:36] [User Authenticator #5/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[13:46:36] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:50148] logged in with entity id 9400 at (-472.8785431512328, 71.0, 304.0074457173866)
+[13:46:36] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[13:46:40] [Server thread/INFO]: <RuKlo> eyyooo
+[13:47:16] [Server thread/INFO]: <_RedHeroGamer_> vc?
+[13:51:32] [Server thread/INFO]: RuKlo was blown up by Creeper
+[13:51:34] [Server thread/WARN]: RuKlo moved too quickly! 2018.6200469433368,3.0,514.8000000119209
+[13:51:38] [Server thread/INFO]: <endertad> f
+[13:51:41] [Server thread/INFO]: <_RedHeroGamer_> F
+[13:56:45] [User Authenticator #6/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
+[13:56:45] [Server thread/INFO]: Kallakalli[/89.160.244.150:50507] logged in with entity id 14843 at (-188.92357915750986, 64.0, 824.8622512646382)
+[13:56:45] [Server thread/INFO]: Kallakalli joined the game
+[14:02:21] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[14:02:21] [Server thread/INFO]: RuKlo left the game
+[14:07:12] [Server thread/INFO]: endertad was burnt to a crisp whilst fighting Blaze
+[14:07:19] [Server thread/INFO]: <_RedHeroGamer_> F
+[14:14:03] [Server thread/INFO]: endertad was slain by Blaze
+[14:14:15] [Server thread/INFO]: endertad lost connection: Disconnected
+[14:14:15] [Server thread/INFO]: endertad left the game
+[14:14:44] [User Authenticator #7/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[14:14:44] [Server thread/INFO]: RuKlo[/157.157.141.64:57689] logged in with entity id 22803 at (-415.1130731975391, 34.0, 636.0603334874997)
+[14:14:44] [Server thread/INFO]: RuKlo joined the game
+[14:16:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@141def4d[id=<null>,name=_Velmca,properties={},legacy=false] (/31.209.159.67:58268) lost connection: Disconnected
+[14:17:00] [User Authenticator #8/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[14:17:00] [Server thread/INFO]: _Velmca[/31.209.159.67:58280] logged in with entity id 23479 at (47.30000001192093, 70.0, -8.261031142575273)
+[14:17:00] [Server thread/INFO]: _Velmca joined the game
+[14:17:12] [Server thread/INFO]: <_Velmca> hæ
+[14:17:16] [Server thread/INFO]: <Kallakalli> nei
+[14:17:18] [Server thread/INFO]: <RuKlo> blessuð
+[14:17:20] [User Authenticator #9/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[14:17:20] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:53733] logged in with entity id 24008 at (-61.45298012482664, 70.0, -5.573031449859027)
+[14:17:20] [Server thread/INFO]: SKAF_PathFinder joined the game
+[14:17:21] [Server thread/INFO]: <_RedHeroGamer_> Hola
+[14:17:27] [Server thread/INFO]: <SKAF_PathFinder> Hello
+[14:19:00] [Server thread/INFO]: Kallakalli has completed the challenge [Return to Sender]
+[14:19:03] [Server thread/INFO]: <_Velmca> woe
+[14:20:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:20:00] [Server thread/INFO]: s<--[HERE]
+[14:23:15] [Server thread/INFO]: Kallakalli has made the advancement [Enchanter]
+[14:25:52] [Server thread/INFO]: <RuKlo> sofa?
+[14:25:57] [Server thread/INFO]: <_Velmca> eftir sma
+[14:26:20] [Server thread/WARN]: Kallakalli moved wrongly!
+[14:36:30] [Server thread/INFO]: Kallakalli lost connection: Disconnected
+[14:36:30] [Server thread/INFO]: Kallakalli left the game
+[14:37:38] [Server thread/INFO]: _RedHeroGamer_ was killed by [Intentional Game Design]
+[14:37:42] [Server thread/INFO]: <_Velmca> ?
+[14:37:43] [Server thread/INFO]: <RuKlo> vel gert :D
+[14:38:44] [Server thread/INFO]: <_Velmca> hvað eru þið að gera?
+[14:38:51] [Server thread/INFO]: <_RedHeroGamer_> vibin
+[14:38:54] [Server thread/INFO]: <RuKlo> farma quartz
+[14:38:58] [Server thread/INFO]: <_Velmca> woe
+[14:41:12] [Server thread/INFO]: RuKlo has completed the challenge [Return to Sender]
+[14:48:09] [Server thread/INFO]: RuKlo has made the advancement [Those Were the Days]
+[14:48:49] [Server thread/INFO]: <SKAF_PathFinder> WHERE IS THE PORTAL???
+[14:49:27] [Server thread/WARN]: _Velmca moved too quickly! -0.001419135324901788,0.001335979112141672,-10.331652410992817
+[14:51:57] [Server thread/INFO]: _Velmca has made the advancement [Those Were the Days]
+[14:57:15] [Server thread/INFO]: RuKlo was slain by Zombified Piglin
+[14:57:42] [Server thread/INFO]: [Server] F
+[15:00:09] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
+[15:00:09] [Server thread/INFO]: _RedHeroGamer_ left the game
+[15:05:01] [User Authenticator #10/INFO]: UUID of player Fez05 is f5747f38-226a-4f0c-a400-a33ceb0c8477
+[15:05:01] [Server thread/INFO]: Fez05[/194.144.190.143:61047] logged in with entity id 50573 at (-224.7682258748148, 83.0, 614.7867648570688)
+[15:05:01] [Server thread/INFO]: Fez05 joined the game
+[15:05:09] [Server thread/INFO]: <RuKlo> HALO
+[15:05:11] [Server thread/INFO]: <RuKlo> sorry caps
+[15:05:14] [Server thread/INFO]: <Fez05> hallo
+[15:07:45] [Server thread/INFO]: Fez05 fell from a high place
+[15:07:46] [Server thread/INFO]: RuKlo has completed the challenge [Hot Tourist Destinations]
+[15:07:56] [Server thread/INFO]: <RuKlo> heitur túristi?
+[15:15:17] [Server thread/INFO]: <Fez05> yo
+[15:15:21] [Server thread/INFO]: <SKAF_PathFinder> yo
+[15:15:24] [Server thread/INFO]: <RuKlo> halo
+[15:16:19] [Server thread/INFO]: RuKlo has made the advancement [Enchanter]
+[15:16:21] [Server thread/INFO]: <SKAF_PathFinder> Emil
+[15:16:25] [Server thread/INFO]: <SKAF_PathFinder> Come
+[15:16:36] [Server thread/INFO]: <Fez05> yo
+[15:16:39] [Server thread/INFO]: <SKAF_PathFinder> Listen to my favorite
+[15:17:08] [Server thread/INFO]: <Fez05> oooohhhh nice
+[15:17:27] [Server thread/INFO]: <Fez05> like classical kinda
+[15:17:31] [Server thread/INFO]: <SKAF_PathFinder> Yep
+[15:17:36] [Server thread/INFO]: <Fez05> nice
+[15:18:35] [Server thread/INFO]: <Fez05> can you repair inchanted stuff
+[15:18:43] [Server thread/INFO]: <RuKlo> yes
+[15:18:46] [Server thread/INFO]: <RuKlo> í anvil
+[15:18:46] [Server thread/INFO]: <SKAF_PathFinder> Yeah? Why?
+[15:18:51] [Server thread/INFO]: <Fez05> idk
+[15:18:54] [Server thread/INFO]: <RuKlo> en það er best að reyna að finna mending
+[15:18:54] [Server thread/INFO]: <Fez05> forgot
+[15:19:01] [Server thread/INFO]: <Fez05> ja
+[15:19:24] [Server thread/INFO]: [Server] if anyone gets a mending villager... yes
+[15:19:34] [Server thread/INFO]: <RuKlo> yes það er mjög létt
+[15:19:42] [Server thread/INFO]: <SKAF_PathFinder> Or an mending book from enchanting
+[15:19:47] [Server thread/INFO]: [Server] idk.. but if ya dont let me use em ill steal em
+[15:19:53] [Server thread/INFO]: <RuKlo> ...
+[15:20:12] [Server thread/INFO]: <SKAF_PathFinder> A11y
+[15:20:15] [Server thread/INFO]: [Server] ye
+[15:20:31] [Server thread/INFO]: <SKAF_PathFinder> Isnt one of the rules: Do not steal
+[15:20:36] [Server thread/INFO]: <RuKlo> ja hmmm
+[15:20:38] [Server thread/INFO]: <RuKlo> dont steal
+[15:20:40] [Server thread/INFO]: [Server] yes.. dont quetion it
+[15:20:49] [Server thread/INFO]: [Server] and no i woulnt actually do it
+[15:20:53] [Server thread/INFO]: <RuKlo> ...
+[15:21:05] [Server thread/INFO]: [Server] and no i can not sell
+[15:22:44] [Server thread/INFO]: <Fez05> can someone tell endertad that i fixed the path at the house?
+[15:22:53] [Server thread/INFO]: <Fez05> and made it bigger
+[15:25:47] [Server thread/INFO]: <Fez05> wtf is that
+[15:25:51] [Server thread/INFO]: <SKAF_PathFinder> ?
+[15:25:59] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[15:25:59] [Server thread/INFO]: RuKlo left the game
+[15:26:00] [Server thread/INFO]: <Fez05> the music disk or smth
+[15:26:12] [Server thread/INFO]: <Fez05> ye that
+[15:26:18] [Server thread/INFO]: <SKAF_PathFinder> One of my discs
+[15:26:20] [Server thread/INFO]: <_Velmca> w
+[15:26:21] [Server thread/INFO]: <SKAF_PathFinder> Like it?
+[15:26:28] [Server thread/INFO]: <Fez05> that's weird as bruv
+[15:26:40] [Server thread/INFO]: <SKAF_PathFinder> It is called: 11
+[15:27:39] [Server thread/INFO]: <Fez05> look up
+[15:28:12] [Server thread/INFO]: <Fez05> go top floor and look up
+[15:28:46] [Server thread/INFO]: <SKAF_PathFinder> hallo
+[15:28:49] [Server thread/INFO]: <Fez05> hallo
+[15:28:53] [Server thread/INFO]: <Fez05> i make tree house
+[15:28:59] [Server thread/INFO]: <SKAF_PathFinder> Your new base?
+[15:29:05] [Server thread/INFO]: <Fez05> idk
+[15:29:07] [Server thread/INFO]: <Fez05> maybe
+[15:30:21] [User Authenticator #11/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[15:30:21] [Server thread/INFO]: RuKlo[/157.157.141.64:56580] logged in with entity id 59011 at (1598.5888973808153, 68.0, 1152.0221454865066)
+[15:30:21] [Server thread/INFO]: RuKlo joined the game
+[15:31:46] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[15:31:46] [Server thread/INFO]: _Velmca left the game
+[15:32:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-242, y=101, z=624} class_2338{x=-241, y=101, z=624}
+[15:32:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-242, y=101, z=624} class_2338{x=-241, y=101, z=624}
+[15:32:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-240, y=102, z=625} class_2338{x=-241, y=102, z=623}
+[15:32:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-240, y=102, z=625} class_2338{x=-242, y=102, z=623}
+[15:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-236, y=104, z=628} class_2338{x=-237, y=104, z=629}
+[15:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-236, y=104, z=628} class_2338{x=-237, y=104, z=629}
+[15:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-236, y=104, z=628} class_2338{x=-237, y=104, z=629}
+[15:32:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-236, y=104, z=628} class_2338{x=-237, y=104, z=629}
+[15:32:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-238, y=113, z=624}
+[15:32:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-238, y=113, z=624}
+[15:32:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-238, y=113, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-237, y=110, z=623} class_2338{x=-241, y=114, z=624}
+[15:33:08] [User Authenticator #12/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[15:33:08] [Server thread/INFO]: endertad[/89.160.244.218:59817] logged in with entity id 60274 at (150.75360781119716, 70.0, -17.231232738735727)
+[15:33:08] [Server thread/INFO]: endertad joined the game
+[15:34:26] [Server thread/WARN]: RuKlo moved too quickly! -10.206605765400013,0.0,0.004922638623867215
+[15:35:47] [Server thread/INFO]: <Fez05> axel come here
+[15:38:58] [Server thread/INFO]: <endertad> yo
+[15:39:00] [Server thread/INFO]: <Fez05> yo
+[15:39:05] [Server thread/INFO]: <RuKlo> halo
+[15:39:08] [Server thread/INFO]: <Fez05> i make tre house
+[15:39:12] [Server thread/INFO]: <endertad> ok
+[15:39:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-239, y=101, z=610} class_2338{x=-240, y=103, z=614}
+[15:39:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-239, y=101, z=610} class_2338{x=-240, y=103, z=614}
+[15:39:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-239, y=101, z=610} class_2338{x=-240, y=103, z=614}
+[15:39:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-239, y=101, z=610} class_2338{x=-240, y=103, z=614}
+[15:39:27] [Server thread/WARN]: RuKlo moved too quickly! 10.357582586538797,0.20000004768371582,0.18482030557706253
+[15:39:37] [User Authenticator #13/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
+[15:39:37] [Server thread/INFO]: Kallakalli[/89.160.244.150:51283] logged in with entity id 63503 at (-244.95720790186556, 72.0, 662.3000000119209)
+[15:39:37] [Server thread/INFO]: Kallakalli joined the game
+[15:39:39] [Server thread/INFO]: <RuKlo> halo!
+[15:39:51] [Server thread/INFO]: <Kallakalli> allo
+[15:40:00] [Server thread/INFO]: <Fez05> hallo mc'óskar
+[15:40:06] [Server thread/INFO]: <RuKlo> mc skvísukarl
+[15:41:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-249, y=114, z=608} class_2338{x=-255, y=116, z=608}
+[15:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-253, y=114, z=606} class_2338{x=-252, y=114, z=606}
+[15:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-253, y=114, z=606} class_2338{x=-252, y=114, z=606}
+[15:42:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-253, y=114, z=606} class_2338{x=-252, y=114, z=606}
+[15:43:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=110, z=609} class_2338{x=-258, y=111, z=610}
+[15:43:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=110, z=609} class_2338{x=-258, y=111, z=610}
+[15:43:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=110, z=609} class_2338{x=-258, y=111, z=610}
+[15:43:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-258, y=110, z=609} class_2338{x=-258, y=111, z=610}
+[15:46:26] [Server thread/INFO]: <endertad> ja
+[15:47:08] [Server thread/INFO]: <Fez05> axel getur þú tekið upp lauf sem detta niður
+[15:52:44] [Server thread/INFO]: <RuKlo> 209 154
+[15:55:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15:56:17] [User Authenticator #14/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[15:56:17] [Server thread/INFO]: Fibblifubb[/89.160.200.16:54710] logged in with entity id 70620 at (-435.02417687504857, 80.0, 334.3176313085473)
+[15:56:17] [Server thread/INFO]: Fibblifubb joined the game
+[15:56:20] [Server thread/INFO]: <RuKlo> halo
+[15:56:24] [Server thread/INFO]: <RuKlo> vc?
+[15:56:27] [Server thread/INFO]: <Fibblifubb> hej
+[15:56:30] [Server thread/INFO]: <endertad> yo come to among vc
+[15:56:34] [Server thread/INFO]: <RuKlo> ja
+[15:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:57:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Soul Soil'/71501, l='ServerLevel[world]', x=-8.86, y=76.00, z=154.88]
+[15:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16:00:33] [Server thread/INFO]: <Fez05> what are yall thougts on the tree house so far?
+[16:00:43] [Server thread/INFO]: <RuKlo> hef ekki séð það sorry
+[16:00:44] [Server thread/INFO]: Fibblifubb burned to death
+[16:00:46] [Server thread/INFO]: <endertad> :like:
+[16:01:50] [Server thread/INFO]: Fibblifubb tried to swim in lava
+[16:02:01] [Server thread/INFO]: Kallakalli was slain by Hoglin
+[16:02:18] [Server thread/INFO]: Fibblifubb was slain by Hoglin
+[16:02:38] [Server thread/INFO]: <Fez05> you good bronk?
+[16:02:42] [Server thread/INFO]: <Fibblifubb> ye
+[16:02:47] [Server thread/INFO]: <Fez05> k
+[16:03:09] [Server thread/INFO]: Fibblifubb was shot by Piglin
+[16:04:04] [Server thread/INFO]: Fibblifubb was shot by Piglin
+[16:04:33] [Server thread/WARN]: RuKlo moved too quickly! 2.6760713466546804,1.044812420399012,9.83971016893338
+[16:09:55] [Server thread/INFO]: Fez05 fell from a high place
+[16:13:28] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/83094, l='ServerLevel[world]', x=-416.54, y=35.02, z=635.30]
+[16:13:41] [Server thread/INFO]: Fibblifubb was slain by Hoglin
+[16:13:44] [Server thread/INFO]: <RuKlo> :D
+[16:14:04] [Server thread/INFO]: Fibblifubb was slain by Hoglin
+[16:14:21] [Server thread/INFO]: Fibblifubb was slain by Hoglin
+[16:16:06] [Server thread/INFO]: <RuKlo> sofa?
+[16:16:14] [Server thread/INFO]: <SKAF_PathFinder> Sofa? no
+[16:16:18] [Server thread/INFO]: <RuKlo> sofa? yes
+[16:16:28] [Server thread/INFO]: <SKAF_PathFinder> I can't
+[16:16:39] [Server thread/INFO]: <SKAF_PathFinder> Im far from any bed
+[16:16:47] [Server thread/INFO]: <RuKlo> það er dagur :D
+[16:16:47] [Server thread/INFO]: Kallakalli lost connection: Disconnected
+[16:16:47] [Server thread/INFO]: Kallakalli left the game
+[16:19:57] [Server thread/INFO]: <endertad> 208 154
+[16:20:04] [Server thread/INFO]: <RuKlo> 67
+[16:20:08] [Server thread/INFO]: <endertad> 209 67 154
+[16:24:32] [Server thread/WARN]: Fez05 moved too quickly! -0.051204008269991164,-10.250378863417993,-0.6298573952291235
+[16:24:33] [Server thread/INFO]: Fez05 fell from a high place
+[16:29:54] [User Authenticator #15/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:29:54] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62741] logged in with entity id 91997 at (-485.4346543096845, 75.0, 301.4051874775257)
+[16:29:54] [Server thread/INFO]: A11y_UwU joined the game
+[16:29:55] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[16:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:30:35] [Server thread/INFO]: RuKlo was blown up by Creeper
+[16:30:36] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:31:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93660, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[16:35:49] [Server thread/INFO]: RuKlo was slain by Zombie
+[16:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[16:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[16:37:04] [Server thread/INFO]: Made A11y_UwU a server operator
+[16:37:09] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[16:37:51] [Server thread/INFO]: [A11y_UwU: Teleported A11y_UwU to -519.5972546820425, 100.23047151029368, 2000307.3327341124]
+[16:37:51] [Server thread/WARN]: A11y_UwU moved too quickly! 0.0,0.0,2000000.0
+[16:37:51] [Server thread/WARN]: A11y_UwU moved too quickly! 0.0,0.0,2000000.0
+[16:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[16:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5372ms or 107 ticks behind
+[16:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3960ms or 79 ticks behind
+[16:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[16:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[16:39:38] [Server thread/INFO]: endertad lost connection: Disconnected
+[16:39:38] [Server thread/INFO]: endertad left the game
+[16:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4043ms or 80 ticks behind
+[16:40:03] [Server thread/WARN]: Fibblifubb moved too quickly! -5.91348808717504,-2.121296840539202,7.9920114207531014
+[16:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5436ms or 108 ticks behind
+[16:41:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/102429, l='ServerLevel[world]', x=-1769.15, y=67.00, z=-449.56]
+[16:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[16:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[16:43:45] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[16:43:45] [Server thread/INFO]: Fibblifubb left the game
+[16:45:15] [Server thread/WARN]: RuKlo moved too quickly! -8.176190907663113,0.9755759117863079,-5.926292425070869
+[16:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
+[16:45:17] [Server thread/WARN]: A11y_UwU moved too quickly! -3.429155813233592,0.0,-9.535740724997595
+[16:45:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
+[16:47:15] [Server thread/INFO]: Fez05 fell from a high place
+[16:47:21] [Server thread/INFO]: Fez05 lost connection: Disconnected
+[16:47:21] [Server thread/INFO]: Fez05 left the game
+[16:47:22] [Server thread/INFO]: <A11y_UwU> f
+[16:47:58] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[16:47:58] [Server thread/INFO]: RuKlo left the game
+[16:49:29] [Server thread/INFO]: <SKAF_PathFinder> Bye, gonna go
+[16:49:31] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[16:49:31] [Server thread/INFO]: SKAF_PathFinder left the game
+[16:53:42] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[16:53:42] [Server thread/INFO]: A11y_UwU left the game
+[17:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[17:48:13] [User Authenticator #16/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[17:48:13] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:54525] logged in with entity id 106682 at (-246.51243775219837, 71.0, 664.9526047846066)
+[17:48:13] [Server thread/INFO]: SKAF_PathFinder joined the game
+[17:48:29] [Server thread/INFO]: [Server] hi
+[17:48:40] [Server thread/INFO]: <SKAF_PathFinder> Hallo
+[18:01:52] [User Authenticator #17/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[18:01:52] [Server thread/INFO]: endertad[/89.160.244.218:53319] logged in with entity id 108514 at (-238.46912637499963, 111.0, 604.1855322303301)
+[18:01:52] [Server thread/INFO]: endertad joined the game
+[18:02:40] [Server thread/INFO]: endertad fell from a high place
+[18:02:46] [Server thread/INFO]: <SKAF_PathFinder> F
+[18:04:02] [User Authenticator #18/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
+[18:04:02] [Server thread/INFO]: Kallakalli[/89.160.244.150:51437] logged in with entity id 109007 at (-192.48141226760632, 64.875, 820.2904208745551)
+[18:04:02] [Server thread/INFO]: Kallakalli joined the game
+[18:04:58] [Server thread/WARN]: Trying to add entity with duplicated UUID 79f665cc-7930-42b1-b565-3369f20e3fe1. Existing minecraft:armor_stand#109264, new: minecraft:armor_stand#109264
+[18:11:20] [Server thread/INFO]: endertad has made the advancement [Local Brewery]
+[18:40:03] [Server thread/INFO]: endertad lost connection: Disconnected
+[18:40:03] [Server thread/INFO]: endertad left the game
+[18:48:22] [User Authenticator #19/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[18:48:22] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54874] logged in with entity id 120563 at (-520.9540488609944, 100.37429331309657, 2000521.1194292293)
+[18:48:22] [Server thread/INFO]: A11y_UwU joined the game
+[18:48:23] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[18:48:59] [Server thread/INFO]: [A11y_UwU: Teleported A11y_UwU to -459.5, 70.0, 320.5]
+[18:48:59] [Server thread/WARN]: A11y_UwU moved too quickly! 57.159675369218235,-28.12969744885052,-2000201.6054851706
+[18:48:59] [Server thread/WARN]: A11y_UwU moved too quickly! 57.159675369218235,-28.12969744885052,-2000201.6054851706
+[18:48:59] [Server thread/WARN]: A11y_UwU moved too quickly! 57.159675369218235,-28.12969744885052,-2000201.6054851706
+[18:49:07] [Server thread/INFO]: [A11y_UwU: Set own game mode to Spectator Mode]
+[18:49:09] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[18:49:16] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[18:49:22] [Server thread/INFO]: [A11y_UwU: Made A11y_UwU no longer a server operator]
+[19:01:31] [Server thread/INFO]: <A11y_UwU> brb
+[19:01:32] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:01:32] [Server thread/INFO]: A11y_UwU left the game
+[19:01:41] [Server thread/INFO]: <SKAF_PathFinder> bye then
+[19:04:21] [User Authenticator #20/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:04:21] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55893] logged in with entity id 127124 at (-458.30000001192093, 73.0, 320.37227946943267)
+[19:04:21] [Server thread/INFO]: A11y_UwU joined the game
+[19:04:22] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:14:30] [Server thread/INFO]: A11y_UwU was slain by Piglin
+[19:14:34] [Server thread/INFO]: <SKAF_PathFinder> F
+[19:14:38] [Server thread/INFO]: <A11y_UwU> uggh
+[19:14:43] [Server thread/INFO]: <SKAF_PathFinder> XP?
+[19:14:53] [Server thread/INFO]: <A11y_UwU> dont care about it
+[19:15:13] [Server thread/INFO]: <SKAF_PathFinder> Well, you are lucky then
+[19:25:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135566, l='ServerLevel[world]', x=-461.28, y=76.00, z=287.22]
+[19:31:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138136, l='ServerLevel[world]', x=-461.61, y=76.00, z=286.83]
+[19:34:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139309, l='ServerLevel[world]', x=-461.23, y=76.00, z=288.17]
+[19:37:39] [User Authenticator #21/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[19:37:39] [Server thread/INFO]: endertad[/89.160.244.218:56326] logged in with entity id 140659 at (-190.69999998807907, 74.0, -49.31202336228766)
+[19:37:40] [Server thread/INFO]: endertad joined the game
+[19:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[19:41:50] [Server thread/INFO]: A11y_UwU has made the advancement [What a Deal!]
+[19:43:13] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:43:13] [Server thread/INFO]: A11y_UwU left the game
+[19:43:17] [User Authenticator #22/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:43:17] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58237] logged in with entity id 143845 at (-460.2317772251027, 72.0, 348.63253272883514)
+[19:43:17] [Server thread/INFO]: A11y_UwU joined the game
+[19:43:19] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:43:19] [Server thread/INFO]: endertad was shot by Skeleton
+[19:43:25] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:43:25] [Server thread/INFO]: A11y_UwU left the game
+[19:43:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144008, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.22]
+[19:43:28] [User Authenticator #23/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:43:28] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58257] logged in with entity id 144016 at (-458.30000001192093, 72.0, 347.6238225627746)
+[19:43:28] [Server thread/INFO]: A11y_UwU joined the game
+[19:43:29] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:43:39] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:43:39] [Server thread/INFO]: A11y_UwU left the game
+[19:45:50] [Server thread/INFO]: endertad was slain by Hoglin
+[19:46:39] [User Authenticator #24/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[19:46:39] [Server thread/INFO]: RuKlo[/157.157.141.64:53782] logged in with entity id 145506 at (2021.1635450963836, 76.0, 1386.562256282862)
+[19:46:39] [Server thread/INFO]: RuKlo joined the game
+[19:47:00] [Server thread/INFO]: <RuKlo> sofa?
+[19:47:04] [Server thread/INFO]: <SKAF_PathFinder> Sofi
+[19:47:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/146087, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[19:48:10] [Server thread/INFO]: <RuKlo> er það nei
+[19:48:24] [Server thread/INFO]: endertad was slain by Hoglin
+[19:48:42] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[19:48:42] [Server thread/INFO]: SKAF_PathFinder left the game
+[19:49:41] [Server thread/INFO]: <RuKlo> ma eg sofa?
+[19:50:28] [Server thread/INFO]: endertad tried to swim in lava to escape Hoglin
+[19:52:46] [Server thread/INFO]: endertad was slain by Hoglin
+[19:55:37] [User Authenticator #25/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:55:37] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58987] logged in with entity id 150008 at (-460.3577414579913, 72.0, 348.1798670523422)
+[19:55:37] [Server thread/INFO]: A11y_UwU joined the game
+[19:55:38] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:55:43] [Server thread/INFO]: <RuKlo> halo
+[19:56:00] [User Authenticator #26/INFO]: UUID of player Fez05 is f5747f38-226a-4f0c-a400-a33ceb0c8477
+[19:56:00] [Server thread/INFO]: Fez05[/194.144.190.143:63056] logged in with entity id 150374 at (-231.70242448513534, 84.0, 610.5520527509318)
+[19:56:00] [Server thread/INFO]: Fez05 joined the game
+[19:59:12] [Server thread/INFO]: <RuKlo> einhver með blaze powder sem ég má fá?
+[19:59:18] [Server thread/INFO]: <endertad> var með
+[19:59:28] [Server thread/INFO]: <RuKlo> :/ takk samt
+[19:59:47] [Server thread/INFO]: <endertad> geirjon er með
+[19:59:55] [Server thread/INFO]: <RuKlo> hann er ekki online
+[20:00:24] [Server thread/INFO]: <Kallakalli> komdu í vc
+[20:00:25] [Server thread/INFO]: <endertad> er i call með honum þu mat fa en ekki öll
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: +----------------------------+-------+---------+--------------------------+<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Material List for schematic 'big ass nether tree farm' (1 of 1 regions) |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: +----------------------------+-------+---------+--------------------------+<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Item                       | Total | Missing |                Available |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: +----------------------------+-------+---------+--------------------------+<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | White Concrete             |   678 |     678 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Glass                      |   450 |     450 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Redstone Dust              |   130 |     130 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Water Bucket               |   120 |     120 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Hopper                     |    62 |      62 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Piston                     |    60 |      60 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Chest                      |    54 |      54 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Smooth Quartz Stairs       |    28 |      28 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Smooth Stone Slab          |    26 |      26 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Redstone Repeater          |    19 |      19 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Glass Pane                 |    17 |      17 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Slime Block                |    12 |      12 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Composter                  |     8 |       8 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Redstone Comparator        |     8 |       8 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Stone                      |     8 |       8 |                        1 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Red Sandstone Wall         |     7 |       7 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Redstone Torch             |     7 |       7 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Sticky Piston              |     7 |       7 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Observer                   |     6 |       6 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Polished Blackstone Button |     6 |       6 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Dirt                       |     5 |       5 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Black Glazed Terracotta    |     4 |       4 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Packed Ice                 |     4 |       4 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Scaffolding                |     4 |       4 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Crimson Sign               |     3 |       3 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Dispenser                  |     3 |       3 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Cake                       |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Dead Horn Coral Fan        |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Detector Rail              |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Lever                      |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Soul Sand                  |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | TNT                        |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Target                     |     2 |       2 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Dropper                    |     1 |       1 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Ender Chest                |     1 |       1 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Lava Bucket                |     1 |       1 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Netherrack                 |     1 |       1 |                        1 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Warped Nylium              |     1 |       1 |                        0 |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: +----------------------------+-------+---------+--------------------------+<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: | Item                       | Total | Missing |                Available |<--[HERE]
+[20:00:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:00:55] [Server thread/INFO]: +----------------------------+-------+---------+--------------------------+<--[HERE]
+[20:06:57] [Server thread/INFO]: ImHorny[local] logged in with entity id 156214 at (-453.54079893937154, 73.0, 342.57618273327495)
+[20:07:14] [Server thread/INFO]: ImHorny joined the game
+[20:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17806ms or 356 ticks behind
+[20:07:15] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:07:15] [Server thread/INFO]: A11y_UwU left the game
+[20:07:15] [Server thread/WARN]: RuKlo moved too quickly! -9.560887773341506,0.010650014126028395,3.8362748929023383
+[20:07:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:07:18] [Server thread/INFO]: ssdsa<--[HERE]
+[20:07:23] [User Authenticator #27/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:07:23] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59695] logged in with entity id 156305 at (-453.54079893937154, 73.0, 342.57618273327495)
+[20:07:23] [Server thread/INFO]: A11y_UwU joined the game
+[20:07:24] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:07:32] [Server thread/INFO]: ImHorny has made the advancement [Stone Age]
+[20:07:41] [Server thread/INFO]: Fez05 fell from a high place
+[20:09:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/158531, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.79]
+[20:10:24] [Server thread/WARN]: Fez05 moved too quickly! 0.28921830782101665,7.5,-7.487692097201148
+[20:10:41] [Server thread/WARN]: Fez05 moved too quickly! 9.725397684317073,2.5,-0.12854794213501464
+[20:11:21] [Server thread/INFO]: RuKlo has made the advancement [Into Fire]
+[20:12:27] [Server thread/INFO]: Fez05 has made the advancement [Sweet Dreams]
+[20:15:14] [Server thread/INFO]: Kallakalli has made the advancement [Those Were the Days]
+[20:15:56] [Server thread/INFO]: Villager class_1646['Nitwit'/142137, l='ServerLevel[world]', x=-461.30, y=73.04, z=348.56] died, message: 'Nitwit drowned'
+[20:16:01] [Server thread/INFO]: RuKlo fell from a high place
+[20:17:01] [Server thread/INFO]: <endertad> f
+[20:22:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/165318, l='ServerLevel[world]', x=-461.83, y=76.00, z=286.83]
+[20:22:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/165318, l='ServerLevel[world]', x=-461.83, y=76.00, z=286.83]
+[20:23:45] [User Authenticator #28/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[20:23:45] [Server thread/INFO]: _Velmca[/31.209.159.67:60317] logged in with entity id 165826 at (220.79248950059278, 69.0, -30.300000011920936)
+[20:23:45] [Server thread/INFO]: _Velmca joined the game
+[20:28:12] [Server thread/INFO]: Fez05 fell from a high place
+[20:28:57] [User Authenticator #29/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[20:28:57] [Server thread/INFO]: Sminky52[/89.17.139.9:63781] logged in with entity id 169376 at (160.5, 71.0, -15.5)
+[20:28:57] [Server thread/INFO]: Sminky52 joined the game
+[20:29:36] [Server thread/WARN]: Sminky52 moved wrongly!
+[20:29:42] [Server thread/WARN]: Sminky52 moved wrongly!
+[20:30:11] [Server thread/INFO]: <_Velmca> blessaður
+[20:30:18] [Server thread/INFO]: <RuKlo> blelluð
+[20:30:18] [User Authenticator #30/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[20:30:19] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:56324] logged in with entity id 170318 at (-466.69999998807907, 72.0, 349.16865844837577)
+[20:30:19] [Server thread/INFO]: SKAF_PathFinder joined the game
+[20:30:22] [Server thread/INFO]: Sminky52 has made the advancement [Stone Age]
+[20:30:35] [Server thread/INFO]: <SKAF_PathFinder> Is the Villager all good now?
+[20:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
+[20:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
+[20:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20:31:38] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[20:31:38] [Server thread/INFO]: Sminky52 left the game
+[20:32:00] [Server thread/INFO]: RuKlo has made the advancement [War Pigs]
+[20:32:14] [Server thread/INFO]: RuKlo has made the advancement [Who is Cutting Onions?]
+[20:32:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/172065, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
+[20:32:57] [Server thread/INFO]: Kallakalli has made the advancement [War Pigs]
+[20:33:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/172713, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.67]
+[20:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[20:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:34:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:35:13] [Server thread/INFO]: A11y_UwU has made the advancement [Those Were the Days]
+[20:35:15] [Server thread/INFO]: Fez05 has made the advancement [Diamonds!]
+[20:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:36:01] [Server thread/WARN]: _Velmca moved too quickly! 0.0,-10.188594643186825,-0.29723484346351414
+[20:36:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3704ms or 74 ticks behind
+[20:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[20:36:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:37:02] [Server thread/INFO]: <SKAF_PathFinder> *Chuckles
+[20:37:07] [Server thread/INFO]: <SKAF_PathFinder> Im in danger
+[20:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[20:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4932ms or 98 ticks behind
+[20:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4155ms or 83 ticks behind
+[20:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[20:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[20:45:32] [User Authenticator #31/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[20:45:32] [Server thread/INFO]: Sminky52[/89.17.139.9:59093] logged in with entity id 181331 at (385.69999998807907, 77.0, -270.15181301647533)
+[20:45:32] [Server thread/INFO]: Sminky52 joined the game
+[20:45:39] [Server thread/INFO]: <_Velmca> blessaður
+[20:45:44] [Server thread/INFO]: Fez05 was shot by endertad
+[20:45:49] [Server thread/INFO]: <RuKlo> sminky!!
+[20:45:56] [Server thread/INFO]: <SKAF_PathFinder> F
+[20:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[20:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:46:35] [Server thread/WARN]: RuKlo moved too quickly! 10.144182512424209,0.0,0.0706524022972701
+[20:46:35] [Server thread/WARN]: Sminky52 moved too quickly! -8.305624279323467,-1.0,5.62380143020107
+[20:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[20:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[20:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[20:47:30] [Server thread/INFO]: <A11y_UwU> UwU
+[20:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20:47:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[20:49:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[20:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[20:51:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/186217, l='ServerLevel[world]', x=-461.74, y=76.00, z=287.23]
+[20:51:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/186217, l='ServerLevel[world]', x=-461.74, y=76.00, z=287.23]
+[20:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[20:51:25] [Server thread/INFO]: <SKAF_PathFinder> NONNI
+[20:51:31] [Server thread/INFO]: <SKAF_PathFinder> WHERE YO ASS AT??
+[20:51:38] [Server thread/INFO]: <RuKlo> :D rass
+[20:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[20:51:55] [Server thread/INFO]: <Sminky52> 470 280
+[20:52:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[20:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[20:53:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[20:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[20:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[20:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[20:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4049ms or 80 ticks behind
+[20:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:55:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:56:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[20:57:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[20:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9555ms or 191 ticks behind
+[20:57:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=831, y=64, z=946} class_2338{x=831, y=62, z=946}
+[20:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[20:58:07] [Server thread/INFO]: Kallakalli has made the advancement [Ol' Betsy]
+[20:58:13] [Server thread/INFO]: <RuKlo> :)
+[20:58:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[20:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[20:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[20:59:04] [Server thread/INFO]: <RuKlo> rúm?
+[20:59:08] [Server thread/INFO]: <_Velmca> get ekki
+[20:59:14] [Server thread/INFO]: <RuKlo> einhver annar?
+[20:59:18] [Server thread/INFO]: <SKAF_PathFinder> 3 wool and 3 oak
+[20:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6946ms or 138 ticks behind
+[20:59:21] [Server thread/INFO]: <RuKlo> ...
+[20:59:22] [Server thread/INFO]: <RuKlo> takk
+[20:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[21:00:02] [Server thread/INFO]: _Velmca has made the advancement [Not Today, Thank You]
+[21:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[21:00:33] [Server thread/INFO]: Kallakalli has made the advancement [Take Aim]
+[21:00:45] [Server thread/INFO]: SKAF_PathFinder has made the advancement [Ol' Betsy]
+[21:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:01:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4031ms or 80 ticks behind
+[21:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[21:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[21:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[21:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[21:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3476ms or 69 ticks behind
+[21:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[21:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[21:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[21:04:27] [Server thread/INFO]: <RuKlo> :D
+[21:04:29] [Server thread/INFO]: <SKAF_PathFinder> How many hearts?
+[21:04:36] [Server thread/INFO]: <RuKlo> 8.5
+[21:04:40] [Server thread/INFO]: <SKAF_PathFinder> YES
+[21:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6965ms or 139 ticks behind
+[21:04:46] [Server thread/INFO]: <SKAF_PathFinder> I DID SOMETHING
+[21:04:53] [Server thread/INFO]: <RuKlo> 17 þá
+[21:05:01] [Server thread/INFO]: <RuKlo> þú gerðir 3
+[21:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4957ms or 99 ticks behind
+[21:05:07] [Server thread/INFO]: <RuKlo> af 20
+[21:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[21:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[21:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[21:06:08] [Server thread/INFO]: <RuKlo> ja hvar er nether fortress aftur?
+[21:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[21:06:27] [Server thread/INFO]: <_Velmca> held það er inna discord
+[21:06:31] [Server thread/INFO]: <RuKlo> takk
+[21:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7298ms or 145 ticks behind
+[21:06:42] [Server thread/INFO]: <A11y_UwU> Nether Fortress -479 57 137
+[21:06:48] [Server thread/INFO]: <endertad> dwd
+[21:06:54] [Server thread/INFO]: <RuKlo> dwd?
+[21:06:56] [Server thread/WARN]: Kallakalli moved too quickly! 0.9981913892741261,-11.186365177617233,1.215205152720614
+[21:07:00] [Server thread/INFO]: <A11y_UwU> UwU
+[21:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4873ms or 97 ticks behind
+[21:07:05] [Server thread/INFO]: Sminky52 fell from a high place
+[21:07:10] [Server thread/INFO]: <A11y_UwU> f
+[21:07:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:07:17] [Server thread/INFO]: f<--[HERE]
+[21:07:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:07:18] [Server thread/INFO]: f<--[HERE]
+[21:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
+[21:07:21] [Server thread/INFO]: [Server] f
+[21:07:38] [Server thread/INFO]: [ImHorny] f
+[21:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:08:19] [Server thread/INFO]: Sminky52 has made the advancement [We Need to Go Deeper]
+[21:08:26] [Server thread/INFO]: RuKlo has made the advancement [A Terrible Fortress]
+[21:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[21:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[21:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:09:11] [Server thread/INFO]: <_Velmca> bæ
+[21:09:15] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[21:09:15] [Server thread/INFO]: _Velmca left the game
+[21:09:16] [Server thread/INFO]: <A11y_UwU> æbæ
+[21:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:09:30] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -6.7046446912684985,-0.7539862017387549,-7.648303478428829
+[21:09:30] [Server thread/WARN]: endertad moved too quickly! 6.916241921391162,-0.17647087614427903,-7.458927967268551
+[21:09:30] [Server thread/WARN]: Fez05 moved too quickly! 0.44746751848435906,3.0,-9.693850442671987
+[21:09:30] [Server thread/WARN]: Sminky52 moved too quickly! -10.073826432879315,0.7531999805212024,0.5433996419490654
+[21:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5207ms or 104 ticks behind
+[21:10:06] [Server thread/INFO]: Sminky52 was fireballed by Ghast
+[21:10:09] [Server thread/INFO]: <A11y_UwU> f
+[21:10:12] [Server thread/INFO]: <Kallakalli> hæ;)
+[21:10:26] [Server thread/INFO]: Incorrect argument for command
+[21:10:26] [Server thread/INFO]: ...ny run say <--[HERE]
+[21:10:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/201464, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.29]
+[21:10:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/201464, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.29]
+[21:10:42] [Server thread/INFO]: [ImHorny] F
+[21:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21:11:29] [Server thread/INFO]: <endertad> f
+[21:11:31] [Server thread/INFO]: Fez05 has made the advancement [We Need to Go Deeper]
+[21:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[21:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[21:13:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[21:14:08] [Server thread/INFO]: [endertad: Spawning spaces around [ -253, 64, 652 ]:]
+[21:14:08] [Server thread/INFO]: [endertad:   potential in-liquid: 14422]
+[21:14:08] [Server thread/INFO]: [endertad:   potential on-ground: 63628]
+[21:14:08] [Server thread/INFO]: [endertad:   Creeper: 21095]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -379, 50, 642 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -379, 55, 642 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -378, 43, 639 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -377, 55, 623 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -377, 50, 624 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -377, 43, 638 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -377, 50, 638 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -377, 45, 639 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -377, 46, 640 ]]
+[21:14:08] [Server thread/INFO]: [endertad:   [ -376, 50, 620 ]]
+[21:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[21:14:22] [Server thread/WARN]: Tried to add entity minecraft:item but it was marked as removed already
+[21:14:22] [Server thread/INFO]: [endertad: Failed to spawn test entity]
+[21:14:28] [Server thread/WARN]: Tried to add entity minecraft:item but it was marked as removed already
+[21:14:28] [Server thread/INFO]: [endertad: Failed to spawn test entity]
+[21:14:47] [Server thread/WARN]: Sminky52 moved too quickly! 8.64549137234485,1.0,-5.277520843041543
+[21:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4136ms or 82 ticks behind
+[21:14:58] [Server thread/INFO]: Made A11y_UwU a server operator
+[21:15:06] [Server thread/INFO]: [A11y_UwU: Current Carpet Mod Settings:]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - carpets [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - combineXPOrbs [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - commandDraw [true] [false] [ops]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - commandScript [true] [false] [ops]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - commandSpawn [true] [false] [ops]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - commandTick [true] [false] [ops]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - desertShrubs [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - dispenserPlacesBlocks [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - fastRedstoneDust [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - flippinCactus [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - huskSpawningInTemples [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - lagFreeSpawning [true] [false]]
+[21:15:06] [Server thread/INFO]: [A11y_UwU: - maxEntityCollisions [0] [1] [20] [2]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - movableBlockEntities [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - onePlayerSleeping [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - persistentParrots [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - portalSurvivalDelay [1] [40] [80] [72000]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - renewableBlackstone [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - renewableCoral [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - renewableSponges [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - rotatorBlock [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - shulkerSpawningInEndCities [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: - stackableShulkerBoxes [true] [false]]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: Carpet Mod version: 1.4.12+v201001]
+[21:15:07] [Server thread/INFO]: [A11y_UwU: Browse Categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [extras] [client] [experimental] [tnt] [bugfix] [creative] [command]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: Carpet Mod Settings matching "command":]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandDistance [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandDraw [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandInfo [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandLog [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandPerimeterInfo [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandPing [true] [false]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandPlayer [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandProfile [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandScript [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandScriptACE [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandSpawn [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandTick [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - commandTrackAI [true] [false] [ops]]
+[21:15:09] [Server thread/INFO]: [A11y_UwU: - hopperCounters [true] [false]]
+[21:15:11] [Server thread/INFO]: [endertad: Spawning spaces around [ -200, 65, 600 ]:]
+[21:15:11] [Server thread/INFO]: [endertad:   potential in-liquid: 6604]
+[21:15:11] [Server thread/INFO]: [endertad:   potential on-ground: 62749]
+[21:15:11] [Server thread/INFO]: [endertad:   Chicken: 28764]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -327, 68, 585 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -327, 68, 586 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -327, 65, 590 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -327, 64, 591 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -327, 64, 592 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -327, 63, 593 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -326, 68, 578 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -326, 68, 579 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -326, 68, 580 ]]
+[21:15:11] [Server thread/INFO]: [endertad:   [ -326, 68, 581 ]]
+[21:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[21:15:20] [Server thread/INFO]: [A11y_UwU: Teleported A11y_UwU to -326.5, 64.0, 591.5]
+[21:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21:15:30] [Server thread/INFO]: [endertad: Spawning spaces around [ -240, 65, 640 ]:]
+[21:15:30] [Server thread/INFO]: [endertad:   potential in-liquid: 12518]
+[21:15:30] [Server thread/INFO]: [endertad:   potential on-ground: 62697]
+[21:15:30] [Server thread/INFO]: [endertad:   Chicken: 25020]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 64, 625 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 64, 626 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 65, 627 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 628 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 629 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 630 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 631 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 632 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 633 ]]
+[21:15:30] [Server thread/INFO]: [endertad:   [ -367, 66, 634 ]]
+[21:15:30] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 10.342414557144593,-0.20000004768371582,-0.002515378525075107
+[21:15:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/204675, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.74]
+[21:15:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/204675, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.74]
+[21:16:16] [Server thread/INFO]: Made A11y_UwU no longer a server operator
+[21:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:17:13] [Server thread/INFO]: <A11y_UwU> nei <3
+[21:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[21:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:17:47] [Server thread/INFO]: Fez05 hit the ground too hard
+[21:18:10] [Server thread/INFO]: Sminky52 tried to swim in lava
+[21:18:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/206282, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.68]
+[21:18:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/206282, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.68]
+[21:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[21:19:28] [Server thread/INFO]: Sminky52 has made the advancement [A Seedy Place]
+[21:20:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[21:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[21:21:23] [Server thread/INFO]: Sminky52 was shot by endertad
+[21:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1667['Arrow'/208703, l='ServerLevel[world]', x=-243.80, y=64.04, z=655.60]
+[21:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1667['Arrow'/208727, l='ServerLevel[world]', x=-243.94, y=65.03, z=655.96]
+[21:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1667['Arrow'/208639, l='ServerLevel[world]', x=-243.03, y=64.99, z=654.48]
+[21:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[21:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[21:22:28] [Server thread/INFO]: A11y_UwU has made the advancement [Total Beelocation]
+[21:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[21:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[21:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[21:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[21:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[21:24:21] [Server thread/INFO]: endertad lost connection: Disconnected
+[21:24:21] [Server thread/INFO]: endertad left the game
+[21:25:27] [Server thread/WARN]: RuKlo moved too quickly! -8.66030521745256,0.7047991706778021,5.178137588327729
+[21:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
+[21:26:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1168, y=57, z=473} class_2338{x=-1169, y=58, z=473}
+[21:28:06] [Server thread/WARN]: Sminky52 moved too quickly! -10.543841711926348,0.20000004768371582,0.03867801308527419
+[21:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:28:18] [Server thread/INFO]: RuKlo was slain by Wither Skeleton
+[21:28:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:28:42] [Server thread/INFO]: Fez05 lost connection: Disconnected
+[21:28:42] [Server thread/INFO]: Fez05 left the game
+[21:29:05] [Server thread/INFO]: Kallakalli lost connection: Disconnected
+[21:29:05] [Server thread/INFO]: Kallakalli left the game
+[21:29:34] [Server thread/INFO]: Sminky52 has made the advancement [Those Were the Days]
+[21:31:28] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:31:28] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:32:43] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[21:32:43] [Server thread/INFO]: Sminky52 left the game
+[21:33:14] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[21:33:14] [Server thread/INFO]: SKAF_PathFinder left the game
+[21:34:30] [User Authenticator #32/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[21:34:30] [Server thread/INFO]: endertad[/89.160.244.218:55638] logged in with entity id 217771 at (-224.398714954194, 83.0, 613.0980690501001)
+[21:34:30] [Server thread/INFO]: endertad joined the game
+[21:34:48] [Server thread/INFO]: endertad lost connection: Disconnected
+[21:34:48] [Server thread/INFO]: endertad left the game
+[21:39:09] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:12] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:12] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:13] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:16] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:18] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:20] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:21] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:21] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:24] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:25] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:26] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:39:26] [Server thread/INFO]: A11y_UwU left the game
+[21:39:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a278e5f[id=<null>,name=A11y_UwU,properties={},legacy=false] (/127.0.0.1:65145) lost connection: Disconnected
+[21:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[21:40:36] [User Authenticator #33/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:40:36] [Server thread/INFO]: A11y_UwU[/127.0.0.1:65362] logged in with entity id 219828 at (-459.5525544331647, 72.0, 345.71309072686694)
+[21:40:36] [Server thread/INFO]: A11y_UwU joined the game
+[21:40:39] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[21:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4189ms or 83 ticks behind
+[21:41:06] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:41:07] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:41:08] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:41:08] [Server thread/FATAL]: Error executing task on Server
+java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
+	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:41:33] [Server thread/INFO]: <A11y_UwU> hey, is it ok if i restart the server?
+[21:41:40] [Server thread/INFO]: <RuKlo> ja
+[21:41:44] [Server thread/INFO]: <RuKlo> eg ætla að logga off
+[21:41:48] [Server thread/INFO]: <A11y_UwU> thank, þ
+[21:41:50] [Server thread/INFO]: <RuKlo> for the day
+[21:41:51] [Server thread/INFO]: <RuKlo> yes
+[21:41:52] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[21:41:52] [Server thread/INFO]: RuKlo left the game
+[21:41:54] [Server thread/INFO]: <A11y_UwU> þarft ekki
+[21:42:05] [Server thread/INFO]: Stopping the server
+[21:42:05] [Server thread/INFO]: Stopping server
+[21:42:05] [Server thread/INFO]: Saving players
+[21:42:05] [Server thread/INFO]: A11y_UwU lost connection: Server closed
+[21:42:05] [Server thread/INFO]: A11y_UwU left the game
+[21:42:05] [Server thread/INFO]: Saving worlds
+[21:42:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:42:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:42:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

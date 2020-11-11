@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-11-11 16:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-05 15:34:31 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-11-11 16:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2020-11-05 15:14:51 +0000"
@@ -362,6 +374,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2020-11-05 15:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-11-11 16:36:27 +0000"
     },
     "done": true
   },
@@ -1558,6 +1576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-11-11 16:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-11-10 12:50:57 +0000"
@@ -1827,6 +1851,7 @@
       "minecraft:cold_ocean": "2020-11-10 12:33:13 +0000",
       "minecraft:forest": "2020-11-05 15:09:06 +0000",
       "minecraft:mountains": "2020-11-10 12:26:48 +0000",
+      "minecraft:desert_hills": "2020-11-11 16:39:07 +0000",
       "minecraft:deep_cold_ocean": "2020-11-10 12:33:43 +0000",
       "minecraft:desert": "2020-11-05 15:20:26 +0000",
       "minecraft:deep_frozen_ocean": "2020-11-10 12:33:48 +0000",
@@ -2166,6 +2191,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-10 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-11-11 16:07:11 +0000"
     },
     "done": true
   },

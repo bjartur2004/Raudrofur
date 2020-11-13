@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-11-13 15:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-11-09 22:11:18 +0000"
@@ -1577,6 +1583,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-11-09 21:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-11-13 15:16:03 +0000"
     },
     "done": true
   },

@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-11-13 15:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_double_plant": "2020-11-05 15:22:10 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-11-10 13:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -128,6 +140,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-05 15:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -236,6 +254,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-10 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -412,6 +436,7 @@
       "cooked_porkchop": "2020-11-10 14:14:22 +0000",
       "cooked_mutton": "2020-11-05 15:21:42 +0000",
       "cooked_beef": "2020-11-05 15:31:38 +0000",
+      "baked_potato": "2020-11-13 14:57:31 +0000",
       "bread": "2020-11-10 14:00:55 +0000",
       "mushroom_stew": "2020-11-05 15:55:59 +0000"
     },
@@ -438,6 +463,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-11-05 15:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-11-13 15:53:57 +0000"
     },
     "done": true
   },
@@ -603,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting": {
+    "criteria": {
+      "has_emerald_ore": "2020-11-13 15:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-05 15:34:31 +0000"
@@ -720,6 +757,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-11-10 14:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-11-13 16:11:45 +0000"
     },
     "done": true
   },
@@ -963,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-11-06 14:11:13 +0000"
@@ -1042,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-11-13 15:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-11-06 14:19:33 +0000"
@@ -1093,6 +1148,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_crimson_planks": "2020-11-10 13:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -1192,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-11-13 16:00:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-11-10 12:53:32 +0000"
@@ -1225,6 +1292,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2020-11-10 13:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-11-13 15:59:59 +0000"
     },
     "done": true
   },
@@ -1273,6 +1346,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-11-05 15:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -1474,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-11-13 15:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-11-10 12:50:57 +0000"
@@ -1528,6 +1613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2020-11-13 15:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-11-06 14:11:02 +0000"
@@ -1537,6 +1628,18 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2020-11-10 12:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-11-13 16:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -1597,6 +1700,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-05 15:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-11-13 15:59:37 +0000"
     },
     "done": true
   },
@@ -1681,6 +1790,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-11-05 15:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
     },
     "done": true
   },
@@ -1904,6 +2019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-11-13 15:59:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-11-05 15:14:52 +0000"
@@ -1949,6 +2070,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-11-05 15:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-11-13 15:59:59 +0000"
     },
     "done": true
   },
@@ -2097,6 +2224,12 @@
       "minecraft:nether_wastes": "2020-11-10 12:19:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-11-13 15:51:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {

@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-11-12 19:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-11-04 17:38:11 +0000"
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-11-12 19:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2020-11-09 17:46:42 +0000"
@@ -700,6 +712,7 @@
       "minecraft:cave_spider": "2020-11-10 15:13:36 +0000",
       "minecraft:piglin": "2020-11-04 22:53:46 +0000",
       "minecraft:enderman": "2020-11-05 14:12:51 +0000",
+      "minecraft:silverfish": "2020-11-12 21:33:56 +0000",
       "minecraft:zombie": "2020-11-04 18:10:05 +0000",
       "minecraft:drowned": "2020-11-04 18:35:12 +0000",
       "minecraft:zombie_villager": "2020-11-08 18:13:42 +0000"
@@ -913,6 +926,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-11-09 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-11-12 21:30:02 +0000"
     },
     "done": true
   },
@@ -1429,13 +1448,20 @@
       "minecraft:desert_hills": "2020-11-04 17:29:41 +0000",
       "minecraft:deep_cold_ocean": "2020-11-04 22:40:32 +0000",
       "minecraft:desert": "2020-11-04 17:28:35 +0000",
+      "minecraft:deep_frozen_ocean": "2020-11-12 21:11:06 +0000",
       "minecraft:birch_forest": "2020-11-04 21:16:40 +0000",
+      "minecraft:warm_ocean": "2020-11-12 21:03:31 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-11-12 21:03:13 +0000",
+      "minecraft:badlands": "2020-11-12 21:20:05 +0000",
       "minecraft:beach": "2020-11-04 22:32:28 +0000",
       "minecraft:dark_forest": "2020-11-04 17:31:07 +0000",
       "minecraft:river": "2020-11-04 17:28:44 +0000",
+      "minecraft:lukewarm_ocean": "2020-11-12 19:44:27 +0000",
       "minecraft:birch_forest_hills": "2020-11-05 14:20:23 +0000",
       "minecraft:wooded_mountains": "2020-11-05 16:34:12 +0000",
       "minecraft:wooded_hills": "2020-11-04 22:31:21 +0000",
+      "minecraft:stone_shore": "2020-11-12 21:06:01 +0000",
+      "minecraft:wooded_badlands_plateau": "2020-11-12 21:21:28 +0000",
       "minecraft:swamp": "2020-11-04 22:40:51 +0000",
       "minecraft:plains": "2020-11-03 21:00:53 +0000"
     },
@@ -1636,6 +1662,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-11-04 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-11-12 21:24:03 +0000"
     },
     "done": true
   },
@@ -2039,6 +2071,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-11-04 17:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-11-12 19:45:07 +0000"
     },
     "done": true
   },
@@ -2523,6 +2561,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-11-12 18:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-11-04 18:19:15 +0000"
@@ -2778,6 +2822,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-11-11 14:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-11-12 21:24:03 +0000"
     },
     "done": true
   },
@@ -3042,6 +3092,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-11-04 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-11-12 15:49:58 +0000"
     },
     "done": true
   },

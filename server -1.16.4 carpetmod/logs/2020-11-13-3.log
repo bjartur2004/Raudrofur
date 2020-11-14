@@ -1,0 +1,239 @@
+[16:41:46] [main/INFO]: Loading for game Minecraft 1.16.4
+[16:41:46] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[16:41:46] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-loot-tables-v1@1.0.1+432ea18895, carpet-extra@1.4.14, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[16:41:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[16:41:57] [main/INFO]: [VanillaEnhanced] Hello there.
+[16:41:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:41:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:41:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:41:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:59] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[16:42:01] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:42:01] [Worker-Main-4/INFO]: Loaded 927 advancements
+[16:42:03] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 2.398 ms
+[16:42:03] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:42:03] [Server thread/INFO]: Loading properties
+[16:42:03] [Server thread/INFO]: Default game type: SURVIVAL
+[16:42:03] [Server thread/INFO]: Generating keypair
+[16:42:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:42:03] [Server thread/INFO]: Using default channel type
+[16:42:06] [Server thread/INFO]: Preparing level "world"
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[16:42:06] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[16:42:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:42:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:42:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:42:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:42:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:42:09] [Server thread/INFO]: Preparing spawn area: 49%
+[16:42:10] [Server thread/INFO]: Time elapsed: 3472 ms
+[16:42:10] [Server thread/INFO]: Done (3.806s)! For help, type "help"
+[16:42:22] [User Authenticator #1/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[16:42:22] [Server thread/INFO]: _Velmca[/31.209.159.67:50619] logged in with entity id 198 at (235.2143104922851, 67.9375, -34.60383126900749)
+[16:42:22] [Server thread/INFO]: _Velmca joined the game
+[16:43:19] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:43:20] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49518] logged in with entity id 325 at (-415.0823918994414, 33.0, 338.2505265697468)
+[16:43:20] [Server thread/INFO]: A11y_UwU joined the game
+[16:43:20] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[16:43:38] [User Authenticator #3/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[16:43:38] [Server thread/INFO]: endertad[/89.160.244.218:62744] logged in with entity id 692 at (-241.69545027077064, 114.0, 626.4388665823307)
+[16:43:38] [Server thread/INFO]: endertad joined the game
+[16:45:10] [Server thread/INFO]: endertad lost connection: Disconnected
+[16:45:10] [Server thread/INFO]: endertad left the game
+[16:47:20] [User Authenticator #4/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[16:47:21] [Server thread/INFO]: Sminky52[/89.17.139.9:58272] logged in with entity id 1927 at (-236.10121958063567, 83.0, 612.5994302551395)
+[16:47:21] [Server thread/INFO]: Sminky52 joined the game
+[16:47:26] [Server thread/INFO]: <_Velmca> blessaður
+[16:48:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2265, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.24]
+[16:51:05] [Server thread/INFO]: _Velmca fell from a high place
+[16:51:13] [Server thread/INFO]: <A11y_UwU> f
+[16:53:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Stone'/5392, l='ServerLevel[world]', x=-410.65, y=32.22, z=342.45]
+[17:19:16] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[17:19:16] [Server thread/INFO]: A11y_UwU left the game
+[17:19:18] [User Authenticator #5/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:19:19] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51801] logged in with entity id 14881 at (-432.69999998807907, 33.0, 350.30000001192093)
+[17:19:19] [Server thread/INFO]: A11y_UwU joined the game
+[17:19:19] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[17:19:22] [Server thread/INFO]: <_Velmca> weba
+[17:20:11] [Server thread/INFO]: <A11y_UwU> hi.. er að reyna að afka sma slime áður en ég fer en ekkert spawnar :'(
+[17:20:21] [Server thread/INFO]: <_Velmca> oh shet
+[17:20:31] [Server thread/INFO]: <_Velmca> kannski er það bara eith bilað
+[17:20:35] [Server thread/INFO]: <A11y_UwU> og ja er viss að þetta sé slime chunk. 100%
+[17:20:49] [Server thread/INFO]: <_Velmca> vetrarfrí?
+[17:22:25] [Server thread/INFO]: [A11y_UwU: Gave 1 [Pink Carpet] to A11y_UwU]
+[17:22:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16825, l='ServerLevel[world]', x=-461.65, y=76.00, z=287.28]
+[17:25:21] [Server thread/INFO]: <A11y_UwU> ok bæo, verð afk til að tölfan mín haldist nonandi vakandi
+[17:26:40] [Server thread/INFO]: <_Velmca> bæ
+[17:26:46] [Server thread/INFO]: <Sminky52> ba
+[17:39:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@431b895a[id=<null>,name=RuKlo,properties={},legacy=false] (/157.157.141.64:53288) lost connection: Disconnected
+[17:39:34] [User Authenticator #6/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[17:39:34] [Server thread/INFO]: RuKlo[/157.157.141.64:59926] logged in with entity id 23433 at (-493.1997210915698, 100.7678680350643, 2000530.4657937146)
+[17:39:34] [Server thread/INFO]: RuKlo joined the game
+[17:39:38] [Server thread/INFO]: <_Velmca> blessaður
+[17:39:42] [Server thread/INFO]: <RuKlo> blessuð
+[17:43:44] [Server thread/INFO]: [RuKlo: Successfully filled 513 blocks]
+[17:44:03] [Server thread/INFO]: [RuKlo: Successfully filled 406 blocks]
+[17:45:50] [Server thread/INFO]: [RuKlo: Set own game mode to Survival Mode]
+[17:45:55] [Server thread/INFO]: RuKlo fell out of the world
+[17:45:55] [Server thread/INFO]: [RuKlo: Killed RuKlo]
+[17:45:58] [Server thread/INFO]: <_Velmca> oop
+[17:47:29] [Server thread/INFO]: <_Velmca> bæjo kem aftur a eftir :)
+[17:47:39] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[17:47:39] [Server thread/INFO]: _Velmca left the game
+[17:48:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27927, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.24]
+[17:51:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/29105, l='ServerLevel[world]', x=-461.24, y=76.00, z=287.23]
+[17:55:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/30710, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.23]
+[18:01:04] [Server thread/INFO]: <RuKlo> ég er farin :D
+[18:01:05] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[18:01:05] [Server thread/INFO]: RuKlo left the game
+[18:32:24] [User Authenticator #7/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[18:32:24] [Server thread/INFO]: _Velmca[/31.209.159.67:50918] logged in with entity id 40724 at (224.7855552321054, 69.0, -34.44977843252535)
+[18:32:24] [Server thread/INFO]: _Velmca joined the game
+[18:41:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/45132, l='ServerLevel[world]', x=-461.65, y=76.00, z=287.28]
+[18:43:11] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:43:11] [Server thread/INFO]: Sminky52 left the game
+[18:43:23] [User Authenticator #8/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:43:23] [Server thread/INFO]: Sminky52[/89.17.139.9:53350] logged in with entity id 45621 at (-635.6999999880791, 31.0, 644.3000000119209)
+[18:43:23] [Server thread/INFO]: Sminky52 joined the game
+[18:43:30] [Server thread/INFO]: <_Velmca> weba
+[18:43:50] [Server thread/INFO]: <Sminky52> eg var ad laga f minkid
+[18:43:54] [Server thread/INFO]: <_Velmca> oof
+[18:44:00] [Server thread/INFO]: <Sminky52> ye
+[18:48:34] [Server thread/INFO]: _Velmca fell from a high place
+[19:06:23] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[19:06:23] [Server thread/INFO]: Sminky52 left the game
+[19:09:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/57172, l='ServerLevel[world]', x=-461.74, y=76.00, z=288.17]
+[19:18:40] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[19:18:40] [Server thread/INFO]: _Velmca left the game
+[19:31:46] [User Authenticator #9/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[19:31:46] [Server thread/INFO]: Sminky52[/89.17.139.9:64782] logged in with entity id 61473 at (-550.468378094665, 11.0, 616.5083741266741)
+[19:31:46] [Server thread/INFO]: Sminky52 joined the game
+[19:35:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63030, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
+[19:39:36] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[19:39:36] [Server thread/INFO]: Sminky52 left the game
+[20:07:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/68144, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[20:26:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/70885, l='ServerLevel[world]', x=-461.26, y=76.00, z=287.72]
+[20:39:52] [User Authenticator #10/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[20:39:52] [Server thread/INFO]: Sminky52[/89.17.139.9:52146] logged in with entity id 72804 at (-681.6619638935131, 68.0, 649.8524127297694)
+[20:39:52] [Server thread/INFO]: Sminky52 joined the game
+[21:02:45] [Server thread/INFO]: <Sminky52> dwdadsdfefe
+[21:07:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/79717, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.72]
+[21:08:52] [Server thread/INFO]: Sminky52 was slain by Hoglin
+[21:12:39] [Server thread/INFO]: Sminky52 fell from a high place
+[21:13:52] [User Authenticator #11/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[21:13:52] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:53317] logged in with entity id 82111 at (-478.60852732723316, 64.0, -291.6914892836545)
+[21:13:52] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[21:15:24] [Server thread/INFO]: Sminky52 fell from a high place
+[21:15:27] [Server thread/INFO]: <_RedHeroGamer_> F
+[21:15:46] [Server thread/INFO]: <Sminky52> HE NAD hjalpa mer
+[21:15:51] [Server thread/INFO]: <_RedHeroGamer_> með hvað
+[21:16:01] [Server thread/INFO]: <Sminky52> na dotinu minu ]
+[21:16:43] [Server thread/INFO]: <Sminky52> cord i netherx -156 z-70 og y45
+[21:16:57] [Server thread/INFO]: <_RedHeroGamer_> sure
+[21:16:58] [Server thread/INFO]: <Sminky52> y64
+[21:17:04] [Server thread/INFO]: <Sminky52> y54
+[21:17:12] [Server thread/INFO]: <Sminky52> takk
+[21:18:26] [Server thread/INFO]: Villager class_1646['? ? 0'/399, l='ServerLevel[world]', x=-459.30, y=72.56, z=346.70] died, message: '? ? 0 was slain by Zombie'
+[21:18:32] [Server thread/INFO]: Villager class_1646['? ? 0'/398, l='ServerLevel[world]', x=-459.30, y=72.56, z=346.30] died, message: '? ? 0 was slain by Zombie'
+[21:19:09] [Server thread/INFO]: Sminky52 was slain by Hoglin
+[21:19:49] [Server thread/INFO]: <Sminky52> tad er mikil time eftir tangad dad despawnar
+[21:19:52] [Server thread/INFO]: <_RedHeroGamer_> fann það held ég
+[21:20:05] [Server thread/INFO]: <_RedHeroGamer_> mending diamond pick?
+[21:20:10] [Server thread/INFO]: <Sminky52> ye
+[21:20:25] [Server thread/INFO]: <Sminky52> og godur bogi
+[21:21:01] [Server thread/INFO]: _RedHeroGamer_ was shot by Skeleton
+[21:21:26] [Server thread/INFO]: <_RedHeroGamer_> damn
+[21:21:37] [Server thread/INFO]: <Sminky52> hun er org med bogan min
+[21:21:45] [Server thread/INFO]: <_RedHeroGamer_> nei fann hann sko
+[21:21:58] [Server thread/INFO]: <_RedHeroGamer_> vc
+[21:22:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/87213, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.72]
+[21:22:50] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[21:22:50] [Server thread/INFO]: Sminky52 left the game
+[21:22:59] [User Authenticator #12/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[21:22:59] [Server thread/INFO]: Sminky52[/89.17.139.9:62062] logged in with entity id 87394 at (-136.19557374932953, 45.875, -60.79058685307521)
+[21:22:59] [Server thread/INFO]: Sminky52 joined the game
+[21:23:11] [Server thread/INFO]: Sminky52 was shot by Piglin
+[21:25:37] [Server thread/INFO]: Sminky52 was shot by Piglin
+[21:26:12] [Server thread/INFO]: _RedHeroGamer_ fell from a high place
+[21:26:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89327, l='ServerLevel[world]', x=-461.23, y=76.00, z=288.17]
+[21:26:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89497, l='ServerLevel[world]', x=-461.74, y=76.00, z=288.17]
+[21:28:16] [Server thread/INFO]: Sminky52 has made the advancement [Cover Me With Diamonds]
+[21:28:25] [Server thread/INFO]: Sminky52 was shot by Piglin
+[21:29:03] [Server thread/INFO]: _RedHeroGamer_ was killed by [Intentional Game Design]
+[21:30:50] [Server thread/INFO]: Sminky52 was slain by Hoglin
+[21:31:04] [Server thread/INFO]: _RedHeroGamer_ was slain by Hoglin
+[21:31:42] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[21:31:42] [Server thread/INFO]: Sminky52 left the game
+[21:57:23] [User Authenticator #13/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[21:57:23] [Server thread/INFO]: RuKlo[/157.157.141.64:53267] logged in with entity id 98967 at (15.787407093252234, 62.0, 6.830066152768246)
+[21:57:23] [Server thread/INFO]: RuKlo joined the game
+[21:57:26] [Server thread/INFO]: <_RedHeroGamer_> hola
+[21:57:29] [Server thread/INFO]: <RuKlo> halo
+[21:57:30] [Server thread/INFO]: <_RedHeroGamer_> Hlynur sexy
+[21:57:36] [Server thread/INFO]: <RuKlo> þú ert sexy
+[21:57:40] [Server thread/INFO]: <_RedHeroGamer_> UwU
+[21:57:43] [Server thread/INFO]: <RuKlo> O_O
+[21:57:52] [Server thread/INFO]: <_RedHeroGamer_> ég missti allt stuffið mitt áðan
+[21:58:04] [Server thread/INFO]: <RuKlo> what... hvernig :,(
+[21:58:21] [Server thread/INFO]: <_RedHeroGamer_> Var að hjálpa morty og dó oft......
+[21:58:33] [Server thread/INFO]: <RuKlo> hvað varstu með
+[21:59:02] [Server thread/INFO]: <_RedHeroGamer_> Eittvað stuff það var ekki það mikið þannig er bara að minea diamonds til að fá það aftur
+[21:59:25] [Server thread/INFO]: <RuKlo> þarftu hjálp með eitthvað ég get gefið þér stuff til þess að hjálpa þér :D
+[21:59:59] [Server thread/INFO]: <_RedHeroGamer_> Nei það er allt í læg takk samt
+[22:00:08] [Server thread/INFO]: <RuKlo> okay :D
+[22:00:22] [Server thread/INFO]: <_RedHeroGamer_> :D
+[22:00:46] [Server thread/INFO]: <_RedHeroGamer_> Þú ert aðeins of holesome
+[22:01:07] [Server thread/INFO]: <RuKlo> hahaha ég held ekki... vill bara hjálpa til
+[22:01:30] [Server thread/INFO]: <_RedHeroGamer_> you wholesome son of bitch
+[22:02:03] [Server thread/INFO]: <RuKlo> hahaha
+[22:02:19] [Server thread/INFO]: <RuKlo> tek það sem complement...
+[22:02:32] [Server thread/INFO]: <_RedHeroGamer_> því það er complement
+[22:02:52] [Server thread/INFO]: <RuKlo> hahaha
+[22:07:37] [Server thread/INFO]: <RuKlo> Bjartur ég held að nether portal hubið er kannski aðeins of complex. Ég meina það eru í alvörunni ekki nein góð leið til þess að tengja nether porta tunnelið sitt við það
+[22:07:53] [Server thread/INFO]: <_RedHeroGamer_> Hann er ekki active
+[22:07:58] [Server thread/INFO]: <RuKlo> þá eg er bara að hugsa að kannski gera eitthvað sem er fallegt en kannski ekki eins stórt
+[22:08:00] [Server thread/INFO]: <RuKlo> aright
+[22:08:04] [Server thread/INFO]: <RuKlo> ég msg hann bara
+[22:08:16] [Server thread/INFO]: <_RedHeroGamer_> ég er samála þér
+[22:08:20] [Server thread/INFO]: <RuKlo> en viltu sjá hvað ég var að byggja sem nether portal hub
+[22:08:45] [Server thread/INFO]: <RuKlo> ef þú hefur ekki séð það
+[22:09:08] [Server thread/INFO]: <_RedHeroGamer_> jaja
+[22:09:30] [Server thread/INFO]: [RuKlo: Set own game mode to Creative Mode]
+[22:09:39] [Server thread/INFO]: [RuKlo: Teleported RuKlo to -508.5, 48.0, 2000516.5]
+[22:13:27] [Server thread/INFO]: RuKlo fell out of the world
+[22:13:27] [Server thread/INFO]: [RuKlo: Killed RuKlo]
+[22:13:33] [Server thread/INFO]: [RuKlo: Set own game mode to Survival Mode]
+[22:23:54] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
+[22:23:54] [Server thread/INFO]: _RedHeroGamer_ left the game
+[22:24:45] [Server thread/INFO]: RuKlo drowned
+[22:33:14] [Server thread/INFO]: RuKlo fell from a high place
+[22:33:17] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[22:33:17] [Server thread/INFO]: RuKlo left the game
+[23:06:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/117231, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[23:37:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121436, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.72]
+[23:47:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122814, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.23]

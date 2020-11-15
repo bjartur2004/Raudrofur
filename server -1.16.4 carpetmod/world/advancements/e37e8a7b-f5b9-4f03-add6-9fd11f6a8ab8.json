@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna": "2020-11-12 18:38:19 +0000"
+      "minecraft:savanna": "2020-11-12 18:38:19 +0000",
+      "minecraft:plains": "2020-11-14 21:24:14 +0000"
     },
     "done": false
   },

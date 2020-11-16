@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2020-11-16 10:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-04 21:19:47 +0000"
@@ -726,6 +732,7 @@
       "minecraft:skeleton": "2020-11-04 17:42:48 +0000",
       "minecraft:ravager": "2020-11-13 13:46:26 +0000",
       "minecraft:ghast": "2020-11-09 17:45:05 +0000",
+      "minecraft:hoglin": "2020-11-16 10:52:35 +0000",
       "minecraft:vindicator": "2020-11-13 13:43:46 +0000",
       "minecraft:magma_cube": "2020-11-09 11:42:47 +0000",
       "minecraft:spider": "2020-11-04 17:48:12 +0000",
@@ -1942,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-11-16 11:59:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-11-04 21:34:44 +0000"
@@ -2311,6 +2324,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-11-04 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-11-15 21:56:09 +0000"
     },
     "done": true
   },
@@ -3131,6 +3150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-11-15 21:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2020-11-07 20:53:13 +0000"
@@ -3158,6 +3183,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2020-11-07 18:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-11-15 21:17:39 +0000"
     },
     "done": true
   },

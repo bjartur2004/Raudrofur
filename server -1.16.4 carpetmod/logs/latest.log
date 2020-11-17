@@ -1,7 +1,7 @@
-[14:07:12] [main/INFO]: Loading for game Minecraft 1.16.4
-[14:07:12] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+[16:01:05] [main/INFO]: Loading for game Minecraft 1.16.4
+[16:01:05] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
 - Unsupported root entry "$schema" at line 2 column 14
-[14:07:12] [main/FATAL]: A critical error occurred
+[16:01:05] [main/FATAL]: A critical error occurred
 net.fabricmc.loader.discovery.ModResolutionException: Could not find required mod: minihud requires {malilib @ [>=0.10.0-dev.21]}
 	at net.fabricmc.loader.discovery.ModResolver.findCompatibleSet(ModResolver.java:173) ~[fabric-server-launch.jar:?]
 	at net.fabricmc.loader.discovery.ModResolver.resolve(ModResolver.java:739) ~[fabric-server-launch.jar:?]

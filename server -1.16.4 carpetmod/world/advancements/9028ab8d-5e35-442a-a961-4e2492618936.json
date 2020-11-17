@@ -1505,6 +1505,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-11-04 22:32:31 +0000",
+      "minecraft:jungle_edge": "2020-11-17 13:43:51 +0000",
       "minecraft:snowy_mountains": "2020-11-16 22:22:00 +0000",
       "minecraft:forest": "2020-11-04 17:26:05 +0000",
       "minecraft:mountains": "2020-11-04 22:42:03 +0000",
@@ -1529,6 +1530,7 @@
       "minecraft:snowy_taiga": "2020-11-16 22:19:49 +0000",
       "minecraft:birch_forest_hills": "2020-11-05 14:20:23 +0000",
       "minecraft:wooded_mountains": "2020-11-05 16:34:12 +0000",
+      "minecraft:bamboo_jungle_hills": "2020-11-17 13:43:52 +0000",
       "minecraft:wooded_hills": "2020-11-04 22:31:21 +0000",
       "minecraft:stone_shore": "2020-11-12 21:06:01 +0000",
       "minecraft:wooded_badlands_plateau": "2020-11-12 21:21:28 +0000",

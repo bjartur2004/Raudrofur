@@ -1,179 +1,25 @@
-[12:46:15] [main/INFO]: Loading for game Minecraft 1.16.4
-[12:46:15] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+[14:07:12] [main/INFO]: Loading for game Minecraft 1.16.4
+[14:07:12] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
 - Unsupported root entry "$schema" at line 2 column 14
-[12:46:15] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-loot-tables-v1@1.0.1+432ea18895, carpet-extra@1.4.14, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
-[12:46:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[12:46:24] [main/INFO]: [VanillaEnhanced] Hello there.
-[12:46:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:46:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:46:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:46:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:46:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:46:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:46:27] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
-[12:46:28] [Worker-Main-5/INFO]: Loaded 7 recipes
-[12:46:29] [Worker-Main-5/INFO]: Loaded 927 advancements
-[12:46:30] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.588 ms
-[12:46:30] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[12:46:30] [Server thread/INFO]: Loading properties
-[12:46:30] [Server thread/INFO]: Default game type: SURVIVAL
-[12:46:30] [Server thread/INFO]: Generating keypair
-[12:46:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:46:30] [Server thread/INFO]: Using default channel type
-[12:46:31] [Server thread/INFO]: Preparing level "world"
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
-[12:46:31] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
-[12:46:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:46:33] [Server thread/INFO]: Preparing spawn area: 0%
-[12:46:33] [Server thread/INFO]: Preparing spawn area: 0%
-[12:46:33] [Server thread/INFO]: Preparing spawn area: 0%
-[12:46:33] [Server thread/INFO]: Preparing spawn area: 0%
-[12:46:33] [Server thread/INFO]: Preparing spawn area: 47%
-[12:46:34] [Server thread/INFO]: Time elapsed: 3039 ms
-[12:46:34] [Server thread/INFO]: Done (3.634s)! For help, type "help"
-[12:46:39] [User Authenticator #1/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[12:46:39] [Server thread/INFO]: Sminky52[/89.17.139.9:63478] logged in with entity id 79 at (-684.7624999880791, 73.0, 654.5234395422841)
-[12:46:39] [Server thread/INFO]: Sminky52 joined the game
-[12:49:58] [User Authenticator #2/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[12:49:58] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:62862] logged in with entity id 679 at (-205.84084490177142, 64.0, 820.0449409740594)
-[12:49:58] [Server thread/INFO]: CRAZYCHICK3N joined the game
-[13:08:06] [User Authenticator #3/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[13:08:06] [Server thread/INFO]: endertad[/89.160.244.218:57753] logged in with entity id 6494 at (-209.6235811275246, 95.0, 659.3676972368308)
-[13:08:06] [Server thread/INFO]: endertad joined the game
-[13:23:21] [User Authenticator #4/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[13:23:21] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51010] logged in with entity id 11660 at (-3818.17600064043, 63.0, 4984.953585028151)
-[13:23:21] [Server thread/INFO]: SKAF_PathFinder joined the game
-[13:27:11] [Server thread/INFO]: endertad lost connection: Disconnected
-[13:27:11] [Server thread/INFO]: endertad left the game
-[13:27:18] [Server thread/INFO]: <SKAF_PathFinder> vc
-[13:27:32] [User Authenticator #5/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[13:27:32] [Server thread/INFO]: Ravle1[/89.160.178.238:50633] logged in with entity id 14812 at (699.567897162033, 73.0, -1762.699999988079)
-[13:27:32] [Server thread/INFO]: Ravle1 joined the game
-[13:27:35] [Server thread/INFO]: <SKAF_PathFinder> vc
-[13:29:21] [Server thread/INFO]: Ravle1 was slain by Wither Skeleton
-[13:30:06] [Server thread/INFO]: <SKAF_PathFinder> -242 64 642
-[13:31:41] [Server thread/INFO]: Ravle1 was burnt to a crisp whilst fighting Wither Skeleton
-[13:33:12] [Server thread/INFO]: Villager class_1646['Villager'/19756, l='ServerLevel[world]', x=-3564.37, y=72.00, z=4338.28] died, message: 'Villager suffocated in a wall'
-[13:33:18] [Server thread/INFO]: Ravle1 was slain by Wither Skeleton
-[13:37:03] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[13:37:03] [Server thread/INFO]: Sminky52 left the game
-[13:37:08] [User Authenticator #6/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[13:37:08] [Server thread/INFO]: Sminky52[/89.17.139.9:49868] logged in with entity id 23223 at (-685.3000000119209, 63.0, 647.6999999880791)
-[13:37:08] [Server thread/INFO]: Sminky52 joined the game
-[13:37:42] [Server thread/INFO]: Ravle1 was burnt to a crisp whilst fighting Blaze
-[13:40:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[13:41:38] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -1.2378245613326726,0.8081463065264529,-10.154641226734384
-[13:42:32] [User Authenticator #7/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
-[13:42:32] [Server thread/INFO]: Kallakalli[/89.160.244.150:61062] logged in with entity id 27909 at (-191.70236233731993, 64.875, 821.780390105308)
-[13:42:32] [Server thread/INFO]: Kallakalli joined the game
-[13:42:36] [Server thread/INFO]: <SKAF_PathFinder> vc
-[13:45:01] [Server thread/INFO]: Ravle1 was slain by Blaze
-[13:48:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Rotten Flesh'/34406, l='ServerLevel[world]', x=-205.18, y=65.00, z=816.94]
-[13:48:52] [User Authenticator #8/INFO]: UUID of player Api1000 is ed6de807-630f-41e0-bf2b-57c6f2a58ca7
-[13:48:52] [Server thread/INFO]: Api1000[/157.157.186.201:49831] logged in with entity id 35273 at (160.5, 71.0, -15.5)
-[13:48:52] [Server thread/INFO]: Api1000 joined the game
-[13:51:00] [Server thread/INFO]: Api1000 drowned
-[13:51:11] [User Authenticator #9/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[13:51:11] [Server thread/INFO]: endertad[/89.160.244.218:56927] logged in with entity id 37701 at (-212.62583438807354, 63.0, 842.359097242204)
-[13:51:11] [Server thread/INFO]: endertad joined the game
-[13:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[13:52:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=147, y=71, z=-29}
-[13:54:10] [Server thread/INFO]: [Server] api, im proud of you
-[13:54:17] [Server thread/INFO]: <endertad> what about me
-[13:54:27] [Server thread/INFO]: [Server] you also did gud
-[13:58:58] [Server thread/INFO]: Api1000 was killed trying to hurt Zombie
-[14:04:53] [User Authenticator #30/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[14:04:52] [User Authenticator #29/INFO]: UUID of player Api1000 is ed6de807-630f-41e0-bf2b-57c6f2a58ca7
-[14:04:26] [User Authenticator #28/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[14:02:48] [User Authenticator #27/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[14:02:47] [User Authenticator #26/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[14:00:56] [User Authenticator #25/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[14:00:51] [User Authenticator #24/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[14:00:30] [User Authenticator #23/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[14:00:07] [User Authenticator #20/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[13:59:58] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[13:59:37] [User Authenticator #16/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[13:59:35] [User Authenticator #15/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[13:59:35] [User Authenticator #14/INFO]: UUID of player Api1000 is ed6de807-630f-41e0-bf2b-57c6f2a58ca7
-[13:59:12] [User Authenticator #11/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[13:59:34] [User Authenticator #12/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[13:59:34] [User Authenticator #13/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[13:59:08] [User Authenticator #10/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[14:05:14] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[13:59:47] [User Authenticator #17/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[14:00:13] [User Authenticator #21/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[13:59:56] [User Authenticator #19/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[14:00:28] [User Authenticator #22/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[13:59:55] [User Authenticator #18/INFO]: UUID of player Api1000 is ed6de807-630f-41e0-bf2b-57c6f2a58ca7
-[14:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 375840ms or 7516 ticks behind
-[14:05:14] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-11-17_14.05.14-server.txt
-[14:05:14] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
-[14:05:14] [Server thread/INFO]: CRAZYCHICK3N left the game
-[14:05:14] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[14:05:14] [Server thread/INFO]: SKAF_PathFinder left the game
-[14:05:14] [Server thread/INFO]: Ravle1 lost connection: Disconnected
-[14:05:14] [Server thread/INFO]: Ravle1 left the game
-[14:05:14] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[14:05:14] [Server thread/INFO]: Sminky52 left the game
-[14:05:14] [Server thread/INFO]: Kallakalli lost connection: Disconnected
-[14:05:14] [Server thread/INFO]: Kallakalli left the game
-[14:05:14] [Server thread/INFO]: Api1000 lost connection: Disconnected
-[14:05:14] [Server thread/INFO]: Api1000 left the game
-[14:05:15] [Server thread/INFO]: endertad lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: endertad left the game
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@505564b6[id=fdcf66c3-a2b9-42db-81e9-59a74d9badae,name=endertad,properties={textures=[com.mojang.authlib.properties.Property@2ffb5d13]},legacy=false] (/89.160.244.218:57199) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@409159c9[id=fdcf66c3-a2b9-42db-81e9-59a74d9badae,name=endertad,properties={textures=[com.mojang.authlib.properties.Property@1ff56362]},legacy=false] (/89.160.244.218:57217) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b9ae5b9[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@3e71fe0a]},legacy=false] (/89.160.178.238:50823) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@15f2f77f[id=a5ea861c-a760-4afb-af58-12e43d402e78,name=CRAZYCHICK3N,properties={textures=[com.mojang.authlib.properties.Property@9d5a300]},legacy=false] (/194.144.159.142:63135) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@94a6e82[id=ed6de807-630f-41e0-bf2b-57c6f2a58ca7,name=Api1000,properties={textures=[com.mojang.authlib.properties.Property@224dc3bc]},legacy=false] (/157.157.186.201:49950) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@435f3173[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@6d7d17bd]},legacy=false] (/85.220.31.107:51114) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f84b38c[id=78fda775-d5e2-4bda-9ad2-4a579f297e40,name=Sminky52,properties={textures=[com.mojang.authlib.properties.Property@24711e17]},legacy=false] (/89.17.139.9:57686) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d4fe00c[id=a5ea861c-a760-4afb-af58-12e43d402e78,name=CRAZYCHICK3N,properties={textures=[com.mojang.authlib.properties.Property@51f56cc0]},legacy=false] (/194.144.159.142:63148) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@77aba559[id=ed6de807-630f-41e0-bf2b-57c6f2a58ca7,name=Api1000,properties={textures=[com.mojang.authlib.properties.Property@6ede44b8]},legacy=false] (/157.157.186.201:49953) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d45c676[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@62596fc]},legacy=false] (/85.220.31.107:51123) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@47d71481[id=fdcf66c3-a2b9-42db-81e9-59a74d9badae,name=endertad,properties={textures=[com.mojang.authlib.properties.Property@5bfbadb2]},legacy=false] (/89.160.244.218:57254) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@15cad3f7[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@6ed4c46d]},legacy=false] (/89.160.178.238:50835) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fe13d7a[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@5c6099e7]},legacy=false] (/85.220.31.107:51132) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c742a86[id=a5ea861c-a760-4afb-af58-12e43d402e78,name=CRAZYCHICK3N,properties={textures=[com.mojang.authlib.properties.Property@293c3eeb]},legacy=false] (/194.144.159.142:63156) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@23f84e95[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@782ae4ca]},legacy=false] (/85.220.31.107:51138) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@60ee6476[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@5d258642]},legacy=false] (/89.160.178.238:50848) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@56529ffc[id=78fda775-d5e2-4bda-9ad2-4a579f297e40,name=Sminky52,properties={textures=[com.mojang.authlib.properties.Property@29dcf645]},legacy=false] (/89.17.139.9:57698) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b8fafaa[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@736c03bf]},legacy=false] (/89.160.178.238:51085) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a62d0a8[id=78fda775-d5e2-4bda-9ad2-4a579f297e40,name=Sminky52,properties={textures=[com.mojang.authlib.properties.Property@39a2c87b]},legacy=false] (/89.17.139.9:52157) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@593cd046[id=ed6de807-630f-41e0-bf2b-57c6f2a58ca7,name=Api1000,properties={textures=[com.mojang.authlib.properties.Property@141ec2c6]},legacy=false] (/157.157.186.201:50016) lost connection: Disconnected
-[14:05:15] [Server thread/INFO]: Ravle1[/89.160.178.238:51113] logged in with entity id 45622 at (689.3204042777088, 71.0, -1768.1498823724144)
-[14:05:15] [Server thread/INFO]: Ravle1 joined the game
-[14:05:15] [Server thread/INFO]: Stopping server
-[14:05:15] [Server thread/INFO]: Saving players
-[14:05:15] [Server thread/INFO]: Saving worlds
-[14:05:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:05:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:05:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:07:12] [main/FATAL]: A critical error occurred
+net.fabricmc.loader.discovery.ModResolutionException: Could not find required mod: minihud requires {malilib @ [>=0.10.0-dev.21]}
+	at net.fabricmc.loader.discovery.ModResolver.findCompatibleSet(ModResolver.java:173) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.discovery.ModResolver.resolve(ModResolver.java:739) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.FabricLoader.setup(FabricLoader.java:210) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.FabricLoader.load(FabricLoader.java:200) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.knot.Knot.init(Knot.java:128) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotServer.main(KnotServer.java:27) [fabric-server-launch.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at net.fabricmc.loader.launch.server.FabricServerLauncher.launch(FabricServerLauncher.java:62) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.server.FabricServerLauncher.setup(FabricServerLauncher.java:106) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:50) [fabric-server-launch.jar:?]
+Caused by: net.fabricmc.loader.util.sat4j.specs.ContradictionException: Creating Empty clause ?
+	at net.fabricmc.loader.util.sat4j.minisat.constraints.cnf.Clauses.propagationCheck(Clauses.java:117) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.util.sat4j.minisat.constraints.cnf.Clauses.sanityCheck(Clauses.java:97) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.util.sat4j.minisat.constraints.MixedDataStructureDanielWL.createClause(MixedDataStructureDanielWL.java:81) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.util.sat4j.minisat.core.Solver.addClause(Solver.java:401) ~[fabric-server-launch.jar:?]
+	at net.fabricmc.loader.discovery.ModResolver.findCompatibleSet(ModResolver.java:170) ~[fabric-server-launch.jar:?]
+	... 12 more

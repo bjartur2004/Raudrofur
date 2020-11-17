@@ -1148,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-11-16 21:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-11-13 13:00:20 +0000"
@@ -1253,6 +1259,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-11-04 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-11-16 21:44:12 +0000"
     },
     "done": true
   },
@@ -1493,14 +1505,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-11-04 22:32:31 +0000",
+      "minecraft:snowy_mountains": "2020-11-16 22:22:00 +0000",
       "minecraft:forest": "2020-11-04 17:26:05 +0000",
       "minecraft:mountains": "2020-11-04 22:42:03 +0000",
       "minecraft:taiga": "2020-11-05 16:33:35 +0000",
       "minecraft:desert_hills": "2020-11-04 17:29:41 +0000",
       "minecraft:deep_cold_ocean": "2020-11-04 22:40:32 +0000",
+      "minecraft:snowy_tundra": "2020-11-16 22:20:52 +0000",
       "minecraft:desert": "2020-11-04 17:28:35 +0000",
+      "minecraft:frozen_river": "2020-11-16 22:20:57 +0000",
       "minecraft:deep_frozen_ocean": "2020-11-12 21:11:06 +0000",
+      "minecraft:jungle": "2020-11-16 22:14:47 +0000",
       "minecraft:birch_forest": "2020-11-04 21:16:40 +0000",
+      "minecraft:snowy_beach": "2020-11-16 22:19:29 +0000",
+      "minecraft:bamboo_jungle": "2020-11-16 22:13:08 +0000",
       "minecraft:warm_ocean": "2020-11-12 21:03:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-11-12 21:03:13 +0000",
       "minecraft:badlands": "2020-11-12 21:20:05 +0000",
@@ -1508,6 +1526,7 @@
       "minecraft:dark_forest": "2020-11-04 17:31:07 +0000",
       "minecraft:river": "2020-11-04 17:28:44 +0000",
       "minecraft:lukewarm_ocean": "2020-11-12 19:44:27 +0000",
+      "minecraft:snowy_taiga": "2020-11-16 22:19:49 +0000",
       "minecraft:birch_forest_hills": "2020-11-05 14:20:23 +0000",
       "minecraft:wooded_mountains": "2020-11-05 16:34:12 +0000",
       "minecraft:wooded_hills": "2020-11-04 22:31:21 +0000",
@@ -1757,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-11-16 21:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2020-11-11 19:32:20 +0000"
@@ -1832,6 +1857,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-11-04 17:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-11-16 21:44:00 +0000"
     },
     "done": true
   },
@@ -2796,6 +2827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-11-16 22:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-11-04 17:28:31 +0000"
@@ -3345,6 +3382,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-11-10 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-11-16 22:24:07 +0000"
     },
     "done": true
   },

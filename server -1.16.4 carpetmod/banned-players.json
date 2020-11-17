@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "79abc2cd-eeaf-4913-ade3-84177fbce164",
+    "name": "Kallikalli",
+    "created": "2020-11-16 17:58:16 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "for being a toxic person"
+  },
+  {
+    "uuid": "3e9f1702-7662-4b7b-b0f2-fd5432a772eb",
+    "name": "_RedHeroGamer_",
+    "created": "2020-11-16 17:51:37 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

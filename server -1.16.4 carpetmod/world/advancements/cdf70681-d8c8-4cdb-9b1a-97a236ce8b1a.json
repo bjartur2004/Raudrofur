@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-11-16 21:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-11-03 22:33:14 +0000"
@@ -1614,6 +1620,7 @@
       "minecraft:bamboo_jungle": "2020-11-04 17:22:34 +0000",
       "minecraft:warm_ocean": "2020-11-14 21:29:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-11-11 16:38:09 +0000",
+      "minecraft:badlands": "2020-11-16 21:29:58 +0000",
       "minecraft:beach": "2020-11-03 22:24:54 +0000",
       "minecraft:dark_forest": "2020-11-03 22:24:00 +0000",
       "minecraft:river": "2020-11-03 21:24:05 +0000",
@@ -1844,9 +1851,10 @@
       "minecraft:crimson_forest": "2020-11-09 19:36:26 +0000",
       "minecraft:nether_wastes": "2020-11-08 17:59:21 +0000",
       "minecraft:soul_sand_valley": "2020-11-08 17:57:24 +0000",
-      "minecraft:basalt_deltas": "2020-11-09 19:42:45 +0000"
+      "minecraft:basalt_deltas": "2020-11-09 19:42:45 +0000",
+      "minecraft:warped_forest": "2020-11-16 21:27:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {

@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2020-11-22 18:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-11-04 16:36:00 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2020-11-16 21:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-11-22 14:52:36 +0000"
     },
     "done": true
   },
@@ -602,6 +614,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-11-05 16:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-11-23 16:45:48 +0000"
     },
     "done": true
   },
@@ -1191,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2020-11-23 16:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-11-08 16:50:51 +0000"
@@ -1218,6 +1242,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-11-05 16:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2020-11-22 18:33:01 +0000"
     },
     "done": true
   },
@@ -1707,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-11-22 18:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-11-03 21:26:52 +0000"
@@ -1961,6 +1997,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2020-11-16 23:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2020-11-23 15:54:22 +0000"
     },
     "done": true
   },
@@ -2483,6 +2525,7 @@
       "cooked_mutton": "2020-11-04 18:51:54 +0000",
       "sweet_berries": "2020-11-05 16:00:52 +0000",
       "cooked_beef": "2020-11-13 16:08:16 +0000",
+      "chorus_fruit": "2020-11-22 15:05:21 +0000",
       "baked_potato": "2020-11-08 16:33:28 +0000",
       "porkchop": "2020-11-11 19:51:26 +0000",
       "bread": "2020-11-21 18:01:45 +0000",
@@ -2491,6 +2534,7 @@
       "melon_slice": "2020-11-05 16:38:03 +0000",
       "golden_carrot": "2020-11-16 22:33:31 +0000",
       "mushroom_stew": "2020-11-10 13:32:19 +0000",
+      "cooked_salmon": "2020-11-22 18:33:04 +0000",
       "carrot": "2020-11-08 16:28:06 +0000"
     },
     "done": false
@@ -2952,6 +2996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-11-23 16:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-11-08 17:12:14 +0000"
@@ -3021,6 +3071,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-11-09 18:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-11-22 18:39:15 +0000"
     },
     "done": true
   },
@@ -3624,6 +3680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-11-22 18:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2020-11-11 16:23:07 +0000"
@@ -3639,6 +3701,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-11-03 21:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-11-23 16:01:36 +0000"
     },
     "done": true
   },
@@ -3702,6 +3770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2020-11-23 16:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-11-16 19:30:52 +0000"
@@ -3717,6 +3791,18 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-11-08 17:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-11-22 14:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2020-11-22 18:39:15 +0000"
     },
     "done": true
   },

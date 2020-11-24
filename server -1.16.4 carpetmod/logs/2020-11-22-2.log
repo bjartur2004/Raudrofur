@@ -1,0 +1,776 @@
+[13:07:20] [main/INFO]: Loading for game Minecraft 1.16.4
+[13:07:21] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[13:07:21] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-loot-tables-v1@1.0.1+432ea18895, carpet-extra@1.4.14, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[13:07:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[13:07:30] [main/INFO]: [VanillaEnhanced] Hello there.
+[13:07:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:07:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:07:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:07:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:07:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:07:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:07:34] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[13:07:35] [Worker-Main-4/INFO]: Loaded 7 recipes
+[13:07:36] [Worker-Main-4/INFO]: Loaded 927 advancements
+[13:07:37] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 3.487 ms
+[13:07:37] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:07:37] [Server thread/INFO]: Loading properties
+[13:07:37] [Server thread/INFO]: Default game type: SURVIVAL
+[13:07:37] [Server thread/INFO]: Generating keypair
+[13:07:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:07:37] [Server thread/INFO]: Using default channel type
+[13:07:38] [Server thread/INFO]: Preparing level "world"
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[13:07:38] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[13:07:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:07:39] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:39] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:39] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:40] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:41] [Server thread/INFO]: Time elapsed: 2976 ms
+[13:07:41] [Server thread/INFO]: Done (3.275s)! For help, type "help"
+[13:30:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@2db49fcd[id=<null>,name=Gamerfirl_420,properties={},legacy=false] (/89.160.187.248:57139) lost connection: Disconnected
+[13:32:12] [User Authenticator #1/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[13:32:12] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:57368] logged in with entity id 80 at (-193.39537976026202, 64.875, 820.484660667924)
+[13:32:12] [Server thread/INFO]: Gamerfirl_420 joined the game
+[13:35:36] [Server thread/INFO]: Gamerfirl_420 was fireballed by Ghast
+[13:43:00] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[13:43:00] [Server thread/INFO]: Gamerfirl_420 left the game
+[13:43:07] [User Authenticator #2/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[13:43:07] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:57454] logged in with entity id 4086 at (-189.92834868459497, 64.0, 823.6259232516571)
+[13:43:07] [Server thread/INFO]: Gamerfirl_420 joined the game
+[13:43:40] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[13:43:40] [Server thread/INFO]: Gamerfirl_420 left the game
+[13:45:39] [User Authenticator #3/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
+[13:45:40] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:55521] logged in with entity id 4427 at (-198.3174123360494, 64.0, 850.7864447383032)
+[13:45:40] [Server thread/INFO]: CRAZYCHICK3N joined the game
+[13:45:40] [User Authenticator #4/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[13:45:40] [Server thread/INFO]: RuKlo[/157.157.141.64:60075] logged in with entity id 4650 at (65.00749451828048, 67.875, 832.2768986144217)
+[13:45:40] [Server thread/INFO]: RuKlo joined the game
+[13:53:34] [User Authenticator #5/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[13:53:34] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:57658] logged in with entity id 6946 at (-192.46981935333037, 64.0, 825.6709997355682)
+[13:53:34] [Server thread/INFO]: Gamerfirl_420 joined the game
+[13:53:41] [Server thread/INFO]: <RuKlo> hallo :D
+[13:53:46] [Server thread/INFO]: <Gamerfirl_420> Yooo
+[13:57:28] [Server thread/INFO]: Gamerfirl_420 was blown up by Creeper
+[14:04:07] [Server thread/INFO]: Gamerfirl_420 has made the advancement [A Seedy Place]
+[14:05:18] [Server thread/INFO]: CRAZYCHICK3N has completed the challenge [Sniper Duel]
+[14:05:47] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[14:05:47] [Server thread/INFO]: Gamerfirl_420 left the game
+[14:09:59] [User Authenticator #6/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[14:09:59] [Server thread/INFO]: endertad[/89.160.244.218:59735] logged in with entity id 15424 at (-187.2845802942616, 64.0, 828.2415636155196)
+[14:09:59] [Server thread/INFO]: endertad joined the game
+[14:10:04] [Server thread/INFO]: <RuKlo> halo!
+[14:10:08] [Server thread/INFO]: <endertad> hi
+[14:10:18] [Server thread/INFO]: <CRAZYCHICK3N> hi
+[14:10:48] [User Authenticator #7/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[14:10:48] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:57727] logged in with entity id 16095 at (-198.58528022677103, 63.0, 842.5280121662364)
+[14:10:48] [Server thread/INFO]: Gamerfirl_420 joined the game
+[14:34:17] [User Authenticator #8/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[14:34:17] [Server thread/INFO]: Sminky52[/89.17.139.9:65511] logged in with entity id 28524 at (-415.6693625237576, 34.0, 637.8412532467935)
+[14:34:17] [Server thread/INFO]: Sminky52 joined the game
+[14:34:20] [Server thread/INFO]: <RuKlo> helo
+[14:39:01] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:39:01] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[14:40:27] [Server thread/INFO]: endertad was slain by Enderman
+[14:41:06] [Server thread/INFO]: CRAZYCHICK3N has made the advancement [Suit Up]
+[14:45:06] [Server thread/INFO]: endertad has made the advancement [Remote Getaway]
+[14:45:42] [Server thread/INFO]: endertad was slain by Enderman
+[14:49:50] [Server thread/INFO]: endertad was slain by Enderman
+[14:52:19] [Server thread/INFO]: Sminky52 has made the advancement [Ol' Betsy]
+[14:52:28] [Server thread/WARN]: Fetching packet for removed entity class_1667['Arrow'/40713, l='ServerLevel[world]', x=-420.96, y=34.00, z=642.02]
+[14:52:28] [Server thread/WARN]: Fetching packet for removed entity class_1667['Arrow'/40662, l='ServerLevel[world]', x=-420.96, y=34.00, z=642.30]
+[14:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:00:00] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 7.472039107731916,1.0,6.849773277071563
+[15:01:17] [Server thread/INFO]: <RuKlo> sofa?
+[15:03:47] [Server thread/WARN]: Gamerfirl_420 moved too quickly! -7.369947953720612,0.0,-7.649493261863768
+[15:11:12] [Server thread/WARN]: CRAZYCHICK3N moved wrongly!
+[15:11:19] [Server thread/INFO]: Gamerfirl_420 fell from a high place
+[15:13:53] [Server thread/WARN]: endertad moved too quickly! 7.663711021305971,-3.0,7.827560463153532
+[15:18:59] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -6.982854361851878,0.0,7.6387396203076605
+[15:25:56] [Server thread/INFO]: Gamerfirl_420 has made the advancement [Enchanter]
+[15:26:31] [Server thread/INFO]: endertad lost connection: Disconnected
+[15:26:31] [Server thread/INFO]: endertad left the game
+[15:26:55] [User Authenticator #9/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[15:26:55] [Server thread/INFO]: endertad[/89.160.244.218:62276] logged in with entity id 61460 at (3985.741843152337, 58.0, 2430.867380349458)
+[15:26:55] [Server thread/INFO]: endertad joined the game
+[15:27:26] [Server thread/INFO]: endertad lost connection: Disconnected
+[15:27:26] [Server thread/INFO]: endertad left the game
+[15:27:44] [Server thread/WARN]: RuKlo moved too quickly! -13.508961397896769,-1.8739143301170458,11.031949167042285
+[15:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15:46:22] [Server thread/INFO]: RuKlo has completed the challenge [Great View From Up Here]
+[15:54:17] [Server thread/INFO]: CRAZYCHICK3N hit the ground too hard
+[15:54:54] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
+[15:54:54] [Server thread/INFO]: CRAZYCHICK3N left the game
+[15:56:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=133, y=68, z=33} class_2338{x=132, y=67, z=34}
+[15:57:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=131, y=67, z=44} class_2338{x=132, y=67, z=45}
+[15:57:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=131, y=67, z=44} class_2338{x=132, y=67, z=45}
+[15:57:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=131, y=67, z=44} class_2338{x=132, y=67, z=45}
+[15:57:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=131, y=68, z=44} class_2338{x=130, y=66, z=44}
+[15:57:47] [Server thread/WARN]: RuKlo moved too quickly! -16.036874742322652,-0.7396130553375713,-8.63253491810832
+[15:57:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=65, z=42} class_2338{x=120, y=65, z=42}
+[15:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:57:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=67, z=45} class_2338{x=121, y=67, z=44}
+[15:57:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=67, z=45} class_2338{x=121, y=67, z=44}
+[15:57:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=67, z=45} class_2338{x=121, y=67, z=44}
+[15:57:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=67, z=45} class_2338{x=121, y=67, z=44}
+[15:57:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=67, z=45} class_2338{x=121, y=67, z=44}
+[15:57:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=67, z=45} class_2338{x=121, y=67, z=44}
+[15:57:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=70, z=45} class_2338{x=120, y=69, z=46}
+[15:58:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=67, z=40} class_2338{x=120, y=67, z=41}
+[15:58:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=68, z=42} class_2338{x=116, y=69, z=46}
+[15:58:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=68, z=42} class_2338{x=116, y=69, z=46}
+[15:58:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=114, y=69, z=48} class_2338{x=115, y=69, z=48}
+[15:58:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=114, y=69, z=48} class_2338{x=115, y=69, z=48}
+[15:58:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=114, y=69, z=48} class_2338{x=115, y=69, z=48}
+[16:03:03] [User Authenticator #10/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[16:03:03] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:57246] logged in with entity id 79386 at (-291.6998246931676, 222.0, 111.50777196671788)
+[16:03:03] [Server thread/INFO]: SKAF_PathFinder joined the game
+[16:07:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/85046, l='ServerLevel[world]', x=-291.08, y=222.19, z=109.70]
+[16:19:42] [Server thread/INFO]: RuKlo fell from a high place
+[16:19:51] [Server thread/INFO]: <RuKlo> ég er ekki mjög glaður
+[16:21:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@65a56334[id=<null>,name=Fez05,properties={},legacy=false] (/194.144.190.143:61920) lost connection: Disconnected
+[16:21:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a9a94f8[id=<null>,name=Fez05,properties={},legacy=false] (/194.144.190.143:61921) lost connection: Disconnected
+[16:22:25] [User Authenticator #11/INFO]: UUID of player Fez05 is f5747f38-226a-4f0c-a400-a33ceb0c8477
+[16:22:25] [Server thread/INFO]: Fez05[/194.144.190.143:62069] logged in with entity id 103721 at (-193.7278362829392, 65.0, 820.8449927729306)
+[16:22:25] [Server thread/INFO]: Fez05 joined the game
+[16:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:26:27] [Server thread/INFO]: Fez05 lost connection: Disconnected
+[16:26:27] [Server thread/INFO]: Fez05 left the game
+[16:27:01] [User Authenticator #12/INFO]: UUID of player Fez05 is f5747f38-226a-4f0c-a400-a33ceb0c8477
+[16:27:01] [Server thread/INFO]: Fez05[/194.144.190.143:62082] logged in with entity id 108789 at (-191.30000001192093, 62.0, 811.3000000119209)
+[16:27:01] [Server thread/INFO]: Fez05 joined the game
+[16:34:16] [Server thread/INFO]: RuKlo fell out of the world
+[16:34:21] [Server thread/INFO]: <Fez05> F
+[16:35:03] [Server thread/INFO]: Fez05 lost connection: Disconnected
+[16:35:03] [Server thread/INFO]: Fez05 left the game
+[16:35:50] [User Authenticator #13/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[16:35:50] [Server thread/INFO]: _Velmca[/31.209.159.67:55020] logged in with entity id 118915 at (288.84817954162935, 74.0, -45.51674097219548)
+[16:35:50] [Server thread/INFO]: _Velmca joined the game
+[16:35:55] [Server thread/INFO]: <RuKlo> blessuð
+[16:35:57] [Server thread/INFO]: <_Velmca> wasshup
+[16:36:01] [Server thread/INFO]: <Gamerfirl_420> Sæl
+[16:37:04] [Server thread/INFO]: <Sminky52> sup
+[16:37:38] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4665671166825054
+[16:40:11] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.28458698598776433
+[16:40:17] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.3493519110797072
+[16:40:23] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.31535100406571637
+[16:41:09] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.484865281344927
+[16:41:15] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4334981477294466
+[16:41:52] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4544510006658431
+[16:42:30] [User Authenticator #14/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[16:42:30] [Server thread/INFO]: Ravle1[/89.160.178.238:49743] logged in with entity id 127424 at (687.3125689982706, 74.0, -1843.8372240383394)
+[16:42:30] [Server thread/INFO]: Ravle1 joined the game
+[16:42:34] [Server thread/INFO]: <_Velmca> wastup
+[16:42:38] [Server thread/INFO]: <RuKlo> halo elvar!
+[16:42:39] [Server thread/INFO]: <_Velmca> watsup*
+[16:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
+[16:43:11] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.36959911078963703
+[16:47:06] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[16:47:06] [Server thread/INFO]: Sminky52 left the game
+[16:47:09] [User Authenticator #15/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[16:47:09] [Server thread/INFO]: Sminky52[/89.17.139.9:53063] logged in with entity id 131660 at (684.051478295159, 73.09054135074086, -1835.252236101078)
+[16:47:09] [Server thread/INFO]: Sminky52 joined the game
+[16:47:59] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 0.0,-10.490796109028025,0.0
+[16:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[16:48:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/132244, l='ServerLevel[world]', x=-234.32, y=83.00, z=605.35]
+[16:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:53:11] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.25397868474826435
+[16:53:20] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5333435173746821
+[16:54:06] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.2558717261293486
+[16:54:17] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.27609437055236086
+[17:00:16] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.384935471687176
+[17:02:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=67, z=-69} class_2338{x=234, y=66, z=-70}
+[17:02:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=67, z=-69} class_2338{x=234, y=66, z=-70}
+[17:02:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=67, z=-69} class_2338{x=234, y=66, z=-70}
+[17:02:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=67, z=-69} class_2338{x=234, y=66, z=-70}
+[17:02:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=233, y=67, z=-69} class_2338{x=234, y=66, z=-70}
+[17:03:29] [Server thread/INFO]: Gamerfirl_420 was shot by Skeleton
+[17:05:03] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[17:05:03] [Server thread/INFO]: Gamerfirl_420 left the game
+[17:05:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=382, y=89, z=-258} class_2338{x=382, y=88, z=-259}
+[17:05:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=382, y=89, z=-258} class_2338{x=382, y=88, z=-259}
+[17:05:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=382, y=89, z=-258} class_2338{x=382, y=88, z=-259}
+[17:06:49] [User Authenticator #16/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[17:06:49] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:58472] logged in with entity id 156070 at (-202.79478278043925, 63.0, 833.9200511653002)
+[17:06:49] [Server thread/INFO]: Gamerfirl_420 joined the game
+[17:07:02] [Server thread/INFO]: <_Velmca> blessaður
+[17:07:09] [Server thread/INFO]: <Gamerfirl_420> Sæl
+[17:07:16] [Server thread/INFO]: <Sminky52> sup
+[17:12:00] [Server thread/INFO]: <Gamerfirl_420> Bruh
+[17:12:02] [Server thread/INFO]: <_Velmca> takkke
+[17:12:03] [Server thread/INFO]: <_Velmca> sorrei
+[17:12:06] [Server thread/INFO]: <Gamerfirl_420> np
+[17:12:15] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[17:12:15] [Server thread/INFO]: Gamerfirl_420 left the game
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -9.364456773455174,-3.0,2.156251496104403
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -9.821541253879275,-3.0,2.20247115922729
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -10.279158496058983,-3.0,2.253167431827851
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -10.736907916483176,-3.0,2.307484112915496
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -11.19472806285063,-3.0,2.3637380024014227
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -11.652586053260222,-3.0,2.421028453477504
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -12.110464293262226,-3.0,2.4788735479936648
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -12.568353368417377,-3.0,2.537015421156216
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -13.026248241246947,-3.0,2.595316094655324
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -13.484146216296494,-3.0,2.653701739048387
+[17:13:03] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -13.942045851282103,-3.0,2.712132849672667
+[17:20:18] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[17:20:18] [Server thread/INFO]: Sminky52 left the game
+[17:20:31] [User Authenticator #17/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[17:20:32] [Server thread/INFO]: Sminky52[/89.17.139.9:54548] logged in with entity id 174367 at (-729.5656772050794, 48.0, 630.3865937726333)
+[17:20:32] [Server thread/INFO]: Sminky52 joined the game
+[17:27:46] [Server thread/WARN]: RuKlo moved too quickly! -7.465989782176621,-10.0,2.8548162944331352
+[17:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[17:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3345, y=63, z=649} class_2338{x=-3348, y=62, z=658}
+[17:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3345, y=63, z=649} class_2338{x=-3348, y=62, z=658}
+[17:38:28] [Server thread/WARN]: RuKlo moved too quickly! 3.650615857421144,-19.0,-3.2813410054193355
+[17:38:28] [Server thread/WARN]: RuKlo moved too quickly! 3.650615857421144,-19.0,-3.2813410054193355
+[17:40:28] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[17:40:28] [Server thread/INFO]: RuKlo left the game
+[17:43:41] [User Authenticator #18/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[17:43:41] [Server thread/INFO]: RuKlo[/157.157.141.64:52960] logged in with entity id 207165 at (-3764.4851954114174, 61.0, -613.6999999880791)
+[17:43:41] [Server thread/INFO]: RuKlo joined the game
+[17:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:48:34] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[17:48:34] [Server thread/INFO]: RuKlo left the game
+[17:52:12] [User Authenticator #19/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[17:52:12] [Server thread/INFO]: RuKlo[/157.157.141.64:49431] logged in with entity id 217955 at (-3768.534790992716, 61.0, -607.0316588306538)
+[17:52:12] [Server thread/INFO]: RuKlo joined the game
+[17:52:17] [Server thread/INFO]: <_Velmca> weba
+[17:52:22] [Server thread/INFO]: <RuKlo> takk
+[17:56:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/221057, l='ServerLevel[world]', x=-291.53, y=253.00, z=114.03]
+[17:56:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/221057, l='ServerLevel[world]', x=-291.53, y=253.00, z=114.03]
+[17:57:24] [Server thread/WARN]: RuKlo moved too quickly! 7.964858591056327,0.0,6.9280948327608485
+[18:01:44] [Server thread/INFO]: Ravle1 has made the advancement [Spooky Scary Skeleton]
+[18:02:18] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.440928934345564
+[18:02:35] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5003023816772854
+[18:02:53] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.3332644240211744
+[18:02:59] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5022322592064379
+[18:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[18:03:12] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4677086177291043
+[18:04:51] [Server thread/WARN]: RuKlo moved too quickly! 6.139008176970492,-13.0,-0.7411971576204905
+[18:05:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=595, y=10, z=-1750} class_2338{x=598, y=13, z=-1751}
+[18:05:17] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.33446832356050216
+[18:06:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=443, y=16, z=-1760} class_2338{x=443, y=15, z=-1760}
+[18:06:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=443, y=16, z=-1760} class_2338{x=443, y=15, z=-1760}
+[18:06:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=443, y=16, z=-1760} class_2338{x=443, y=15, z=-1760}
+[18:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[18:08:17] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4531455406337641
+[18:08:23] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.40888488301729176
+[18:08:33] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.37017824525205434
+[18:08:33] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4206671138137299
+[18:09:45] [Server thread/WARN]: RuKlo moved too quickly! 18.138478452020536,-3.596856764184082,2.1382300841394226
+[18:11:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=546, y=10, z=-1770} class_2338{x=546, y=10, z=-1769}
+[18:11:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=546, y=10, z=-1770} class_2338{x=546, y=10, z=-1769}
+[18:11:09] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.3650875017629023
+[18:11:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=543, y=8, z=-1772} class_2338{x=545, y=7, z=-1771}
+[18:12:39] [User Authenticator #20/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
+[18:12:39] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:56717] logged in with entity id 241536 at (-192.92968176249798, 64.0, 858.6433278820635)
+[18:12:39] [Server thread/INFO]: CRAZYCHICK3N joined the game
+[18:13:10] [Server thread/WARN]: RuKlo moved too quickly! 15.915637994201916,-1.9066169758634004,9.572951592835807
+[18:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[18:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[18:14:52] [Server thread/WARN]: RuKlo moved too quickly! -18.536013082009504,-1.8034903578435006,-3.5099981482979956
+[18:15:26] [User Authenticator #21/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[18:15:26] [Server thread/INFO]: endertad[/89.160.244.218:57220] logged in with entity id 248363 at (3986.517524585514, 58.0, 2431.0316451378335)
+[18:15:26] [Server thread/INFO]: endertad joined the game
+[18:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18:15:52] [Server thread/INFO]: endertad fell out of the world
+[18:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4255ms or 85 ticks behind
+[18:16:30] [Server thread/INFO]: <Sminky52> f
+[18:16:43] [Server thread/INFO]: endertad fell out of the world
+[18:16:44] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[18:16:49] [Server thread/INFO]: <Sminky52> f
+[18:16:51] [Server thread/INFO]: <_Velmca> xP
+[18:19:54] [Server thread/INFO]: <_Velmca> biddu
+[18:19:59] [Server thread/INFO]: <_Velmca> veit ekki hvor er tia
+[18:20:04] [Server thread/INFO]: <RuKlo> aright
+[18:20:32] [Server thread/INFO]: <_Velmca> er með svo marga hesta að eg er gg rugluð
+[18:20:43] [Server thread/INFO]: <RuKlo> ja ég sé það
+[18:20:50] [Server thread/INFO]: <_Velmca> þetta er gellan
+[18:20:56] [Server thread/INFO]: <RuKlo> swag
+[18:21:00] [Server thread/INFO]: <_Velmca> ætlaðiru svo lika ekki að fa 12 hjarta hest?
+[18:21:05] [Server thread/INFO]: <_Velmca> utaf þeir eru i þarna
+[18:21:17] [Server thread/INFO]: <RuKlo> get ég keypt leads af þér lika?
+[18:21:21] [Server thread/INFO]: <_Velmca> er ekki með
+[18:21:26] [Server thread/INFO]: <_Velmca> :Þ
+[18:21:33] [Server thread/WARN]: _Velmca moved wrongly!
+[18:21:34] [Server thread/INFO]: <RuKlo> okay þá tek ég ekki 12 hjarta hestana
+[18:21:38] [Server thread/INFO]: <_Velmca> okr
+[18:21:41] [Server thread/INFO]: <RuKlo> hversu mikið vildirðu fyrir hana
+[18:21:57] [Server thread/INFO]: <_Velmca> en hun er 16 utaf hun er með 10 hraða og hoppar 3 blockz highe
+[18:22:09] [User Authenticator #22/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[18:22:09] [Server thread/INFO]: Hvaaaaluuuurr[/89.160.206.130:49576] logged in with entity id 260148 at (274.2166581120836, 66.07472379453526, -62.65145331332789)
+[18:22:09] [Server thread/INFO]: Hvaaaaluuuurr joined the game
+[18:22:13] [Server thread/INFO]: Hvaaaaluuuurr lost connection: Disconnected
+[18:22:13] [Server thread/INFO]: Hvaaaaluuuurr left the game
+[18:22:13] [Server thread/INFO]: <_Velmca> washup
+[18:22:15] [Server thread/INFO]: <_Velmca> ):
+[18:22:15] [Server thread/INFO]: <RuKlo> 16 diamonds
+[18:22:18] [Server thread/INFO]: <_Velmca> yeye
+[18:22:27] [Server thread/INFO]: <_Velmca> eða idke
+[18:22:36] [Server thread/INFO]: <_Velmca> veit ekki alevg hvað eg a að pricea
+[18:22:44] [Server thread/INFO]: <RuKlo> ég get gefið þér 5 diamonds 1 elytra og 3 shulker boxes
+[18:22:51] [Server thread/INFO]: <_Velmca> eg spurði inna dc i gær og andri sagði 1 demant fyrir 1 hjarta en id
+[18:22:53] [Server thread/INFO]: <_Velmca> k
+[18:23:14] [Server thread/INFO]: _Velmca has reached the goal [Sky's the Limit]
+[18:23:19] [Server thread/INFO]: <_Velmca> afh elytra?
+[18:23:26] [Server thread/INFO]: <RuKlo> kanntu ekki að lesa?
+[18:23:31] [Server thread/INFO]: <_Velmca> oops
+[18:23:34] [Server thread/INFO]: <_Velmca> sa ekki
+[18:23:39] [Server thread/INFO]: <endertad> eg er til i að borga 18 fyrir fullkominn hest
+[18:23:40] [Server thread/INFO]: <_Velmca> takk kærlega
+[18:23:48] [Server thread/INFO]: <_Velmca> þegar eg fæ fullkominn hest
+[18:23:49] [Server thread/INFO]: <RuKlo> ég var með 3 sko
+[18:23:53] [Server thread/INFO]: <_Velmca> ohe
+[18:23:54] [Server thread/INFO]: <_Velmca> takke
+[18:24:02] [Server thread/INFO]: <_Velmca> er ekki enn buin að fara eith i endið
+[18:24:03] [Server thread/INFO]: <RuKlo> ekkert mál og takk fyrir hestinn
+[18:24:08] [Server thread/INFO]: <_Velmca> ekki mal
+[18:24:26] [Server thread/INFO]: <endertad> ruklo get eg keypt af þer shulker bo
+[18:24:30] [Server thread/INFO]: <_Velmca> en axel þegar eg fæ fullkominn hest verð eg örg að nota hann fyrir breeding
+[18:24:30] [Server thread/INFO]: <endertad> box*
+[18:24:36] [Server thread/INFO]: <RuKlo> hversu marga þarftu
+[18:24:43] [Server thread/INFO]: <endertad> 1-2
+[18:24:48] [Server thread/INFO]: <RuKlo> jaja
+[18:24:57] [Server thread/INFO]: <endertad> hvað viltu mikip
+[18:24:59] [Server thread/INFO]: <RuKlo> 4 diamonds?
+[18:25:03] [Server thread/INFO]: <endertad> jaja
+[18:25:06] [Server thread/INFO]: <RuKlo> aright
+[18:25:15] [Server thread/INFO]: <RuKlo> er a hestinum mínum kem eftir sma
+[18:26:08] [Server thread/INFO]: <endertad> get eg fengið 2
+[18:26:15] [Server thread/INFO]: <RuKlo> ja
+[18:26:20] [Server thread/INFO]: <RuKlo> fyrir 4 diamonds
+[18:26:29] [Server thread/INFO]: <endertad> hvert?
+[18:26:42] [Server thread/INFO]: <RuKlo> ég kem til þín
+[18:27:05] [Server thread/INFO]: <RuKlo> hvar átt þú heima aftur? ma ég fa cords?
+[18:27:44] [User Authenticator #23/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[18:27:44] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:58949] logged in with entity id 269209 at (258.95460059315934, 67.9375, -64.49764952640794)
+[18:27:44] [Server thread/INFO]: Gamerfirl_420 joined the game
+[18:27:48] [Server thread/INFO]: <_Velmca> watsup
+[18:27:53] [Server thread/INFO]: <Gamerfirl_420> Yooooo
+[18:27:56] [Server thread/INFO]: <RuKlo> halo
+[18:27:58] [Server thread/INFO]: <endertad> er i netherinu
+[18:28:21] [Server thread/WARN]: Horse (vehicle of RuKlo) moved too quickly! 0.737275491891694,1.0,10.339723431240373
+[18:28:21] [Server thread/WARN]: Horse (vehicle of RuKlo) moved too quickly! 0.58951785862115,1.0,10.79951531388042
+[18:28:21] [Server thread/WARN]: Horse (vehicle of RuKlo) moved too quickly! 0.4020938321544918,1.0,11.243859196509447
+[18:28:21] [Server thread/WARN]: Horse (vehicle of RuKlo) moved too quickly! 0.17395597937456841,1.0,11.66796952148502
+[18:28:21] [Server thread/WARN]: Horse (vehicle of RuKlo) moved too quickly! -0.07710804918542635,1.0,12.080465280748967
+[18:28:21] [Server thread/WARN]: Horse (vehicle of RuKlo) moved too quickly! -0.4136859997124702,1.0,12.41198922470835
+[18:28:46] [Server thread/INFO]: <RuKlo> eg er með hestinn minn og er i overworld
+[18:28:54] [Server thread/INFO]: <RuKlo> ég ríð bara til þín
+[18:28:58] [Server thread/INFO]: <_Velmca> oop
+[18:30:06] [Server thread/WARN]: Horse (vehicle of RuKlo) moved wrongly! 0.2801443096134335
+[18:31:01] [Server thread/INFO]: <endertad> -206 831
+[18:31:10] [Server thread/INFO]: <RuKlo> 8?
+[18:31:13] [Server thread/INFO]: <endertad> oops
+[18:33:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/275319, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:33:22] [Server thread/INFO]: <RuKlo> má ég kannski kaupa slime balls hja einhverjum
+[18:33:27] [Server thread/INFO]: <RuKlo> ef einvher er með??
+[18:33:31] [Server thread/INFO]: <_Velmca> bjartur er með slime farm
+[18:33:34] [Server thread/INFO]: <_Velmca> spurði hann
+[18:33:58] [Server thread/INFO]: <RuKlo> okay takk. Ég spyr hann bar aþegar að hann kemur online
+[18:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/276145, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/276163, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/276172, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.31]
+[18:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/276181, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/276185, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[18:34:03] [Server thread/INFO]: <_Velmca> jaa
+[18:34:11] [Server thread/INFO]: <_Velmca> hann svarar samt frekar fljótt inna d
+[18:34:12] [Server thread/INFO]: <_Velmca> c
+[18:34:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3259, y=71, z=675} class_2338{x=-3260, y=69, z=674}
+[18:34:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3259, y=71, z=675} class_2338{x=-3260, y=69, z=674}
+[18:34:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3259, y=71, z=675} class_2338{x=-3260, y=69, z=674}
+[18:34:34] [Server thread/INFO]: <RuKlo> óðarfi að trufla hann
+[18:34:42] [Server thread/INFO]: <_Velmca> kk
+[18:34:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/277006, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[18:34:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/277035, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:35:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3262, y=70, z=681} class_2338{x=-3264, y=70, z=679}
+[18:35:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/278260, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[18:35:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/278281, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[18:36:36] [Server thread/INFO]: <endertad> hlynur get eg keypt 6 shulker boxes i viðbot
+[18:36:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279723, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[18:36:58] [Server thread/INFO]: <RuKlo> ja
+[18:37:06] [Server thread/INFO]: <RuKlo> en afhverju þarftu svona marga
+[18:37:13] [Server thread/INFO]: <endertad> 12 er það ekki
+[18:37:19] [Server thread/INFO]: <RuKlo> jes
+[18:37:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/281232, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[18:37:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/281242, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:37:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/281252, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:37:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/281255, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:37:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/281260, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:37:52] [Server thread/INFO]: <endertad> a eg að koma til þin
+[18:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[18:38:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/282477, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:38:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/282493, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[18:39:20] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[18:39:20] [Server thread/INFO]: Ravle1 left the game
+[18:43:24] [Server thread/WARN]: Sminky52 moved too quickly! -3.4588853454782793,1.0,9.379586691160057
+[18:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[18:43:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-147, y=43, z=-91} class_2338{x=-147, y=43, z=-90}
+[18:51:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Spruce Boat'/294699, l='ServerLevel[world]', x=-694.47, y=70.00, z=642.64]
+[18:51:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/294900, l='ServerLevel[world]', x=-86.88, y=64.00, z=80.50]
+[18:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[18:57:58] [Server thread/INFO]: <_Velmca> er einhver með dark granite sem eg gæti fengið ?
+[18:58:07] [Server thread/INFO]: <Gamerfirl_420> Perhaps
+[18:58:13] [Server thread/INFO]: <RuKlo> sorry ég hendi alltaf mínu
+[18:58:13] [Server thread/INFO]: <Sminky52> ye
+[18:58:57] [Server thread/INFO]: <Gamerfirl_420> Er að koma með til þín
+[18:59:07] [Server thread/INFO]: <_Velmca> ok biddu er a leiðinni heim
+[19:00:24] [Server thread/INFO]: <Gamerfirl_420> Koddu í Discord VC
+[19:00:40] [Server thread/INFO]: <_Velmca> eftir sma
+[19:01:47] [Server thread/INFO]: <_Velmca> hvar ertu
+[19:01:53] [Server thread/INFO]: <_Velmca> nvm
+[19:02:07] [Server thread/INFO]: <Gamerfirl_420> Nóg?
+[19:02:18] [Server thread/INFO]: <_Velmca> jaa takk
+[19:02:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=95, y=87, z=817} class_2338{x=94, y=85, z=817}
+[19:02:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=95, y=87, z=817} class_2338{x=94, y=85, z=817}
+[19:03:28] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -5.251611390665062,0.17675927506424216,8.658740469643817
+[19:03:28] [Server thread/WARN]: _Velmca moved too quickly! -0.6670412640838634,0.37673561378173304,10.260911631149696
+[19:03:28] [Server thread/WARN]: Sminky52 moved too quickly! -10.298663699507145,0.8176632334739509,-0.007726375796857532
+[19:03:28] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 1.125866198067655,0.0,10.213113402728176
+[19:03:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[19:08:25] [Server thread/INFO]: Gamerfirl_420 was slain by Piglin
+[19:11:00] [Server thread/INFO]: <_Velmca> watsup
+[19:11:06] [Server thread/INFO]: <Gamerfirl_420> The sky
+[19:11:11] [Server thread/INFO]: <_Velmca> ha
+[19:11:20] [Server thread/INFO]: <Gamerfirl_420> And you
+[19:12:22] [Server thread/INFO]: <_Velmca> woe
+[19:13:30] [Server thread/WARN]: Gamerfirl_420 moved too quickly! -0.450049717656384,-0.5813359922251635,10.021118642027318
+[19:13:30] [Server thread/WARN]: Sminky52 moved too quickly! 6.988772833201438,-0.8232407249357578,-7.366020137760188
+[19:14:25] [Server thread/INFO]: <_Velmca> brb
+[19:14:31] [Server thread/INFO]: <Gamerfirl_420> Aight
+[19:14:36] [User Authenticator #24/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[19:14:36] [Server thread/INFO]: Ravle1[/89.160.178.238:50620] logged in with entity id 318997 at (-415.30215007907924, 34.0, 635.4173656782266)
+[19:14:36] [Server thread/INFO]: Ravle1 joined the game
+[19:16:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321502, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:16:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321508, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:16:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321511, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322381, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322381, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322384, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322384, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322388, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322388, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322392, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:17:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322392, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[19:18:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323284, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:18:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323284, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:18:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323288, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:18:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323288, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324353, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324353, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324370, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324370, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324371, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324371, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324374, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324374, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324375, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324375, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[19:20:14] [Server thread/INFO]: <_Velmca> beck
+[19:20:22] [Server thread/INFO]: <Gamerfirl_420> Yooo
+[19:20:31] [Server thread/INFO]: <Sminky52> yo
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325312, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325312, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325313, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325313, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325316, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325316, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325317, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325317, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325322, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325322, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325323, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325323, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325326, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325326, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325327, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:21:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325327, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:21:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/326432, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:21:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/326432, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:22:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327972, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:22:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327973, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:22:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327982, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:22:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327983, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:22:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327986, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:22:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327987, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:23:26] [User Authenticator #25/INFO]: UUID of player Fez05 is f5747f38-226a-4f0c-a400-a33ceb0c8477
+[19:23:26] [Server thread/INFO]: Fez05[/194.144.190.143:63934] logged in with entity id 328527 at (-205.24352198273382, 64.0, 824.7045657827396)
+[19:23:26] [Server thread/INFO]: Fez05 joined the game
+[19:23:33] [Server thread/INFO]: <_Velmca> blessaður
+[19:23:33] [Server thread/WARN]: Fez05 moved too quickly! 6.3298842111194915,1.7967356006687112,-7.764319928677423
+[19:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
+[19:23:37] [Server thread/INFO]: <Fez05> yo
+[19:23:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328704, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:23:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328705, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:23:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328715, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:23:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328716, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:23:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328719, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:24:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330024, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:24:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330025, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:24:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330037, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:24:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330038, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:24:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330041, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:24:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330042, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331310, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331311, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331319, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331320, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331323, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331324, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331328, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:26:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332365, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:26:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333809, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:26:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333816, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:26:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333822, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:26:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333825, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:26:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333830, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:26:58] [Server thread/WARN]: RuKlo was kicked for floating too long!
+[19:26:58] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[19:26:58] [Server thread/INFO]: RuKlo left the game
+[19:26:58] [Server thread/WARN]: handleDisconnection() called twice
+[19:27:02] [User Authenticator #26/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[19:27:02] [Server thread/INFO]: RuKlo[/157.157.141.64:63443] logged in with entity id 333907 at (28.67712581274414, 63.85000001788139, 842.1935348758894)
+[19:27:02] [Server thread/INFO]: RuKlo joined the game
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334949, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334949, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334959, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334959, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334960, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334960, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334963, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334963, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[19:28:10] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[19:28:10] [Server thread/INFO]: SKAF_PathFinder left the game
+[19:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:28:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/336309, l='ServerLevel[world]', x=-417.47, y=35.06, z=635.70]
+[19:33:24] [Server thread/INFO]: <_Velmca> kem aftur a eftir
+[19:33:25] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[19:33:25] [Server thread/INFO]: _Velmca left the game
+[19:35:57] [Server thread/WARN]: RuKlo was kicked for floating too long!
+[19:35:57] [Server thread/INFO]: RuKlo lost connection: Flying is not enabled on this server
+[19:35:57] [Server thread/INFO]: RuKlo left the game
+[19:36:00] [User Authenticator #27/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[19:36:00] [Server thread/INFO]: RuKlo[/157.157.141.64:51265] logged in with entity id 346771 at (15.255286269577748, 66.8500000178814, 851.9785234171945)
+[19:36:00] [Server thread/INFO]: RuKlo joined the game
+[19:36:07] [Server thread/INFO]: <RuKlo> flying is not enabled?
+[19:36:09] [Server thread/INFO]: <RuKlo> swag!
+[19:37:13] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[19:37:13] [Server thread/INFO]: RuKlo left the game
+[19:44:48] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
+[19:44:48] [Server thread/INFO]: CRAZYCHICK3N left the game
+[19:50:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/365027, l='ServerLevel[world]', x=-229.31, y=63.37, z=844.88]
+[19:56:11] [Server thread/INFO]: Gamerfirl_420 was slain by Ravle1
+[19:56:13] [User Authenticator #28/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[19:56:14] [Server thread/INFO]: _Velmca[/31.209.159.67:55611] logged in with entity id 370879 at (-3353.6720276386804, 63.5625, 635.8854892612894)
+[19:56:14] [Server thread/INFO]: _Velmca joined the game
+[19:58:37] [Server thread/INFO]: <_Velmca> enginn hæ ? (,:
+[19:58:42] [Server thread/INFO]: <Fez05> nei
+[19:58:44] [Server thread/INFO]: <Gamerfirl_420> Yooooo
+[19:59:24] [Server thread/INFO]: <Fez05> varst bara farin í svona 10min
+[19:59:29] [Server thread/INFO]: <_Velmca> samt allavegna weba
+[20:04:09] [User Authenticator #29/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
+[20:04:09] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:57099] logged in with entity id 381442 at (-198.66808791438353, 62.0, 826.0971532924929)
+[20:04:09] [Server thread/INFO]: CRAZYCHICK3N joined the game
+[20:04:13] [Server thread/INFO]: <_Velmca> blessaður
+[20:05:23] [Server thread/INFO]: Fez05 has made the advancement [Best Friends Forever]
+[20:06:54] [Server thread/INFO]: Fez05 lost connection: Disconnected
+[20:06:54] [Server thread/INFO]: Fez05 left the game
+[20:11:51] [Server thread/INFO]: CRAZYCHICK3N has made the advancement [A Terrible Fortress]
+[20:15:32] [Server thread/INFO]: Gamerfirl_420 was slain by Piglin
+[20:20:03] [Server thread/INFO]: <_Velmca> brb
+[20:22:59] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[20:22:59] [Server thread/INFO]: Ravle1 left the game
+[20:24:21] [User Authenticator #30/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[20:24:21] [Server thread/INFO]: Ravle1[/89.160.178.238:51212] logged in with entity id 398289 at (700.9740108366394, 70.0, -1769.2776766491259)
+[20:24:21] [Server thread/INFO]: Ravle1 joined the game
+[20:28:37] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 0.16192821790511402,0.0,10.332525733408431
+[20:29:56] [Server thread/INFO]: <_Velmca> heio
+[20:30:04] [Server thread/INFO]: <Gamerfirl_420> áttu svín
+[20:30:08] [Server thread/INFO]: <_Velmca> nee
+[20:30:36] [Server thread/INFO]: <Gamerfirl_420> Koddu í VC Ravle langar að segja þér soldið
+[20:30:41] [Server thread/INFO]: <_Velmca> ha
+[20:30:44] [Server thread/INFO]: <_Velmca> hann segir ekkert
+[20:30:55] [Server thread/INFO]: <Gamerfirl_420> VC
+[20:31:00] [Server thread/INFO]: <Gamerfirl_420> Discord
+[20:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[20:34:23] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.2664066732115842
+[20:38:32] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.42982909833097693
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.14087450408775481,0.0,10.354263053980828
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.1471923171070486,0.0,10.82492888160098
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.1535101296950856,0.0,11.295594709309354
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.15982794205235962,0.0,11.766260537064943
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.16614575428616263,0.0,12.236926364845791
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.17246356645389938,0.0,12.707592192640154
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.17878137858627952,0.0,13.178258020441751
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.185099190699745,0.0,13.64892384824722
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.19141700280309237,0.0,14.119589676054757
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.1977348149010183,0.0,14.590255503863402
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.2040526269960523,0.0,15.06092133167264
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.21037043908953024,0.0,15.531587159482195
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.21668825118218393,0.0,16.002252987291918
+[20:38:39] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -0.22300606327439,0.0,16.472918815101735
+[20:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[20:54:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/421836, l='ServerLevel[world]', x=-291.50, y=253.00, z=113.39]
+[20:55:15] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
+[20:55:15] [Server thread/INFO]: CRAZYCHICK3N left the game
+[20:59:27] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.25585772786303984
+[21:13:16] [Server thread/INFO]: Gamerfirl_420 lost connection: Timed out
+[21:13:16] [Server thread/INFO]: Gamerfirl_420 left the game
+[21:14:24] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.27812153885955704
+[21:14:51] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[21:14:51] [Server thread/INFO]: _Velmca left the game
+[21:16:05] [User Authenticator #31/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[21:16:06] [Server thread/INFO]: _Velmca[/31.209.159.67:55857] logged in with entity id 437537 at (22.304331332123365, 70.8500000178814, -6.208884259375199)
+[21:16:06] [Server thread/INFO]: _Velmca joined the game
+[21:16:44] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[21:16:44] [Server thread/INFO]: Ravle1 left the game
+[21:18:13] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[21:18:13] [Server thread/INFO]: _Velmca left the game
+[21:20:16] [User Authenticator #32/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[21:20:16] [Server thread/INFO]: Ravle1[/89.160.178.238:51442] logged in with entity id 440582 at (-293.12304712814915, 221.5, 112.2345811898682)
+[21:20:16] [Server thread/INFO]: Ravle1 joined the game
+[21:20:16] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/440565, l='ServerLevel[world]', x=-291.44, y=222.12, z=110.30]
+[21:20:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Nugget'/440561, l='ServerLevel[world]', x=-291.89, y=222.00, z=113.15]
+[21:20:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Nugget'/440572, l='ServerLevel[world]', x=-290.94, y=222.38, z=113.13]
+[21:26:29] [User Authenticator #33/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[21:26:29] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:59937] logged in with entity id 447348 at (-292.6628781285486, 222.0, 112.9042976608109)
+[21:26:29] [Server thread/INFO]: Gamerfirl_420 joined the game
+[21:27:53] [Server thread/WARN]: Ravle1 moved too quickly! -0.18195579239255721,11.098066469553032,-0.0036730932576460873
+[21:40:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=70, z=-11} class_2338{x=-100, y=70, z=-11}
+[21:40:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=70, z=-11} class_2338{x=-100, y=70, z=-11}
+[21:40:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=70, z=-11} class_2338{x=-100, y=70, z=-11}
+[21:40:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=70, z=-11} class_2338{x=-100, y=70, z=-11}
+[22:02:46] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[22:02:46] [Server thread/INFO]: Ravle1 left the game
+[22:07:10] [User Authenticator #34/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[22:07:10] [Server thread/INFO]: Ravle1[/89.160.178.238:51641] logged in with entity id 479576 at (-692.7635482219476, 70.0, 642.2447245640392)
+[22:07:10] [Server thread/INFO]: Ravle1 joined the game
+[22:16:19] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[22:16:19] [Server thread/INFO]: Sminky52 left the game
+[22:16:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@57a70a54[id=<null>,name=Sminky52,properties={},legacy=false] (/89.17.139.9:56082) lost connection: Disconnected
+[22:26:57] [User Authenticator #35/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[22:26:57] [Server thread/INFO]: RuKlo[/157.157.141.64:64201] logged in with entity id 504334 at (32.44140544254073, 63.85000001788139, 843.4229159313159)
+[22:26:57] [Server thread/INFO]: RuKlo joined the game
+[22:27:53] [Server thread/WARN]: Horse (vehicle of RuKlo) moved wrongly! 0.2986617374683284
+[22:29:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=39, y=62, z=842} class_2338{x=38, y=62, z=827}
+[22:43:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=40, y=62, z=846} class_2338{x=41, y=62, z=846}
+[22:53:41] [Server thread/WARN]: Ravle1 moved too quickly! -10.034744304303171,-0.2131680611200295,0.3115932755989652
+[22:59:09] [User Authenticator #36/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[22:59:09] [Server thread/INFO]: Sminky52[/89.17.139.9:56454] logged in with entity id 542246 at (-693.9414728065592, 70.0, 642.6833500905699)
+[22:59:09] [Server thread/INFO]: Sminky52 joined the game
+[22:59:13] [Server thread/INFO]: <RuKlo> halo!
+[22:59:22] [Server thread/INFO]: <Sminky52> hi
+[23:02:11] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[23:02:11] [Server thread/INFO]: RuKlo left the game
+[23:08:04] [Server thread/INFO]: Ravle1 hit the ground too hard whilst trying to escape Piglin
+[23:09:05] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[23:09:05] [Server thread/INFO]: Gamerfirl_420 left the game
+[23:09:14] [Server thread/INFO]: Ravle1 was burnt to a crisp whilst fighting Piglin
+[23:10:35] [Server thread/INFO]: Ravle1 was slain by Piglin
+[23:13:39] [Server thread/INFO]: Ravle1 fell from a high place
+[23:15:35] [Server thread/INFO]: Ravle1 was slain by Piglin
+[23:19:15] [Server thread/INFO]: endertad lost connection: Disconnected
+[23:19:15] [Server thread/INFO]: endertad left the game
+[23:24:47] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[23:24:47] [Server thread/INFO]: Ravle1 left the game
+[23:24:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a4e1c5e[id=<null>,name=Ravle1,properties={},legacy=false] (/89.160.178.238:51871) lost connection: Disconnected
+[23:24:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@13c25d9[id=<null>,name=Ravle1,properties={},legacy=false] (/89.160.178.238:51873) lost connection: Disconnected
+[23:26:15] [User Authenticator #37/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[23:26:15] [Server thread/INFO]: Ravle1[/89.160.178.238:52098] logged in with entity id 560035 at (688.5753407426857, 63.0, -1819.699999988079)
+[23:26:15] [Server thread/INFO]: Ravle1 joined the game
+[23:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
+[23:32:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:32:16] [Server thread/INFO]: Nether Fortress -479 57 137<--[HERE]
+[23:32:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:32:17] [Server thread/INFO]: Nether Fortress -479 57 137<--[HERE]
+[23:32:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:32:17] [Server thread/INFO]: Nether Fortress -479 57 137<--[HERE]
+[23:42:37] [User Authenticator #38/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:43:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c0cac09[id=cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a,name=A11y_UwU,properties={textures=[com.mojang.authlib.properties.Property@ace174]},legacy=false] (/127.0.0.1:57530): Took too long to log in
+[23:43:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
+[23:43:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c0cac09[id=cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a,name=A11y_UwU,properties={textures=[com.mojang.authlib.properties.Property@ace174]},legacy=false] (/127.0.0.1:57530) lost connection: Disconnected
+[23:43:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:43:12] [Server thread/INFO]: sss<--[HERE]
+[23:43:19] [User Authenticator #39/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:43:19] [Server thread/INFO]: A11y_UwU[/127.0.0.1:57545] logged in with entity id 563716 at (-534.8493474623531, 69.0, -711.3324017212032)
+[23:43:19] [Server thread/INFO]: A11y_UwU joined the game
+[23:43:21] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15214ms or 304 ticks behind
+[23:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[23:44:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-534, y=45, z=-725} class_2338{x=-535, y=46, z=-726}
+[23:44:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-534, y=45, z=-725} class_2338{x=-535, y=46, z=-726}
+[23:46:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-541, y=44, z=-739} class_2338{x=-541, y=43, z=-739}
+[23:46:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-541, y=44, z=-739} class_2338{x=-541, y=43, z=-739}
+[23:46:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-541, y=44, z=-739} class_2338{x=-541, y=43, z=-739}
+[23:46:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-541, y=44, z=-739} class_2338{x=-541, y=43, z=-739}
+[23:46:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-521, y=44, z=-731} class_2338{x=-522, y=43, z=-721}
+[23:46:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-521, y=44, z=-731} class_2338{x=-522, y=43, z=-721}
+[23:46:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-521, y=44, z=-731} class_2338{x=-522, y=43, z=-721}
+[23:47:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=43, z=-738} class_2338{x=-537, y=44, z=-738}
+[23:47:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=43, z=-738} class_2338{x=-537, y=44, z=-738}
+[23:47:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=43, z=-738} class_2338{x=-537, y=44, z=-738}
+[23:47:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=43, z=-738} class_2338{x=-537, y=44, z=-738}
+[23:47:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=43, z=-738} class_2338{x=-537, y=44, z=-738}
+[23:47:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-526, y=44, z=-740} class_2338{x=-526, y=43, z=-740}
+[23:47:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-526, y=44, z=-740} class_2338{x=-526, y=43, z=-740}
+[23:47:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-526, y=44, z=-740} class_2338{x=-526, y=43, z=-740}
+[23:47:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-526, y=44, z=-740} class_2338{x=-526, y=43, z=-740}
+[23:48:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-524, y=44, z=-738} class_2338{x=-527, y=39, z=-729}
+[23:48:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-524, y=44, z=-738} class_2338{x=-527, y=39, z=-729}
+[23:48:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-524, y=44, z=-738} class_2338{x=-527, y=39, z=-729}
+[23:52:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-536, y=41, z=-717} class_2338{x=-541, y=41, z=-713}
+[23:56:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-551, y=39, z=-713} class_2338{x=-551, y=37, z=-713}
+[23:56:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-547, y=40, z=-713} class_2338{x=-525, y=39, z=-716}
+[23:56:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-547, y=40, z=-713} class_2338{x=-525, y=39, z=-716}
+[23:56:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-547, y=40, z=-713} class_2338{x=-525, y=39, z=-716}

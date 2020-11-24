@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2020-11-23 12:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-11-14 18:08:34 +0000"
@@ -751,6 +757,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-11-14 17:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-11-22 19:13:37 +0000"
     },
     "done": true
   },
@@ -1960,6 +1972,7 @@
       "cooked_cod": "2020-11-21 14:17:33 +0000",
       "mutton": "2020-11-12 15:36:42 +0000",
       "bread": "2020-11-11 21:24:35 +0000",
+      "dried_kelp": "2020-11-23 17:17:41 +0000",
       "melon_slice": "2020-11-11 20:46:32 +0000",
       "carrot": "2020-11-12 17:00:24 +0000"
     },
@@ -3026,6 +3039,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-11-18 16:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-11-22 14:52:19 +0000"
     },
     "done": true
   },

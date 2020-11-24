@@ -179,6 +179,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-11-24 15:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-11-24 15:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-05 15:26:16 +0000"
@@ -338,6 +350,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2020-11-05 15:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-11-24 15:10:22 +0000"
     },
     "done": true
   },
@@ -530,6 +548,18 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2020-11-17 23:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-11-24 15:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-11-24 15:10:22 +0000"
     },
     "done": true
   },
@@ -932,6 +962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-11-24 15:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-05 15:34:31 +0000"
@@ -1147,6 +1183,7 @@
       "minecraft:cold_ocean": "2020-11-10 12:33:13 +0000",
       "minecraft:forest": "2020-11-05 15:09:06 +0000",
       "minecraft:mountains": "2020-11-10 12:26:48 +0000",
+      "minecraft:taiga": "2020-11-24 16:05:56 +0000",
       "minecraft:desert_hills": "2020-11-11 16:39:07 +0000",
       "minecraft:deep_cold_ocean": "2020-11-10 12:33:43 +0000",
       "minecraft:desert": "2020-11-05 15:20:26 +0000",
@@ -1173,6 +1210,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-10 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-11-24 15:13:00 +0000"
     },
     "done": true
   },
@@ -1281,6 +1324,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-11-06 14:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-11-24 15:10:22 +0000"
     },
     "done": true
   },
@@ -1581,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-11-24 15:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-11-05 15:20:58 +0000"
@@ -1613,7 +1668,9 @@
       "chorus_fruit": "2020-11-21 18:41:24 +0000",
       "baked_potato": "2020-11-13 14:57:31 +0000",
       "porkchop": "2020-11-17 23:44:26 +0000",
+      "mutton": "2020-11-24 15:41:24 +0000",
       "bread": "2020-11-10 14:00:55 +0000",
+      "rotten_flesh": "2020-11-24 15:41:20 +0000",
       "mushroom_stew": "2020-11-05 15:55:59 +0000"
     },
     "done": false
@@ -2140,6 +2197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-11-24 15:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-10 13:12:10 +0000"
@@ -2563,6 +2626,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-11-10 13:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-11-24 15:46:37 +0000"
     },
     "done": true
   },

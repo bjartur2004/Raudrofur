@@ -1,108 +1,1758 @@
-[00:00:00] [Server thread/INFO]: <A11y_UwU> yebs
-[00:00:04] [Server thread/INFO]: <togga99> 15
-[00:00:13] [Server thread/INFO]: <togga99> :,(
-[00:00:22] [Server thread/INFO]: <A11y_UwU> woob woob, rosa stuð
-[00:00:22] [Server thread/INFO]: <togga99> ekki lengur:,(
-[00:01:05] [Server thread/INFO]: <A11y_UwU> togga ekki vera sad, þú verður falleg að eilífu
-[00:01:29] [Server thread/INFO]: <A11y_UwU> og til hamingju með afmælið magh
-[00:01:39] [Server thread/INFO]: <togga99> takk
-[00:01:50] [Server thread/INFO]: <togga99> ilo er ekki buin að svara mer i svona viku'
-[00:02:21] [Server thread/INFO]: <A11y_UwU> ja hún hefur ekki svarað mér mikið
-[00:18:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1210473, l='ServerLevel[world]', x=-461.43, y=76.00, z=288.17]
-[00:21:30] [Server thread/INFO]: <A11y_UwU> ég þarf að fara snemma að sofa í nótt
-[00:21:37] [Server thread/INFO]: <A11y_UwU> eða... reyna
-[00:24:20] [Server thread/INFO]: togga99 has made the advancement [Suit Up]
-[00:24:34] [Server thread/INFO]: <A11y_UwU> úlala
-[00:28:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1212805, l='ServerLevel[world]', x=-461.24, y=76.00, z=287.28]
-[00:32:57] [Server thread/INFO]: <togga99> nei
-[00:33:37] [Server thread/INFO]: <A11y_UwU> jæja krúsudúllu afmælis stelpa. ég þarf eiginlega að fata að sofa og þá allavega að hætta í minecraft.. sorry. vertu blessuð í bili <3
-[00:34:20] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:34:20] [Server thread/INFO]: A11y_UwU left the game
-[00:38:31] [Server thread/WARN]: togga99 moved wrongly!
-[00:41:14] [Server thread/WARN]: togga99 moved too quickly! -4.254590599707285,1.1767592750642422,9.083266045886717
-[00:41:32] [Server thread/WARN]: togga99 moved too quickly! 1.0050414153370753,1.1661092609382138,-10.075490808433017
-[00:43:08] [Server thread/WARN]: togga99 moved too quickly! 7.515449314563057,2.1661092609382138,-6.700986673690636
-[00:43:12] [Server thread/WARN]: togga99 was kicked for floating too long!
-[00:43:12] [Server thread/INFO]: togga99 lost connection: Flying is not enabled on this server
-[00:43:12] [Server thread/INFO]: togga99 left the game
-[00:43:21] [User Authenticator #103/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[00:43:21] [Server thread/INFO]: togga99[/89.160.212.94:50383] logged in with entity id 1216368 at (-451.92518957522947, 75.00133597911214, 369.5795250574817)
-[00:43:21] [Server thread/INFO]: togga99 joined the game
-[00:46:53] [Server thread/INFO]: togga99 lost connection: Timed out
-[00:46:53] [Server thread/INFO]: togga99 left the game
-[00:47:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c09c8a[id=<null>,name=togga99,properties={},legacy=false] (/89.160.212.94:50389): Took too long to log in
-[00:47:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c09c8a[id=<null>,name=togga99,properties={},legacy=false] (/89.160.212.94:50389) lost connection: Timed out
-[00:47:47] [User Authenticator #104/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[00:47:47] [Server thread/INFO]: togga99[/89.160.212.94:50404] logged in with entity id 1217381 at (-461.4152614140937, 73.0, 407.1959842815494)
-[00:47:47] [Server thread/INFO]: togga99 joined the game
-[00:48:32] [Server thread/INFO]: togga99 lost connection: Timed out
-[00:48:32] [Server thread/INFO]: togga99 left the game
-[01:06:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:06:06] [Server thread/INFO]: vf<--[HERE]
-[01:59:24] [User Authenticator #105/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[01:59:24] [Server thread/INFO]: togga99[/89.160.212.94:50922] logged in with entity id 1224893 at (-464.9083292190851, 73.0, 414.70603979731266)
-[01:59:24] [Server thread/INFO]: togga99 joined the game
-[01:59:41] [Server thread/WARN]: togga99 moved too quickly! 5.508983317809452,0.12129684053920187,-8.49743236972256
-[02:11:23] [Server thread/INFO]: <togga99> tlerhsrfnf
-[02:11:28] [Server thread/INFO]: togga99 lost connection: Disconnected
-[02:11:28] [Server thread/INFO]: togga99 left the game
-[02:30:20] [User Authenticator #106/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[02:30:20] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62812] logged in with entity id 1229908 at (-535.3000000119209, 5.0, -712.6680110655872)
-[02:30:20] [Server thread/INFO]: A11y_UwU joined the game
-[02:30:22] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
-[02:30:47] [Server thread/INFO]: Inga was slain by A11y_UwU
-[02:30:47] [Server thread/INFO]: Inga lost connection: Killed
-[02:30:47] [Server thread/INFO]: Inga left the game
-[02:32:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-439, y=63, z=-119} class_2338{x=-440, y=61, z=-121}
-[02:32:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-439, y=64, z=-115} class_2338{x=-438, y=63, z=-116}
-[02:32:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-439, y=64, z=-115} class_2338{x=-438, y=63, z=-116}
-[02:32:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=-107} class_2338{x=-428, y=63, z=-107}
-[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-426, y=62, z=-109} class_2338{x=-426, y=62, z=-108}
-[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-426, y=62, z=-109} class_2338{x=-426, y=62, z=-108}
-[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-426, y=62, z=-109} class_2338{x=-426, y=62, z=-108}
-[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-426, y=62, z=-109} class_2338{x=-426, y=62, z=-108}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=62, z=-113} class_2338{x=-433, y=62, z=-114}
-[02:32:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=62, z=-112} class_2338{x=-426, y=61, z=-113}
-[02:32:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=62, z=-112} class_2338{x=-426, y=61, z=-113}
-[02:32:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=62, z=-112} class_2338{x=-426, y=61, z=-113}
-[02:32:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=62, z=-112} class_2338{x=-426, y=61, z=-113}
-[02:32:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=62, z=-112} class_2338{x=-426, y=61, z=-113}
-[02:33:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=60, z=-117} class_2338{x=-433, y=61, z=-118}
-[02:33:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=60, z=-117} class_2338{x=-433, y=61, z=-118}
-[02:33:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=60, z=-117} class_2338{x=-433, y=61, z=-118}
-[02:33:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=60, z=-117} class_2338{x=-433, y=61, z=-118}
-[02:40:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-460, y=60, z=122} class_2338{x=-464, y=63, z=127}
-[02:40:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-466, y=65, z=127} class_2338{x=-465, y=64, z=127}
-[02:41:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-467, y=66, z=127} class_2338{x=-466, y=65, z=127}
-[02:41:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-467, y=66, z=127} class_2338{x=-466, y=65, z=127}
-[02:41:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=67, z=127} class_2338{x=-471, y=70, z=127}
-[02:47:36] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[03:00:06] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[03:01:35] [Server thread/INFO]: [A11y_UwU: Gave 1 [Command Block] to A11y_UwU]
-[03:01:40] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[03:01:51] [Server thread/INFO]: [@: Gave 1 [Til Hamingju Með Afmælið!!!] to A11y_UwU]
-[03:04:35] [Server thread/INFO]: [A11y_UwU: Gave 1 [Firework Rocket] to A11y_UwU]
-[03:06:40] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[03:08:07] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[03:08:07] [Server thread/INFO]: A11y_UwU left the game
-[03:08:19] [Server thread/INFO]: Stopping the server
-[03:08:19] [Server thread/INFO]: Stopping server
-[03:08:19] [Server thread/INFO]: Saving players
-[03:08:19] [Server thread/INFO]: Saving worlds
-[03:08:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:08:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:08:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:08:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:08:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:08:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:36:39] [main/INFO]: Loading for game Minecraft 1.16.4
+[12:36:40] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[12:36:40] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[12:36:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[12:36:50] [main/INFO]: [VanillaEnhanced] Hello there.
+[12:36:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:36:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:36:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:36:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:36:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:36:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:36:53] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[12:36:55] [Worker-Main-4/INFO]: Loaded 7 recipes
+[12:36:55] [Worker-Main-4/INFO]: Loaded 927 advancements
+[12:36:56] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 2.530 ms
+[12:36:56] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[12:36:56] [Server thread/INFO]: Loading properties
+[12:36:56] [Server thread/INFO]: Default game type: SURVIVAL
+[12:36:56] [Server thread/INFO]: Generating keypair
+[12:36:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:36:56] [Server thread/INFO]: Using default channel type
+[12:36:57] [Server thread/INFO]: Preparing level "world"
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[12:36:57] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[12:36:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:36:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:36:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:36:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:36:59] [Server thread/INFO]: Preparing spawn area: 0%
+[12:37:00] [Server thread/INFO]: Time elapsed: 2599 ms
+[12:37:00] [Server thread/INFO]: Done (3.038s)! For help, type "help"
+[12:41:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:41:43] [Server thread/INFO]: gg<--[HERE]
+[12:42:40] [User Authenticator #1/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[12:42:41] [Server thread/INFO]: RuKlo[/157.157.141.64:59191] logged in with entity id 76 at (36.296401336609875, 63.0, 827.592295508039)
+[12:42:41] [Server thread/INFO]: RuKlo joined the game
+[12:48:01] [Server thread/WARN]: RuKlo was kicked for floating too long!
+[12:48:01] [Server thread/INFO]: RuKlo lost connection: Flying is not enabled on this server
+[12:48:01] [Server thread/INFO]: RuKlo left the game
+[12:48:01] [Server thread/WARN]: handleDisconnection() called twice
+[12:48:04] [User Authenticator #2/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[12:48:05] [Server thread/INFO]: RuKlo[/157.157.141.64:50657] logged in with entity id 1601 at (203.56842090529534, 68.8500000178814, -14.581655065361245)
+[12:48:05] [Server thread/INFO]: RuKlo joined the game
+[12:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[13:01:29] [Server thread/WARN]: Tía (vehicle of RuKlo) moved wrongly! 0.3009637944651331
+[13:13:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=43, y=64, z=828} class_2338{x=24, y=70, z=812}
+[13:14:18] [User Authenticator #3/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[13:14:18] [Server thread/INFO]: endertad[/89.160.244.218:62368] logged in with entity id 5184 at (-186.67206405325513, 64.875, 824.7701915632532)
+[13:14:18] [Server thread/INFO]: endertad joined the game
+[13:14:20] [Server thread/INFO]: <RuKlo> halo!
+[13:14:25] [Server thread/INFO]: <endertad> hi
+[13:14:38] [Server thread/INFO]: <endertad> vc
+[13:17:48] [Server thread/INFO]: <endertad> get eg keypt 10 shulker shells
+[13:18:08] [Server thread/INFO]: <RuKlo> jaja
+[13:18:45] [Server thread/INFO]: <endertad> viltu koma i cv
+[13:18:47] [Server thread/INFO]: <endertad> vc
+[13:18:53] [Server thread/INFO]: Reloading!
+[13:18:53] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:18:53] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:18:53] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:18:53] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:18:53] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:18:53] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[13:18:54] [Server thread/INFO]: Loaded 7 recipes
+[13:18:54] [Server thread/INFO]: Loaded 927 advancements
+[13:19:01] [Server thread/INFO]: <RuKlo> nah mig langar ekki að fara i vc sorry
+[13:19:11] [Server thread/INFO]: <endertad> pl
+[13:19:15] [Server thread/INFO]: <endertad> ok*
+[13:19:19] [Server thread/INFO]: <RuKlo> :D
+[13:19:22] [User Authenticator #4/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[13:19:22] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55027] logged in with entity id 7288 at (-429.0972845973957, 75.0, 341.5853398512559)
+[13:19:22] [Server thread/INFO]: A11y_UwU joined the game
+[13:19:23] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[13:19:25] [Server thread/INFO]: <RuKlo> halo
+[13:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[13:19:34] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[13:19:36] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[13:19:37] [Server thread/INFO]: <endertad> halo
+[13:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
+[13:19:58] [Server thread/INFO]: <A11y_UwU> hi, im just testing a data pack
+[13:20:03] [Server thread/INFO]: <RuKlo> hvaða?
+[13:20:05] [Server thread/INFO]: <endertad> ooooooooooooh
+[13:20:38] [Server thread/INFO]: <A11y_UwU> death conter
+[13:20:54] [Server thread/INFO]: <RuKlo> þú getur gert death counter sjalfur með leaderboards...
+[13:21:15] [Server thread/INFO]: <A11y_UwU> ye but that hard
+[13:21:19] [Server thread/INFO]: <RuKlo> what!
+[13:21:21] [Server thread/INFO]: <RuKlo> ne
+[13:21:23] [Server thread/INFO]: <RuKlo> i
+[13:21:31] [Server thread/INFO]: <A11y_UwU> harder then data packs
+[13:21:40] [Server thread/INFO]: <RuKlo> sma satt
+[13:22:08] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:22:52] [Server thread/INFO]: [A11y_UwU: Reloading!]
+[13:22:52] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:22:52] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:22:52] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:22:52] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:22:52] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:22:52] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[13:22:52] [Server thread/INFO]: Loaded 7 recipes
+[13:22:53] [Server thread/INFO]: Loaded 927 advancements
+[13:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[13:23:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:23:08] [Server thread/INFO]: s<--[HERE]
+[13:25:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9412, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[13:26:17] [Server thread/INFO]: [A11y_UwU: Reloading!]
+[13:26:17] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:26:17] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:26:17] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:26:17] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:26:17] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:26:17] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811
+[13:26:18] [Server thread/INFO]: Loaded 7 recipes
+[13:26:18] [Server thread/INFO]: Loaded 927 advancements
+[13:27:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:27:34] [Server thread/INFO]: endertad lost connection: Disconnected
+[13:27:34] [Server thread/INFO]: endertad left the game
+[13:29:29] [User Authenticator #5/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[13:29:29] [Server thread/INFO]: Sminky52[/89.17.139.9:58869] logged in with entity id 10998 at (-679.6999999880791, 59.0, 645.3000000119209)
+[13:29:29] [Server thread/INFO]: Sminky52 joined the game
+[13:29:33] [Server thread/INFO]: <RuKlo> sminky!
+[13:29:42] [Server thread/INFO]: <Sminky52> sup
+[13:30:01] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[13:30:01] [Server thread/INFO]: ...in:install"<--[HERE]
+[13:30:10] [Server thread/INFO]: Reloading!
+[13:30:10] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:30:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:30:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:30:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:30:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:30:10] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811
+[13:30:10] [Server thread/INFO]: Loaded 7 recipes
+[13:30:11] [Server thread/INFO]: Loaded 927 advancements
+[13:30:18] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[13:30:18] [Server thread/INFO]: ...in:install"<--[HERE]
+[13:30:27] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[13:30:27] [Server thread/INFO]: ...in:install" <--[HERE]
+[13:30:34] [Server thread/INFO]: Incorrect argument for command
+[13:30:34] [Server thread/INFO]: ...n:install "<--[HERE]
+[13:30:56] [Server thread/INFO]: Unknown function tools-allgemein:instal
+[13:31:22] [Server thread/INFO]: Unknown function tools-allgemein:install
+[13:31:36] [Server thread/INFO]: Executed 43 commands from function 'tools-deathcount:install'
+[13:31:46] [Server thread/INFO]: Unknown function tools-allgemein:install
+[13:31:56] [Server thread/INFO]: [A11y_UwU: Triggered [Settings for Tools - DeathCount]]
+[13:32:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:32:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:32:41] [Server thread/INFO]: [A11y_UwU: Disabling data pack [file/Tools v. Luki2811 (world)]]
+[13:32:41] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:32:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:32:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:41] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced
+[13:32:42] [Server thread/INFO]: Loaded 7 recipes
+[13:32:42] [Server thread/INFO]: Loaded 927 advancements
+[13:32:55] [Server thread/INFO]: [A11y_UwU: Enabling data pack [file/Tools v. Luki2811 (world)]]
+[13:32:55] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:32:55] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:55] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:55] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:32:55] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:55] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811
+[13:32:55] [Server thread/INFO]: Loaded 7 recipes
+[13:32:55] [Server thread/INFO]: Loaded 927 advancements
+[13:33:10] [Server thread/INFO]: [A11y_UwU: Executed 43 commands from function 'tools-deathcount:install']
+[13:33:28] [Server thread/INFO]: [A11y_UwU: Executed 30 commands from function 'tools-deathcount:core']
+[13:33:33] [Server thread/INFO]: [A11y_UwU: Executed 3 commands from function 'tools-deathcount:info']
+[13:34:48] [Server thread/INFO]: [A11y_UwU: Triggered [Settings for Tools - DeathCount]]
+[13:34:53] [Server thread/INFO]: [A11y_UwU: Triggered [Settings for Tools - DeathCount]]
+[13:35:36] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[13:35:36] [Server thread/INFO]: A11y_UwU left the game
+[13:35:37] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[13:35:38] [Server thread/INFO]: A11y_UwU[/127.0.0.1:56409] logged in with entity id 13144 at (-426.81365954321404, 75.0, 345.64944220550643)
+[13:35:38] [Server thread/INFO]: A11y_UwU joined the game
+[13:35:39] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[13:35:40] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[13:35:40] [Server thread/INFO]: A11y_UwU left the game
+[13:36:53] [Server thread/INFO]: Reloading!
+[13:36:53] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:36:53] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:36:53] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:36:53] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:36:53] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:36:53] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811
+[13:36:54] [Server thread/INFO]: Loaded 7 recipes
+[13:36:54] [Server thread/INFO]: Loaded 927 advancements
+[13:36:56] [User Authenticator #7/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[13:36:57] [Server thread/INFO]: A11y_UwU[/127.0.0.1:56532] logged in with entity id 13511 at (-426.81365954321404, 75.0, 345.64944220550643)
+[13:36:57] [Server thread/INFO]: A11y_UwU joined the game
+[13:36:57] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[13:37:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:37:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:37:18] [Server thread/INFO]: Unknown function tools-allgemein:install
+[13:37:39] [Server thread/INFO]: [A11y_UwU: Executed 72 commands from function 'tools-cores:install']
+[13:37:59] [Server thread/INFO]: [A11y_UwU: Executed 43 commands from function 'tools-deathcount:install']
+[13:38:14] [Server thread/INFO]: [A11y_UwU: Triggered [Settings for Tools - DeathCount]]
+[13:38:22] [Server thread/INFO]: [A11y_UwU: Triggered [dc_settings] (set value to 1)]
+[13:39:56] [Server thread/INFO]: <A11y_UwU> we now have a death counter, ill try to see if i can manually add the deaths that alredy happened and if i can find it everyone needs to send me their death stat
+[13:41:47] [Server thread/INFO]: <RuKlo> 22
+[13:42:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:42:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:42:14] [User Authenticator #8/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[13:42:15] [Server thread/INFO]: Ravle1[/89.160.178.238:58572] logged in with entity id 15358 at (683.7044422508585, 66.0, -1821.371545172506)
+[13:42:15] [Server thread/INFO]: Ravle1 joined the game
+[13:43:16] [Server thread/INFO]: [A11y_UwU: Executed 3 commands from function 'tools-deathcount:info']
+[13:44:02] [Server thread/INFO]: [A11y_UwU: Triggered [Settings for Tools - DeathCount]]
+[13:44:20] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[13:44:20] [Server thread/INFO]: A11y_UwU left the game
+[13:44:45] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[13:44:45] [Server thread/INFO]: Ravle1 left the game
+[13:44:47] [User Authenticator #9/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[13:44:47] [Server thread/INFO]: Ravle1[/89.160.178.238:58635] logged in with entity id 17076 at (719.5775552296036, 69.0, -1759.6873530707535)
+[13:44:47] [Server thread/INFO]: Ravle1 joined the game
+[13:47:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:47:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:47:36] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[13:47:36] [Server thread/INFO]: Ravle1 left the game
+[13:47:39] [User Authenticator #10/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[13:47:39] [Server thread/INFO]: Ravle1[/89.160.178.238:58697] logged in with entity id 18347 at (698.4438284334404, 83.0, -1777.2418507170983)
+[13:47:39] [Server thread/INFO]: Ravle1 joined the game
+[13:49:29] [User Authenticator #11/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[13:49:33] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[13:49:33] [Server thread/INFO]: Ravle1 left the game
+[13:49:33] [Server thread/INFO]: Ravle1[/89.160.178.238:58720] logged in with entity id 19247 at (701.2700973048002, 83.0, -1777.243833960332)
+[13:49:33] [Server thread/INFO]: Ravle1 joined the game
+[13:51:15] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[13:51:15] [Server thread/INFO]: RuKlo left the game
+[13:52:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:52:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:57:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[13:57:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:02:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:02:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:04:51] [User Authenticator #12/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
+[14:04:51] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:50218] logged in with entity id 23143 at (-60.67923766834684, 69.0, 41.1666273963493)
+[14:04:51] [Server thread/INFO]: CRAZYCHICK3N joined the game
+[14:07:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:07:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:11:05] [Server thread/INFO]: CRAZYCHICK3N has made the advancement [Those Were the Days]
+[14:12:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:12:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:17:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:17:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:20:10] [Server thread/INFO]: <Sminky52> 79
+[14:22:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:22:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:27:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:27:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:32:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-110, y=73, z=-35} class_2338{x=-110, y=74, z=-35}
+[14:32:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-110, y=73, z=-35} class_2338{x=-110, y=74, z=-35}
+[14:32:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:32:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:37:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:37:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:41:14] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[14:41:14] [Server thread/INFO]: A11y_UwU[/127.0.0.1:60349] logged in with entity id 42016 at (-426.5090749238559, 75.0, 345.94278960239575)
+[14:41:14] [Server thread/INFO]: A11y_UwU joined the game
+[14:41:15] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[14:42:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:42:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:43:06] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for A11y_UwU to 5]
+[14:43:13] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for A11y_UwU to 0]
+[14:43:25] [Server thread/INFO]: Steve[local] logged in with entity id 43089 at (-426.5090749238559, 75.0, 345.94278960239575)
+[14:43:25] [Server thread/INFO]: Steve joined the game
+[14:43:38] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Steve to 20]
+[14:43:42] [Server thread/INFO]: Steve was slain by A11y_UwU
+[14:43:42] [Server thread/INFO]: Steve lost connection: Killed
+[14:43:42] [Server thread/INFO]: Steve left the game
+[14:43:45] [Server thread/INFO]: Steve[local] logged in with entity id 43262 at (-427.97246555309005, 75.0, 344.4113691088001)
+[14:43:45] [Server thread/INFO]: Steve joined the game
+[14:43:49] [Server thread/INFO]: Steve was slain by A11y_UwU
+[14:43:49] [Server thread/INFO]: Steve lost connection: Killed
+[14:43:49] [Server thread/INFO]: Steve left the game
+[14:44:11] [Server thread/INFO]: <A11y_UwU> ok the data pack works and i can set everyones deaths manually
+[14:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43735, l='ServerLevel[world]', x=-461.75, y=76.00, z=287.70]
+[14:47:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:47:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:47:23] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for RuKlo to 22]
+[14:48:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@7660bfa9[id=<null>,name=_Velmca,properties={},legacy=false] (/157.157.180.211:50890) lost connection: Disconnected
+[14:49:19] [User Authenticator #14/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[14:49:19] [Server thread/INFO]: _Velmca[/157.157.180.211:50928] logged in with entity id 46243 at (237.80422302218676, 67.8500000178814, -15.077115356290257)
+[14:49:19] [Server thread/INFO]: _Velmca joined the game
+[14:49:32] [Server thread/INFO]: <Sminky52> sup
+[14:50:39] [User Authenticator #15/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[14:50:39] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51734] logged in with entity id 47020 at (-300.13749998807907, 222.0, 110.6965639383796)
+[14:50:39] [Server thread/INFO]: SKAF_PathFinder joined the game
+[14:50:47] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for A11y_UwU to 29]
+[14:52:10] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:52:10] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:52:11] [Server thread/INFO]: <SKAF_PathFinder> Who is in the nether?
+[14:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:55:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/50796, l='ServerLevel[world]', x=-461.71, y=76.00, z=286.83]
+[14:56:09] [Server thread/INFO]: <Sminky52> er einhver i goold farminu?
+[14:56:12] [Server thread/INFO]: <_Velmca> ne
+[14:57:12] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:57:12] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[14:57:14] [Server thread/INFO]: <SKAF_PathFinder> Who is in the nether?
+[14:57:18] [Server thread/INFO]: <Sminky52> me
+[14:57:35] [Server thread/INFO]: <SKAF_PathFinder> Ok, when you leaving nether?
+[14:58:27] [Server thread/INFO]: _Velmca was slain by Piglin
+[14:58:31] [Server thread/INFO]: <SKAF_PathFinder> F
+[14:58:35] [Server thread/INFO]: <Sminky52> f
+[14:58:37] [User Authenticator #16/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[14:58:37] [Server thread/INFO]: RuKlo[/157.157.141.64:49765] logged in with entity id 53740 at (36.89433743864417, 67.5, 822.8075214543213)
+[14:58:37] [Server thread/INFO]: RuKlo joined the game
+[14:58:39] [Server thread/INFO]: <A11y_UwU> geta allir sem eru online núna checkað á death counterinum sínum?
+[14:58:41] [Server thread/INFO]: <CRAZYCHICK3N> F
+[14:58:50] [Server thread/INFO]: <CRAZYCHICK3N> 26 hja mér
+[14:58:56] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for _Velmca to 17]
+[14:58:59] [Server thread/INFO]: <Sminky52> 79
+[14:59:16] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for CRAZYCHICK3N to 26]
+[14:59:35] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Sminky52 to 79]
+[15:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15:00:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@5baaf799[id=<null>,name=Gamerfirl_420,properties={},legacy=false] (/89.160.187.248:53823) lost connection: Disconnected
+[15:00:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@63695ae7[id=<null>,name=Gamerfirl_420,properties={},legacy=false] (/89.160.187.248:53828) lost connection: Disconnected
+[15:00:45] [User Authenticator #17/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[15:00:45] [Server thread/INFO]: endertad[/89.160.244.218:50094] logged in with entity id 55766 at (-204.39010426291355, 63.0, 830.8475738773799)
+[15:00:45] [Server thread/INFO]: endertad joined the game
+[15:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
+[15:00:48] [User Authenticator #18/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[15:00:48] [Server thread/INFO]: Fibblifubb[/89.160.200.16:52714] logged in with entity id 55804 at (-226.78812783889273, 59.0, 2209.3152823169544)
+[15:00:48] [Server thread/INFO]: Fibblifubb joined the game
+[15:00:49] [Server thread/INFO]: <RuKlo> hallo!
+[15:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9544ms or 190 ticks behind
+[15:01:20] [Server thread/INFO]: <endertad> 38
+[15:01:33] [Server thread/INFO]: <Ravle1> 70
+[15:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6732ms or 134 ticks behind
+[15:01:38] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for endertad to 38]
+[15:01:44] [Server thread/INFO]: <SKAF_PathFinder> 28
+[15:01:45] [User Authenticator #19/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[15:01:46] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:54059] logged in with entity id 56479 at (-185.57578742667312, 64.875, 824.0252515183324)
+[15:01:46] [Server thread/INFO]: Gamerfirl_420 joined the game
+[15:01:52] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Ravle1 to 70]
+[15:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9369ms or 187 ticks behind
+[15:02:06] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for SKAF_PathFinder to 28]
+[15:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10340ms or 206 ticks behind
+[15:02:42] [Server thread/INFO]: <CRAZYCHICK3N> þarf svo og hætta rétt bráðum
+[15:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5616ms or 112 ticks behind
+[15:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[15:03:05] [Server thread/INFO]: <A11y_UwU> skaf það er kjaftæði að þú sért bara með 28 UwU
+[15:03:06] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:03:06] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:03:11] [Server thread/INFO]: <Fibblifubb> 2
+[15:03:27] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Fibblifubb to 2]
+[15:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10352ms or 207 ticks behind
+[15:03:45] [Server thread/INFO]: <endertad> nvm 50
+[15:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4688ms or 93 ticks behind
+[15:03:52] [Server thread/INFO]: <SKAF_PathFinder> Is says ''Number of deaths'' as 28
+[15:04:04] [Server thread/INFO]: <_Velmca> blessaður
+[15:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:04:05] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
+[15:04:05] [Server thread/INFO]: CRAZYCHICK3N left the game
+[15:04:09] [Server thread/INFO]: <Ravle1> hi
+[15:04:11] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for endertad to 50]
+[15:04:20] [Server thread/INFO]: <Gamerfirl_420> Died 31 times
+[15:04:24] [Server thread/INFO]: <A11y_UwU> k
+[15:04:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4, y=58, z=-18} class_2338{x=4, y=56, z=-19}
+[15:04:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4, y=58, z=-18} class_2338{x=4, y=56, z=-19}
+[15:04:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Spruce Boat'/58874, l='ServerLevel[world]', x=-694.80, y=70.00, z=641.92]
+[15:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[15:04:38] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Gamerfirl_420 to 31]
+[15:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[15:04:55] [Server thread/INFO]: <SKAF_PathFinder> A11y_UwU Do not put on ''No shulker respawn''
+[15:04:59] [Server thread/INFO]: <Fibblifubb> 12
+[15:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[15:05:17] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Fibblifubb to 12]
+[15:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4249ms or 84 ticks behind
+[15:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5858ms or 117 ticks behind
+[15:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6880ms or 137 ticks behind
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.3319134780609829
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.7265812596239698
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 1.109134363904559
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 1.478296084129397
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 1.724869311601102
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 1.983110590098794
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 2.3014931056985493
+[15:06:14] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 2.6734850291052843
+[15:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8725ms or 174 ticks behind
+[15:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10138ms or 202 ticks behind
+[15:07:06] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.3731102997016933
+[15:07:06] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.9018400343095436
+[15:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12724ms or 254 ticks behind
+[15:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8453ms or 169 ticks behind
+[15:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9560ms or 191 ticks behind
+[15:08:35] [Server thread/INFO]: <SKAF_PathFinder> Who is in the nether?
+[15:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8139ms or 162 ticks behind
+[15:08:41] [Server thread/INFO]: <Sminky52> me
+[15:08:49] [Server thread/INFO]: <SKAF_PathFinder> Ok, when you leaving nether?
+[15:09:04] [Server thread/INFO]: <Sminky52> now
+[15:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9707ms or 194 ticks behind
+[15:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9466ms or 189 ticks behind
+[15:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11598ms or 231 ticks behind
+[15:10:23] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.38780120190676826
+[15:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11887ms or 237 ticks behind
+[15:10:31] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:10:31] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:10:34] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -9.976376752198576,0.0,1.6490210168432213
+[15:10:34] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! -10.15224692631,0.0,1.8158191632346643
+[15:10:46] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4260291958785274
+[15:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13224ms or 264 ticks behind
+[15:11:01] [Server thread/WARN]: A11y_UwU moved too quickly! 0.12009335655852738,-64.0,-2.0473249713730866
+[15:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7347ms or 146 ticks behind
+[15:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6645ms or 132 ticks behind
+[15:11:40] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[15:11:40] [Server thread/INFO]: A11y_UwU left the game
+[15:11:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[15:12:15] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.43666835119347525
+[15:12:27] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.49090580027859687
+[15:12:43] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.33532921849064223
+[15:12:59] [User Authenticator #20/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[15:12:59] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62298] logged in with entity id 67401 at (-538.5824172687644, 5.0, -718.1577729732346)
+[15:12:59] [Server thread/INFO]: A11y_UwU joined the game
+[15:12:59] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[15:13:00] [Server thread/INFO]: Fibblifubb has made the advancement [Local Brewery]
+[15:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[15:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4388ms or 87 ticks behind
+[15:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5342ms or 106 ticks behind
+[15:14:21] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[15:14:21] [Server thread/INFO]: RuKlo left the game
+[15:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4705ms or 94 ticks behind
+[15:14:37] [Server thread/INFO]: Fibblifubb has made the advancement [Cover Me With Diamonds]
+[15:14:42] [Server thread/INFO]: Fibblifubb has reached the goal [Sky's the Limit]
+[15:14:52] [Server thread/INFO]: <A11y_UwU> :/
+[15:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
+[15:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
+[15:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[15:16:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4015ms or 80 ticks behind
+[15:16:37] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:16:37] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:16:39] [Server thread/WARN]: _Velmca moved too quickly! 10.113343885477093,-0.604424101326714,0.06953169023098482
+[15:16:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10174ms or 203 ticks behind
+[15:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6106ms or 122 ticks behind
+[15:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
+[15:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[15:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
+[15:18:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[15:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[15:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[15:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[15:19:31] [Server thread/INFO]: Fibblifubb was slain by Enderman
+[15:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3549ms or 70 ticks behind
+[15:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3265ms or 65 ticks behind
+[15:20:20] [Server thread/INFO]: <A11y_UwU> sleep UwU
+[15:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
+[15:20:26] [Server thread/INFO]: <_Velmca> nei UwU
+[15:20:33] [Server thread/INFO]: <Sminky52> na
+[15:20:35] [Server thread/INFO]: <Gamerfirl_420> Can't UwU
+[15:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4356ms or 87 ticks behind
+[15:20:56] [User Authenticator #21/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[15:20:56] [Server thread/INFO]: togga99[/89.160.212.94:56575] logged in with entity id 74388 at (-425.5, 75.0, 336.5)
+[15:20:56] [Server thread/INFO]: togga99 joined the game
+[15:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6692ms or 133 ticks behind
+[15:21:05] [Server thread/INFO]: <_Velmca> blessuð
+[15:21:07] [Server thread/INFO]: <endertad> hi
+[15:21:08] [Server thread/INFO]: <SKAF_PathFinder> togga99, Hello
+[15:21:08] [Server thread/INFO]: <togga99> hii
+[15:21:24] [Server thread/INFO]: <SKAF_PathFinder> üg
+[15:21:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6907ms or 138 ticks behind
+[15:21:35] [Server thread/INFO]: <SKAF_PathFinder> ärg
+[15:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5949ms or 118 ticks behind
+[15:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7560ms or 151 ticks behind
+[15:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8818ms or 176 ticks behind
+[15:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8926ms or 178 ticks behind
+[15:23:02] [Server thread/WARN]: Fibblifubb moved too quickly! 2071.546242978763,14.464159374955443,372.14100499460704
+[15:23:02] [Server thread/WARN]: Fibblifubb moved too quickly! 2071.546242978763,14.464159374955443,372.14100499460704
+[15:23:02] [Server thread/WARN]: Fibblifubb moved too quickly! 2071.546242978763,14.464159374955443,372.14100499460704
+[15:23:02] [Server thread/WARN]: Fibblifubb moved too quickly! 2071.546242978763,14.464159374955443,372.14100499460704
+[15:23:02] [Server thread/WARN]: Entity class_3222['Fibblifubb'/55804, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[15:23:04] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:23:04] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:23:06] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[15:23:06] [Server thread/INFO]: _Velmca left the game
+[15:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10014ms or 200 ticks behind
+[15:23:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:23:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:23:27] [Server thread/WARN]: togga99 moved too quickly! -5.477077713680728,1.1661092609382138,8.405180749497049
+[15:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12127ms or 242 ticks behind
+[15:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5867ms or 117 ticks behind
+[15:24:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7891ms or 157 ticks behind
+[15:24:38] [Server thread/INFO]: endertad has completed the challenge [Serious Dedication]
+[15:24:51] [Server thread/INFO]: <A11y_UwU> hell yeah boyyyy
+[15:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[15:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5402ms or 108 ticks behind
+[15:25:22] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[15:25:22] [Server thread/INFO]: Sminky52 left the game
+[15:25:26] [User Authenticator #22/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[15:25:26] [Server thread/INFO]: Sminky52[/89.17.139.9:50573] logged in with entity id 83829 at (-523.3000000119209, 11.0, 663.2597472101155)
+[15:25:26] [Server thread/INFO]: Sminky52 joined the game
+[15:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4610ms or 92 ticks behind
+[15:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5669ms or 113 ticks behind
+[15:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5657ms or 113 ticks behind
+[15:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[15:26:55] [Server thread/WARN]: Fibblifubb moved too quickly! 4.3378008294356505,-20.0,5.567654191241672
+[15:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6580ms or 131 ticks behind
+[15:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[15:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6136ms or 122 ticks behind
+[15:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4704ms or 94 ticks behind
+[15:28:17] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[15:28:17] [Server thread/INFO]: A11y_UwU left the game
+[15:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5210ms or 104 ticks behind
+[15:28:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7323ms or 146 ticks behind
+[15:28:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
+[15:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[15:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[15:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[15:30:12] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:30:12] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:30:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5395ms or 107 ticks behind
+[15:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[15:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15:34:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92769, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[15:35:23] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:35:23] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[15:35:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:35:39] [Server thread/INFO]: m<--[HERE]
+[15:36:02] [Server thread/INFO]: Fibblifubb fell out of the world
+[15:36:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/94185, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.51]
+[15:37:00] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[15:37:00] [Server thread/INFO]: Gamerfirl_420 left the game
+[15:39:27] [Server thread/INFO]: endertad lost connection: Disconnected
+[15:39:27] [Server thread/INFO]: endertad left the game
+[15:40:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:40:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:40:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=15, z=-95} class_2338{x=-279, y=14, z=-95}
+[15:41:17] [Server thread/INFO]: togga99 was slain by Zombie
+[15:41:18] [Server thread/INFO]: togga99 lost connection: Disconnected
+[15:41:18] [Server thread/INFO]: togga99 left the game
+[15:45:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:45:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:46:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-261, y=14, z=-86} class_2338{x=-261, y=12, z=-85}
+[15:46:37] [Server thread/INFO]: Fibblifubb has made the advancement [Ol' Betsy]
+[15:47:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-235, y=12, z=-79} class_2338{x=-238, y=13, z=-87}
+[15:47:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-235, y=12, z=-79} class_2338{x=-238, y=13, z=-87}
+[15:50:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:50:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=13, z=-88} class_2338{x=-202, y=13, z=-86}
+[15:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=13, z=-88} class_2338{x=-202, y=13, z=-86}
+[15:50:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=13, z=-88} class_2338{x=-202, y=13, z=-86}
+[15:50:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=13, z=-88} class_2338{x=-202, y=13, z=-86}
+[15:50:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=13, z=-88} class_2338{x=-202, y=13, z=-86}
+[15:50:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=13, z=-88} class_2338{x=-202, y=13, z=-86}
+[15:51:47] [User Authenticator #23/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[15:51:47] [Server thread/INFO]: endertad[/89.160.244.218:51653] logged in with entity id 102934 at (-192.98861287808728, 64.0, 823.2036843186038)
+[15:51:47] [Server thread/INFO]: endertad joined the game
+[15:54:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-193, y=13, z=-77} class_2338{x=-192, y=13, z=-77}
+[15:54:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-193, y=13, z=-77} class_2338{x=-192, y=13, z=-77}
+[15:54:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-193, y=13, z=-77} class_2338{x=-192, y=13, z=-77}
+[15:54:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-193, y=13, z=-77} class_2338{x=-192, y=13, z=-77}
+[15:54:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-193, y=13, z=-77} class_2338{x=-192, y=13, z=-77}
+[15:55:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/104866, l='ServerLevel[world]', x=-234.35, y=83.00, z=604.10]
+[15:55:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:55:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:55:27] [Server thread/WARN]: Ravle1 moved wrongly!
+[15:55:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-177, y=11, z=-79} class_2338{x=-177, y=11, z=-80}
+[15:56:19] [Server thread/INFO]: <Fibblifubb> er hægt að fara úr netherinu
+[15:56:24] [Server thread/INFO]: <endertad> nei
+[15:56:34] [Server thread/INFO]: <Fibblifubb> barn
+[15:57:07] [Server thread/INFO]: <endertad> er ekki einu sinni i netherinu
+[15:57:12] [Server thread/INFO]: <Fibblifubb> nice
+[15:59:06] [Server thread/INFO]: <Fibblifubb> jesús
+[15:59:13] [Server thread/INFO]: <SKAF_PathFinder> Kristur
+[15:59:18] [Server thread/INFO]: <Fibblifubb> þetta er speed þegar enginn er í nether
+[16:00:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:00:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:01:43] [Server thread/INFO]: endertad lost connection: Disconnected
+[16:01:43] [Server thread/INFO]: endertad left the game
+[16:02:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/110796, l='ServerLevel[world]', x=-234.32, y=83.00, z=603.66]
+[16:03:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111052, l='ServerLevel[world]', x=-234.28, y=83.00, z=606.17]
+[16:04:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111888, l='ServerLevel[world]', x=-234.89, y=83.00, z=604.12]
+[16:04:37] [User Authenticator #24/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[16:04:37] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:65431] logged in with entity id 112038 at (-28.645206057903835, 45.0, 137.68861199468785)
+[16:04:37] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[16:05:16] [Server thread/INFO]: <_RedHeroGamer_> hvaða tölur eru þetta hliðinn á net barinu?
+[16:05:22] [Server thread/INFO]: <Fibblifubb> deaths
+[16:05:25] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:05:25] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:05:31] [Server thread/INFO]: <_RedHeroGamer_> afh hef ég bara 0 þá?
+[16:05:46] [Server thread/INFO]: <Fibblifubb> þarf að segja bjart fyrst
+[16:05:51] [Server thread/INFO]: <SKAF_PathFinder> You never said your death count
+[16:05:52] [Server thread/INFO]: <_RedHeroGamer_> ó ok
+[16:07:57] [Server thread/INFO]: <_RedHeroGamer_> hvar sé ég hversu oft ég hef dáið?
+[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=14, z=238} class_2338{x=-98, y=14, z=239}
+[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=14, z=238} class_2338{x=-98, y=14, z=239}
+[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=14, z=238} class_2338{x=-98, y=14, z=239}
+[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=14, z=238} class_2338{x=-98, y=14, z=239}
+[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=14, z=238} class_2338{x=-98, y=14, z=239}
+[16:08:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=14, z=238} class_2338{x=-98, y=14, z=239}
+[16:08:14] [Server thread/INFO]: <SKAF_PathFinder> Statictics
+[16:08:47] [Server thread/INFO]: <_RedHeroGamer_> ha finn það ekki
+[16:09:06] [Server thread/INFO]: <SKAF_PathFinder> Press ''esc''
+[16:09:17] [Server thread/INFO]: <SKAF_PathFinder> And press Statictics
+[16:09:20] [Server thread/INFO]: <_RedHeroGamer_> Inn í stats finn ég ekki death countið
+[16:09:44] [Server thread/INFO]: <SKAF_PathFinder> It says number of deaths
+[16:09:51] [Server thread/INFO]: <_RedHeroGamer_> hvar
+[16:10:02] [User Authenticator #25/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:10:02] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49212] logged in with entity id 116426 at (-525.2369514272718, 5.0, -714.119838106299)
+[16:10:02] [Server thread/INFO]: A11y_UwU joined the game
+[16:10:03] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[16:10:04] [Server thread/INFO]: <SKAF_PathFinder> IN THERE
+[16:10:06] [Server thread/INFO]: <_RedHeroGamer_> ok fann það
+[16:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:10:13] [Server thread/INFO]: <_RedHeroGamer_> 27 ekki það mikið
+[16:10:28] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:10:28] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:830) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3810) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[16:10:41] [Server thread/INFO]: <A11y_UwU> ne, það er mikið miðað við að hafa hack cliant
+[16:10:47] [Server thread/INFO]: <_RedHeroGamer_> haha
+[16:10:57] [Server thread/INFO]: <_RedHeroGamer_> Sminky er samt með 79 WOW
+[16:11:09] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for _RedHeroGamer_ to 27]
+[16:11:24] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[16:11:24] [Server thread/INFO]: A11y_UwU left the game
+[16:12:18] [Server thread/INFO]: <_RedHeroGamer_> ég hef mineað yfir 10.000 nether rack
+[16:13:27] [User Authenticator #40/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[16:13:25] [User Authenticator #39/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[16:13:18] [User Authenticator #38/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[16:13:18] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[16:13:07] [User Authenticator #37/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[16:13:32] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:13:07] [User Authenticator #36/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[16:13:04] [User Authenticator #35/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[16:12:53] [User Authenticator #34/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[16:12:53] [User Authenticator #33/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[16:12:48] [User Authenticator #32/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[16:12:44] [User Authenticator #31/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[16:12:41] [User Authenticator #30/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[16:12:39] [User Authenticator #29/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[16:12:39] [User Authenticator #28/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[16:12:38] [User Authenticator #27/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[16:12:32] [User Authenticator #26/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[16:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 74905ms or 1498 ticks behind
+[16:13:33] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-11-24_16.13.33-server.txt
+[16:13:33] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: Ravle1 left the game
+[16:13:33] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: SKAF_PathFinder left the game
+[16:13:33] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: Fibblifubb left the game
+[16:13:33] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: Sminky52 left the game
+[16:13:33] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: _RedHeroGamer_ left the game
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@74cb15c8[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@4078cd]},legacy=false] (/89.160.178.238:59355) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@72643fb1[id=3e9f1702-7662-4b7b-b0f2-fd5432a772eb,name=_RedHeroGamer_,properties={textures=[com.mojang.authlib.properties.Property@20663948]},legacy=false] (/89.160.216.16:65461) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e2d1160[id=4bbaee98-9f81-4e74-8429-d1000fba6674,name=Fibblifubb,properties={textures=[com.mojang.authlib.properties.Property@5bddbceb]},legacy=false] (/89.160.200.16:55149) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fb0abe8[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@1e9be6a1]},legacy=false] (/89.160.178.238:59358) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@d89be36[id=3e9f1702-7662-4b7b-b0f2-fd5432a772eb,name=_RedHeroGamer_,properties={textures=[com.mojang.authlib.properties.Property@2be593f]},legacy=false] (/89.160.216.16:65471) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ec39181[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@539ac2ad]},legacy=false] (/89.160.178.238:59367) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@68d33d28[id=3e9f1702-7662-4b7b-b0f2-fd5432a772eb,name=_RedHeroGamer_,properties={textures=[com.mojang.authlib.properties.Property@776071d4]},legacy=false] (/89.160.216.16:65484) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@72a63431[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@1814f1d2]},legacy=false] (/85.220.31.107:52066) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@329e5c5d[id=3e9f1702-7662-4b7b-b0f2-fd5432a772eb,name=_RedHeroGamer_,properties={textures=[com.mojang.authlib.properties.Property@200c8960]},legacy=false] (/89.160.216.16:65494) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@70139c16[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@7d9f4e51]},legacy=false] (/89.160.178.238:59380) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d8d541[id=4bbaee98-9f81-4e74-8429-d1000fba6674,name=Fibblifubb,properties={textures=[com.mojang.authlib.properties.Property@160845b3]},legacy=false] (/89.160.200.16:55179) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@421c7ef7[id=3e9f1702-7662-4b7b-b0f2-fd5432a772eb,name=_RedHeroGamer_,properties={textures=[com.mojang.authlib.properties.Property@5a6ac3f6]},legacy=false] (/89.160.216.16:65516) lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: Sminky52[/89.17.139.9:58343] logged in with entity id 118332 at (-683.6999999880791, 70.0, 639.3000000119209)
+[16:13:33] [Server thread/INFO]: Sminky52 joined the game
+[16:13:33] [Server thread/INFO]: Ravle1[/89.160.178.238:59391] logged in with entity id 118333 at (704.489405843561, 69.79673560066871, -1746.5166389325714)
+[16:13:33] [Server thread/INFO]: Ravle1 joined the game
+[16:13:33] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:52074] logged in with entity id 118334 at (-274.3644029409049, 64.02442408821369, 612.9151933041217)
+[16:13:33] [Server thread/INFO]: SKAF_PathFinder joined the game
+[16:13:33] [Server thread/INFO]: Stopping server
+[16:13:33] [Server thread/INFO]: Saving players
+[16:13:33] [Server thread/INFO]: Saving worlds
+[16:13:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:13:33] [Server thread/ERROR]: Could not save data net.minecraft.class_273@4ed7b894
+java.io.FileNotFoundException: .\world\data\scoreboard.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:599) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:707) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:13:33] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6804f355
+java.io.FileNotFoundException: .\world\data\raids.dat (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.class_2507.method_30614(class_2507.java:37) ~[intermediary-server.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:51) ~[intermediary-server.jar:?]
+	at net.minecraft.class_26.method_125(class_26.java:124) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:717) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:705) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:599) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:567) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:707) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[16:13:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:13:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:13:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:13:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

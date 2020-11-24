@@ -1473,6 +1473,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2020-11-24 15:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2020-11-16 21:40:08 +0000"
@@ -2471,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-11-24 15:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-11-08 17:03:27 +0000"
@@ -2528,11 +2540,13 @@
       "chorus_fruit": "2020-11-22 15:05:21 +0000",
       "baked_potato": "2020-11-08 16:33:28 +0000",
       "porkchop": "2020-11-11 19:51:26 +0000",
+      "cooked_cod": "2020-11-24 13:27:05 +0000",
       "bread": "2020-11-21 18:01:45 +0000",
       "rotten_flesh": "2020-11-04 16:17:19 +0000",
       "suspicious_stew": "2020-11-09 19:08:04 +0000",
       "melon_slice": "2020-11-05 16:38:03 +0000",
       "golden_carrot": "2020-11-16 22:33:31 +0000",
+      "beetroot": "2020-11-24 15:18:14 +0000",
       "mushroom_stew": "2020-11-10 13:32:19 +0000",
       "cooked_salmon": "2020-11-22 18:33:04 +0000",
       "carrot": "2020-11-08 16:28:06 +0000"
@@ -2831,6 +2845,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-11-03 21:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-11-24 15:18:07 +0000"
     },
     "done": true
   },

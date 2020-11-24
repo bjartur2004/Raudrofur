@@ -596,6 +596,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-11-10 13:23:39 +0000",
+      "minecraft:pillager": "2020-11-24 17:04:39 +0000",
       "minecraft:skeleton": "2020-11-05 15:31:54 +0000",
       "minecraft:ghast": "2020-11-21 16:48:13 +0000",
       "minecraft:hoglin": "2020-11-10 13:15:03 +0000",
@@ -1504,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-11-24 17:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-11-10 12:50:57 +0000"
@@ -1671,7 +1678,8 @@
       "mutton": "2020-11-24 15:41:24 +0000",
       "bread": "2020-11-10 14:00:55 +0000",
       "rotten_flesh": "2020-11-24 15:41:20 +0000",
-      "mushroom_stew": "2020-11-05 15:55:59 +0000"
+      "mushroom_stew": "2020-11-05 15:55:59 +0000",
+      "carrot": "2020-11-24 17:13:23 +0000"
     },
     "done": false
   },
@@ -2158,6 +2166,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-11-10 13:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-11-24 17:06:45 +0000"
     },
     "done": true
   },

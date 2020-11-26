@@ -1,0 +1,360 @@
+[19:39:44] [main/INFO]: Loading for game Minecraft 1.16.4
+[19:39:45] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[19:39:45] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[19:39:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[19:39:55] [main/INFO]: [VanillaEnhanced] Hello there.
+[19:39:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:39:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:39:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:39:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:39:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:39:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:39:58] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811
+[19:40:00] [Worker-Main-4/INFO]: Loaded 7 recipes
+[19:40:01] [Worker-Main-4/INFO]: Loaded 927 advancements
+[19:40:02] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 3.581 ms
+[19:40:02] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[19:40:02] [Server thread/INFO]: Loading properties
+[19:40:02] [Server thread/INFO]: Default game type: SURVIVAL
+[19:40:02] [Server thread/INFO]: Generating keypair
+[19:40:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:40:02] [Server thread/INFO]: Using default channel type
+[19:40:03] [Server thread/INFO]: Preparing level "world"
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[19:40:03] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[19:40:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:40:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:40:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:40:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:40:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:40:07] [Server thread/INFO]: Time elapsed: 3721 ms
+[19:40:07] [Server thread/INFO]: Done (4.183s)! For help, type "help"
+[19:40:16] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:40:17] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62087] logged in with entity id 76 at (-427.37664413612947, 75.0, 335.48728029949785)
+[19:40:17] [Server thread/INFO]: A11y_UwU joined the game
+[19:40:18] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:44:11] [User Authenticator #2/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
+[19:44:11] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:51290] logged in with entity id 786 at (-504.52905962694103, 52.26495388204411, 346.0875449634484)
+[19:44:11] [Server thread/INFO]: CRAZYCHICK3N joined the game
+[19:45:39] [Server thread/INFO]: <A11y_UwU> mannstu hvað þú varst með marka deaths?
+[19:45:48] [Server thread/INFO]: <CRAZYCHICK3N> 26
+[19:45:52] [Server thread/INFO]: <A11y_UwU> k
+[19:45:58] [User Authenticator #3/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[19:45:59] [Server thread/INFO]: Sminky52[/89.17.139.9:52480] logged in with entity id 1421 at (-683.6999999880791, 70.0, 639.3000000119209)
+[19:45:59] [Server thread/INFO]: Sminky52 joined the game
+[19:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[19:46:34] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for CRAZYCHICK3N to 26]
+[19:46:57] [Server thread/INFO]: <A11y_UwU> sminky mannstu hverju marga deaths þú varst með?
+[19:48:44] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for RuKlo to 22]
+[19:51:20] [Server thread/INFO]: <A11y_UwU> why are you afking at my base
+[19:52:07] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:52:07] [Server thread/INFO]: A11y_UwU left the game
+[19:52:41] [User Authenticator #4/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:52:42] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62892] logged in with entity id 3947 at (-475.8624507240861, 75.0, 328.1848518664974)
+[19:52:42] [Server thread/INFO]: A11y_UwU joined the game
+[19:52:43] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:53:19] [Server thread/INFO]: [A11y_UwU: Gave 20 [Scaffolding] to A11y_UwU]
+[19:54:03] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:54:03] [Server thread/INFO]: A11y_UwU left the game
+[19:59:21] [User Authenticator #5/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[19:59:21] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:49605] logged in with entity id 5995 at (-291.21609242838986, 222.0, 111.6999999880791)
+[19:59:21] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[20:06:50] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:06:50] [Server thread/INFO]: A11y_UwU[/127.0.0.1:63718] logged in with entity id 9333 at (-478.15979785201654, 75.0, 328.8719435028971)
+[20:06:50] [Server thread/INFO]: A11y_UwU joined the game
+[20:06:50] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:07:35] [Server thread/INFO]: <A11y_UwU> x reyer
+[20:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:10:12] [Server thread/WARN]: A11y_UwU moved too quickly! -0.01207963933175904,0.0,-10.406513942657085
+[20:10:12] [Server thread/WARN]: A11y_UwU moved too quickly! -0.023409684890069116,0.0,-10.159328626562058
+[20:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[20:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-550, y=6, z=-728} class_2338{x=-454, y=74, z=338}
+[20:23:32] [Server thread/INFO]: CRAZYCHICK3N has made the advancement [Into Fire]
+[20:42:40] [Server thread/INFO]: <Sminky52> 79
+[20:42:57] [Server thread/INFO]: <_RedHeroGamer_> ?
+[20:43:04] [Server thread/INFO]: [A11y_UwU: Set [Deaths ?] for Sminky52 to 79]
+[20:43:06] [Server thread/INFO]: <Sminky52> 79
+[20:46:17] [Server thread/INFO]: <Sminky52> er einhver med ender perl til ad gefa mer?
+[20:46:40] [Server thread/INFO]: <Sminky52> eg varf bara eina
+[20:46:52] [Server thread/INFO]: <_RedHeroGamer_> hv+i
+[20:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[20:47:08] [Server thread/INFO]: <_RedHeroGamer_> hví
+[20:47:13] [Server thread/INFO]: <Sminky52> ender chest
+[20:53:40] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[20:53:40] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:50003] logged in with entity id 35052 at (-274.3644029409049, 64.02442408821369, 612.9151933041217)
+[20:53:40] [Server thread/INFO]: SKAF_PathFinder joined the game
+[20:54:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/36023, l='ServerLevel[world]', x=-233.83, y=83.00, z=605.11]
+[20:56:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=68, z=101} class_2338{x=-27, y=67, z=101}
+[20:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:57:27] [User Authenticator #8/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[20:57:27] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:59958] logged in with entity id 37819 at (-188.4585760656801, 64.0, 822.8233607018653)
+[20:57:27] [Server thread/INFO]: Gamerfirl_420 joined the game
+[20:57:37] [Server thread/INFO]: <_RedHeroGamer_> oh botinn kominn aftur
+[20:57:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/37953, l='ServerLevel[world]', x=-235.80, y=83.00, z=605.36]
+[20:57:44] [Server thread/INFO]: <Gamerfirl_420> UwU
+[20:57:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[21:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21:05:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[21:08:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/44439, l='ServerLevel[world]', x=-235.80, y=83.00, z=603.20]
+[21:08:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/44439, l='ServerLevel[world]', x=-235.80, y=83.00, z=603.20]
+[21:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[21:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4160ms or 83 ticks behind
+[21:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46439, l='ServerLevel[world]', x=-233.83, y=83.00, z=604.61]
+[21:17:52] [Server thread/INFO]: _RedHeroGamer_ has made the advancement [Eye Spy]
+[21:18:08] [Server thread/INFO]: _RedHeroGamer_ has made the advancement [The End?]
+[21:18:09] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:18:09] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:18:11] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 2071.8266512506543,14.265900001525878,372.06659506939496
+[21:18:18] [Server thread/INFO]: SKAF_PathFinder fell from a high place
+[21:18:22] [Server thread/INFO]: <_RedHeroGamer_> F
+[21:18:28] [Server thread/INFO]: <Gamerfirl_420> F
+[21:19:47] [Server thread/INFO]: CRAZYCHICK3N has reached the goal [The End... Again...]
+[21:19:47] [Server thread/INFO]: _RedHeroGamer_ has reached the goal [The End... Again...]
+[21:19:47] [Server thread/INFO]: Gamerfirl_420 has reached the goal [The End... Again...]
+[21:19:52] [Server thread/INFO]: Gamerfirl_420 was slain by Enderman
+[21:19:54] [Server thread/INFO]: <SKAF_PathFinder> RIP my xp
+[21:20:02] [Server thread/INFO]: <SKAF_PathFinder> But it is all for the greater good
+[21:20:07] [Server thread/INFO]: <A11y_UwU> damn, nice
+[21:21:09] [Server thread/INFO]: CRAZYCHICK3N has reached the goal [You Need a Mint]
+[21:22:04] [Server thread/INFO]: Gamerfirl_420 has reached the goal [You Need a Mint]
+[21:22:42] [Server thread/INFO]: _RedHeroGamer_ has reached the goal [You Need a Mint]
+[21:23:14] [Server thread/WARN]: _RedHeroGamer_ moved wrongly!
+[21:23:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/52632, l='ServerLevel[world]', x=-235.80, y=83.00, z=603.20]
+[21:23:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/52681, l='ServerLevel[world]', x=-234.44, y=83.00, z=604.01]
+[21:24:48] [Server thread/INFO]: CRAZYCHICK3N has made the advancement [Free the End]
+[21:25:52] [Server thread/INFO]: _RedHeroGamer_ has made the advancement [Remote Getaway]
+[21:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[21:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[21:27:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/54736, l='ServerLevel[world]', x=-235.43, y=83.00, z=603.20]
+[21:27:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/55095, l='ServerLevel[world]', x=-235.80, y=83.00, z=606.17]
+[21:28:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/55575, l='ServerLevel[world]', x=-235.27, y=83.00, z=604.66]
+[21:30:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56757, l='ServerLevel[world]', x=-235.39, y=83.00, z=605.16]
+[21:36:47] [Server thread/INFO]: _RedHeroGamer_ has made the advancement [The City at the End of the Game]
+[21:36:56] [Server thread/INFO]: Gamerfirl_420 has made the advancement [The City at the End of the Game]
+[21:37:18] [Server thread/INFO]: _RedHeroGamer_ has reached the goal [Sky's the Limit]
+[21:37:27] [Server thread/INFO]: <_RedHeroGamer_> Lets go
+[21:38:27] [Server thread/INFO]: CRAZYCHICK3N has made the advancement [Not Today, Thank You]
+[21:38:27] [Server thread/INFO]: <SKAF_PathFinder> Anyone in the gold xp farm??
+[21:38:34] [Server thread/INFO]: <_RedHeroGamer_> nah
+[21:38:41] [Server thread/INFO]: <_RedHeroGamer_> kinda bissy
+[21:40:55] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -5.324015230875261,-0.6709083839323,-8.73623531974657
+[21:40:55] [Server thread/WARN]: A11y_UwU moved too quickly! -6.395935165824085,1.127890238205488,-7.942087042544472
+[21:43:15] [Server thread/INFO]: CRAZYCHICK3N fell from a high place
+[21:47:59] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -6.580506748081689,0.0,7.658392854333897
+[21:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:49:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-276, y=86, z=-1867} class_2338{x=-276, y=85, z=-1867}
+[21:49:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-276, y=86, z=-1867} class_2338{x=-276, y=84, z=-1867}
+[21:50:58] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 2.3183769756424795,0.16610926093821377,-9.821677694831806
+[21:50:58] [Server thread/WARN]: A11y_UwU moved too quickly! 8.496786071925214,0.1754232959521005,-5.728586788426412
+[21:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[21:51:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-270, y=63, z=-1867} class_2338{x=-214, y=80, z=-1871}
+[21:51:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-214, y=79, z=-1871} class_2338{x=-214, y=80, z=-1871}
+[21:51:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-214, y=65, z=-1871} class_2338{x=-214, y=63, z=-1871}
+[21:52:16] [Server thread/INFO]: CRAZYCHICK3N was slain by Enderman
+[22:00:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/87444, l='ServerLevel[world]', x=-291.50, y=252.77, z=109.70]
+[22:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[22:02:34] [Server thread/INFO]: <Sminky52> hvaer er aftue end portule
+[22:02:41] [Server thread/INFO]: <Gamerfirl_420> Ya butt
+[22:03:03] [Server thread/INFO]: <Sminky52> k thx
+[22:03:20] [Server thread/INFO]: <Gamerfirl_420> No problem
+[22:04:20] [Server thread/INFO]: <Sminky52> wher?
+[22:04:26] [Server thread/INFO]: <_RedHeroGamer_> Ya mom
+[22:05:32] [Server thread/INFO]: <Sminky52> pliz just tel me
+[22:05:47] [Server thread/INFO]: <Gamerfirl_420> Porcus has all the answers
+[22:05:48] [Server thread/INFO]: <_RedHeroGamer_> In the end fortrest
+[22:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[22:06:38] [Server thread/INFO]: <Sminky52> wher is the nether portul to the end fortres
+[22:06:51] [Server thread/INFO]: <_RedHeroGamer_> it is where it is
+[22:07:17] [Server thread/INFO]: <Sminky52> ha ha
+[22:12:03] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 7.381080831491829,-35.0,-6.332046358019625
+[22:12:18] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 6.509192885541779,-34.0,-6.507417793563036
+[22:14:16] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[22:14:16] [Server thread/INFO]: Sminky52 left the game
+[22:14:21] [User Authenticator #9/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[22:14:21] [Server thread/INFO]: Sminky52[/89.17.139.9:61174] logged in with entity id 100516 at (-206.2217965110929, 65.0, 86.69999998807907)
+[22:14:21] [Server thread/INFO]: Sminky52 joined the game
+[22:15:43] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -7.2097093207519265,0.0,-7.718648716790085
+[22:16:09] [Server thread/WARN]: Sminky52 moved too quickly! 1.7709731133911646,-2.5143294551172772,9.882258647308618
+[22:16:09] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 7.728522183311952,-1.4524514780759858,6.493116826887672
+[22:16:09] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 4.527092239630065,1.7967356006687112,8.966571740778818
+[22:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
+[22:16:52] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -2.8560650684771645,-38.0,3.8043438715753837
+[22:17:59] [Server thread/INFO]: Sminky52 has made the advancement [Remote Getaway]
+[22:18:09] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -3.0294303054995453,-16.0,-2.1670245834689013
+[22:18:09] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -3.0294303054995453,-16.0,-2.1670245834689013
+[22:18:29] [Server thread/INFO]: <Gamerfirl_420> You found it?
+[22:18:35] [Server thread/INFO]: <Sminky52> no
+[22:18:39] [Server thread/INFO]: <Gamerfirl_420> Sad
+[22:18:55] [Server thread/INFO]: <Sminky52> ye
+[22:20:45] [Server thread/INFO]: Sminky52 has made the advancement [The City at the End of the Game]
+[22:23:36] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -6.653516358604975,-87.0,-3.0797242394519344
+[22:24:42] [Server thread/INFO]: Gamerfirl_420 has reached the goal [Sky's the Limit]
+[22:24:54] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -7.099684071695492,-15.0,5.524292234821587
+[22:27:52] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 2.684177630113254,-54.0,-5.431948926435325
+[22:29:24] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 5.379140201930113,-5.0,-7.589453498230341
+[22:31:07] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 1.633977741992794,-78.0,-4.737979584864661
+[22:31:07] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 1.633977741992794,-78.0,-4.737979584864661
+[22:34:10] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -4.624156121410806,-77.0,6.084812831815725
+[22:34:14] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -5.327664916795811,-9.0,6.149491907590345
+[22:34:23] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 1.6195573525665168,-71.0,4.05667613916421
+[22:34:23] [Server thread/INFO]: _RedHeroGamer_ has completed the challenge [Great View From Up Here]
+[22:34:42] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 0.3883249085120042,-12.0,6.8926512558387
+[22:36:00] [Server thread/WARN]: Gamerfirl_420 moved too quickly! -7.324466733582767,-8.0,-5.709997002856653
+[22:38:36] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[22:38:36] [Server thread/INFO]: Sminky52 left the game
+[22:38:40] [User Authenticator #10/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[22:38:40] [Server thread/INFO]: Sminky52[/89.17.139.9:49152] logged in with entity id 132802 at (1512.0193674838652, 60.0, 1180.631606829319)
+[22:38:40] [Server thread/INFO]: Sminky52 joined the game
+[22:38:40] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -3.8620204465851202,-48.0,6.739015075660063
+[22:39:01] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -5.5018217757481125,-12.0,-5.736233213169726
+[22:39:05] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 7.3607800229438,-3.0,6.241396601962606
+[22:40:20] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 1.3512793514585155,-21.0,7.487068809660741
+[22:40:35] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -5.559394303370709,-10.0,1.3353396555985455
+[22:40:38] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 2.941785866284363,-12.0,-0.44806780715907735
+[22:41:07] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -2.068331628050828,-10.0,-4.294137648494143
+[22:42:12] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -6.095874544115759,-70.0,-7.860456005155811
+[22:42:24] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! -6.536684813573402,0.0,7.5756136324316685
+[22:42:35] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 6.644925290883066,-62.0,7.022675428140246
+[22:42:35] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 6.644925290883066,-62.0,7.022675428140246
+[22:43:12] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 3.354513346857857,-10.0,4.053745226996398
+[22:43:15] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -7.723396011618547,-71.0,4.572346454126091
+[22:43:45] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
+[22:43:45] [Server thread/INFO]: _RedHeroGamer_ left the game
+[22:44:19] [Server thread/WARN]: Gamerfirl_420 moved too quickly! 7.966298977983342,-2.0,7.573128184999405
+[22:45:23] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 4.734455941865008,-60.0,5.8381266188052905
+[22:46:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:46:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[22:47:23] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[22:47:23] [Server thread/INFO]: Sminky52 left the game
+[22:47:30] [User Authenticator #11/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[22:47:30] [Server thread/INFO]: Sminky52[/89.17.139.9:54310] logged in with entity id 144321 at (1913.594334865749, 62.0, 901.4719544750197)
+[22:47:30] [Server thread/INFO]: Sminky52 joined the game
+[22:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[22:48:53] [Server thread/WARN]: Sminky52 moved too quickly! 10.112245184133371,-0.9893499858739716,-0.9540021424511451
+[22:49:36] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 6.471826729251461,-65.0,5.600856453864253
+[22:49:36] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 6.471826729251461,-65.0,5.600856453864253
+[22:50:01] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 7.10253069108694,-2.0,6.955998007096241
+[22:50:02] [User Authenticator #12/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
+[22:50:02] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:50401] logged in with entity id 147339 at (1061.0248134554436, 63.0, -2249.0683890230057)
+[22:50:02] [Server thread/INFO]: _RedHeroGamer_ joined the game
+[22:53:17] [Server thread/INFO]: Gamerfirl_420 didn't want to live in the same world as Enderman
+[22:53:18] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhf000$modifiedRunLoop(MinecraftServer.java:3819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[22:53:19] [Server thread/INFO]: CRAZYCHICK3N fell out of the world
+[22:53:28] [Server thread/INFO]: <SKAF_PathFinder> That is new
+[22:53:46] [Server thread/INFO]: <CRAZYCHICK3N> but fair
+[22:55:02] [Server thread/INFO]: CRAZYCHICK3N was slain by Hoglin
+[22:55:07] [Server thread/INFO]: <Sminky52> f
+[22:55:10] [Server thread/INFO]: <_RedHeroGamer_> F
+[22:55:40] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[22:55:40] [Server thread/INFO]: SKAF_PathFinder left the game
+[22:56:24] [Server thread/WARN]: CRAZYCHICK3N moved too quickly! 10.073458797013558,0.0,-0.3173425630112945
+[22:56:24] [Server thread/WARN]: Sminky52 moved too quickly! 5.7189041730907775,1.0,-8.351773295317912
+[22:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[23:00:10] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[23:00:10] [Server thread/INFO]: Gamerfirl_420 left the game
+[23:01:42] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[23:01:42] [Server thread/INFO]: Sminky52 left the game
+[23:03:53] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! 7.507130739013519,-2.0,7.076858868377258
+[23:23:42] [Server thread/INFO]: A11y_UwU was blown up by Creeper
+[23:23:48] [Server thread/INFO]: <_RedHeroGamer_> F
+[23:24:05] [Server thread/WARN]: A11y_UwU moved too quickly! 199.661173860512,35.0,1093.800000011921
+[23:24:11] [Server thread/INFO]: <A11y_UwU> yeb
+[23:27:45] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -0.4699527341406551,-20.0,0.30541146692149823
+[23:27:45] [Server thread/WARN]: _RedHeroGamer_ moved too quickly! -0.4699527341406551,-20.0,0.30541146692149823
+[23:28:17] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:28:17] [Server thread/INFO]: A11y_UwU left the game
+[23:28:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@763c5085[id=<null>,name=A11y_UwU,properties={},legacy=false] (/127.0.0.1:59363) lost connection: Disconnected
+[23:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[23:29:14] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
+[23:29:14] [Server thread/INFO]: CRAZYCHICK3N left the game
+[23:29:14] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:29:14] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59530] logged in with entity id 173429 at (-563.453124465151, 10.0, -772.831423708207)
+[23:29:14] [Server thread/INFO]: A11y_UwU joined the game
+[23:29:18] [Server thread/INFO]: <_RedHeroGamer_> hola
+[23:29:19] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:29:25] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[23:29:32] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[23:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23:31:18] [Server thread/INFO]: _RedHeroGamer_ has made the advancement [Ol' Betsy]
+[23:32:29] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:32:29] [Server thread/INFO]: A11y_UwU left the game
+[23:32:31] [User Authenticator #14/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:32:31] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59733] logged in with entity id 175560 at (-561.347955824791, 8.0, -772.5196680928029)
+[23:32:31] [Server thread/INFO]: A11y_UwU joined the game
+[23:32:31] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:32:33] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[23:32:37] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[23:32:59] [Server thread/INFO]: <A11y_UwU> ive fallen into the same lava twice and panic quit
+[23:33:07] [Server thread/INFO]: <_RedHeroGamer_> damn so sad
+[23:33:21] [Server thread/INFO]: <A11y_UwU> ... then realicing i can swim in lava for a good min
+[23:33:31] [Server thread/INFO]: <_RedHeroGamer_> hehe
+[23:34:42] [Server thread/INFO]: <_RedHeroGamer_> ok bæ tho
+[23:34:43] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
+[23:34:43] [Server thread/INFO]: _RedHeroGamer_ left the game
+[23:38:01] [Server thread/WARN]: A11y_UwU moved wrongly!
+[23:52:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-523, y=29, z=-770} class_2338{x=-522, y=28, z=-770}
+[23:53:14] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[23:53:20] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[23:54:21] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:54:21] [Server thread/INFO]: A11y_UwU left the game
+[23:54:37] [User Authenticator #15/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:54:37] [Server thread/INFO]: A11y_UwU[/127.0.0.1:61061] logged in with entity id 181894 at (-543.6912720232984, 35.76636799395752, -777.6201492565507)
+[23:54:37] [Server thread/INFO]: A11y_UwU joined the game
+[23:54:37] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client

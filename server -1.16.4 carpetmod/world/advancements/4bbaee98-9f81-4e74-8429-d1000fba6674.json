@@ -681,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-11-25 13:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-11-18 15:09:15 +0000"
@@ -1195,9 +1201,12 @@
       "minecraft:dark_forest": "2020-11-05 15:34:45 +0000",
       "minecraft:river": "2020-11-05 15:33:58 +0000",
       "minecraft:lukewarm_ocean": "2020-11-10 12:47:36 +0000",
+      "minecraft:birch_forest_hills": "2020-11-25 13:09:19 +0000",
+      "minecraft:wooded_mountains": "2020-11-25 13:58:33 +0000",
       "minecraft:wooded_hills": "2020-11-10 12:49:27 +0000",
       "minecraft:stone_shore": "2020-11-10 12:33:12 +0000",
       "minecraft:swamp": "2020-11-10 12:36:47 +0000",
+      "minecraft:savanna": "2020-11-25 14:00:01 +0000",
       "minecraft:plains": "2020-11-05 15:05:58 +0000"
     },
     "done": false
@@ -1592,6 +1601,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-11-11 16:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-11-25 13:11:50 +0000"
     },
     "done": true
   },
@@ -2100,6 +2115,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-10 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-11-25 13:11:08 +0000"
     },
     "done": true
   },

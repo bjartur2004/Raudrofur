@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-11-26 20:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2020-11-21 18:37:02 +0000"
@@ -290,6 +296,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-11-11 16:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-26 20:34:39 +0000"
     },
     "done": true
   },
@@ -473,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 22:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-11-06 14:11:13 +0000"
@@ -611,6 +635,7 @@
       "minecraft:enderman": "2020-11-05 15:39:12 +0000",
       "minecraft:silverfish": "2020-11-10 13:48:54 +0000",
       "minecraft:zombie": "2020-11-05 15:32:05 +0000",
+      "minecraft:drowned": "2020-11-26 21:54:33 +0000",
       "minecraft:zombie_villager": "2020-11-06 14:50:24 +0000"
     },
     "done": false
@@ -1223,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-11-26 20:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2020-11-24 15:13:00 +0000"
@@ -1361,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 22:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-11-05 15:25:31 +0000"
@@ -1496,6 +1533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 22:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-11-10 13:52:38 +0000"
@@ -1526,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-26 20:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-06 14:11:02 +0000"
@@ -1541,6 +1590,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-11-05 15:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 22:26:52 +0000"
     },
     "done": true
   },
@@ -2088,6 +2143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 22:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-11-06 14:11:13 +0000"
@@ -2604,6 +2665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-11-26 20:22:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-11-06 14:26:35 +0000"
@@ -2643,6 +2710,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-11-05 16:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_the_recipe": "2020-11-26 22:12:02 +0000"
     },
     "done": true
   },
@@ -2724,6 +2797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 22:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-11-17 23:22:10 +0000"
@@ -2793,6 +2872,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-11-10 13:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-11-26 20:34:39 +0000"
     },
     "done": true
   },
@@ -2889,6 +2974,18 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2020-11-18 00:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-26 20:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 22:26:52 +0000"
     },
     "done": true
   },

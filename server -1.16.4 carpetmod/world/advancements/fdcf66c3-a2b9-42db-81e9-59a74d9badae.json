@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-11-27 17:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-04 18:49:01 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-04 18:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
     },
     "done": true
   },
@@ -497,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-04 18:20:11 +0000"
@@ -602,6 +620,12 @@
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2020-11-16 20:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-11-27 18:56:35 +0000"
     },
     "done": true
   },
@@ -1749,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-11-27 14:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-11-03 21:26:52 +0000"
@@ -1785,9 +1815,11 @@
       "minecraft:jungle": "2020-11-04 16:35:53 +0000",
       "minecraft:birch_forest": "2020-11-09 18:08:07 +0000",
       "minecraft:jungle_hills": "2020-11-04 16:36:53 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-11-27 17:52:35 +0000",
       "minecraft:beach": "2020-11-17 23:05:36 +0000",
       "minecraft:dark_forest": "2020-11-04 16:28:13 +0000",
       "minecraft:river": "2020-11-03 21:26:28 +0000",
+      "minecraft:lukewarm_ocean": "2020-11-27 17:52:28 +0000",
       "minecraft:birch_forest_hills": "2020-11-09 18:05:20 +0000",
       "minecraft:wooded_hills": "2020-11-04 16:25:32 +0000",
       "minecraft:stone_shore": "2020-11-18 00:02:03 +0000",
@@ -2204,6 +2236,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-11-11 13:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-11-27 19:03:04 +0000"
     },
     "done": true
   },
@@ -2691,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-11-08 17:12:14 +0000"
@@ -2730,6 +2774,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2020-11-16 17:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
     },
     "done": true
   },
@@ -3196,6 +3246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-11-27 14:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-11-04 18:22:56 +0000"
@@ -3343,6 +3399,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-11-16 18:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
     },
     "done": true
   },
@@ -3568,6 +3630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-04 18:22:56 +0000"
@@ -3649,6 +3717,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-11-16 18:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-11-27 14:22:02 +0000"
     },
     "done": true
   },
@@ -4309,6 +4383,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-11-04 16:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-27 14:21:40 +0000"
     },
     "done": true
   },

@@ -944,6 +944,7 @@
       "minecraft:piglin": "2020-11-09 19:36:57 +0000",
       "minecraft:enderman": "2020-11-04 22:00:05 +0000",
       "minecraft:silverfish": "2020-11-14 18:50:04 +0000",
+      "minecraft:endermite": "2020-11-28 01:21:51 +0000",
       "minecraft:zombie": "2020-11-04 16:59:06 +0000",
       "minecraft:drowned": "2020-11-04 16:47:56 +0000",
       "minecraft:zombie_villager": "2020-11-07 18:15:15 +0000"
@@ -2047,6 +2048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2020-11-28 01:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2020-11-21 19:06:29 +0000"
@@ -2657,6 +2664,7 @@
       "cooked_mutton": "2020-11-05 16:46:12 +0000",
       "sweet_berries": "2020-11-04 19:13:39 +0000",
       "cooked_beef": "2020-11-04 18:26:25 +0000",
+      "chorus_fruit": "2020-11-27 23:59:32 +0000",
       "beef": "2020-11-08 18:14:03 +0000",
       "baked_potato": "2020-11-11 20:48:57 +0000",
       "porkchop": "2020-11-08 23:25:55 +0000",

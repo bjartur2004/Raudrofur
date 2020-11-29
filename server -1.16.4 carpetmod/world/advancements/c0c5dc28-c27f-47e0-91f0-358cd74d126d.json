@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-11-28 23:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-11-27 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-11-29 00:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2020-11-28 21:33:32 +0000",
+      "minecraft:lukewarm_ocean": "2020-11-27 23:07:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

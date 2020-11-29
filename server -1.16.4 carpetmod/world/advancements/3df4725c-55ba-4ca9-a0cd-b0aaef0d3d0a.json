@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 01:36:10 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-23 00:47:41 +0000"
@@ -329,9 +341,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2020-11-25 22:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
     },
     "done": true
   },
@@ -398,8 +422,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2020-11-11 22:42:49 +0000",
+      "sweet_berries": "2020-11-29 01:34:49 +0000",
       "cooked_beef": "2020-11-23 01:26:44 +0000",
       "potato": "2020-11-23 00:44:14 +0000",
+      "pumpkin_pie": "2020-11-28 23:52:01 +0000",
       "rotten_flesh": "2020-11-23 22:27:14 +0000",
       "carrot": "2020-11-23 00:53:37 +0000"
     },
@@ -462,6 +488,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-11-23 01:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-11-28 23:31:32 +0000"
     },
     "done": true
   },
@@ -573,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-11-28 23:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-11-25 22:00:06 +0000"
@@ -627,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2020-11-24 16:39:45 +0000"
@@ -642,6 +686,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-11-24 00:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
     },
     "done": true
   },
@@ -672,6 +722,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-11-24 16:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
     },
     "done": true
   },
@@ -717,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-11-23 00:42:45 +0000"
@@ -732,6 +794,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-11-23 00:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-11-28 23:31:32 +0000"
     },
     "done": true
   },
@@ -873,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-11-24 16:40:02 +0000"
@@ -882,6 +956,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2020-11-23 00:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
     },
     "done": true
   },
@@ -905,6 +991,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-11-24 00:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
     },
     "done": true
   },
@@ -959,6 +1051,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2020-11-24 00:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2020-11-29 00:58:01 +0000"
     },
     "done": true
   },
@@ -1052,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-11-29 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-11-23 01:02:59 +0000"
@@ -1073,6 +1177,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-11-23 00:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
     },
     "done": true
   },
@@ -1220,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-23 01:03:21 +0000"
@@ -1244,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-11-25 21:59:53 +0000"
@@ -1262,9 +1384,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 01:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-11-29 00:58:01 +0000"
     },
     "done": true
   },
@@ -1295,6 +1429,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-11-23 02:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-11-28 23:56:33 +0000"
     },
     "done": true
   },
@@ -1709,11 +1849,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-11-11 22:01:34 +0000",
+      "minecraft:cold_ocean": "2020-11-28 23:26:16 +0000",
       "minecraft:forest": "2020-11-11 21:58:41 +0000",
       "minecraft:mountains": "2020-11-12 00:36:05 +0000",
       "minecraft:taiga": "2020-11-25 22:22:12 +0000",
       "minecraft:desert_hills": "2020-11-11 21:59:47 +0000",
       "minecraft:giant_tree_taiga": "2020-11-25 22:27:05 +0000",
+      "minecraft:deep_cold_ocean": "2020-11-28 23:27:03 +0000",
       "minecraft:desert": "2020-11-11 21:59:44 +0000",
       "minecraft:jungle": "2020-11-11 22:01:49 +0000",
       "minecraft:birch_forest": "2020-11-23 04:01:46 +0000",
@@ -1790,6 +1932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-11-29 03:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-11-23 00:54:17 +0000"
@@ -1862,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-11-11 22:17:56 +0000"
@@ -1901,6 +2055,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-11-25 22:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-11-28 23:31:32 +0000"
     },
     "done": true
   },
@@ -1982,6 +2142,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2020-11-24 16:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-11-29 00:21:46 +0000"
     },
     "done": true
   },

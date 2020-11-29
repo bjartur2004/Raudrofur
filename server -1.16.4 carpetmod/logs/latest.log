@@ -1,692 +1,999 @@
-[10:36:17] [main/INFO]: Loading for game Minecraft 1.16.4
-[10:36:18] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
-- Unsupported root entry "$schema" at line 2 column 14
-[10:36:18] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
-[10:36:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[10:36:42] [main/INFO]: [VanillaEnhanced] Hello there.
-[10:36:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:36:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:36:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:36:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:36:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:36:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:36:52] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip
-[10:36:54] [Worker-Main-4/INFO]: Loaded 7 recipes
-[10:36:54] [Worker-Main-4/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
-[10:36:54] [Worker-Main-4/INFO]: Loaded 927 advancements
-[10:36:56] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.449 ms
-[10:36:56] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[10:36:56] [Server thread/INFO]: Loading properties
-[10:36:56] [Server thread/INFO]: Default game type: SURVIVAL
-[10:36:56] [Server thread/INFO]: Generating keypair
-[10:36:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:36:57] [Server thread/INFO]: Using default channel type
-[10:36:59] [Server thread/INFO]: Preparing level "world"
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[10:36:59] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[10:37:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:38] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:40] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:40] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:40] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:40] [Server thread/INFO]: Preparing spawn area: 0%
-[10:37:40] [Server thread/INFO]: Time elapsed: 39750 ms
-[10:37:40] [Server thread/INFO]: Done (41.396s)! For help, type "help"
-[10:49:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[10:49:25] [Server thread/INFO]: s<--[HERE]
-[11:12:18] [User Authenticator #1/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
-[11:12:18] [Server thread/INFO]: Fibblifubb[/89.160.200.16:64027] logged in with entity id 76 at (-1402.5298140054304, 81.0, -559.9294505196301)
-[11:12:18] [Server thread/INFO]: Fibblifubb joined the game
-[11:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[11:50:55] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[11:50:55] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50794] logged in with entity id 6886 at (-431.18471268620755, 76.0, 308.1843642156508)
-[11:50:55] [Server thread/INFO]: A11y_UwU joined the game
-[11:50:56] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
-[11:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[11:52:07] [Server thread/INFO]: <Fibblifubb> yo can i use your tree farm?
-[11:52:20] [Server thread/INFO]: <Fibblifubb> also waht trees do you use?
-[11:52:22] [Server thread/INFO]: <A11y_UwU> nobe.. like ye but its broken
-[11:52:31] [Server thread/INFO]: <Fibblifubb> kk
-[11:52:45] [Server thread/INFO]: <A11y_UwU> actually ill just fix it real quick
-[11:52:54] [Server thread/INFO]: <Fibblifubb> oh ok thanks
-[11:53:48] [Server thread/INFO]: <A11y_UwU> slíp
-[11:54:28] [Server thread/INFO]: <Fibblifubb> but ye what tree type
-[11:54:40] [Server thread/INFO]: <A11y_UwU> nether wood only
-[11:58:52] [Server thread/INFO]: <Fibblifubb> oh you disabled phantom spawning i just realsedd
-[11:58:58] [Server thread/INFO]: <A11y_UwU> yebs
-[11:59:02] [Server thread/INFO]: <Fibblifubb> thank god
-[12:02:16] [Server thread/INFO]: <A11y_UwU> do ya need nether wood ?
-[12:02:33] [Server thread/INFO]: <Fibblifubb> it doesnt really matter what type of wood tbh
-[12:02:39] [Server thread/INFO]: <A11y_UwU> k
-[12:05:30] [Server thread/INFO]: <A11y_UwU> ima afk here for a bit. its currently set to warped fongus shat so.. ye milion stacks of that commin
-[12:05:40] [Server thread/INFO]: <Fibblifubb> kk
-[12:07:19] [Server thread/INFO]: <A11y_UwU> i think i exploded water blocks visually UwU
-[12:07:29] [Server thread/INFO]: <Fibblifubb> whot
-[12:08:20] [Server thread/INFO]: <A11y_UwU> there are 2 water blocks missing and i swere they where there befor.. and the rest of the water behaves like its still here
-[12:08:32] [Server thread/INFO]: <Fibblifubb> ... oh ok
-[12:08:56] [Server thread/INFO]: <A11y_UwU> when i was making some changes to the farm in creative it happened with stobe blocks too
-[12:09:19] [Server thread/INFO]: <Fibblifubb> probably just an issue with fabric or something
-[12:10:00] [Server thread/INFO]: <A11y_UwU> actually possibly a carpet bug, cuz that optimizes tnt a bit
-[12:10:13] [Server thread/INFO]: <Fibblifubb> oh or that
-[12:11:37] [Server thread/INFO]: <A11y_UwU> erum með nokkra tugi af warped logs núna
-[12:11:43] [Server thread/INFO]: <A11y_UwU> *stacks
-[12:11:43] [Server thread/INFO]: <Fibblifubb> dope
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 11.266701973461096,0.0,-0.2800884706498863
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 12.904228336835445,0.0,-0.34537832024764725
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 14.548177714101257,0.0,-0.41745163336561575
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 16.19836487167906,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 17.854608072041174,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 19.516728303436196,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 21.184550182773094,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 22.857901123088865,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 24.536612279729127,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 26.220516717164983,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 27.909451319137375,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 29.60325584800441,0.0,-0.473471736301704
-[12:12:45] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 31.30177397122857,0.0,-0.473471736301704
-[12:12:46] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 10.53471024885566,0.0,-0.0012826876370866103
-[12:12:46] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 12.306802258570528,0.0,-0.0012826876370866103
-[12:12:46] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 10.543705605707473,0.0,-0.0012826876370866103
-[12:12:47] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 10.748297700204262,0.0,0.0
-[12:12:47] [Server thread/WARN]: Boat (vehicle of Fibblifubb) moved too quickly! 12.513933019837964,0.0,0.0
-[12:14:31] [Server thread/INFO]: <Fibblifubb> yo bjort do ya know of any place that someone went mining for debri?
-[12:15:04] [Server thread/INFO]: <A11y_UwU> not really no
-[12:15:07] [Server thread/INFO]: <Fibblifubb> hec
-[12:39:39] [Server thread/INFO]: Gold[local] logged in with entity id 55781 at (-291.1811023270117, 222.0, 111.52552614969302)
-[12:39:39] [Server thread/INFO]: Gold joined the game
-[12:39:39] [Server thread/INFO]: Gold has made the advancement [We Need to Go Deeper]
-[12:39:47] [Server thread/INFO]: <Fibblifubb> lad gamer
-[12:44:09] [Server thread/INFO]: <A11y_UwU> i gatta go test a thing
-[12:44:10] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[12:44:10] [Server thread/INFO]: A11y_UwU left the game
-[12:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
-[12:54:00] [User Authenticator #3/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[12:54:00] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51079] logged in with entity id 70072 at (-91.01473313606274, 71.0, -13.729798489273504)
-[12:54:00] [Server thread/INFO]: A11y_UwU joined the game
-[12:54:01] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
-[12:56:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=77, z=-104} class_2338{x=-68, y=77, z=-105}
-[12:56:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=77, z=-104} class_2338{x=-68, y=77, z=-105}
-[12:56:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=77, z=-104} class_2338{x=-68, y=77, z=-105}
-[12:56:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=77, z=-104} class_2338{x=-68, y=77, z=-105}
-[12:56:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=77, z=-104} class_2338{x=-68, y=77, z=-105}
-[12:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=79, z=-108} class_2338{x=-68, y=79, z=-109}
-[12:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=79, z=-108} class_2338{x=-68, y=79, z=-109}
-[12:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=79, z=-108} class_2338{x=-68, y=79, z=-109}
-[12:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=79, z=-108} class_2338{x=-68, y=79, z=-109}
-[12:56:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=80, z=-111} class_2338{x=-68, y=80, z=-112}
-[12:56:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=80, z=-111} class_2338{x=-68, y=80, z=-112}
-[12:56:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=80, z=-111} class_2338{x=-68, y=80, z=-112}
-[12:56:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=80, z=-111} class_2338{x=-68, y=80, z=-112}
-[12:56:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=81, z=-113} class_2338{x=-68, y=81, z=-114}
-[12:56:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=81, z=-113} class_2338{x=-68, y=81, z=-114}
-[12:56:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=81, z=-113} class_2338{x=-68, y=81, z=-114}
-[12:56:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=81, z=-113} class_2338{x=-68, y=81, z=-114}
-[12:56:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=82, z=-116} class_2338{x=-68, y=82, z=-117}
-[12:56:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=82, z=-116} class_2338{x=-68, y=82, z=-117}
-[12:56:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=82, z=-116} class_2338{x=-68, y=82, z=-117}
-[12:56:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=82, z=-116} class_2338{x=-68, y=82, z=-117}
-[12:56:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=83, z=-118} class_2338{x=-68, y=83, z=-119}
-[12:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=83, z=-118} class_2338{x=-68, y=83, z=-119}
-[12:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=83, z=-118} class_2338{x=-68, y=83, z=-119}
-[12:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=83, z=-118} class_2338{x=-68, y=83, z=-119}
-[12:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=84, z=-120} class_2338{x=-68, y=84, z=-121}
-[12:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=84, z=-120} class_2338{x=-68, y=84, z=-121}
-[12:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=84, z=-120} class_2338{x=-68, y=84, z=-121}
-[12:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=84, z=-120} class_2338{x=-68, y=84, z=-121}
-[12:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=85, z=-123} class_2338{x=-68, y=85, z=-124}
-[12:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=85, z=-123} class_2338{x=-68, y=85, z=-124}
-[12:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=85, z=-123} class_2338{x=-68, y=85, z=-124}
-[12:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=85, z=-123} class_2338{x=-68, y=85, z=-124}
-[12:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=85, z=-123} class_2338{x=-68, y=85, z=-124}
-[12:56:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=86, z=-125} class_2338{x=-68, y=86, z=-126}
-[12:56:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=86, z=-125} class_2338{x=-68, y=86, z=-126}
-[12:56:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=86, z=-125} class_2338{x=-68, y=86, z=-126}
-[12:56:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=86, z=-125} class_2338{x=-68, y=86, z=-126}
-[12:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=87, z=-127} class_2338{x=-68, y=87, z=-128}
-[12:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=87, z=-127} class_2338{x=-68, y=87, z=-128}
-[12:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=87, z=-127} class_2338{x=-68, y=87, z=-128}
-[12:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-68, y=87, z=-127} class_2338{x=-68, y=87, z=-128}
-[13:02:43] [Server thread/INFO]: <A11y_UwU> -88 -95
-[13:06:14] [Server thread/INFO]: <A11y_UwU> pls dont sleep
-[13:06:39] [Server thread/INFO]: <Fibblifubb> kk
-[13:07:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=65, z=-561} class_2338{x=-1401, y=66, z=-562}
-[13:07:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1407, y=66, z=-562}
-[13:07:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1404, y=66, z=-562}
-[13:07:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1400, y=66, z=-562}
-[13:07:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1400, y=66, z=-558}
-[13:07:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1404, y=66, z=-558}
-[13:07:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1407, y=66, z=-558}
-[13:08:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1402, y=66, z=-557}
-[13:08:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1402, y=66, z=-554}
-[13:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1402, y=66, z=-554}
-[13:09:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1402, y=66, z=-563}
-[13:09:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1402, y=66, z=-566}
-[13:09:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1400, y=65, z=-562} class_2338{x=-1399, y=66, z=-560}
-[13:09:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1397, y=65, z=-561} class_2338{x=-1396, y=66, z=-560}
-[13:09:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1397, y=65, z=-561} class_2338{x=-1405, y=66, z=-560}
-[13:09:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1397, y=65, z=-561} class_2338{x=-1408, y=66, z=-560}
-[13:10:05] [Server thread/INFO]: <A11y_UwU> you can sleep now
-[13:10:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=66, z=-559} class_2338{x=-1401, y=69, z=-561}
-[13:10:14] [Server thread/INFO]: <Fibblifubb> kk
-[13:12:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=74, z=-561} class_2338{x=-1400, y=75, z=-563}
-[13:13:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=77, z=-559} class_2338{x=-1401, y=78, z=-565}
-[13:13:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=77, z=-559} class_2338{x=-1403, y=78, z=-565}
-[13:13:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=77, z=-559} class_2338{x=-1403, y=78, z=-567}
-[13:14:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1401, y=83, z=-560} class_2338{x=-1404, y=84, z=-557}
-[13:14:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1401, y=83, z=-560} class_2338{x=-1409, y=84, z=-559}
-[13:14:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1401, y=83, z=-560} class_2338{x=-1404, y=84, z=-566}
-[13:15:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1417, y=63, z=-559} class_2338{x=-1402, y=65, z=-559}
-[13:18:50] [Server thread/INFO]: <A11y_UwU> do you plan on fighting a wither soon?
-[13:18:59] [Server thread/INFO]: <Fibblifubb> nah not really
-[13:19:06] [Server thread/INFO]: <A11y_UwU> oh well
-[13:19:21] [Server thread/INFO]: <A11y_UwU> just asking cuz i need wither roses
-[13:19:25] [Server thread/INFO]: <Fibblifubb> noice
-[13:19:38] [Server thread/INFO]: <Fibblifubb> just use magma blocks btw
-[13:19:44] [Server thread/INFO]: <A11y_UwU> cant
-[13:20:00] [Server thread/INFO]: <Fibblifubb> can you place wither roses on anyhing?
-[13:20:06] [Server thread/INFO]: <A11y_UwU> ye
-[13:20:11] [Server thread/INFO]: <Fibblifubb> oh i didnt know taht
-[13:20:19] [Server thread/INFO]: <Fibblifubb> then i see the issue
-[13:20:21] [Server thread/INFO]: <A11y_UwU> soul sand
-[13:20:42] [Server thread/INFO]: <A11y_UwU> na it just ghasts dont take fire damage
-[13:20:50] [Server thread/INFO]: <Fibblifubb> oh
-[13:20:54] [Server thread/INFO]: <A11y_UwU> UwU
-[13:21:00] [Server thread/INFO]: <Fibblifubb> why are you making a ghast farm?
-[13:21:15] [Server thread/INFO]: <A11y_UwU> more fun gunpowder farm
-[13:21:21] [Server thread/INFO]: <Fibblifubb> oh ok
-[13:21:29] [Server thread/INFO]: <Fibblifubb> mine´s done so imma go afk
-[13:21:34] [Server thread/INFO]: <Fibblifubb> see ya
-[13:21:39] [Server thread/INFO]: <A11y_UwU> damn
-[13:21:43] [Server thread/INFO]: <A11y_UwU> good job
-[13:21:53] [Server thread/INFO]: <Fibblifubb> ye i spedran it
-[13:25:06] [User Authenticator #4/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[13:25:06] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:60066] logged in with entity id 93785 at (-196.34328415669714, 64.0, 837.353148090945)
-[13:25:06] [Server thread/INFO]: CRAZYCHICK3N joined the game
-[13:25:16] [Server thread/INFO]: <A11y_UwU> hellu
-[13:25:24] [Server thread/INFO]: <CRAZYCHICK3N> hi
-[13:26:13] [User Authenticator #5/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[13:26:13] [Server thread/INFO]: endertad[/89.160.244.218:57178] logged in with entity id 94849 at (-31.421135840002574, 41.0, 815.375626616795)
-[13:26:13] [Server thread/INFO]: endertad joined the game
-[13:27:39] [Server thread/INFO]: One[local] logged in with entity id 95940 at (-74.87785989176353, 128.0, -94.45442334348769)
-[13:27:39] [Server thread/INFO]: One joined the game
-[13:27:48] [Server thread/INFO]: Two[local] logged in with entity id 96016 at (-66.283767941399, 128.0, -94.75533091066673)
-[13:27:48] [Server thread/INFO]: Two joined the game
-[13:28:01] [Server thread/INFO]: Tree[local] logged in with entity id 96158 at (-54.1293424041601, 128.0, -94.74790752728673)
-[13:28:01] [Server thread/INFO]: Tree joined the game
-[13:29:28] [Server thread/INFO]: <endertad> how do you spawn bots
-[13:29:41] [Server thread/INFO]: <A11y_UwU> player
-[13:29:54] [Server thread/INFO]: [endertad: Can only manipulate existing players]
-[13:29:59] [Server thread/INFO]: <endertad> cant
-[13:30:15] [Server thread/INFO]: <A11y_UwU> gatta spawn em first brö
-[13:30:41] [Server thread/INFO]: Four[local] logged in with entity id 97618 at (-18.999029458550513, 40.0, 801.6999999880791)
-[13:30:41] [Server thread/INFO]: Four joined the game
-[13:31:17] [Server thread/INFO]: Four was slain by endertad
-[13:31:17] [Server thread/INFO]: Four lost connection: Killed
-[13:31:17] [Server thread/INFO]: Four left the game
-[13:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[13:40:01] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[13:40:01] [Server thread/INFO]: A11y_UwU left the game
-[13:44:00] [Server thread/INFO]: <Fibblifubb> yo
-[13:44:04] [Server thread/INFO]: <endertad> yo
-[13:45:48] [Server thread/INFO]: <endertad> why is there a gold bot
-[13:46:00] [Server thread/INFO]: <Fibblifubb> hes afking gold?
-[13:46:06] [Server thread/INFO]: <endertad> can ikill it
-[13:46:11] [Server thread/INFO]: <Fibblifubb> no
-[13:46:17] [Server thread/INFO]: <endertad> :(
-[13:47:17] [Server thread/INFO]: Steve[local] logged in with entity id 126277 at (-1400.300000011921, 186.0, -559.3000000119209)
-[13:47:17] [Server thread/INFO]: Steve joined the game
-[13:48:41] [Server thread/INFO]: Gold was slain by endertad
-[13:48:41] [Server thread/INFO]: Gold lost connection: Killed
-[13:48:41] [Server thread/INFO]: Gold left the game
-[13:48:47] [Server thread/INFO]: <Fibblifubb> >:(
-[13:48:52] [Server thread/INFO]: <endertad> he said yes
-[13:49:11] [Server thread/INFO]: <Fibblifubb> does bjet have villagers?
-[13:49:32] [Server thread/INFO]: <endertad> idk
-[13:49:41] [Server thread/INFO]: <endertad> is anyone in the nether
-[13:49:44] [Server thread/INFO]: <Fibblifubb> i am
-[13:49:54] [Server thread/INFO]: <endertad> :c
-[13:50:16] [Server thread/INFO]: <Fibblifubb> im out now
-[13:51:25] [Server thread/INFO]: <endertad> well someone else is in the nether
-[13:51:43] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
-[13:51:43] [Server thread/INFO]: Fibblifubb left the game
-[13:51:45] [User Authenticator #6/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
-[13:51:45] [Server thread/INFO]: Fibblifubb[/89.160.200.16:52545] logged in with entity id 129836 at (-220.69999998807907, 69.5625, -54.30000001192093)
-[13:51:45] [Server thread/INFO]: Fibblifubb joined the game
-[13:51:52] [Server thread/INFO]: <Fibblifubb> nice
-[13:53:46] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/131087, l='ServerLevel[world]', x=-291.79, y=222.31, z=110.00]
-[13:55:04] [Server thread/INFO]: <Fibblifubb> yo
-[13:55:17] [Server thread/INFO]: <endertad> yo
-[13:55:25] [Server thread/INFO]: <endertad> almost done
-[13:55:30] [Server thread/INFO]: <Fibblifubb> ikk
-[13:56:04] [Server thread/INFO]: <Fibblifubb> ask bjert if one of his players are in the nether
-[13:57:34] [Server thread/INFO]: One lost connection: Killed
-[13:57:34] [Server thread/INFO]: One left the game
-[13:57:42] [Server thread/INFO]: Two lost connection: Killed
-[13:57:42] [Server thread/INFO]: Two left the game
-[13:57:48] [Server thread/INFO]: Tree lost connection: Killed
-[13:57:48] [Server thread/INFO]: Tree left the game
-[13:57:56] [Server thread/INFO]: [endertad: Can only manipulate existing players]
-[13:58:13] [Server thread/INFO]: Steve lost connection: Killed
-[13:58:13] [Server thread/INFO]: Steve left the game
-[13:58:19] [Server thread/INFO]: <Fibblifubb> noooooooo
-[13:58:22] [Server thread/INFO]: <Fibblifubb> not steve
-[13:58:22] [Server thread/INFO]: <endertad> you
-[13:58:31] [Server thread/INFO]: <endertad> you can use it noww
-[13:58:35] [Server thread/INFO]: <Fibblifubb> thanks
-[14:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=32, z=810} class_2338{x=-23, y=32, z=810}
-[14:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=32, z=810} class_2338{x=-20, y=32, z=810}
-[14:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=32, z=810} class_2338{x=-20, y=32, z=810}
-[14:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=32, z=810} class_2338{x=-20, y=32, z=810}
-[14:10:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=32, z=810} class_2338{x=-20, y=32, z=810}
-[14:10:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-19, y=31, z=809} class_2338{x=-16, y=32, z=809}
-[14:12:59] [Server thread/INFO]: Fibblifubb fell off a ladder
-[14:15:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-301, y=70, z=137} class_2338{x=-1402, y=187, z=-560}
-[14:15:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-301, y=70, z=137} class_2338{x=-1402, y=186, z=-560}
-[14:16:14] [Server thread/INFO]: Steve[local] logged in with entity id 153256 at (-1400.522938534289, 186.0, -559.3117789789836)
-[14:16:14] [Server thread/INFO]: Steve joined the game
-[14:21:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-280, y=17, z=-76} class_2338{x=-283, y=13, z=-101}
-[14:22:41] [Server thread/INFO]: Fibblifubb has made the advancement [Hidden in the Depths]
-[14:24:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-234, y=65, z=-76} class_2338{x=-232, y=67, z=-76}
-[14:26:01] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/160319, l='ServerLevel[world]', x=-244.25, y=64.00, z=655.25]
-[14:28:03] [User Authenticator #7/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[14:28:03] [Server thread/INFO]: Sminky52[/89.17.139.9:50812] logged in with entity id 161687 at (-729.4268403122926, 60.0, 630.4867084449222)
-[14:28:03] [Server thread/INFO]: Sminky52 joined the game
-[14:28:12] [Server thread/INFO]: <endertad> ew
-[14:28:13] [Server thread/INFO]: endertad lost connection: Disconnected
-[14:28:13] [Server thread/INFO]: endertad left the game
-[14:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[14:48:45] [User Authenticator #8/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
-[14:48:45] [Server thread/INFO]: _Velmca[/157.157.180.211:60875] logged in with entity id 186534 at (223.32227040473617, 69.0, -35.53783845858323)
-[14:48:45] [Server thread/INFO]: _Velmca joined the game
-[14:50:43] [User Authenticator #9/INFO]: UUID of player _RedHeroGamer_ is 3e9f1702-7662-4b7b-b0f2-fd5432a772eb
-[14:50:43] [Server thread/INFO]: _RedHeroGamer_[/89.160.216.16:57070] logged in with entity id 189574 at (-191.84675072874884, 65.0, 820.7203161453446)
-[14:50:43] [Server thread/INFO]: _RedHeroGamer_ joined the game
-[14:50:47] [Server thread/INFO]: <_Velmca> heio
-[14:50:56] [Server thread/INFO]: <_RedHeroGamer_> eyjoooooo
-[14:51:01] [Server thread/INFO]: <Sminky52> hi
-[14:51:22] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
-[14:51:22] [Server thread/INFO]: Fibblifubb left the game
-[14:51:25] [User Authenticator #10/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
-[14:51:25] [Server thread/INFO]: Fibblifubb[/89.160.200.16:54421] logged in with entity id 190103 at (-220.494929041219, 69.5625, -54.31919427127061)
-[14:51:25] [Server thread/INFO]: Fibblifubb joined the game
-[14:53:13] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[14:53:13] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[14:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[14:58:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-518, y=114, z=2995} class_2338{x=-531, y=118, z=2999}
-[15:04:58] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.40102502672687024
-[15:05:30] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.30412108042949626
-[15:05:30] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.511690989514733
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5142714486429725
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.516012573586039
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5169618163962753
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5173015317805607
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5172588939025502
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.48931551021189534
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4743635627299909
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.4942836427543398
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5051251146205686
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5110062528855224
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5142284346889312
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5160009139899557
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.516960731708366
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.517484016301637
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5177601821602593
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.517904449919854
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.5179816447216012
-[15:05:31] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.2771616506506973
-[15:12:27] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
-[15:12:27] [Server thread/INFO]: CRAZYCHICK3N left the game
-[15:13:08] [Server thread/INFO]: _Velmca has made the advancement [Remote Getaway]
-[15:15:47] [Server thread/INFO]: <_Velmca> bææ
-[15:15:50] [Server thread/INFO]: _Velmca lost connection: Disconnected
-[15:15:50] [Server thread/INFO]: _Velmca left the game
-[15:27:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-592, y=95, z=2995} class_2338{x=-592, y=94, z=2995}
-[15:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-592, y=93, z=2995} class_2338{x=-592, y=95, z=2995}
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228974, l='ServerLevel[world]', x=-283.32, y=6.32, z=-174.44]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Flint'/228975, l='ServerLevel[world]', x=-284.42, y=8.33, z=-177.42]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228976, l='ServerLevel[world]', x=-281.47, y=8.65, z=-177.71]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228978, l='ServerLevel[world]', x=-280.75, y=13.45, z=-177.33]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228979, l='ServerLevel[world]', x=-282.60, y=9.63, z=-178.38]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228980, l='ServerLevel[world]', x=-284.36, y=7.50, z=-177.61]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228981, l='ServerLevel[world]', x=-282.61, y=8.48, z=-177.35]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228982, l='ServerLevel[world]', x=-283.45, y=9.54, z=-178.70]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228983, l='ServerLevel[world]', x=-281.46, y=10.66, z=-177.68]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Quartz'/228984, l='ServerLevel[world]', x=-286.31, y=12.70, z=-176.55]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228985, l='ServerLevel[world]', x=-284.70, y=6.62, z=-176.67]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228986, l='ServerLevel[world]', x=-282.50, y=7.65, z=-176.32]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228987, l='ServerLevel[world]', x=-282.47, y=7.67, z=-173.64]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228989, l='ServerLevel[world]', x=-281.48, y=13.36, z=-178.34]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228990, l='ServerLevel[world]', x=-283.52, y=13.37, z=-178.39]
-[15:46:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/228991, l='ServerLevel[world]', x=-285.63, y=7.60, z=-174.33]
-[15:46:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/229206, l='ServerLevel[world]', x=-278.50, y=4.47, z=-184.69]
-[15:51:35] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
-[15:51:35] [Server thread/INFO]: Fibblifubb left the game
-[16:25:52] [User Authenticator #11/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[16:25:52] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:64660] logged in with entity id 242495 at (-164.69999998807907, 57.0, 873.5166884739328)
-[16:25:52] [Server thread/INFO]: CRAZYCHICK3N joined the game
-[16:27:20] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
-[16:27:20] [Server thread/INFO]: CRAZYCHICK3N left the game
-[16:27:23] [User Authenticator #12/INFO]: UUID of player CRAZYCHICK3N is a5ea861c-a760-4afb-af58-12e43d402e78
-[16:27:23] [Server thread/INFO]: CRAZYCHICK3N[/194.144.159.142:64703] logged in with entity id 243095 at (-170.35793007378876, 63.0, 865.4893207866953)
-[16:27:23] [Server thread/INFO]: CRAZYCHICK3N joined the game
-[16:39:16] [Server thread/INFO]: [_RedHeroGamer_: ]
-[16:41:20] [Server thread/INFO]: ... Time warp completed with 0 tps, or Infinity mspt
-[16:41:20] [Server thread/INFO]: [_RedHeroGamer_: Started spawn test for 72000 ticks]
-[16:42:03] [Server thread/INFO]: [CRAZYCHICK3N: ambient mobs will now spawn 1 times per tick]
-[16:42:27] [Server thread/INFO]: [CRAZYCHICK3N: ambient mobs will now spawn 100 times per tick]
-[16:44:13] [Server thread/INFO]: [CRAZYCHICK3N: ambient mobs will now spawn 0 times per tick]
-[16:45:33] [Server thread/INFO]: [_RedHeroGamer_: misc mobs will now spawn 1 times per tick]
-[16:48:21] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[16:48:21] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51516] logged in with entity id 252276 at (-296.70656616645226, 71.0, 127.49236275896148)
-[16:48:21] [Server thread/INFO]: A11y_UwU joined the game
-[16:48:22] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
-[16:48:58] [Server thread/INFO]: <_RedHeroGamer_> það er eitthvað weird shit í gangi með villigerana
-[16:49:20] [Server thread/INFO]: <_RedHeroGamer_> Það stendur 500 og eitthvað
-[16:53:02] [Server thread/INFO]: <A11y_UwU> da fuck happened to the slime block elevator
-[16:53:53] [Server thread/INFO]: CRAZYCHICK3N lost connection: Disconnected
-[16:53:53] [Server thread/INFO]: CRAZYCHICK3N left the game
-[16:56:28] [Server thread/INFO]: boyy[local] logged in with entity id 257143 at (-303.41063566985423, 135.5, 106.72762337146253)
-[16:56:28] [Server thread/INFO]: boyy joined the game
-[16:56:28] [Server thread/INFO]: boyy has made the advancement [We Need to Go Deeper]
-[16:56:53] [Server thread/INFO]: <A11y_UwU> endertad didint spawn my player back >:(
-[16:57:06] [Server thread/INFO]: <A11y_UwU> and also might have broken my elevator
-[17:03:03] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[17:03:03] [Server thread/INFO]: A11y_UwU left the game
-[17:04:55] [Server thread/INFO]: _RedHeroGamer_ lost connection: Disconnected
-[17:04:55] [Server thread/INFO]: _RedHeroGamer_ left the game
-[17:05:23] [User Authenticator #14/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[17:05:23] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51591] logged in with entity id 262102 at (-301.52565069417017, 135.5, 99.67948484623693)
-[17:05:23] [Server thread/INFO]: A11y_UwU joined the game
-[17:05:24] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
-[17:05:36] [Server thread/INFO]: <Sminky52> sup
-[17:05:42] [Server thread/INFO]: <A11y_UwU> hi
-[17:06:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-686, y=71, z=644} class_2338{x=-685, y=70, z=662}
-[17:06:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-686, y=71, z=644} class_2338{x=-685, y=70, z=663}
-[17:06:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-686, y=71, z=644} class_2338{x=-685, y=70, z=663}
-[17:06:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-684, y=69, z=663} class_2338{x=-685, y=69, z=663}
-[17:06:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-684, y=69, z=663} class_2338{x=-685, y=69, z=664}
-[17:06:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-686, y=69, z=663} class_2338{x=-685, y=69, z=662}
-[17:06:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-686, y=69, z=663} class_2338{x=-686, y=69, z=662}
-[17:08:48] [Server thread/INFO]: Stop[local] logged in with entity id 264550 at (-66.42647934346267, 128.0, -95.79909558248929)
-[17:08:48] [Server thread/INFO]: Stop joined the game
-[17:08:48] [Server thread/INFO]: Stop has made the advancement [We Need to Go Deeper]
-[17:19:01] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[17:19:01] [Server thread/INFO]: A11y_UwU left the game
-[17:31:54] [User Authenticator #15/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
-[17:31:54] [Server thread/INFO]: Fibblifubb[/89.160.200.16:60373] logged in with entity id 276255 at (-1755.6936317923366, 68.0, -446.9268427826983)
-[17:31:54] [Server thread/INFO]: Fibblifubb joined the game
-[17:33:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-243, y=57, z=-76} class_2338{x=-244, y=56, z=-76}
-[17:33:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-245, y=55, z=-76} class_2338{x=-244, y=56, z=-76}
-[17:34:42] [User Authenticator #16/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[17:34:42] [Server thread/INFO]: endertad[/89.160.244.218:50380] logged in with entity id 277992 at (-205.02157602066572, 63.0, 839.107741658507)
-[17:34:42] [Server thread/INFO]: endertad joined the game
-[17:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[17:36:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-287, y=13, z=-246} class_2338{x=-287, y=13, z=-243}
-[17:37:00] [Server thread/WARN]: Fibblifubb moved too quickly! 1.1111647413243304,-0.35343850174299085,17.6329522162456
-[17:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
-[17:39:50] [Server thread/INFO]: endertad has reached the goal [Sky's the Limit]
-[17:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
-[17:55:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-169, y=63, z=824} class_2338{x=-1402, y=188, z=-560}
-[17:57:47] [Server thread/INFO]: Fibblifubb has completed the challenge [Serious Dedication]
-[18:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18:11:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298716, l='ServerLevel[world]', x=-235.80, y=83.00, z=605.05]
-[18:11:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298716, l='ServerLevel[world]', x=-235.80, y=83.00, z=605.05]
-[18:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:16:00] [Server thread/INFO]: Fibblifubb fell from a high place
-[18:22:09] [Server thread/WARN]: endertad moved too quickly! -9.636077989358682,5.4836232092190045,-14.630477832908582
-[18:26:38] [User Authenticator #17/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
-[18:26:38] [Server thread/INFO]: _Velmca[/157.157.180.211:62323] logged in with entity id 308167 at (222.5, 69.0, -30.5)
-[18:26:38] [Server thread/INFO]: _Velmca joined the game
-[18:27:12] [Server thread/INFO]: <_Velmca> hæ
-[18:27:20] [Server thread/INFO]: <endertad> nei
-[18:31:37] [Server thread/INFO]: <_Velmca> ):
-[18:34:25] [User Authenticator #18/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[18:34:25] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52335] logged in with entity id 313990 at (-425.3188931059071, 75.0, 320.4203455133506)
-[18:34:25] [Server thread/INFO]: A11y_UwU joined the game
-[18:34:25] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
-[18:34:28] [Server thread/INFO]: <_Velmca> hæ
-[18:34:33] [Server thread/INFO]: <A11y_UwU> hellu
-[18:34:45] [Server thread/WARN]: Fibblifubb moved too quickly! -8.744835280026109,2.8754701542736143,15.655007063457447
-[18:34:57] [Server thread/INFO]: <A11y_UwU> hvernig var með bobba boy endertad?
-[18:35:00] [Server thread/INFO]: <A11y_UwU> vængina
-[18:35:16] [Server thread/INFO]: <A11y_UwU> á ég að setja báða í búðina bara
-[18:35:28] [Server thread/INFO]: _Velmca fell from a high place
-[18:35:33] [Server thread/INFO]: <A11y_UwU> f
-[18:35:38] [Server thread/INFO]: <endertad> lol loser
-[18:35:53] [Server thread/INFO]: _Velmca lost connection: Disconnected
-[18:35:53] [Server thread/INFO]: _Velmca left the game
-[18:35:54] [Server thread/INFO]: endertad lost connection: ullabjakk
-[18:35:54] [Server thread/INFO]: endertad left the game
-[18:35:54] [Server thread/INFO]: [A11y_UwU: Kicked endertad: ullabjakk]
-[18:35:54] [Server thread/WARN]: handleDisconnection() called twice
-[18:35:58] [User Authenticator #19/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
-[18:35:58] [Server thread/INFO]: endertad[/89.160.244.218:52333] logged in with entity id 315744 at (-1344.2929822031845, 88.0, -810.7101413980848)
-[18:35:58] [Server thread/INFO]: endertad joined the game
-[18:35:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Stone'/315738, l='ServerLevel[world]', x=-1334.39, y=88.00, z=-821.29]
-[18:36:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/316147, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
-[18:36:51] [Server thread/INFO]: <A11y_UwU> somone stole my sugercane >:(
-[18:36:59] [Server thread/INFO]: <endertad> ?
-[18:37:03] [Server thread/INFO]: <Fibblifubb> pretty poppin
-[18:39:51] [Server thread/INFO]: <A11y_UwU> endertad, do you want one elytra or sould i return both?
-[18:40:21] [Server thread/INFO]: <endertad> andri was going to buy one but ikm not
-[18:40:32] [Server thread/INFO]: <A11y_UwU> ok
-[18:41:25] [Server thread/INFO]: <Sminky52> how many dimonds for a elytra?
-[18:41:30] [Server thread/INFO]: <A11y_UwU> 25
-[18:42:10] [Server thread/WARN]: Fibblifubb moved too quickly! -16.317591692110796,-2.697326018408205,5.419688136679184
-[18:42:10] [Server thread/WARN]: endertad moved too quickly! -17.50359220830771,-1.8355635902002234,2.7509345733093795
-[18:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
-[18:42:57] [Server thread/INFO]: Sminky52 was slain by Enderman
-[18:43:30] [Server thread/INFO]: <endertad> -425 69 56
-[18:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:48:35] [User Authenticator #20/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
-[18:48:35] [Server thread/INFO]: _Velmca[/157.157.180.211:62383] logged in with entity id 326509 at (-3302.888216676397, 63.0, 652.2882656448496)
-[18:48:35] [Server thread/INFO]: _Velmca joined the game
-[18:48:42] [Server thread/INFO]: <Sminky52> sup
-[18:48:48] [Server thread/INFO]: <_Velmca> blessaður
-[18:48:51] [Server thread/INFO]: <A11y_UwU> helluuuuuuuuuuu
-[18:49:46] [Server thread/INFO]: <A11y_UwU> anyone plannin on getting a beacon?
-[18:49:53] [Server thread/INFO]: <Fibblifubb> maybe
-[18:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18:50:45] [Server thread/INFO]: <A11y_UwU> i still need those roses.. so im ready to help somone get one and or fight one if i can use it for some roses
-[18:50:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
-[18:51:08] [Server thread/INFO]: <Sminky52> hvad gerir Stop?
-[18:51:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
-[18:51:16] [Server thread/INFO]: <Fibblifubb> im mostly just in pain getting the heads
-[18:51:26] [Server thread/INFO]: <A11y_UwU> stops ghast spawning for a bit
-[18:51:34] [Server thread/INFO]: <Sminky52> nice
-[18:51:38] [Server thread/INFO]: <A11y_UwU> ill help you get heads
-[18:52:14] [Server thread/INFO]: <Fibblifubb> ok, do you have someone afking the gold farm?
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 10.425006421462513,0.0,0.06134107330240113
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 11.004173202096354,0.0,0.06474891070809008
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 11.583339982717916,0.0,0.06815674811377903
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 12.162506763333113,0.0,0.07156458551946798
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 12.741673543944671,0.0,0.07497242292515693
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 13.320707680742544,0.0,0.06586053620389976
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 13.895099044942071,0.0,0.010755746075119532
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 14.399123115254497,0.0,-0.20266823775466491
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 14.698087235201001,0.0,-0.584559334272285
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 14.763603193011477,0.0,-1.0410808861506666
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 14.575114140621281,0.0,-1.4355009471896665
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 14.226366426689765,0.0,-1.7517420669138346
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 13.782673310981863,0.0,-2.001100645976635
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 13.282785885771773,0.0,-2.1947120716436075
-[18:52:22] [Server thread/WARN]: Horse (vehicle of _Velmca) moved too quickly! 12.746103308237707,0.0,-2.3050731955353285
-[18:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
-[18:52:37] [Server thread/WARN]: Horse (vehicle of _Velmca) moved wrongly! 0.498503795909528
-[18:52:38] [Server thread/INFO]: <A11y_UwU> no.. but me, stop and boyy are in the nether
-[18:52:48] [Server thread/INFO]: <A11y_UwU> boyy is useless now tho
-[18:52:54] [Server thread/INFO]: <Fibblifubb> oh cause not a singe thing is spawning in the ortress
-[18:52:58] [Server thread/INFO]: boyy lost connection: Killed
-[18:52:58] [Server thread/INFO]: boyy left the game
-[18:53:10] [Server thread/INFO]: <A11y_UwU> yebs
-[18:53:27] [Server thread/INFO]: <A11y_UwU> i reccomend doing it at 1 am lmao
-[18:53:47] [Server thread/INFO]: <Fibblifubb> what
-[18:53:57] [Server thread/INFO]: <A11y_UwU> 1am
-[18:54:01] [Server thread/INFO]: <A11y_UwU> or later
-[18:54:35] [Server thread/INFO]: <A11y_UwU> then almost no nobody plays
-[18:54:42] [Server thread/INFO]: <A11y_UwU> just me and somtimes togga
-[18:55:06] [Server thread/INFO]: <Fibblifubb> yo imma steal some ffire rez potions if ya dont mind
-[18:55:15] [Server thread/INFO]: <A11y_UwU> ye sure
-[18:56:05] [Server thread/INFO]: <A11y_UwU> can items generate portals?
-[18:56:23] [Server thread/INFO]: <A11y_UwU> why am i asking here
-[18:56:30] [Server thread/INFO]: <Sminky52> i dont thing so
-[18:56:31] [Server thread/INFO]: <Fibblifubb> unlikley
-[18:57:09] [Server thread/INFO]: <A11y_UwU> actually ye no probs not cuz then the old obi farms would do that
-[18:57:26] [Server thread/WARN]: Sminky52 moved too quickly! 0.4949944754112039,2.3304514911015843,-9.912215403891423
-[18:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
-[18:58:38] [Server thread/INFO]: Fibblifubb has made the advancement [Spooky Scary Skeleton]
-[18:58:42] [Server thread/INFO]: <A11y_UwU> good job
-[18:59:04] [Server thread/INFO]: <Sminky52> z
-[18:59:13] [Server thread/INFO]: <_Velmca> bæo
-[18:59:14] [Server thread/INFO]: _Velmca lost connection: Disconnected
-[18:59:14] [Server thread/INFO]: _Velmca left the game
-[18:59:18] [Server thread/WARN]: endertad moved too quickly! 8.513360349774302,3.8618844133413717,-15.54487124907915
-[19:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:03:23] [Server thread/WARN]: endertad moved too quickly! -5.589665862992206,-2.1189741524939762,-16.60670969486864
-[19:03:49] [Server thread/INFO]: <endertad> 160 69 -15
-[19:07:09] [Server thread/INFO]: <endertad> why arent you helping bronk bjert
-[19:07:42] [Server thread/INFO]: <A11y_UwU> simply cuz im not
-[19:07:53] [Server thread/INFO]: <Fibblifubb> ok i guess no wither roses then
-[19:08:16] [Server thread/INFO]: <A11y_UwU> i can get a wither in 5 min <3
-[19:08:25] [Server thread/INFO]: <Fibblifubb> then do that
-[19:08:29] [Server thread/INFO]: <A11y_UwU> ye
-[19:08:57] [Server thread/INFO]: <Fibblifubb> can you atleast leave the nether so things actually spawn
-[19:09:04] [Server thread/INFO]: <A11y_UwU> im bússí trying to beat you in somthing else
-[19:09:28] [Server thread/INFO]: <A11y_UwU> um.. im low key making a farm brö
-[19:11:59] [Server thread/INFO]: endertad lost connection: Disconnected
-[19:11:59] [Server thread/INFO]: endertad left the game
-[19:12:30] [Server thread/WARN]: Fibblifubb moved too quickly! -9.686206752526687,1.1767592750642422,2.7463621436426138
-[19:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
-[19:12:38] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
-[19:12:38] [Server thread/INFO]: Fibblifubb left the game
-[19:19:27] [Server thread/INFO]: Bartering[local] logged in with entity id 360019 at (-313.2956321713475, 133.5, 106.91914920664055)
-[19:19:27] [Server thread/INFO]: Bartering joined the game
-[19:19:27] [Server thread/INFO]: Bartering has made the advancement [We Need to Go Deeper]
-[19:21:02] [Server thread/INFO]: Stop was slain by Piglin
-[19:21:02] [Server thread/INFO]: Stop lost connection: Killed
-[19:21:02] [Server thread/INFO]: Stop left the game
-[19:22:54] [Server thread/INFO]: Stop[local] logged in with entity id 380483 at (-66.56032438407843, 128.0, -95.42311542600922)
-[19:22:54] [Server thread/INFO]: Stop joined the game
-[19:23:37] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[19:23:37] [Server thread/INFO]: A11y_UwU left the game
-[19:30:14] [User Authenticator #21/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[19:31:25] [Server Watchdog/FATAL]: A single server tick took 60.24 seconds (should be max 0.05)
-[19:30:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b58de84[id=cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a,name=A11y_UwU,properties={textures=[com.mojang.authlib.properties.Property@1b647e3b]},legacy=false] (/127.0.0.1:52543) lost connection: Disconnected
-[19:31:46] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[19:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 81530ms or 1630 ticks behind
-[19:31:46] [Server thread/INFO]: Sminky52 lost connection: Timed out
-[19:31:46] [Server thread/INFO]: Sminky52 left the game
-[19:31:46] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-11-27_19.31.46-server.txt
-[19:31:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@2090aa35[id=<null>,name=A11y_UwU,properties={},legacy=false] (/127.0.0.1:52556) lost connection: Disconnected
-[19:31:46] [Server thread/INFO]: Stopping server
-[19:31:46] [Server thread/INFO]: Saving players
-[19:31:46] [Server thread/INFO]: Saving worlds
-[19:31:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:31:47] [User Authenticator #22/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[19:31:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:31:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:31:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:31:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:31:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:31:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:31:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:31:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5826ms or 116 ticks behind
+[00:00:22] [Server thread/INFO]: <A11y_UwU> togga
+[00:00:27] [Server thread/INFO]: <A11y_UwU> skamm
+[00:00:29] [Server thread/INFO]: <togga99> EINGRÍ
+[00:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3817ms or 76 ticks behind
+[00:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4389ms or 87 ticks behind
+[00:01:05] [Server thread/INFO]: <togga99> MIG LANGAR BARA I SKÓ
+[00:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4593ms or 91 ticks behind
+[00:01:22] [Server thread/INFO]: <A11y_UwU> allt í lagi, en það er betra að spyrja
+[00:01:28] [Server thread/INFO]: <togga99> nei
+[00:01:33] [Server thread/INFO]: <togga99> bye bich
+[00:01:37] [Server thread/INFO]: <A11y_UwU> bæbæ
+[00:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4720ms or 94 ticks behind
+[00:01:47] [Server thread/INFO]: <SKAF_PathFinder> bye
+[00:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6468ms or 129 ticks behind
+[00:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[00:02:30] [Server thread/INFO]: <A11y_UwU> ok ég ættla að gera hús fyrir super smellter
+[00:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
+[00:02:41] [Server thread/INFO]: <SKAF_PathFinder> Niceeeeee
+[00:02:45] [Server thread/INFO]: <togga99> er það nyja krastan þin
+[00:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4816ms or 96 ticks behind
+[00:03:05] [Server thread/INFO]: <A11y_UwU> já takk fyrir það
+[00:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
+[00:03:17] [Server thread/INFO]: <A11y_UwU> ég þarf að fara að gera einhvað við hann
+[00:03:19] [Server thread/INFO]: <togga99> þu ert endalaust að halda framhja
+[00:03:26] [Server thread/INFO]: <A11y_UwU> neiiii'
+[00:03:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/712156, l='ServerLevel[world]', x=-461.72, y=76.00, z=288.17]
+[00:03:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/712156, l='ServerLevel[world]', x=-461.72, y=76.00, z=288.17]
+[00:03:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/712156, l='ServerLevel[world]', x=-461.72, y=76.00, z=288.17]
+[00:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
+[00:03:38] [Server thread/INFO]: <togga99> ju greinilega
+[00:03:45] [Server thread/INFO]: <A11y_UwU> ég hef aldrei gert það,
+[00:03:56] [Server thread/INFO]: <togga99> greinilega nuna
+[00:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6660ms or 133 ticks behind
+[00:04:06] [Server thread/INFO]: <A11y_UwU> það var einhver stelpa að spyrja mig áðan og ég neitaði um leið
+[00:04:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7595ms or 151 ticks behind
+[00:04:30] [Server thread/INFO]: <togga99> trui þvi ekki
+[00:04:36] [Server thread/INFO]: <A11y_UwU> valla getur staðfest það
+[00:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
+[00:04:44] [Server thread/INFO]: <A11y_UwU> hún var líka online
+[00:05:02] [Server thread/INFO]: <togga99> va eingri
+[00:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6953ms or 139 ticks behind
+[00:05:06] [Server thread/INFO]: <togga99> hver var þa
+[00:05:16] [Server thread/INFO]: <A11y_UwU> kolbrún
+[00:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6687ms or 133 ticks behind
+[00:05:26] [Server thread/INFO]: <A11y_UwU> (ekki alvöru hún heldur bot)
+[00:05:35] [Server thread/INFO]: <togga99> eins gott
+[00:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
+[00:05:54] [Server thread/WARN]: A11y_UwU moved wrongly!
+[00:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8401ms or 168 ticks behind
+[00:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
+[00:06:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9832ms or 196 ticks behind
+[00:07:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11148ms or 222 ticks behind
+[00:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
+[00:07:56] [Server thread/INFO]: <togga99> ally ma eg fa gunpowder?
+[00:08:03] [Server thread/INFO]: <A11y_UwU> ja
+[00:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7582ms or 151 ticks behind
+[00:08:14] [Server thread/INFO]: <togga99> þarf að sprengja húsið okkar
+[00:08:19] [Server thread/INFO]: <SKAF_PathFinder> lol
+[00:08:24] [Server thread/INFO]: <A11y_UwU> það máttu
+[00:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4796ms or 95 ticks behind
+[00:08:25] [Server thread/INFO]: <A11y_UwU> ekki
+[00:08:40] [Server thread/INFO]: <SKAF_PathFinder> I was gonna say ''PLOT TWIST''
+[00:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5763ms or 115 ticks behind
+[00:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6742ms or 134 ticks behind
+[00:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[00:09:42] [Server thread/INFO]: togga99 lost connection: Disconnected
+[00:09:42] [Server thread/INFO]: togga99 left the game
+[00:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7117ms or 142 ticks behind
+[00:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4229ms or 84 ticks behind
+[00:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[00:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[00:11:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:11:16] [User Authenticator #39/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[00:11:16] [Server thread/INFO]: togga99[/89.160.212.94:59568] logged in with entity id 726750 at (-427.8423474401604, 75.0, 344.550441565891)
+[00:11:16] [Server thread/INFO]: togga99 joined the game
+[00:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
+[00:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[00:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4278ms or 85 ticks behind
+[00:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
+[00:12:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5423ms or 108 ticks behind
+[00:12:49] [Server thread/WARN]: Fetching packet for removed entity class_1613['Skeleton'/727522, l='ServerLevel[world]', x=-336.70, y=29.95, z=379.91]
+[00:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[00:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8442ms or 168 ticks behind
+[00:13:35] [Server thread/INFO]: <togga99> e
+[00:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8553ms or 171 ticks behind
+[00:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6924ms or 138 ticks behind
+[00:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
+[00:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7950ms or 159 ticks behind
+[00:15:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7516ms or 150 ticks behind
+[00:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7319ms or 146 ticks behind
+[00:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6260ms or 125 ticks behind
+[00:16:20] [Server thread/INFO]: <togga99> if i die dont cry just look up to the sky and say bye felicia
+[00:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5596ms or 111 ticks behind
+[00:16:31] [Server thread/INFO]: <SKAF_PathFinder> That is from a song
+[00:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[00:16:50] [Server thread/INFO]: <togga99> auðvitað
+[00:16:53] [Server thread/INFO]: <A11y_UwU> yebs
+[00:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
+[00:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7517ms or 150 ticks behind
+[00:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7926ms or 158 ticks behind
+[00:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8207ms or 164 ticks behind
+[00:18:25] [Server thread/INFO]: <togga99> A11y_UwU er skemmtilegats a manneskja a hjorðini
+[00:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7550ms or 151 ticks behind
+[00:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5998ms or 119 ticks behind
+[00:18:56] [Server thread/INFO]: <A11y_UwU> takk =°n°=
+[00:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6003ms or 120 ticks behind
+[00:19:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6035ms or 120 ticks behind
+[00:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6750ms or 135 ticks behind
+[00:20:16] [Server thread/INFO]: <togga99> vill einhver selja mér 2 sand kubba fyrir 2 demanta
+[00:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6263ms or 125 ticks behind
+[00:20:35] [Server thread/INFO]: <A11y_UwU> jaja
+[00:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10896ms or 217 ticks behind
+[00:21:00] [Server thread/INFO]: <togga99> ok
+[00:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7420ms or 148 ticks behind
+[00:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6820ms or 136 ticks behind
+[00:21:46] [Server thread/INFO]: togga99 has made the advancement [Diamonds!]
+[00:21:49] [Server thread/INFO]: <A11y_UwU> vá.. ættlaru líka að nota minn sand... eh ok
+[00:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4527ms or 90 ticks behind
+[00:21:58] [Server thread/INFO]: <togga99> gemmer 2 sand
+[00:22:06] [Server thread/INFO]: <togga99> nei öfugt
+[00:22:07] [Server thread/INFO]: <A11y_UwU> oh ég hélt að væri öfugt
+[00:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[00:22:32] [Server thread/INFO]: <togga99> nei er nu ekki það heimsk
+[00:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6529ms or 130 ticks behind
+[00:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6833ms or 136 ticks behind
+[00:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5140ms or 102 ticks behind
+[00:23:22] [Server thread/INFO]: <A11y_UwU> um.. þú sprengdir hella expensive sandin .inn
+[00:23:29] [Server thread/INFO]: <togga99> ha
+[00:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5153ms or 103 ticks behind
+[00:23:47] [Server thread/INFO]: <A11y_UwU> ég droppaði sandinum og það sprakk
+[00:23:49] [Server thread/INFO]: <togga99> oh nohjjjjjjjjjjjjjjjjjjjj
+[00:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4026ms or 80 ticks behind
+[00:23:57] [Server thread/INFO]: <togga99> en eg borgaði 2 demanta fyrir hann
+[00:24:03] [Server thread/INFO]: <A11y_UwU> ég get reynt að fá meira
+[00:24:06] [Server thread/INFO]: <A11y_UwU> triggingar
+[00:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
+[00:24:29] [Server thread/INFO]: <A11y_UwU> triggingarnar voru coolio
+[00:24:29] [Server thread/INFO]: <togga99> ja eg vil vara í þinghúsið og ræða þetta mæal fyrst
+[00:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
+[00:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6117ms or 122 ticks behind
+[00:25:08] [Server thread/INFO]: <A11y_UwU> þú gerðir það næstum aftur
+[00:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4829ms or 96 ticks behind
+[00:25:18] [Server thread/INFO]: <A11y_UwU> taktu við því >:(
+[00:25:33] [Server thread/INFO]: <togga99> hann er ónýtur
+[00:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6373ms or 127 ticks behind
+[00:25:41] [Server thread/INFO]: <A11y_UwU> nei gaf þér
+[00:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5263ms or 105 ticks behind
+[00:26:08] [Server thread/INFO]: <togga99> skírum þessa á Bogga
+[00:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6270ms or 125 ticks behind
+[00:26:33] [Server thread/INFO]: <SKAF_PathFinder> Þinghúsið?
+[00:26:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
+[00:26:58] [Server thread/INFO]: <togga99> ja þetta var merkilegt mál þannig það árf þinghúsið
+[00:26:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6121ms or 122 ticks behind
+[00:27:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/745708, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
+[00:27:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/745708, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
+[00:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5777ms or 115 ticks behind
+[00:27:26] [Server thread/INFO]: <SKAF_PathFinder> skil ekki alveg...
+[00:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5369ms or 107 ticks behind
+[00:27:40] [Server thread/INFO]: <SKAF_PathFinder> Langar þér að gera þinghús?
+[00:27:43] [Server thread/INFO]: <togga99> eg skal segja
+[00:27:43] [Server thread/INFO]: <A11y_UwU> eyy actually var að fá hugmynd fyrri þig skaf eða community
+[00:27:51] [Server thread/INFO]: <SKAF_PathFinder> ok
+[00:27:55] [Server thread/INFO]: <SKAF_PathFinder> do tell
+[00:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3869ms or 77 ticks behind
+[00:28:08] [Server thread/INFO]: <togga99> eg gf A11y_UwU 2 demanta fyrir 2 sand og hann kastaði sandinum beint í tntið
+[00:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[00:28:22] [Server thread/INFO]: <A11y_UwU> ég er með náhvæma eftirlíkingu af húsi bessastöðum
+[00:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[00:28:40] [Server thread/INFO]: <A11y_UwU> átti að vera fyrir íslensk meme serverið en getum notað það hér
+[00:28:47] [Server thread/INFO]: <SKAF_PathFinder> ok cool
+[00:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
+[00:29:01] [Server thread/INFO]: <SKAF_PathFinder> Where do you want to build ir?
+[00:29:06] [Server thread/INFO]: <SKAF_PathFinder> it?***
+[00:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4647ms or 92 ticks behind
+[00:29:19] [Server thread/INFO]: <A11y_UwU> spawn epa shopping district
+[00:29:27] [Server thread/INFO]: <SKAF_PathFinder> cool
+[00:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3954ms or 79 ticks behind
+[00:29:47] [Server thread/INFO]: <SKAF_PathFinder> Sorry to inform one thing.
+[00:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[00:29:54] [Server thread/INFO]: <A11y_UwU> togga ættum við að láta ánna leiða frá fjöllum eða hafa hana svona?
+[00:29:57] [Server thread/INFO]: <SKAF_PathFinder> I do not have schematics to help you
+[00:30:05] [Server thread/INFO]: <togga99> sona
+[00:30:10] [Server thread/INFO]: <togga99> ur svonum
+[00:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[00:30:15] [Server thread/INFO]: <togga99> vatnið fer upp
+[00:30:20] [Server thread/INFO]: <togga99> útaf ...
+[00:30:24] [Server thread/INFO]: <A11y_UwU> i dont currently have a scimatic and i can help you instal it if you want
+[00:30:25] [Server thread/INFO]: <togga99> það er gáfað
+[00:30:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[00:30:34] [Server thread/INFO]: <A11y_UwU> ye lol
+[00:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6315ms or 126 ticks behind
+[00:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4536ms or 90 ticks behind
+[00:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5699ms or 113 ticks behind
+[00:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6752ms or 135 ticks behind
+[00:32:01] [Server thread/INFO]: <SKAF_PathFinder> ok
+[00:32:06] [Server thread/INFO]: <SKAF_PathFinder> But not today
+[00:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6282ms or 125 ticks behind
+[00:32:12] [Server thread/INFO]: <A11y_UwU> ye
+[00:32:19] [Server thread/INFO]: <SKAF_PathFinder> I am kinda tired to install schematics today
+[00:32:31] [Server thread/INFO]: <A11y_UwU> im also making a hus
+[00:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[00:32:43] [Server thread/INFO]: <SKAF_PathFinder> :)
+[00:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5155ms or 103 ticks behind
+[00:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8545ms or 170 ticks behind
+[00:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7228ms or 144 ticks behind
+[00:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
+[00:34:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/749329, l='ServerLevel[world]', x=-544.62, y=7.00, z=-728.62]
+[00:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7069ms or 141 ticks behind
+[00:34:35] [Server thread/INFO]: <togga99> boggu á er smá hættuleg þannig ef þið deyjið í henni er það ykkur að kenna
+[00:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5729ms or 114 ticks behind
+[00:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3848ms or 76 ticks behind
+[00:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5568ms or 111 ticks behind
+[00:35:37] [Server thread/INFO]: <A11y_UwU> villtu gera vatnið neint?
+[00:35:42] [Server thread/INFO]: <A11y_UwU> *beint
+[00:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6313ms or 126 ticks behind
+[00:35:48] [Server thread/INFO]: <togga99> nei og ja
+[00:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5583ms or 111 ticks behind
+[00:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4451ms or 89 ticks behind
+[00:36:35] [Server thread/INFO]: <A11y_UwU> ef maður gerir svona verður það beint og svo tekur maður það
+[00:36:39] [Server thread/INFO]: <togga99> sniðugur ertu
+[00:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind
+[00:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[00:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[00:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[00:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5777ms or 115 ticks behind
+[00:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5613ms or 112 ticks behind
+[00:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8198ms or 163 ticks behind
+[00:38:58] [Server thread/INFO]: <A11y_UwU> guð hvað ég elska hamilton
+[00:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[00:39:07] [Server thread/INFO]: <togga99> hef tekið eftir þvi
+[00:39:21] [Server thread/INFO]: <SKAF_PathFinder> Hamilton is a good musical
+[00:39:26] [Server thread/INFO]: <A11y_UwU> nær alltaf þegar ég er að spila hérna er ég að hlusta á það á repeat
+[00:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5356ms or 107 ticks behind
+[00:39:42] [Server thread/INFO]: <SKAF_PathFinder> But I can think of many good musicals
+[00:39:45] [Server thread/INFO]: <togga99> oh ahha eg er að hlusta á afternoons in utophia
+[00:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5953ms or 119 ticks behind
+[00:39:53] [Server thread/INFO]: <A11y_UwU> s
+[00:40:00] [Server thread/INFO]: <A11y_UwU> nice
+[00:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4378ms or 87 ticks behind
+[00:40:13] [Server thread/INFO]: <SKAF_PathFinder> Like: Les Miserables
+[00:40:16] [Server thread/INFO]: <togga99> ekki æengur
+[00:40:26] [Server thread/INFO]: <togga99> ohh ja franska videoið
+[00:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4749ms or 94 ticks behind
+[00:40:36] [Server thread/INFO]: <SKAF_PathFinder> And....... I can't remember any more
+[00:40:39] [Server thread/INFO]: <togga99> með söngnum
+[00:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[00:41:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/752926, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.26]
+[00:41:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/752926, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.26]
+[00:41:04] [Server thread/INFO]: <A11y_UwU> be more chill, hethers, blái hnötturinn
+[00:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
+[00:41:19] [Server thread/INFO]: <togga99> rocky horror show
+[00:41:25] [Server thread/INFO]: <A11y_UwU> hell ye
+[00:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6718ms or 134 ticks behind
+[00:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6794ms or 135 ticks behind
+[00:41:56] [Server thread/INFO]: <togga99> bjart nn að gera einh þegar eg er buin i lokaprofum
+[00:42:04] [Server thread/INFO]: <togga99> ferð þu lika i lokapróf?
+[00:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4311ms or 86 ticks behind
+[00:42:14] [Server thread/INFO]: <A11y_UwU> já það væri gaman
+[00:42:17] [Server thread/INFO]: <A11y_UwU> ekki mörg
+[00:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5566ms or 111 ticks behind
+[00:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
+[00:43:00] [Server thread/INFO]: <togga99> eg er í skrilljón
+[00:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4737ms or 94 ticks behind
+[00:43:22] [Server thread/INFO]: <togga99> er að fara í 2 á mán og er ekkert buin að læra
+[00:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6247ms or 124 ticks behind
+[00:43:42] [Server thread/INFO]: <A11y_UwU> æ æ æ
+[00:43:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
+[00:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
+[00:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/754468, l='ServerLevel[world]', x=-461.64, y=76.00, z=288.17]
+[00:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/754468, l='ServerLevel[world]', x=-461.64, y=76.00, z=288.17]
+[00:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/754468, l='ServerLevel[world]', x=-461.64, y=76.00, z=288.17]
+[00:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6718ms or 134 ticks behind
+[00:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
+[00:45:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6160ms or 123 ticks behind
+[00:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6943ms or 138 ticks behind
+[00:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7519ms or 150 ticks behind
+[00:46:04] [Server thread/INFO]: <togga99> eg hata röddina á hamilton
+[00:46:21] [Server thread/INFO]: <A11y_UwU> mér finnst hún nice
+[00:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5352ms or 107 ticks behind
+[00:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6245ms or 124 ticks behind
+[00:46:44] [Server thread/INFO]: <SKAF_PathFinder> In ''Les Miserable'' Russel Crowe and Hugh Jackman sing
+[00:46:45] [Server thread/INFO]: <togga99> huj pirrar mig vtk afh
+[00:47:01] [Server thread/INFO]: <togga99> hugh Jackmas is husband
+[00:47:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5365ms or 107 ticks behind
+[00:47:04] [Server thread/INFO]: <A11y_UwU> það er stundum þannig
+[00:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
+[00:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6698ms or 133 ticks behind
+[00:47:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/756079, l='ServerLevel[world]', x=-443.80, y=76.00, z=295.62]
+[00:47:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/756079, l='ServerLevel[world]', x=-443.80, y=76.00, z=295.62]
+[00:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6633ms or 132 ticks behind
+[00:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6125ms or 122 ticks behind
+[00:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6778ms or 135 ticks behind
+[00:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6793ms or 135 ticks behind
+[00:49:17] [Server thread/INFO]: <togga99> oh eg hef heyrt lag nr 2
+[00:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8785ms or 175 ticks behind
+[00:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5153ms or 103 ticks behind
+[00:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8866ms or 177 ticks behind
+[00:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15227ms or 304 ticks behind
+[00:51:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/757569, l='ServerLevel[world]', x=-235.80, y=83.00, z=604.18]
+[00:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15675ms or 313 ticks behind
+[00:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11967ms or 239 ticks behind
+[00:52:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10979ms or 219 ticks behind
+[00:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11147ms or 222 ticks behind
+[00:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6902ms or 138 ticks behind
+[00:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6884ms or 137 ticks behind
+[00:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7222ms or 144 ticks behind
+[00:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
+[00:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6008ms or 120 ticks behind
+[00:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6514ms or 130 ticks behind
+[00:55:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7672ms or 153 ticks behind
+[00:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7008ms or 140 ticks behind
+[00:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10704ms or 214 ticks behind
+[00:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8746ms or 174 ticks behind
+[00:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7993ms or 159 ticks behind
+[00:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
+[00:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8387ms or 167 ticks behind
+[00:57:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7688ms or 153 ticks behind
+[00:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7938ms or 158 ticks behind
+[00:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
+[00:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
+[00:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7371ms or 147 ticks behind
+[00:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10868ms or 217 ticks behind
+[01:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8030ms or 160 ticks behind
+[01:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8415ms or 168 ticks behind
+[01:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7840ms or 156 ticks behind
+[01:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9574ms or 191 ticks behind
+[01:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7694ms or 153 ticks behind
+[01:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7727ms or 154 ticks behind
+[01:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8092ms or 161 ticks behind
+[01:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6860ms or 137 ticks behind
+[01:03:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
+[01:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7849ms or 156 ticks behind
+[01:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8765ms or 175 ticks behind
+[01:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5642ms or 112 ticks behind
+[01:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6367ms or 127 ticks behind
+[01:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6427ms or 128 ticks behind
+[01:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6104ms or 122 ticks behind
+[01:05:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/765669, l='ServerLevel[world]', x=-442.93, y=76.00, z=295.97]
+[01:05:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/765669, l='ServerLevel[world]', x=-442.93, y=76.00, z=295.97]
+[01:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7060ms or 141 ticks behind
+[01:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9546ms or 190 ticks behind
+[01:06:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/766412, l='ServerLevel[world]', x=-460.91, y=76.00, z=288.13]
+[01:06:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/766412, l='ServerLevel[world]', x=-460.91, y=76.00, z=288.13]
+[01:06:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/766412, l='ServerLevel[world]', x=-460.91, y=76.00, z=288.13]
+[01:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7287ms or 145 ticks behind
+[01:06:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6511ms or 130 ticks behind
+[01:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
+[01:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6183ms or 123 ticks behind
+[01:07:51] [Server thread/INFO]: <A11y_UwU> þakkir
+[01:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7649ms or 152 ticks behind
+[01:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7259ms or 145 ticks behind
+[01:08:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7746ms or 154 ticks behind
+[01:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7441ms or 148 ticks behind
+[01:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8513ms or 170 ticks behind
+[01:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7853ms or 157 ticks behind
+[01:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8374ms or 167 ticks behind
+[01:10:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6958ms or 139 ticks behind
+[01:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9652ms or 193 ticks behind
+[01:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7160ms or 143 ticks behind
+[01:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7158ms or 143 ticks behind
+[01:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8708ms or 174 ticks behind
+[01:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7728ms or 154 ticks behind
+[01:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8220ms or 164 ticks behind
+[01:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7080ms or 141 ticks behind
+[01:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8199ms or 163 ticks behind
+[01:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6591ms or 131 ticks behind
+[01:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8128ms or 162 ticks behind
+[01:14:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/770967, l='ServerLevel[world]', x=-443.25, y=76.00, z=296.00]
+[01:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6946ms or 138 ticks behind
+[01:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7672ms or 153 ticks behind
+[01:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
+[01:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7579ms or 151 ticks behind
+[01:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11262ms or 225 ticks behind
+[01:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9623ms or 192 ticks behind
+[01:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8296ms or 165 ticks behind
+[01:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7326ms or 146 ticks behind
+[01:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5288ms or 105 ticks behind
+[01:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
+[01:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8962ms or 179 ticks behind
+[01:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6042ms or 120 ticks behind
+[01:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5972ms or 119 ticks behind
+[01:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6022ms or 120 ticks behind
+[01:19:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/773665, l='ServerLevel[world]', x=-461.79, y=76.00, z=286.83]
+[01:19:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/773665, l='ServerLevel[world]', x=-461.79, y=76.00, z=286.83]
+[01:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
+[01:20:17] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[01:20:17] [Server thread/INFO]: SKAF_PathFinder left the game
+[01:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4538ms or 90 ticks behind
+[01:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3375ms or 67 ticks behind
+[01:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[01:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[01:21:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
+[01:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[01:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[01:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[01:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[01:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[01:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[01:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[01:24:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/775681, l='ServerLevel[world]', x=-442.20, y=76.00, z=295.62]
+[01:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[01:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3535ms or 70 ticks behind
+[01:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
+[01:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[01:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[01:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[01:25:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/776695, l='ServerLevel[world]', x=-442.20, y=76.00, z=295.20]
+[01:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
+[01:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[01:26:32] [Server thread/INFO]: togga99 starved to death
+[01:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[01:26:37] [Server thread/INFO]: <A11y_UwU> how
+[01:26:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/777121, l='ServerLevel[world]', x=-443.55, y=76.00, z=296.80]
+[01:26:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/777188, l='ServerLevel[world]', x=-460.99, y=76.00, z=286.83]
+[01:26:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/777188, l='ServerLevel[world]', x=-460.99, y=76.00, z=286.83]
+[01:26:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/777188, l='ServerLevel[world]', x=-460.99, y=76.00, z=286.83]
+[01:26:58] [Server thread/INFO]: <togga99> omg nei var með svo mikið stuff
+[01:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:27:14] [Server thread/INFO]: <A11y_UwU> veistu um það?
+[01:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:27:22] [Server thread/INFO]: <togga99> ja held það
+[01:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[01:27:48] [Server thread/INFO]: <A11y_UwU> gangi þér vel <3
+[01:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[01:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
+[01:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3620ms or 72 ticks behind
+[01:29:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
+[01:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[01:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[01:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[01:30:09] [Server thread/INFO]: <togga99> talvan min er að steikjast
+[01:30:18] [Server thread/INFO]: <A11y_UwU> oof
+[01:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4649ms or 92 ticks behind
+[01:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
+[01:30:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/779226, l='ServerLevel[world]', x=-443.36, y=76.00, z=296.32]
+[01:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4883ms or 97 ticks behind
+[01:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3212ms or 64 ticks behind
+[01:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4686ms or 93 ticks behind
+[01:32:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
+[01:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[01:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
+[01:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3328ms or 66 ticks behind
+[01:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[01:33:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[01:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[01:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[01:34:15] [Server thread/INFO]: <togga99> viissi eekki að eg gæti daið ur hungri
+[01:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[01:34:25] [Server thread/INFO]: <A11y_UwU> hah
+[01:34:27] [Server thread/INFO]: <A11y_UwU> haha
+[01:34:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/781005, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
+[01:34:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/781005, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
+[01:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[01:34:42] [Server thread/INFO]: <A11y_UwU> það gerist ekki oft lol
+[01:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:35:14] [Server thread/INFO]: <A11y_UwU> það hefur gerst 2 á þessum server núna sem ég veit af
+[01:35:34] [Server thread/INFO]: <A11y_UwU> hinn dúnnin vissi að það væri hægt en dó samt einhvernvegin
+[01:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[01:35:51] [Server thread/INFO]: <togga99> ja eg for að fa mer að drekka
+[01:36:02] [Server thread/INFO]: <A11y_UwU> oh ok
+[01:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[01:36:41] [Server thread/INFO]: <togga99> eg er komin aftur veestur
+[01:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[01:36:52] [Server thread/INFO]: <togga99> hver er steve
+[01:36:55] [Server thread/INFO]: <A11y_UwU> bot
+[01:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[01:37:09] [Server thread/INFO]: <togga99> va nýi kærastinn
+[01:37:15] [Server thread/INFO]: <A11y_UwU> nuuuuu
+[01:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[01:37:39] [Server thread/INFO]: <A11y_UwU> get ekki bannað þér auðvitað en bara.. vil það ekki
+[01:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:37:50] [Server thread/INFO]: <togga99> nei kærastinn þinn
+[01:38:04] [Server thread/INFO]: <A11y_UwU> ha nei
+[01:38:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/782614, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
+[01:38:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/782614, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
+[01:38:14] [Server thread/INFO]: <togga99> ju það er greinilega malið
+[01:38:49] [Server thread/INFO]: <A11y_UwU> nei ég sver, ég spawnaði honum ekki einusinni inn
+[01:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[01:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[01:39:40] [Server thread/INFO]: <togga99> hvernig heldurðu að mér líði þegar þu ert alltaf að halda framhja það er hella vandræðalegt
+[01:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[01:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[01:40:11] [Server thread/INFO]: <A11y_UwU> ég þarf smá af þessu wheet
+[01:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[01:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+[01:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6638ms or 132 ticks behind
+[01:41:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[01:41:45] [Server thread/INFO]: <togga99> ertu með nóg
+[01:41:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[01:41:48] [Server thread/INFO]: <A11y_UwU> ja
+[01:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[01:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[01:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[01:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
+[01:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[01:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[01:44:25] [Server thread/INFO]: <togga99> bjartur ertu að slátra draugum?
+[01:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[01:44:42] [Server thread/INFO]: <A11y_UwU> ummmmmmm
+[01:44:45] [Server thread/INFO]: <A11y_UwU> yebs
+[01:44:55] [Server thread/INFO]: <togga99> eg heyrði svakaleg öskur
+[01:45:01] [Server thread/INFO]: <A11y_UwU> haga
+[01:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:45:30] [Server thread/INFO]: <togga99> Þú getur sett hjákonuna þína í hesthúsið ef þú vilt
+[01:45:47] [Server thread/INFO]: <A11y_UwU> er að selja ragettur og ég fá púðrið mitt með því að slátra gg mörgum draugum
+[01:45:58] [Server thread/INFO]: <togga99> omg
+[01:46:02] [Server thread/INFO]: <A11y_UwU> hef enga
+[01:46:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[01:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:46:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4390ms or 87 ticks behind
+[01:47:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/786129, l='ServerLevel[world]', x=-442.20, y=76.00, z=296.80]
+[01:47:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/786129, l='ServerLevel[world]', x=-442.20, y=76.00, z=296.80]
+[01:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[01:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:48:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind
+[01:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[01:48:48] [Server thread/INFO]: <togga99> hvað er efst í turninum'
+[01:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[01:49:02] [Server thread/INFO]: <A11y_UwU> villegerar
+[01:49:07] [Server thread/INFO]: <A11y_UwU> þetta er iron farm
+[01:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[01:49:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[01:49:59] [Server thread/INFO]: <A11y_UwU> það hræðir villigera alltaf og þá spawnar leikurinn iron golem og svo drefst hann og við fáum iron
+[01:50:11] [Server thread/INFO]: <togga99> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[01:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:50:28] [Server thread/INFO]: <togga99> etu svona margr að spila?
+[01:50:49] [Server thread/INFO]: <A11y_UwU> steve, ghast, overworld og cane aru allt bots
+[01:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:51:07] [Server thread/INFO]: <togga99> va
+[01:51:08] [Server thread/INFO]: <A11y_UwU> og sminky.. er alltaf online en spilar sjaldan held ég
+[01:51:10] [Server thread/INFO]: <A11y_UwU> idk
+[01:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[01:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[01:52:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[01:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[01:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[01:53:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/788469, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[01:53:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/788469, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[01:53:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/788469, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[01:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[01:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[01:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[01:54:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[01:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[01:55:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[01:55:49] [Server thread/INFO]: <togga99> eg tíndi öllu hveitinu minu :(
+[01:55:55] [Server thread/INFO]: <A11y_UwU> oh nö
+[01:55:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[01:56:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[01:57:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[01:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[01:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
+[01:58:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/790637, l='ServerLevel[world]', x=-461.74, y=76.00, z=287.45]
+[01:58:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/790637, l='ServerLevel[world]', x=-461.74, y=76.00, z=287.45]
+[01:58:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/790637, l='ServerLevel[world]', x=-461.74, y=76.00, z=287.45]
+[01:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[01:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
+[01:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8097ms or 161 ticks behind
+[01:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[02:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[02:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[02:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02:00:50] [Server thread/INFO]: <togga99> omg kreisí kelling
+[02:00:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/791749, l='ServerLevel[world]', x=-443.45, y=75.92, z=295.56]
+[02:00:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/791749, l='ServerLevel[world]', x=-443.45, y=75.92, z=295.56]
+[02:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[02:01:05] [Server thread/INFO]: <A11y_UwU> án djóks
+[02:01:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[02:01:41] [Server thread/INFO]: <togga99> omg bitch'
+[02:01:41] [Server thread/INFO]: <A11y_UwU> mé ég mirða haan?
+[02:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[02:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[02:02:17] [Server thread/INFO]: <togga99> hun ætlaði að drepa jonna
+[02:02:23] [Server thread/INFO]: <A11y_UwU> omgg
+[02:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[02:02:40] [Server thread/INFO]: <togga99> hvernig geri ég lamaa teppi
+[02:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[02:02:57] [Server thread/INFO]: <A11y_UwU> það er bara venjulegt teppi
+[02:03:04] [Server thread/INFO]: <togga99> oh ok
+[02:03:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/792604, l='ServerLevel[world]', x=-527.08, y=7.00, z=-730.11]
+[02:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[02:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[02:03:29] [Server thread/INFO]: <A11y_UwU> togga sjáðu mig
+[02:03:38] [Server thread/INFO]: <togga99> hvar
+[02:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[02:03:56] [Server thread/INFO]: <togga99> hahahahhahas
+[02:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[02:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02:04:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/793080, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[02:04:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/793080, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[02:04:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/793080, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[02:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
+[02:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[02:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
+[02:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[02:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4651ms or 93 ticks behind
+[02:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3467ms or 69 ticks behind
+[02:06:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=67, z=543} class_2338{x=-474, y=68, z=543}
+[02:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[02:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[02:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[02:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[02:07:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[02:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[02:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[02:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[02:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
+[02:08:53] [Server thread/INFO]: <togga99> þessi tík meiddi jonna
+[02:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[02:09:16] [Server thread/INFO]: <A11y_UwU> kúkalabbi
+[02:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[02:09:52] [Server thread/INFO]: <togga99> hann er svo gáfaður
+[02:09:56] [Server thread/INFO]: <togga99> greyið jonni
+[02:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
+[02:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[02:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[02:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[02:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4773ms or 95 ticks behind
+[02:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[02:11:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/795677, l='ServerLevel[world]', x=-443.42, y=76.00, z=296.14]
+[02:11:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/795677, l='ServerLevel[world]', x=-443.42, y=76.00, z=296.14]
+[02:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[02:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[02:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[02:12:36] [Server thread/INFO]: <A11y_UwU> mean girls er líka hellaður sönglaikur
+[02:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[02:12:43] [Server thread/INFO]: <togga99> jaaaaaaaaaaaaaaaaaaaaaaaaaa
+[02:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
+[02:13:17] [Server thread/INFO]: <togga99> uph lagið mitt ur þvi er hrekkjavökulagið
+[02:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[02:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02:14:30] [Server thread/INFO]: <A11y_UwU> ég er ekki búin að horfa né hlusta á það og er bara komin æa lag 3 rn.... en það (where do you belong) er hellað
+[02:14:40] [Server thread/INFO]: <togga99> yuh
+[02:14:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[02:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
+[02:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[02:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[02:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[02:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[02:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
+[02:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
+[02:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[02:18:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/798198, l='ServerLevel[world]', x=-442.81, y=76.00, z=295.61]
+[02:18:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/798198, l='ServerLevel[world]', x=-442.81, y=76.00, z=295.61]
+[02:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[02:19:38] [Server thread/INFO]: <A11y_UwU> did karen come from mean the mean girls karen
+[02:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:20:13] [Server thread/INFO]: <A11y_UwU> hún er samt ekki beint karen.. bara dumb
+[02:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[02:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[02:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
+[02:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:23:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/799982, l='ServerLevel[world]', x=-461.76, y=76.00, z=288.17]
+[02:23:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/799982, l='ServerLevel[world]', x=-461.76, y=76.00, z=288.17]
+[02:23:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/799982, l='ServerLevel[world]', x=-461.76, y=76.00, z=288.17]
+[02:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[02:24:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/800493, l='ServerLevel[world]', x=-460.94, y=76.00, z=287.36]
+[02:24:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/800493, l='ServerLevel[world]', x=-460.94, y=76.00, z=287.36]
+[02:24:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/800493, l='ServerLevel[world]', x=-460.94, y=76.00, z=287.36]
+[02:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[02:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[02:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:27:35] [Server thread/INFO]: <togga99> nei held ekki
+[02:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[02:27:45] [Server thread/INFO]: <A11y_UwU> ye makes sense
+[02:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/801796, l='ServerLevel[world]', x=-443.34, y=76.00, z=295.93]
+[02:27:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/801796, l='ServerLevel[world]', x=-443.34, y=76.00, z=295.93]
+[02:28:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/801906, l='ServerLevel[world]', x=-461.26, y=76.00, z=286.83]
+[02:28:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/801906, l='ServerLevel[world]', x=-461.26, y=76.00, z=286.83]
+[02:28:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/801906, l='ServerLevel[world]', x=-461.26, y=76.00, z=286.83]
+[02:28:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:30:02] [Server thread/INFO]: <togga99> erru allir farnir
+[02:30:13] [Server thread/INFO]: <A11y_UwU> hverjir?
+[02:30:21] [Server thread/INFO]: <togga99> alli sem voru her
+[02:30:54] [Server thread/INFO]: <A11y_UwU> veit ekki hvar þú ert uwu
+[02:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[02:31:04] [Server thread/INFO]: <togga99> heima
+[02:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[02:32:09] [Server thread/INFO]: <A11y_UwU> damn the halloween song is good
+[02:32:17] [Server thread/INFO]: <togga99> jaaaaaaaaaaaaaaaaa
+[02:32:20] [Server thread/INFO]: <togga99> elska það
+[02:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:32:28] [Server thread/INFO]: <A11y_UwU> skil það vel
+[02:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[02:32:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[02:32:58] [Server thread/INFO]: <togga99> þetta er svo sætur bær
+[02:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3809ms or 76 ticks behind
+[02:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[02:33:41] [Server thread/INFO]: <togga99> heldurðu að nagrannarnir verði pirraðir að eg gaf þeim 2 kökur 2 blóm og gulrót
+[02:33:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[02:33:52] [Server thread/INFO]: <A11y_UwU> alls ekki
+[02:34:04] [Server thread/INFO]: <A11y_UwU> kannski smá hissa
+[02:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02:34:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
+[02:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
+[02:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[02:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[02:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[02:35:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4035ms or 80 ticks behind
+[02:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[02:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[02:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3046ms or 60 ticks behind
+[02:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[02:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3985ms or 79 ticks behind
+[02:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
+[02:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[02:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[02:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[02:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[02:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[02:39:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[02:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[02:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3476ms or 69 ticks behind
+[02:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[02:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
+[02:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[02:41:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:42:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[02:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[02:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5896ms or 117 ticks behind
+[02:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3890ms or 77 ticks behind
+[02:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[02:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[02:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[02:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
+[02:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4258ms or 85 ticks behind
+[02:45:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[02:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3837ms or 76 ticks behind
+[02:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02:45:46] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[02:45:46] [Server thread/INFO]: Sminky52 left the game
+[02:45:56] [Server thread/INFO]: <togga99> vo var hann bara her
+[02:46:07] [Server thread/INFO]: <A11y_UwU> held ekki..
+[02:46:24] [Server thread/INFO]: <togga99> eg dett alltaf ut ef eg hreyfi mig ekki nóg
+[02:51:29] [Server thread/INFO]: <togga99> omg
+[02:51:34] [Server thread/INFO]: <A11y_UwU> hva
+[02:51:50] [Server thread/INFO]: <togga99> hæna tok plassið hja cane hun er að fara detta
+[02:52:12] [Server thread/INFO]: <A11y_UwU> oh noo
+[02:52:12] [Server thread/INFO]: <togga99> hvað gerist ef hun deyr?
+[02:52:22] [Server thread/INFO]: <A11y_UwU> hún disconnectar
+[02:52:31] [Server thread/INFO]: <togga99> a eg að reyna að íta henni til baka
+[02:52:37] [Server thread/INFO]: <A11y_UwU> ja
+[02:53:27] [Server thread/INFO]: <A11y_UwU> aw
+[02:53:36] [Server thread/INFO]: <togga99> hvað
+[02:53:37] [Server thread/INFO]: <A11y_UwU> rúmmin okkar eru saman
+[02:54:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/812200, l='ServerLevel[world]', x=-442.60, y=75.92, z=295.57]
+[02:54:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/812200, l='ServerLevel[world]', x=-442.60, y=75.92, z=295.57]
+[02:54:52] [Server thread/INFO]: <togga99> yuh
+[02:56:26] [Server thread/INFO]: <togga99> hvar ertu
+[02:56:33] [Server thread/INFO]: <togga99> oh þarna
+[02:57:47] [Server thread/INFO]: <togga99> dúd hvernig gerirðu þetta mar
+[02:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[02:58:13] [Server thread/INFO]: <A11y_UwU> er með mod sem ýtir hratt á takkan
+[02:58:36] [Server thread/INFO]: <A11y_UwU> það heitir tweekeroo.. elska það
+[02:59:03] [Server thread/INFO]: <A11y_UwU> maður getur líka gert svona
+[03:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:01:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/816078, l='ServerLevel[world]', x=-461.82, y=76.00, z=286.83]
+[03:01:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/816078, l='ServerLevel[world]', x=-461.82, y=76.00, z=286.83]
+[03:01:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/816078, l='ServerLevel[world]', x=-461.82, y=76.00, z=286.83]
+[03:02:04] [Server thread/INFO]: <togga99> hvadda gera
+[03:02:16] [Server thread/INFO]: <A11y_UwU> super smelter
+[03:02:24] [Server thread/INFO]: <togga99> hva er það
+[03:03:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/816637, l='ServerLevel[world]', x=-461.64, y=76.00, z=283.71]
+[03:03:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/816637, l='ServerLevel[world]', x=-461.64, y=76.00, z=283.71]
+[03:03:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/816637, l='ServerLevel[world]', x=-461.64, y=76.00, z=283.71]
+[03:03:28] [Server thread/INFO]: <A11y_UwU> system sem dreifir hlutum sem þú setur inn jafnt á millri margra ofna og tekur hlurina út og setur þá þar sem þú getur tekið þá aftur
+[03:03:33] [Server thread/INFO]: <togga99> oh
+[03:04:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[03:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[03:06:08] [Server thread/INFO]: <togga99> hvernig gerirðu þessa lampa?
+[03:06:25] [Server thread/INFO]: <A11y_UwU> hverja??
+[03:06:37] [Server thread/INFO]: <togga99> luktirnar
+[03:06:56] [Server thread/INFO]: <A11y_UwU> iron nuggets í kringum torge
+[03:07:07] [Server thread/INFO]: <togga99> oh ok fanks
+[03:07:20] [Server thread/INFO]: <togga99> erum við ein eftir nuna
+[03:07:34] [Server thread/INFO]: <A11y_UwU> ja
+[03:07:45] [Server thread/INFO]: <togga99> damn
+[03:08:01] [Server thread/INFO]: <A11y_UwU> það er ekkert skrítið.. kl en 3
+[03:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03:08:25] [Server thread/INFO]: <togga99> minecraft er svo friðsamlegur leikur maður gleymir vandamalunum sinum
+[03:08:45] [Server thread/INFO]: <A11y_UwU> já án djóks
+[03:09:58] [Server thread/INFO]: <A11y_UwU> hann er fullkomin til að gleima öllu sem manni líður illa yfir. hann er kannki ekkert rosa spennandi eða geggjað fjör en hann er svona ágætlega skemmtilegur endalaust
+[03:10:25] [Server thread/INFO]: <togga99> jaa maður er lika einhvað svo mikið að einbeita ser af því maður er að byggja
+[03:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[03:10:38] [Server thread/INFO]: <A11y_UwU> yamms
+[03:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[03:13:28] [Server thread/INFO]: <togga99> herði mömmu vera að kalla a mig skrítið
+[03:13:52] [Server thread/INFO]: <A11y_UwU> uuh... oofer
+[03:14:11] [Server thread/INFO]: <A11y_UwU> ekki fallegt af henni
+[03:14:21] [Server thread/INFO]: <togga99> eg held eg se miðill eða einhvað
+[03:14:30] [Server thread/INFO]: <togga99> eða illa geðveik
+[03:15:06] [Server thread/INFO]: <togga99> mig dreymir svo marga sem deyja
+[03:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03:15:37] [Server thread/INFO]: <A11y_UwU> það er venjulegt held eg.. eða örugglega ekki en það gerist stundum við mig
+[03:16:13] [Server thread/INFO]: <togga99> ja en er svona acctually að tala við þau get ekki útskírt það
+[03:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[03:17:04] [Server thread/INFO]: <A11y_UwU> þetta virkar ekki og ég skil ekki af hverju
+[03:17:09] [Server thread/INFO]: <togga99> oh
+[03:17:20] [Server thread/INFO]: <togga99> dreymir lika alltaf anda í sveitinni
+[03:17:24] [Server thread/INFO]: <togga99> gg skrítið
+[03:17:26] [Server thread/INFO]: <A11y_UwU> oh bíddu wtf
+[03:17:43] [Server thread/INFO]: <A11y_UwU> það virkar en sést ekki alltaf
+[03:17:48] [Server thread/INFO]: <togga99> ohhh
+[03:17:51] [Server thread/INFO]: <A11y_UwU> um.. það er egi gott
+[03:18:16] [Server thread/INFO]: <A11y_UwU> ju jk er bara heimskur
+[03:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[03:18:24] [Server thread/INFO]: <togga99> 0omggggggggggg
+[03:18:30] [Server thread/INFO]: <togga99> allar þessar hænur
+[03:18:35] [Server thread/INFO]: <togga99> svo mikið lagg
+[03:18:35] [Server thread/INFO]: <A11y_UwU> þessar hænur eru nett pirrandi
+[03:19:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/823467, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
+[03:19:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/823467, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
+[03:19:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/823467, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
+[03:19:45] [Server thread/INFO]: <togga99> eru margir að kaupa flugeldana þina?
+[03:20:06] [Server thread/INFO]: <A11y_UwU> engin held ég eins og er
+[03:20:28] [Server thread/INFO]: <togga99> pooh sad
+[03:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:25:20] [Server thread/INFO]: <A11y_UwU> þetta er held ég að virka núna
+[03:25:24] [Server thread/INFO]: <togga99> yey
+[03:25:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/826514, l='ServerLevel[world]', x=-461.29, y=76.00, z=287.31]
+[03:25:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/826514, l='ServerLevel[world]', x=-461.29, y=76.00, z=287.31]
+[03:25:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/826514, l='ServerLevel[world]', x=-461.29, y=76.00, z=287.31]
+[03:25:51] [Server thread/INFO]: <togga99> en eg ætla að fara að sofa þarrf að læra er að fara í 2 lokapróf á mánudaginn
+[03:26:05] [Server thread/INFO]: <A11y_UwU> oki doki. gn og gangi þér vel
+[03:26:13] [Server thread/INFO]: <togga99> gn<3
+[03:26:18] [Server thread/INFO]: <togga99> ttakkkkkkkkkkk
+[03:26:20] [Server thread/INFO]: togga99 lost connection: Disconnected
+[03:26:20] [Server thread/INFO]: togga99 left the game
+[03:27:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/827400, l='ServerLevel[world]', x=-464.10, y=76.00, z=283.06]
+[03:27:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/827400, l='ServerLevel[world]', x=-464.10, y=76.00, z=283.06]
+[03:29:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/828128, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.74]
+[03:29:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/828128, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.74]
+[03:33:43] [Server thread/WARN]: A11y_UwU moved too quickly! 8.292617456036282,1.1000039862059623,16.74890703352196
+[03:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[03:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[03:39:56] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[03:39:56] [Server thread/INFO]: A11y_UwU left the game
+[03:43:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/835292, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
+[03:51:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/838216, l='ServerLevel[world]', x=-461.24, y=76.00, z=286.83]
+[04:01:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/841861, l='ServerLevel[world]', x=-461.24, y=76.00, z=287.70]
+[04:06:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/843427, l='ServerLevel[world]', x=-461.76, y=76.00, z=283.75]
+[04:08:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/844152, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.84]
+[04:08:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/844279, l='ServerLevel[world]', x=-461.79, y=76.00, z=284.17]
+[05:18:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/869347, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[05:20:01] [Server thread/INFO]: Cane was impaled by Drowned
+[05:20:01] [Server thread/INFO]: Cane lost connection: Killed
+[05:20:01] [Server thread/INFO]: Cane left the game
+[05:22:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/871619, l='ServerLevel[world]', x=-1400.35, y=60.00, z=-560.04]
+[05:31:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/877044, l='ServerLevel[world]', x=-544.47, y=7.00, z=-728.47]
+[05:32:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/877838, l='ServerLevel[world]', x=-527.74, y=7.00, z=-729.78]
+[05:37:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/880863, l='ServerLevel[world]', x=-545.13, y=7.00, z=-728.65]
+[06:05:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/898196, l='ServerLevel[world]', x=-527.51, y=7.00, z=-729.95]
+[06:30:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/914415, l='ServerLevel[world]', x=-526.60, y=7.00, z=-728.54]
+[06:34:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/916790, l='ServerLevel[world]', x=-526.58, y=7.00, z=-728.89]
+[06:45:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/923676, l='ServerLevel[world]', x=-527.52, y=7.00, z=-728.39]
+[06:57:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/930768, l='ServerLevel[world]', x=-545.51, y=7.00, z=-728.74]
+[07:27:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/949254, l='ServerLevel[world]', x=-526.97, y=7.00, z=-727.24]
+[08:16:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/981988, l='ServerLevel[world]', x=-526.56, y=7.00, z=-726.67]
+[08:31:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/990505, l='ServerLevel[world]', x=-526.28, y=7.00, z=-728.14]
+[08:36:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/994498, l='ServerLevel[world]', x=-544.21, y=7.00, z=-726.38]
+[08:56:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1006945, l='ServerLevel[world]', x=-527.76, y=7.00, z=-731.42]
+[09:13:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1017126, l='ServerLevel[world]', x=-526.12, y=7.00, z=-727.27]
+[09:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1034107, l='ServerLevel[world]', x=-527.36, y=7.00, z=-726.64]
+[10:13:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1055509, l='ServerLevel[world]', x=-526.84, y=7.00, z=-725.49]
+[10:39:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1072860, l='ServerLevel[world]', x=-526.41, y=7.00, z=-728.19]
+[10:40:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1073525, l='ServerLevel[world]', x=-527.47, y=7.12, z=-727.76]
+[11:27:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1103453, l='ServerLevel[world]', x=-527.61, y=7.00, z=-726.16]
+[11:28:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1103951, l='ServerLevel[world]', x=-1401.93, y=60.00, z=-559.48]
+[11:46:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1115598, l='ServerLevel[world]', x=-1402.08, y=60.00, z=-560.28]
+[11:53:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1120218, l='ServerLevel[world]', x=-526.99, y=7.22, z=-726.53]
+[12:08:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1129568, l='ServerLevel[world]', x=-545.06, y=7.00, z=-726.45]
+[12:18:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1136473, l='ServerLevel[world]', x=-1402.15, y=60.00, z=-559.13]
+[12:18:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1136605, l='ServerLevel[world]', x=-1402.66, y=60.00, z=-559.08]
+[12:21:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1138014, l='ServerLevel[world]', x=-1402.29, y=60.00, z=-560.38]
+[12:24:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1139564, l='ServerLevel[world]', x=-545.16, y=7.00, z=-728.68]
+[12:30:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1143330, l='ServerLevel[world]', x=-527.22, y=7.00, z=-726.52]
+[12:46:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1153654, l='ServerLevel[world]', x=-1401.66, y=60.00, z=-558.94]
+[12:56:00] [User Authenticator #40/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[12:56:00] [Server thread/INFO]: endertad[/89.160.244.218:50228] logged in with entity id 1160037 at (-230.16791130131324, 76.0, 608.7084706354399)
+[12:56:00] [Server thread/INFO]: endertad joined the game
+[12:58:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1402, y=56, z=-555} class_2338{x=-1403, y=56, z=-555}
+[13:10:45] [Server thread/WARN]: endertad moved too quickly! -18.420158899039393,-0.7493690879061745,0.6594956182626959
+[13:10:46] [Server thread/WARN]: endertad moved too quickly! -18.009872782192872,0.8684287146051588,-0.32601668871771494
+[13:12:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1172923, l='ServerLevel[world]', x=-527.97, y=7.00, z=-730.10]
+[13:17:22] [Server thread/INFO]: endertad lost connection: Disconnected
+[13:17:22] [Server thread/INFO]: endertad left the game
+[14:57:34] [User Authenticator #41/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[14:57:34] [Server thread/INFO]: endertad[/89.160.244.218:56424] logged in with entity id 1238548 at (-1764.045817172883, 66.0, -458.7539421316459)
+[14:57:34] [Server thread/INFO]: endertad joined the game
+[14:58:32] [Server thread/INFO]: endertad lost connection: Disconnected
+[14:58:32] [Server thread/INFO]: endertad left the game
+[15:16:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1250732, l='ServerLevel[world]', x=-527.49, y=7.12, z=-727.85]
+[15:30:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1259401, l='ServerLevel[world]', x=-544.02, y=7.00, z=-727.00]
+[15:33:07] [User Authenticator #42/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[15:33:07] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:50323] logged in with entity id 1260890 at (-249.95360730940828, 71.0, 663.9407774497688)
+[15:33:07] [Server thread/INFO]: SKAF_PathFinder joined the game
+[15:42:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1268880, l='ServerLevel[world]', x=-1401.91, y=60.00, z=-558.52]
+[15:57:36] [User Authenticator #43/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[15:57:36] [Server thread/INFO]: endertad[/89.160.244.218:51592] logged in with entity id 1282042 at (-1764.045817172883, 66.0, -458.7539421316459)
+[15:57:36] [Server thread/INFO]: endertad joined the game
+[15:57:40] [User Authenticator #44/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[15:57:40] [Server thread/INFO]: Fibblifubb[/89.160.200.16:52734] logged in with entity id 1282324 at (-1744.1529642460903, 106.0, -464.7024126956482)
+[15:57:40] [Server thread/INFO]: Fibblifubb joined the game
+[16:00:45] [Server thread/WARN]: endertad moved too quickly! 17.662953568444095,-1.374818517202101,0.8832485193472337
+[16:07:27] [Server thread/INFO]: Fibblifubb has made the advancement [Withering Heights]
+[16:07:27] [Server thread/INFO]: endertad has made the advancement [Withering Heights]
+[16:09:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1294211, l='ServerLevel[world]', x=-545.52, y=7.00, z=-728.22]
+[16:13:43] [Server thread/INFO]: endertad lost connection: Disconnected
+[16:13:43] [Server thread/INFO]: endertad left the game
+[16:15:46] [Server thread/WARN]: Fibblifubb moved too quickly! 0.8539977874597753,-0.6959173909048602,18.52900372535089
+[16:19:10] [Server thread/INFO]: <SKAF_PathFinder> Brynjar
+[16:19:13] [Server thread/INFO]: <Fibblifubb> ye
+[16:19:25] [Server thread/INFO]: <SKAF_PathFinder> Did you fill my inventory with golden swords?
+[16:19:41] [Server thread/INFO]: <Fibblifubb> why in the world would i do that
+[16:19:48] [Server thread/INFO]: <Fibblifubb> are you afking at the gold farm?
+[16:20:01] [Server thread/INFO]: <SKAF_PathFinder> Not exactly
+[16:20:11] [Server thread/INFO]: <SKAF_PathFinder> I am trying to get gold not xp
+[16:20:19] [Server thread/INFO]: <SKAF_PathFinder> downstairs
+[16:20:29] [Server thread/INFO]: <Fibblifubb> you arent allowed to do that...
+[16:20:50] [Server thread/INFO]: <SKAF_PathFinder> Really?
+[16:20:56] [Server thread/INFO]: <SKAF_PathFinder> Did not know
+[16:21:04] [Server thread/INFO]: <Fibblifubb> there are like 17 signs that say no taking stuff you dingus
+[16:21:11] [Server thread/INFO]: <Fibblifubb> return it
+[16:21:20] [Server thread/INFO]: <Fibblifubb> just ask if you can buy gold my dude
+[16:21:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1305762, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
+[16:21:27] [Server thread/INFO]: <SKAF_PathFinder> I am not taking from chests
+[16:21:35] [Server thread/INFO]: <Fibblifubb> its his gold farm my guy
+[16:21:39] [Server thread/INFO]: <SKAF_PathFinder> I thought it said from chests
+[16:22:00] [Server thread/INFO]: <Fibblifubb> well id assume that also means dont pick up the items either
+[16:22:32] [Server thread/INFO]: <Fibblifubb> i gtg please stop taking his stuff ok bye
+[16:22:33] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[16:22:33] [Server thread/INFO]: Fibblifubb left the game
+[16:22:48] [Server thread/INFO]: <SKAF_PathFinder> I gave the gold back
+[16:23:00] [Server thread/INFO]: <SKAF_PathFinder> AND YOU ALWAYS TAKE MY STUFF
+[16:23:08] [Server thread/INFO]: <SKAF_PathFinder> oh he left
+[16:27:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1310118, l='ServerLevel[world]', x=-234.76, y=83.00, z=606.17]
+[16:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[16:30:07] [User Authenticator #47/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:29:41] [User Authenticator #46/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:29:23] [User Authenticator #45/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:29:20] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[16:30:10] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:30:10] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-11-29_16.30.10-server.txt
+[16:30:10] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[16:30:10] [Server thread/INFO]: SKAF_PathFinder left the game
+[16:30:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d9bced9[id=cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a,name=A11y_UwU,properties={textures=[com.mojang.authlib.properties.Property@35be9164]},legacy=false] (/127.0.0.1:58312) lost connection: Disconnected
+[16:30:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@66caaeca[id=cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a,name=A11y_UwU,properties={textures=[com.mojang.authlib.properties.Property@545f054d]},legacy=false] (/127.0.0.1:58315) lost connection: Disconnected
+[16:30:11] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58345] logged in with entity id 1310383 at (-440.2249753600441, 76.0, 305.26464951677383)
+[16:30:11] [Server thread/INFO]: A11y_UwU joined the game
+[16:30:11] [Server thread/INFO]: Stopping server
+[16:30:11] [Server thread/INFO]: Saving players
+[16:30:11] [Server thread/INFO]: Saving worlds
+[16:30:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:30:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:30:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:30:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:30:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

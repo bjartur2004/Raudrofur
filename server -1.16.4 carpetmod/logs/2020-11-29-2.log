@@ -1,0 +1,464 @@
+[16:33:15] [main/INFO]: Loading for game Minecraft 1.16.4
+[16:33:15] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[16:33:15] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-commands-v0@0.2.0+52d3083695, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[16:33:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[16:33:26] [main/INFO]: [VanillaEnhanced] Hello there.
+[16:33:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:33:29] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:33:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:33:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:33:29] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:33:29] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:33:29] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip
+[16:33:31] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:33:32] [Worker-Main-4/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[16:33:32] [Worker-Main-4/INFO]: Loaded 927 advancements
+[16:33:33] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.507 ms
+[16:33:33] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:33:33] [Server thread/INFO]: Loading properties
+[16:33:33] [Server thread/INFO]: Default game type: SURVIVAL
+[16:33:33] [Server thread/INFO]: Generating keypair
+[16:33:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:33:33] [Server thread/INFO]: Using default channel type
+[16:33:35] [Server thread/INFO]: Preparing level "world"
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[16:33:35] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[16:33:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:33:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:33:38] [Server thread/INFO]: Time elapsed: 2738 ms
+[16:33:38] [Server thread/INFO]: Done (3.077s)! For help, type "help"
+[16:33:55] [User Authenticator #1/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[16:33:55] [Server thread/INFO]: Fibblifubb[/89.160.200.16:54217] logged in with entity id 80 at (-221.25756856071197, 69.0, -54.30152109160112)
+[16:33:55] [Server thread/INFO]: Fibblifubb joined the game
+[16:34:08] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:34:08] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58412] logged in with entity id 497 at (-440.2249753600441, 76.0, 305.26464951677383)
+[16:34:08] [Server thread/INFO]: A11y_UwU joined the game
+[16:34:08] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[16:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[16:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15069ms or 301 ticks behind
+[16:35:09] [Server thread/INFO]: <A11y_UwU> i need to sort out my chest monster lmao
+[16:35:19] [Server thread/INFO]: <Fibblifubb> me too
+[16:35:22] [Server thread/INFO]: <A11y_UwU> found a nether star in a junk chest
+[16:35:30] [Server thread/INFO]: <Fibblifubb> yo
+[16:35:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-223, y=69, z=-56} class_2338{x=-1402, y=187, z=-560}
+[16:35:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-223, y=69, z=-56} class_2338{x=-1402, y=186, z=-560}
+[16:35:52] [Server thread/INFO]: Steve[local] logged in with entity id 2178 at (-1400.300000011921, 186.0, -559.4717254639264)
+[16:35:52] [Server thread/INFO]: Steve joined the game
+[16:35:58] [Server thread/INFO]: <A11y_UwU> and a few days ago 13 diamond blocks in a random chest at the slime farm
+[16:36:06] [Server thread/INFO]: <Fibblifubb> ...
+[16:36:10] [Server thread/INFO]: <Fibblifubb> ok
+[16:36:11] [Server thread/INFO]: <A11y_UwU> ye its bad
+[16:43:39] [User Authenticator #3/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[16:43:40] [Server thread/INFO]: _Velmca[/157.157.180.211:54619] logged in with entity id 7488 at (238.1475977080818, 69.0, -39.284953219044596)
+[16:43:40] [Server thread/INFO]: _Velmca joined the game
+[16:43:44] [Server thread/INFO]: <A11y_UwU> helluuuu
+[16:43:54] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[16:43:54] [Server thread/INFO]: _Velmca left the game
+[16:43:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[16:44:05] [Server thread/INFO]: <A11y_UwU> sad
+[16:45:33] [User Authenticator #4/INFO]: UUID of player _Velmca is 27220f5c-cf83-4471-b20b-abf6be098e56
+[16:45:33] [Server thread/INFO]: _Velmca[/157.157.180.211:54741] logged in with entity id 8164 at (238.1475977080818, 69.0, -39.284953219044596)
+[16:45:33] [Server thread/INFO]: _Velmca joined the game
+[16:45:40] [Server thread/INFO]: <A11y_UwU> hiii aftue
+[16:45:53] [Server thread/INFO]: <_Velmca> wasssup'
+[16:48:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9741, l='ServerLevel[world]', x=-443.24, y=76.00, z=296.36]
+[16:49:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10850, l='ServerLevel[world]', x=-443.00, y=76.00, z=295.63]
+[16:56:14] [Server thread/INFO]: <_Velmca> uhm
+[16:56:16] [Server thread/INFO]: <_Velmca> hjalp
+[16:56:19] [Server thread/INFO]: <Fibblifubb> whot
+[16:56:21] [Server thread/INFO]: <A11y_UwU> hva
+[16:56:50] [Server thread/INFO]: <_Velmca> sko það var einh stigi upp a leiðinni upp og eg for i gegnum portalið og nuna er eg föst í einh nether rose farmi :D
+[16:57:03] [Server thread/INFO]: <Fibblifubb> ...oh
+[16:57:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18751, l='ServerLevel[world]', x=-461.69, y=76.00, z=286.83]
+[16:57:08] [Server thread/INFO]: <_Velmca> jaa
+[16:57:24] [Server thread/INFO]: <Fibblifubb> ættir örruglega að skemma portalið bjartur...
+[16:57:31] [Server thread/INFO]: <_Velmca> biddu eg fann einh leið niður
+[16:57:33] [Server thread/INFO]: <A11y_UwU> uu
+[16:57:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19120, l='ServerLevel[world]', x=-442.20, y=76.00, z=296.25]
+[16:57:40] [Server thread/INFO]: <_Velmca> er i netherinu rn
+[16:57:44] [Server thread/INFO]: Fibblifubb has made the advancement [Bring Home the Beacon]
+[16:57:47] [Server thread/INFO]: <_Velmca> woe
+[16:57:59] [Server thread/INFO]: <A11y_UwU> hvaða portal fórstu í???
+[16:58:06] [Server thread/INFO]: <Fibblifubb> ghast farm
+[16:58:15] [Server thread/INFO]: <A11y_UwU> oop
+[16:58:18] [Server thread/INFO]: <_Velmca> eg komst ut!
+[16:58:22] [Server thread/INFO]: <A11y_UwU> gud
+[16:58:35] [Server thread/INFO]: <A11y_UwU> ima remove that portal lol
+[16:58:40] [Server thread/INFO]: <_Velmca> yee
+[16:58:51] [Server thread/INFO]: <Fibblifubb> ida assume you had aleardy done that tbh
+[16:59:28] [Server thread/INFO]: Fibblifubb has reached the goal [Beaconator]
+[16:59:34] [Server thread/INFO]: <A11y_UwU> nettur
+[16:59:39] [Server thread/INFO]: <Fibblifubb> yay
+[17:00:34] [Server thread/INFO]: <A11y_UwU> ég fékk það næstum þegar ég fékk þetta
+[17:01:06] [Server thread/WARN]: _Velmca moved too quickly! -9.339042374715518,9.2294351287359,12.793632664663164
+[17:03:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25399, l='ServerLevel[world]', x=-442.20, y=76.00, z=295.66]
+[17:04:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26266, l='ServerLevel[world]', x=-443.11, y=76.00, z=296.44]
+[17:06:46] [Server thread/INFO]: <A11y_UwU> ég er að búa til littla sveita kirkju en ég get ekki gert kross á turnin af því að það er 2 block centered
+[17:06:57] [Server thread/INFO]: <A11y_UwU> :'(
+[17:07:02] [Server thread/INFO]: <_Velmca> oof
+[17:07:09] [Server thread/INFO]: <Fibblifubb> crie
+[17:07:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/29552, l='ServerLevel[world]', x=-442.60, y=76.00, z=296.27]
+[17:08:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/29796, l='ServerLevel[world]', x=-443.36, y=76.00, z=295.68]
+[17:08:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/29993, l='ServerLevel[world]', x=-443.75, y=76.00, z=296.38]
+[17:10:02] [Server thread/INFO]: <_Velmca> getur einhver sofið?
+[17:10:09] [Server thread/INFO]: <Fibblifubb> ekki ég
+[17:10:14] [Server thread/INFO]: <A11y_UwU> y
+[17:10:31] [Server thread/INFO]: <_Velmca> takke
+[17:10:39] [Server thread/INFO]: <_Velmca> er að byggja B/
+[17:11:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/33477, l='ServerLevel[world]', x=-462.25, y=76.00, z=284.17]
+[17:12:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/34904, l='ServerLevel[world]', x=-443.37, y=75.83, z=296.36]
+[17:13:47] [Server thread/INFO]: <Fibblifubb> yo bjert do you have any use for the rotten flesh from the gold farm?
+[17:13:56] [Server thread/INFO]: <A11y_UwU> nobe
+[17:13:59] [Server thread/INFO]: <Fibblifubb> cause you can turn it to emeralds if ya want
+[17:14:15] [Server thread/INFO]: <A11y_UwU> im not ganna bother
+[17:14:23] [Server thread/INFO]: <Fibblifubb> can i then bother?
+[17:14:28] [Server thread/INFO]: <A11y_UwU> yes
+[17:14:31] [Server thread/INFO]: <Fibblifubb> kk
+[17:14:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/37227, l='ServerLevel[world]', x=-442.20, y=76.00, z=295.20]
+[17:14:46] [Server thread/INFO]: <Fibblifubb> is it stored anywhere or do i have to make a new item sorter?
+[17:14:51] [Server thread/INFO]: <A11y_UwU> currently it yeets it into lava, you can just make another set of item filters
+[17:14:59] [Server thread/INFO]: <Fibblifubb> kk
+[17:15:08] [Server thread/INFO]: <A11y_UwU> it needs 2 of them btw
+[17:15:14] [Server thread/INFO]: <Fibblifubb> kk
+[17:15:15] [Server thread/INFO]: <A11y_UwU> there are 2 streams
+[17:15:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/37916, l='ServerLevel[world]', x=-466.80, y=76.00, z=282.85]
+[17:17:14] [Server thread/INFO]: <A11y_UwU> brb
+[17:17:17] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[17:17:17] [Server thread/INFO]: A11y_UwU left the game
+[17:18:39] [Server thread/INFO]: Gold[local] logged in with entity id 39306 at (-291.82925451938814, 222.0, 111.33060223058492)
+[17:18:39] [Server thread/INFO]: Gold joined the game
+[17:18:43] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/39372, l='ServerLevel[world]', x=-292.10, y=222.00, z=109.85]
+[17:18:43] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/39372, l='ServerLevel[world]', x=-292.10, y=222.00, z=109.85]
+[17:22:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@20a9d861[id=<null>,name=Sminky52,properties={},legacy=false] (/89.17.139.9:52216) lost connection: Disconnected
+[17:23:29] [User Authenticator #5/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:23:29] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58534] logged in with entity id 43769 at (-456.6116279163532, 74.0, 305.6762698899259)
+[17:23:29] [Server thread/INFO]: A11y_UwU joined the game
+[17:23:30] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[17:23:33] [Server thread/INFO]: <_Velmca> weba
+[17:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[17:23:36] [Server thread/INFO]: <Fibblifubb> welcome back
+[17:23:36] [Server thread/INFO]: <A11y_UwU> hellu
+[17:24:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/45141, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.32]
+[17:25:32] [User Authenticator #6/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[17:25:32] [Server thread/INFO]: Sminky52[/89.17.139.9:50136] logged in with entity id 45952 at (-683.3000000119209, 70.0, 638.486565228653)
+[17:25:32] [Server thread/INFO]: Sminky52 joined the game
+[17:25:36] [Server thread/INFO]: <_Velmca> hææ
+[17:25:43] [Server thread/INFO]: <Sminky52> hi
+[17:25:47] [Server thread/INFO]: <Fibblifubb> yo
+[17:25:55] [Server thread/INFO]: <A11y_UwU> sminky, varstu að spila allan tíman í gær nótt??
+[17:26:47] [Server thread/INFO]: <Sminky52> may hav left it runin on accident why?
+[17:27:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=272, y=72, z=-185} class_2338{x=271, y=72, z=-183}
+[17:27:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=272, y=72, z=-185} class_2338{x=272, y=72, z=-186}
+[17:28:04] [Server thread/INFO]: <A11y_UwU> bara því að ég togga vorum að spila í alla nótt og spjalla um alskonar og héldum að þú værir afk en svo fórstu einhvertíman randomly kl 3 eða einhvað og við vorum bara oh.. var hann online
+[17:28:39] [Server thread/INFO]: <Sminky52> aa k
+[17:28:55] [Server thread/INFO]: <Sminky52> og eg held ad netid mit resetast ta
+[17:29:04] [Server thread/INFO]: <A11y_UwU> oh ok nett
+[17:29:04] [Server thread/INFO]: <Sminky52> eda eunhvad
+[17:29:12] [Server thread/INFO]: <Sminky52> ye
+[17:29:21] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[17:29:21] [Server thread/INFO]: A11y_UwU left the game
+[17:30:52] [Server thread/INFO]: Gold was slain by Fibblifubb
+[17:30:52] [Server thread/INFO]: Gold lost connection: Killed
+[17:30:52] [Server thread/INFO]: Gold left the game
+[17:31:02] [Server thread/INFO]: <_Velmca> rip fly high<3
+[17:31:13] [Server thread/INFO]: <Fibblifubb> nah he sucks
+[17:32:03] [Server thread/INFO]: <_Velmca> (,:
+[17:32:46] [User Authenticator #7/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:32:46] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58561] logged in with entity id 53416 at (-407.5766108970394, 76.64963626005506, 318.9670548853497)
+[17:32:46] [Server thread/INFO]: A11y_UwU joined the game
+[17:32:47] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
+[17:32:49] [Server thread/INFO]: <_Velmca> weba
+[17:32:59] [Server thread/INFO]: <Fibblifubb> he back
+[17:33:16] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/54580, l='ServerLevel[world]', x=-291.86, y=222.00, z=112.96]
+[17:33:28] [Server thread/INFO]: <A11y_UwU> yas
+[17:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[17:34:11] [Server thread/INFO]: <Fibblifubb> do item sorter break when the chests are full or do they work again when you take the stuff out?
+[17:34:40] [Server thread/INFO]: <A11y_UwU> they break if they are besides others
+[17:34:47] [Server thread/INFO]: <Fibblifubb> what
+[17:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[17:34:52] [Server thread/INFO]: <Fibblifubb> oh
+[17:34:54] [Server thread/INFO]: <A11y_UwU> think they are fine if they are allone
+[17:35:04] [Server thread/INFO]: <Fibblifubb> yea i didnt place them together so donw worry then
+[17:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[17:35:13] [Server thread/INFO]: <A11y_UwU> noice
+[17:35:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[17:35:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/57889, l='ServerLevel[world]', x=-443.80, y=76.00, z=295.61]
+[17:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:35:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/58217, l='ServerLevel[world]', x=-462.21, y=76.00, z=283.75]
+[17:36:07] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[17:36:07] [Server thread/INFO]: Fibblifubb left the game
+[17:36:09] [User Authenticator #8/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[17:36:09] [Server thread/INFO]: Fibblifubb[/89.160.200.16:56201] logged in with entity id 58415 at (-220.3538146093064, 69.5625, -53.99062553385234)
+[17:36:09] [Server thread/INFO]: Fibblifubb joined the game
+[17:36:59] [Server thread/WARN]: A11y_UwU moved too quickly! 7.939460478616979,13.834681976576732,7.779194759332995
+[17:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3178ms or 63 ticks behind
+[17:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[17:37:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[17:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[17:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[17:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[17:39:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:39:36] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[17:39:36] [Server thread/INFO]: Sminky52 left the game
+[17:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[17:40:57] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[17:40:57] [Server thread/INFO]: Fibblifubb left the game
+[17:40:59] [User Authenticator #9/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[17:40:59] [Server thread/INFO]: Fibblifubb[/89.160.200.16:56354] logged in with entity id 63728 at (-220.49535786596343, 69.5625, 45.89817975664122)
+[17:40:59] [Server thread/INFO]: Fibblifubb joined the game
+[17:41:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/64198, l='ServerLevel[world]', x=-443.21, y=76.00, z=295.95]
+[17:42:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/64875, l='ServerLevel[world]', x=-443.32, y=76.00, z=296.01]
+[17:42:44] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[17:42:47] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[17:44:12] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[17:44:12] [Server thread/INFO]: Fibblifubb left the game
+[17:44:14] [User Authenticator #10/INFO]: UUID of player Fibblifubb is 4bbaee98-9f81-4e74-8429-d1000fba6674
+[17:44:15] [Server thread/INFO]: Fibblifubb[/89.160.200.16:56466] logged in with entity id 67329 at (-220.31469232597948, 69.5625, -50.74048396988553)
+[17:44:15] [Server thread/INFO]: Fibblifubb joined the game
+[17:44:38] [Server thread/WARN]: _Velmca moved too quickly! -16.24104810117342,-3.6904038362554274,-7.993295195714268
+[17:46:45] [Server thread/INFO]: <_Velmca> ertu að selja einhverjar looting bækur bjartur?
+[17:47:05] [Server thread/INFO]: <A11y_UwU> ef þær eru ekki búnar já
+[17:47:19] [Server thread/INFO]: <_Velmca> okk held þær eru bunar utaf finn engar
+[17:47:34] [Server thread/INFO]: <A11y_UwU> það er kannski einhvað af looting II
+[17:48:29] [Server thread/INFO]: <_Velmca> fann lööting 2
+[17:48:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/70983, l='ServerLevel[world]', x=-442.54, y=75.92, z=296.44]
+[17:48:35] [Server thread/INFO]: <A11y_UwU> nett
+[17:48:56] [Server thread/INFO]: <A11y_UwU> þú færð 2 þannig fyrir sama verð
+[17:49:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/72247, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
+[17:49:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/72261, l='ServerLevel[world]', x=-443.40, y=76.00, z=295.66]
+[17:49:46] [Server thread/INFO]: <_Velmca> það var bara 1
+[17:49:56] [Server thread/INFO]: <A11y_UwU> æ æ, ok
+[17:50:01] [Server thread/INFO]: <_Velmca> itz gucci
+[17:50:17] [Server thread/INFO]: <A11y_UwU> ég restocka hana br+aðlega
+[17:50:26] [Server thread/INFO]: <_Velmca> ökeio
+[17:50:26] [Server thread/INFO]: <A11y_UwU> kannski í nótt eða einhvað
+[17:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81745, l='ServerLevel[world]', x=-462.24, y=76.00, z=283.69]
+[17:58:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81912, l='ServerLevel[world]', x=-461.29, y=76.00, z=286.83]
+[18:00:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=79, z=39} class_2338{x=-323, y=53, z=49}
+[18:00:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=79, z=39} class_2338{x=-323, y=53, z=49}
+[18:00:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=79, z=39} class_2338{x=-323, y=53, z=49}
+[18:00:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=79, z=39} class_2338{x=-323, y=53, z=49}
+[18:02:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86146, l='ServerLevel[world]', x=-461.89, y=76.00, z=284.17]
+[18:02:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86294, l='ServerLevel[world]', x=-461.24, y=76.00, z=286.83]
+[18:02:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86309, l='ServerLevel[world]', x=-443.80, y=76.00, z=295.20]
+[18:08:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89810, l='ServerLevel[world]', x=-442.84, y=76.00, z=296.22]
+[18:08:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/90157, l='ServerLevel[world]', x=-443.36, y=75.92, z=295.62]
+[18:11:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/91763, l='ServerLevel[world]', x=-461.68, y=76.00, z=288.17]
+[18:12:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/92465, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
+[18:13:55] [Server thread/WARN]: Fibblifubb moved wrongly!
+[18:15:56] [Server thread/INFO]: <_Velmca> brb
+[18:16:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/96330, l='ServerLevel[world]', x=-443.28, y=76.00, z=295.20]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97258, l='ServerLevel[world]', x=-287.37, y=13.26, z=-394.60]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97259, l='ServerLevel[world]', x=-286.45, y=11.70, z=-395.74]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97260, l='ServerLevel[world]', x=-283.50, y=12.63, z=-392.72]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97261, l='ServerLevel[world]', x=-285.30, y=16.68, z=-391.56]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gravel'/97262, l='ServerLevel[world]', x=-287.72, y=12.29, z=-393.57]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97263, l='ServerLevel[world]', x=-284.33, y=18.27, z=-394.69]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97264, l='ServerLevel[world]', x=-287.44, y=14.71, z=-395.44]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97265, l='ServerLevel[world]', x=-283.43, y=13.67, z=-393.47]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97266, l='ServerLevel[world]', x=-286.34, y=12.42, z=-396.46]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97267, l='ServerLevel[world]', x=-282.52, y=16.45, z=-393.34]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97268, l='ServerLevel[world]', x=-283.50, y=15.30, z=-396.26]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97269, l='ServerLevel[world]', x=-283.54, y=13.35, z=-395.55]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97270, l='ServerLevel[world]', x=-286.70, y=15.36, z=-394.54]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97271, l='ServerLevel[world]', x=-286.39, y=13.34, z=-395.68]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97272, l='ServerLevel[world]', x=-284.65, y=13.71, z=-394.61]
+[18:17:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/97273, l='ServerLevel[world]', x=-285.55, y=17.57, z=-390.53]
+[18:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[18:24:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/103491, l='ServerLevel[world]', x=-443.36, y=76.00, z=296.22]
+[18:24:51] [Server thread/INFO]: Fibblifubb lost connection: Disconnected
+[18:24:51] [Server thread/INFO]: Fibblifubb left the game
+[18:25:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/103671, l='ServerLevel[world]', x=-443.39, y=76.00, z=295.20]
+[18:26:13] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[18:26:13] [Server thread/INFO]: A11y_UwU left the game
+[18:28:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=98, z=8} class_2338{x=-384, y=93, z=5}
+[18:53:40] [User Authenticator #11/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[18:53:40] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58702] logged in with entity id 111027 at (-437.3281260517417, 68.0, 392.3357494354258)
+[18:53:40] [Server thread/INFO]: A11y_UwU joined the game
+[18:53:41] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[18:53:49] [Server thread/INFO]: <A11y_UwU> hellu
+[18:53:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111510, l='ServerLevel[world]', x=-461.37, y=76.00, z=287.22]
+[18:59:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113701, l='ServerLevel[world]', x=-462.23, y=76.00, z=283.73]
+[19:07:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116830, l='ServerLevel[world]', x=-461.72, y=76.00, z=286.83]
+[19:07:44] [Server thread/INFO]: <_Velmca> heio
+[19:07:49] [Server thread/INFO]: <A11y_UwU> hii
+[19:09:03] [Server thread/INFO]: <_Velmca> geturu sofið?
+[19:09:08] [Server thread/INFO]: <A11y_UwU> yes
+[19:09:22] [Server thread/INFO]: <_Velmca> thankju
+[19:09:32] [Server thread/INFO]: <A11y_UwU> ekki málið :)
+[19:10:54] [Server thread/INFO]: <_Velmca> brbb
+[19:16:14] [Server thread/INFO]: <_Velmca> beck
+[19:16:29] [Server thread/INFO]: <A11y_UwU> noice
+[19:21:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123437, l='ServerLevel[world]', x=-462.61, y=76.00, z=284.17]
+[19:23:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/124312, l='ServerLevel[world]', x=-461.70, y=76.00, z=288.17]
+[19:30:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127263, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.32]
+[19:31:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127693, l='ServerLevel[world]', x=-442.65, y=75.69, z=296.37]
+[19:32:52] [Server thread/INFO]: <_Velmca> wassup
+[19:32:56] [Server thread/INFO]: <A11y_UwU> hellu
+[19:33:05] [Server thread/INFO]: <_Velmca> má eg fá egg?
+[19:33:06] [Server thread/INFO]: <A11y_UwU> ye
+[19:33:10] [Server thread/INFO]: <_Velmca> thankju
+[19:34:06] [Server thread/INFO]: <_Velmca> takk kærlega
+[19:34:20] [Server thread/INFO]: <A11y_UwU> np
+[19:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[19:35:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-418, y=79, z=334} class_2338{x=-416, y=75, z=336}
+[19:40:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131903, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.51]
+[19:52:18] [Server thread/INFO]: <_Velmca> geturu sofið?
+[19:52:26] [Server thread/INFO]: <A11y_UwU> yessir
+[19:52:30] [Server thread/INFO]: <_Velmca> thankz
+[19:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=67, z=360} class_2338{x=-414, y=66, z=360}
+[19:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=67, z=360} class_2338{x=-414, y=66, z=360}
+[19:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=67, z=360} class_2338{x=-414, y=66, z=360}
+[19:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=67, z=360} class_2338{x=-414, y=66, z=360}
+[19:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=67, z=360} class_2338{x=-414, y=66, z=360}
+[19:56:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=356} class_2338{x=-432, y=66, z=357}
+[19:56:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139146, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.76]
+[19:56:36] [Server thread/WARN]: A11y_UwU moved wrongly!
+[19:56:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-400, y=62, z=356} class_2338{x=-400, y=63, z=356}
+[19:56:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-400, y=62, z=356} class_2338{x=-400, y=63, z=356}
+[19:57:03] [Server thread/INFO]: <_Velmca> mætti eg fá sugar cane frá þér?
+[19:57:08] [Server thread/INFO]: <A11y_UwU> ya
+[19:57:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-409, y=66, z=338} class_2338{x=-410, y=66, z=339}
+[19:57:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-409, y=66, z=338} class_2338{x=-410, y=66, z=339}
+[19:57:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-409, y=66, z=338} class_2338{x=-410, y=66, z=339}
+[20:02:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=66, z=348} class_2338{x=-425, y=67, z=350}
+[20:02:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=66, z=348} class_2338{x=-425, y=67, z=350}
+[20:02:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=66, z=348} class_2338{x=-425, y=67, z=350}
+[20:02:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144403, l='ServerLevel[world]', x=-461.70, y=76.00, z=287.27]
+[20:02:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=67, z=346} class_2338{x=-432, y=67, z=348}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:02:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-431, y=65, z=343} class_2338{x=-433, y=67, z=344}
+[20:03:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-421, y=65, z=344} class_2338{x=-421, y=65, z=345}
+[20:03:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-421, y=65, z=344} class_2338{x=-421, y=65, z=345}
+[20:03:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-421, y=65, z=344} class_2338{x=-421, y=65, z=345}
+[20:03:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-421, y=65, z=344} class_2338{x=-421, y=65, z=345}
+[20:03:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-429, y=67, z=341} class_2338{x=-430, y=67, z=341}
+[20:03:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-429, y=67, z=341} class_2338{x=-430, y=67, z=341}
+[20:03:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-429, y=67, z=341} class_2338{x=-430, y=67, z=341}
+[20:03:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-429, y=67, z=341} class_2338{x=-430, y=67, z=341}
+[20:03:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-429, y=67, z=341} class_2338{x=-430, y=66, z=337}
+[20:04:42] [Server thread/INFO]: <A11y_UwU> brb
+[20:04:43] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:04:43] [Server thread/INFO]: A11y_UwU left the game
+[20:06:32] [Server thread/INFO]: Pumpkin[local] logged in with entity id 146715 at (241.6311783164691, 74.0, 37.58595263786615)
+[20:06:32] [Server thread/INFO]: Pumpkin joined the game
+[20:09:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:09:02] [Server thread/INFO]: d<--[HERE]
+[20:09:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:09:07] [Server thread/INFO]: sssss<--[HERE]
+[20:32:28] [Server thread/INFO]: WheatMan[local] logged in with entity id 155950 at (413.3601426109116, 75.0, -10.476720919861743)
+[20:32:28] [Server thread/INFO]: WheatMan joined the game
+[20:50:39] [User Authenticator #12/INFO]: UUID of player Kallakalli is 63bdcd1e-6da4-4658-bd01-d03350588ebf
+[20:50:39] [Server thread/INFO]: Kallakalli[/89.160.244.150:55731] logged in with entity id 162347 at (-195.14628885474312, 63.0, 828.7535449170847)
+[20:50:39] [Server thread/INFO]: Kallakalli joined the game
+[20:50:42] [Server thread/INFO]: <_Velmca> blessaður
+[20:50:46] [Server thread/INFO]: <Kallakalli> allo
+[20:53:03] [Server thread/INFO]: <_Velmca> bæjo
+[20:53:04] [Server thread/INFO]: _Velmca lost connection: Disconnected
+[20:53:04] [Server thread/INFO]: _Velmca left the game
+[21:15:23] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:15:23] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59054] logged in with entity id 173231 at (-448.69999998807907, 65.0, 360.69999998807907)
+[21:15:23] [Server thread/INFO]: A11y_UwU joined the game
+[21:15:23] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:16:13] [Server thread/INFO]: <A11y_UwU> nei, verið nú blessaðir nýbúar þessa heims
+[21:16:36] [Server thread/INFO]: <Kallakalli> waht
+[21:17:13] [Server thread/INFO]: <A11y_UwU> ei hef ég augum litið nokkura manna sem hér eru nú meða oss
+[21:17:23] [Server thread/INFO]: <Kallakalli> nei
+[21:17:41] [Server thread/INFO]: Kallakalli lost connection: Timed out
+[21:17:41] [Server thread/INFO]: Kallakalli left the game
+[21:17:41] [Server thread/WARN]: handleDisconnection() called twice
+[21:17:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/175801, l='ServerLevel[world]', x=-461.47, y=76.00, z=288.17]
+[21:18:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-441, y=64, z=342} class_2338{x=-442, y=64, z=342}
+[21:18:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-441, y=64, z=342} class_2338{x=-442, y=64, z=342}
+[21:18:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=63, z=353} class_2338{x=-406, y=62, z=352}
+[21:18:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=63, z=353} class_2338{x=-406, y=62, z=352}
+[21:18:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=63, z=353} class_2338{x=-406, y=62, z=352}
+[21:18:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=63, z=353} class_2338{x=-406, y=62, z=352}
+[21:18:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=64, z=352} class_2338{x=-406, y=63, z=353}
+[21:18:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=64, z=352} class_2338{x=-406, y=63, z=353}
+[21:18:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-406, y=64, z=352} class_2338{x=-406, y=63, z=353}
+[21:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=64, z=357} class_2338{x=-415, y=63, z=357}
+[21:19:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-417, y=63, z=357} class_2338{x=-420, y=63, z=357}
+[21:19:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-420, y=64, z=357} class_2338{x=-420, y=63, z=357}
+[21:21:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/179187, l='ServerLevel[world]', x=-462.60, y=76.00, z=284.17]
+[21:25:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=64, z=348} class_2338{x=-408, y=64, z=347}
+[21:25:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=64, z=348} class_2338{x=-408, y=64, z=347}
+[21:25:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=64, z=348} class_2338{x=-408, y=64, z=347}
+[21:26:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-429, y=63, z=347} class_2338{x=-429, y=63, z=348}
+[21:27:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=353} class_2338{x=-428, y=62, z=347}
+[21:27:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=353} class_2338{x=-427, y=62, z=345}
+[21:27:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=353} class_2338{x=-427, y=62, z=345}
+[21:28:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=352} class_2338{x=-413, y=62, z=340}
+[21:28:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=352} class_2338{x=-413, y=62, z=340}
+[21:28:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=352} class_2338{x=-413, y=62, z=340}
+[21:28:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-427, y=63, z=352} class_2338{x=-413, y=62, z=340}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-436, y=63, z=341} class_2338{x=-435, y=63, z=333}
+[21:29:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-428, y=62, z=333} class_2338{x=-429, y=64, z=333}
+[21:41:05] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:41:05] [Server thread/INFO]: A11y_UwU left the game
+[21:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3724ms or 74 ticks behind
+[21:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
+[22:46:44] [User Authenticator #14/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[22:46:44] [Server thread/INFO]: endertad[/89.160.244.218:64339] logged in with entity id 208571 at (-1762.3702073873785, 66.0, -451.52748924637655)
+[22:46:44] [Server thread/INFO]: endertad joined the game
+[22:47:17] [Server thread/INFO]: endertad lost connection: Disconnected
+[22:47:17] [Server thread/INFO]: endertad left the game
+[23:26:51] [User Authenticator #15/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:26:52] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59557] logged in with entity id 217392 at (-420.1509916445975, 75.0, 334.8073510662795)
+[23:26:52] [Server thread/INFO]: A11y_UwU joined the game
+[23:26:52] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:27:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/218261, l='ServerLevel[world]', x=-461.30, y=76.00, z=287.27]
+[23:27:45] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:27:45] [Server thread/INFO]: A11y_UwU left the game
+[23:34:07] [Server thread/INFO]: Pumpkin was slain by Zombie
+[23:34:07] [Server thread/INFO]: Pumpkin lost connection: Killed
+[23:34:07] [Server thread/INFO]: Pumpkin left the game
+[23:50:44] [User Authenticator #16/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:50:44] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59642] logged in with entity id 222440 at (-427.6003109039366, 75.0, 340.7103485258802)
+[23:50:44] [Server thread/INFO]: A11y_UwU joined the game
+[23:50:44] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:55:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/224832, l='ServerLevel[world]', x=-461.22, y=76.00, z=287.77]
+[23:59:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/226746, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]

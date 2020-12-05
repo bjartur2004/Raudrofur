@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2020-11-09 17:38:51 +0000",
+      "minecraft:desert_hills": "2020-12-05 21:10:51 +0000",
       "minecraft:plains": "2020-11-09 18:09:00 +0000"
     },
     "done": false

@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-12-05 23:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2020-11-22 19:08:27 +0000"
@@ -1336,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-12-05 23:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-04 18:28:42 +0000"
@@ -1675,6 +1687,7 @@
       "minecraft:mountains": "2020-11-04 22:42:03 +0000",
       "minecraft:taiga": "2020-11-05 16:33:35 +0000",
       "minecraft:desert_hills": "2020-11-04 17:29:41 +0000",
+      "minecraft:giant_tree_taiga": "2020-12-05 23:46:56 +0000",
       "minecraft:deep_cold_ocean": "2020-11-04 22:40:32 +0000",
       "minecraft:snowy_tundra": "2020-11-16 22:20:52 +0000",
       "minecraft:desert": "2020-11-04 17:28:35 +0000",
@@ -1697,6 +1710,7 @@
       "minecraft:bamboo_jungle_hills": "2020-11-17 13:43:52 +0000",
       "minecraft:wooded_hills": "2020-11-04 22:31:21 +0000",
       "minecraft:stone_shore": "2020-11-12 21:06:01 +0000",
+      "minecraft:giant_tree_taiga_hills": "2020-12-05 23:46:54 +0000",
       "minecraft:wooded_badlands_plateau": "2020-11-12 21:21:28 +0000",
       "minecraft:swamp": "2020-11-04 22:40:51 +0000",
       "minecraft:savanna": "2020-11-13 13:00:06 +0000",
@@ -2329,6 +2343,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-11-05 16:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-12-05 23:16:34 +0000"
     },
     "done": true
   },

@@ -1,62 +1,372 @@
-[00:04:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17508, l='ServerLevel[world]', x=-235.32, y=83.00, z=606.17]
-[00:08:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18152, l='ServerLevel[world]', x=-234.40, y=83.00, z=604.96]
-[00:20:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20260, l='ServerLevel[world]', x=-235.38, y=83.00, z=605.79]
-[00:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20389, l='ServerLevel[world]', x=-235.21, y=83.00, z=605.72]
-[00:56:28] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[00:56:28] [Server thread/INFO]: SKAF_PathFinder left the game
-[13:48:06] [User Authenticator #2/INFO]: UUID of player Fjolnir_S is 08fa4a59-ca79-4ea2-ac7d-fdef160011df
-[13:48:06] [Server thread/INFO]: Fjolnir_S[/192.168.1.34:50017] logged in with entity id 29271 at (239.48720844527296, 79.0, -70.58269697094109)
-[13:48:06] [Server thread/INFO]: Fjolnir_S joined the game
-[13:48:24] [Server thread/INFO]: Fjolnir_S lost connection: Disconnected
-[13:48:24] [Server thread/INFO]: Fjolnir_S left the game
-[13:49:21] [User Authenticator #3/INFO]: UUID of player Fjolnir_S is 08fa4a59-ca79-4ea2-ac7d-fdef160011df
-[13:49:21] [Server thread/INFO]: Fjolnir_S[/192.168.1.34:50224] logged in with entity id 29385 at (239.1887501585034, 79.0, -67.60541293278261)
-[13:49:21] [Server thread/INFO]: Fjolnir_S joined the game
-[13:51:29] [Server thread/INFO]: Fjolnir_S was blown up by Creeper
-[13:53:10] [Server thread/INFO]: togga99[local] logged in with entity id 29854 at (160.0, 70.0, -16.0)
-[13:53:10] [Server thread/INFO]: togga99 joined the game
-[13:53:34] [Server thread/INFO]: [togga99] hallo saeti
-[13:53:41] [Server thread/INFO]: togga99 lost connection: Killed
-[13:53:41] [Server thread/INFO]: togga99 left the game
-[13:56:51] [User Authenticator #4/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[13:56:51] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62447] logged in with entity id 30525 at (-419.2203309213965, 76.0, 316.4420504313765)
-[13:56:52] [Server thread/INFO]: A11y_UwU joined the game
-[13:56:53] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
-[13:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[13:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8831ms or 176 ticks behind
-[13:59:40] [Server thread/INFO]: Fjolnir_S has made the advancement [We Need to Go Deeper]
-[14:11:43] [Server thread/WARN]: A11y_UwU moved too quickly! 11.429143159205694,-1.5015832726636376,14.123866602507348
-[14:13:54] [Server thread/INFO]: Fjolnir_S has made the advancement [Cover Me With Diamonds]
-[14:13:54] [Server thread/INFO]: Fjolnir_S has made the advancement [Suit Up]
-[14:14:56] [Server thread/INFO]: <A11y_UwU> elytra avalable in a shop for 25 diamonds uwu
-[14:15:03] [Server thread/INFO]: <A11y_UwU> also rockets
-[14:15:22] [Server thread/INFO]: <Fjolnir_S> $$$$$
-[14:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[14:15:52] [Server thread/INFO]: <A11y_UwU> afsækið ensku mína, ég er vanur að skrifa á ensku í minecraft owo
-[14:16:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41433, l='ServerLevel[world]', x=-443.80, y=76.00, z=296.80]
-[14:16:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41447, l='ServerLevel[world]', x=-443.00, y=76.00, z=296.80]
-[14:16:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41448, l='ServerLevel[world]', x=-466.80, y=76.00, z=283.33]
-[14:17:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41720, l='ServerLevel[world]', x=-443.38, y=75.69, z=295.55]
-[14:22:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43140, l='ServerLevel[world]', x=-442.20, y=76.00, z=296.80]
-[14:23:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43401, l='ServerLevel[world]', x=-442.20, y=76.00, z=296.36]
-[14:26:12] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[14:26:12] [Server thread/INFO]: A11y_UwU left the game
-[14:30:23] [Server thread/INFO]: Fjolnir_S lost connection: Disconnected
-[14:30:23] [Server thread/INFO]: Fjolnir_S left the game
-[16:37:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:37:33] [Server thread/INFO]: <--[HERE]
-[18:41:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:41:29] [Server thread/INFO]: The Facebook 'it's you' virus is back - what to do if you get itThe Facebook 'it's you' virus is back - what to do if you get itThe Facebook 'it's you' virus is back - what to do if you get it<--[HERE]
-[18:43:07] [Server thread/INFO]: Stopping the server
-[18:43:07] [Server thread/INFO]: Stopping server
-[18:43:07] [Server thread/INFO]: Saving players
-[18:43:07] [Server thread/INFO]: Saving worlds
-[18:43:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:43:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:43:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:43:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:43:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:43:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:43:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:43:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:43:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:24:13] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[10:24:13] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[10:24:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[10:24:22] [main/INFO]: [VanillaEnhanced] Hello there.
+[10:24:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:24:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:24:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:24:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:24:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:24:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:24:25] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip
+[10:24:26] [Worker-Main-5/INFO]: Loaded 7 recipes
+[10:24:26] [Worker-Main-5/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[10:24:26] [Worker-Main-5/INFO]: Loaded 927 advancements
+[10:24:27] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.999 ms
+[10:24:27] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[10:24:27] [Server thread/INFO]: Loading properties
+[10:24:27] [Server thread/INFO]: Default game type: SURVIVAL
+[10:24:27] [Server thread/INFO]: Generating keypair
+[10:24:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:24:27] [Server thread/INFO]: Using default channel type
+[10:24:28] [Server thread/INFO]: Preparing level "world"
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[10:24:28] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[10:24:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:24:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:24:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:24:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:24:30] [Server thread/INFO]: Preparing spawn area: 0%
+[10:24:31] [Server thread/INFO]: Time elapsed: 2544 ms
+[10:24:31] [Server thread/INFO]: Done (2.879s)! For help, type "help"
+[10:40:52] [User Authenticator #1/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[10:40:52] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51111] logged in with entity id 168 at (-370.28504981704293, 9.0, 702.9517895049338)
+[10:40:52] [Server thread/INFO]: SKAF_PathFinder joined the game
+[10:44:14] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[10:44:14] [Server thread/INFO]: SKAF_PathFinder left the game
+[10:45:07] [User Authenticator #2/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[10:45:07] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51418] logged in with entity id 897 at (-373.7296648711117, 9.0, 701.2105445835576)
+[10:45:07] [Server thread/INFO]: SKAF_PathFinder joined the game
+[10:55:10] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[10:55:10] [Server thread/INFO]: SKAF_PathFinder left the game
+[11:13:37] [User Authenticator #3/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[11:13:37] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:52805] logged in with entity id 2299 at (-370.1369454667151, 9.0, 701.8817588811984)
+[11:13:37] [Server thread/INFO]: SKAF_PathFinder joined the game
+[12:07:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9452, l='ServerLevel[world]', x=-235.34, y=83.00, z=605.64]
+[12:41:03] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[12:41:03] [Server thread/INFO]: SKAF_PathFinder left the game
+[12:42:22] [User Authenticator #4/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[12:42:22] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:53297] logged in with entity id 14787 at (-454.67118983668325, 64.0, 759.0611085143389)
+[12:42:22] [Server thread/INFO]: SKAF_PathFinder joined the game
+[13:01:30] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[13:01:30] [Server thread/INFO]: SKAF_PathFinder left the game
+[13:02:00] [User Authenticator #5/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[13:02:01] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:53395] logged in with entity id 18490 at (-435.5029361878908, 63.0, 771.4527153080935)
+[13:02:01] [Server thread/INFO]: SKAF_PathFinder joined the game
+[13:05:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=689} class_2338{x=-379, y=68, z=688}
+[13:05:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=689} class_2338{x=-379, y=68, z=688}
+[13:05:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-381, y=70, z=688} class_2338{x=-380, y=67, z=689}
+[13:20:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-384, y=70, z=694} class_2338{x=-387, y=68, z=691}
+[13:23:24] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[13:23:24] [Server thread/INFO]: SKAF_PathFinder left the game
+[13:33:26] [User Authenticator #6/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[13:33:26] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:53548] logged in with entity id 21954 at (-437.4604518940968, 63.0, 763.056685646861)
+[13:33:26] [Server thread/INFO]: SKAF_PathFinder joined the game
+[14:31:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=68, z=817} class_2338{x=-444, y=68, z=818}
+[14:32:37] [Server thread/INFO]: SKAF_PathFinder was blown up by Creeper
+[14:35:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-324, y=73, z=866} class_2338{x=-324, y=72, z=866}
+[14:35:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-324, y=73, z=866} class_2338{x=-324, y=72, z=866}
+[14:35:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-324, y=73, z=866} class_2338{x=-324, y=72, z=866}
+[14:35:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-324, y=73, z=866} class_2338{x=-324, y=72, z=866}
+[16:11:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113148, l='ServerLevel[world]', x=-235.31, y=83.00, z=606.17]
+[16:52:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=63, z=769} class_2338{x=-333, y=62, z=769}
+[16:52:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=63, z=769} class_2338{x=-333, y=62, z=769}
+[16:54:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=64, z=781} class_2338{x=-334, y=63, z=781}
+[17:03:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-319, y=61, z=824} class_2338{x=-321, y=61, z=823}
+[17:05:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-328, y=64, z=793} class_2338{x=-328, y=63, z=794}
+[17:06:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-330, y=63, z=815} class_2338{x=-330, y=63, z=816}
+[17:06:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-330, y=63, z=815} class_2338{x=-330, y=63, z=816}
+[17:06:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-330, y=63, z=815} class_2338{x=-330, y=63, z=816}
+[17:06:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-330, y=63, z=815} class_2338{x=-330, y=63, z=816}
+[17:06:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-330, y=63, z=815} class_2338{x=-330, y=63, z=816}
+[17:15:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=67, z=838} class_2338{x=-322, y=67, z=840}
+[17:15:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=67, z=838} class_2338{x=-322, y=67, z=840}
+[17:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-320, y=68, z=841} class_2338{x=-320, y=67, z=839}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-321, y=69, z=842} class_2338{x=-322, y=69, z=843}
+[17:16:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-326, y=69, z=848} class_2338{x=-326, y=69, z=849}
+[17:16:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-326, y=69, z=848} class_2338{x=-326, y=69, z=849}
+[17:16:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-326, y=69, z=848} class_2338{x=-326, y=69, z=849}
+[17:16:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=70, z=856} class_2338{x=-328, y=71, z=857}
+[17:16:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=70, z=856} class_2338{x=-328, y=71, z=857}
+[17:16:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=70, z=856} class_2338{x=-328, y=71, z=857}
+[17:16:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-329, y=70, z=856} class_2338{x=-328, y=71, z=857}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-327, y=67, z=857} class_2338{x=-333, y=66, z=851}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-334, y=67, z=849}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=66, z=850}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=66, z=850}
+[17:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=66, z=850}
+[17:16:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=68, z=850}
+[17:16:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=68, z=850}
+[17:16:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=68, z=850}
+[17:16:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=68, z=850}
+[17:16:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=68, z=850} class_2338{x=-333, y=68, z=850}
+[17:54:30] [Server thread/INFO]: SKAF_PathFinder was blown up by Creeper
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:12:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=65, z=800} class_2338{x=-444, y=64, z=801}
+[18:14:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=65, z=804} class_2338{x=-463, y=65, z=805}
+[18:14:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=65, z=804} class_2338{x=-463, y=65, z=805}
+[18:14:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=65, z=804} class_2338{x=-463, y=65, z=805}
+[18:14:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=65, z=804} class_2338{x=-463, y=65, z=805}
+[18:14:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=65, z=804} class_2338{x=-463, y=65, z=805}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-449, y=64, z=808} class_2338{x=-449, y=62, z=810}
+[18:14:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-447, y=64, z=810} class_2338{x=-447, y=64, z=811}
+[18:14:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-441, y=63, z=814} class_2338{x=-439, y=63, z=815}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:26:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=66, z=819} class_2338{x=-434, y=67, z=817}
+[18:28:40] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[18:28:40] [Server thread/INFO]: SKAF_PathFinder left the game
+[18:28:50] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[18:28:51] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:55119] logged in with entity id 137277 at (-426.85294506059, 64.0, 816.995740514698)
+[18:28:51] [Server thread/INFO]: SKAF_PathFinder joined the game
+[18:43:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-397, y=62, z=764} class_2338{x=-396, y=62, z=763}
+[18:45:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-375, y=62, z=772} class_2338{x=-373, y=63, z=770}
+[18:45:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-375, y=62, z=772} class_2338{x=-373, y=63, z=770}
+[18:45:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-375, y=62, z=772} class_2338{x=-373, y=63, z=770}
+[18:45:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-375, y=62, z=772} class_2338{x=-373, y=63, z=770}
+[18:45:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-372, y=60, z=770} class_2338{x=-369, y=62, z=769}
+[18:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=66, z=768} class_2338{x=-346, y=64, z=768}
+[18:55:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=63, z=768} class_2338{x=-346, y=64, z=768}
+[19:10:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:10:08] [Server thread/INFO]: s<--[HERE]
+[19:11:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=67, z=765} class_2338{x=-384, y=64, z=762}
+[19:11:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=67, z=765} class_2338{x=-383, y=63, z=763}
+[19:11:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=67, z=765} class_2338{x=-383, y=63, z=763}
+[19:15:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=65, z=802} class_2338{x=-414, y=65, z=801}
+[19:15:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=65, z=802} class_2338{x=-414, y=65, z=801}
+[19:15:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=65, z=802} class_2338{x=-414, y=65, z=801}
+[19:15:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=65, z=802} class_2338{x=-414, y=65, z=801}
+[19:15:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=65, z=802} class_2338{x=-414, y=65, z=801}
+[19:16:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=66, z=811} class_2338{x=-433, y=66, z=809}
+[19:16:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=66, z=811} class_2338{x=-433, y=66, z=809}
+[19:16:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=69, z=811} class_2338{x=-424, y=69, z=810}
+[19:16:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-425, y=69, z=811} class_2338{x=-424, y=69, z=810}
+[19:38:39] [User Authenticator #8/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:38:39] [Server thread/INFO]: Hvaaaaluuuurr[/89.160.206.130:49519] logged in with entity id 148448 at (274.2166581120836, 66.07472379453526, -62.65145331332789)
+[19:38:39] [Server thread/INFO]: Hvaaaaluuuurr joined the game
+[19:38:49] [Server thread/INFO]: <SKAF_PathFinder> Brynjar?
+[19:38:50] [Server thread/INFO]: Hvaaaaluuuurr has made the advancement [Stone Age]
+[19:39:00] [Server thread/INFO]: <Hvaaaaluuuurr> SUP
+[19:39:06] [Server thread/INFO]: <Hvaaaaluuuurr> whats the mod???
+[19:39:20] [Server thread/INFO]: <SKAF_PathFinder> Fabric
+[19:39:22] [Server thread/INFO]: Hvaaaaluuuurr has made the advancement [Acquire Hardware]
+[19:39:32] [Server thread/INFO]: <Hvaaaaluuuurr> just fabric..
+[19:39:35] [Server thread/INFO]: <SKAF_PathFinder> So you can see red wood texture or something
+[19:39:40] [Server thread/WARN]: Hvaaaaluuuurr moved wrongly!
+[19:39:51] [Server thread/INFO]: Hvaaaaluuuurr lost connection: Disconnected
+[19:39:51] [Server thread/INFO]: Hvaaaaluuuurr left the game
+[19:39:57] [User Authenticator #9/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:39:57] [Server thread/INFO]: Hvaaaaluuuurr[/89.160.206.130:49534] logged in with entity id 148777 at (244.37462742106567, 72.0, -71.58355984814642)
+[19:39:57] [Server thread/INFO]: Hvaaaaluuuurr joined the game
+[19:40:28] [Server thread/INFO]: Hvaaaaluuuurr hit the ground too hard
+[19:40:32] [Server thread/INFO]: <SKAF_PathFinder> F
+[19:40:41] [Server thread/INFO]: Hvaaaaluuuurr lost connection: Disconnected
+[19:40:41] [Server thread/INFO]: Hvaaaaluuuurr left the game
+[19:43:02] [Server thread/INFO]: [Server] ew
+[19:44:16] [User Authenticator #10/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:44:16] [Server thread/INFO]: Hvaaaaluuuurr[/89.160.206.130:49865] logged in with entity id 149333 at (177.45010197090753, 68.0, -28.436681681991537)
+[19:44:16] [Server thread/INFO]: Hvaaaaluuuurr joined the game
+[19:44:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:44:18] [Server thread/INFO]: <--[HERE]
+[19:44:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:44:29] [Server thread/INFO]: s<--[HERE]
+[19:45:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:45:18] [Server thread/INFO]: <--[HERE]
+[19:46:10] [Server thread/INFO]: Hvaaaaluuuurr lost connection: Disconnected
+[19:46:10] [Server thread/INFO]: Hvaaaaluuuurr left the game
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-408, y=65, z=807} class_2338{x=-409, y=65, z=806}
+[19:48:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=65, z=826} class_2338{x=-408, y=65, z=827}
+[19:48:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=65, z=826} class_2338{x=-408, y=65, z=827}
+[19:48:54] [Server thread/INFO]: Banned Hvaaaaluuuurr: java.ConnectException; Connection refused;
+[19:51:29] [User Authenticator #11/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:51:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6974670f[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@76a42544]},legacy=false] (/89.160.206.130:50249): You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:51:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@6974670f[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@76a42544]},legacy=false] (/89.160.206.130:50249) lost connection: You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:51:38] [User Authenticator #12/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:51:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4da65cd1[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@718298ff]},legacy=false] (/89.160.206.130:50255): You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:51:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@4da65cd1[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@718298ff]},legacy=false] (/89.160.206.130:50255) lost connection: You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:52:14] [User Authenticator #13/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:52:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62153f37[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@3663803c]},legacy=false] (/89.160.206.130:50269): You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:52:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@62153f37[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@3663803c]},legacy=false] (/89.160.206.130:50269) lost connection: You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:52:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-403, y=64, z=826} class_2338{x=-403, y=65, z=826}
+[19:52:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-403, y=64, z=826} class_2338{x=-403, y=65, z=826}
+[19:52:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-403, y=64, z=826} class_2338{x=-403, y=65, z=826}
+[19:52:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-403, y=64, z=826} class_2338{x=-403, y=65, z=826}
+[19:52:43] [User Authenticator #14/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:52:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@59fde15[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@35bd3433]},legacy=false] (/89.160.206.130:50304): You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:52:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@59fde15[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@35bd3433]},legacy=false] (/89.160.206.130:50304) lost connection: You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:53:43] [User Authenticator #15/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[19:53:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4771038e[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@6951f8f8]},legacy=false] (/89.160.206.130:50350): You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:53:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@4771038e[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@6951f8f8]},legacy=false] (/89.160.206.130:50350) lost connection: You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[19:57:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-382, y=67, z=828} class_2338{x=-382, y=63, z=829}
+[19:57:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-382, y=67, z=828} class_2338{x=-382, y=63, z=829}
+[19:57:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-382, y=67, z=828} class_2338{x=-382, y=63, z=829}
+[19:58:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-423, y=69, z=837} class_2338{x=-425, y=68, z=834}
+[19:58:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-423, y=69, z=837} class_2338{x=-425, y=68, z=834}
+[19:58:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-423, y=67, z=842} class_2338{x=-423, y=67, z=841}
+[19:58:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-423, y=67, z=842} class_2338{x=-423, y=67, z=841}
+[19:59:10] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[19:59:10] [Server thread/INFO]: SKAF_PathFinder left the game
+[20:01:22] [User Authenticator #16/INFO]: UUID of player Isakb04 is 9a14385c-db74-4cd9-9f00-a2dc9078068e
+[20:01:22] [Server thread/INFO]: Isakb04[/213.121.3.48:54504] logged in with entity id 154617 at (160.5, 71.0, -15.5)
+[20:01:22] [Server thread/INFO]: Isakb04 joined the game
+[20:01:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=158, y=68, z=-17}
+[20:02:02] [Server thread/WARN]: Isakb04 moved wrongly!
+[20:03:05] [Server thread/WARN]: Isakb04 moved wrongly!
+[20:03:29] [Server thread/INFO]: Isakb04 has made the advancement [Acquire Hardware]
+[20:03:37] [Server thread/INFO]: Isakb04 has made the advancement [Cover Me With Diamonds]
+[20:05:02] [User Authenticator #17/INFO]: UUID of player Hvaaaaluuuurr is eb1b0cb2-26c9-4a4c-ba99-e12080ea53db
+[20:05:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ece07f5[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@289995fb]},legacy=false] (/185.92.26.70:50988): You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[20:05:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ece07f5[id=eb1b0cb2-26c9-4a4c-ba99-e12080ea53db,name=Hvaaaaluuuurr,properties={textures=[com.mojang.authlib.properties.Property@289995fb]},legacy=false] (/185.92.26.70:50988) lost connection: You are banned from this server.
+Reason: java.ConnectException; Connection refused;
+[20:05:25] [Server thread/INFO]: Isakb04 has made the advancement [Monster Hunter]
+[20:09:58] [User Authenticator #18/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[20:09:59] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:55637] logged in with entity id 155645 at (-421.5136977613046, 67.0, 836.6977946897229)
+[20:09:59] [Server thread/INFO]: SKAF_PathFinder joined the game
+[20:12:36] [Server thread/INFO]: Isakb04 has made the advancement [We Need to Go Deeper]
+[20:12:43] [Server thread/INFO]: <SKAF_PathFinder> Oh, hello
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:12:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-405, y=63, z=830} class_2338{x=-406, y=63, z=830}
+[20:16:36] [Server thread/INFO]: Isakb04 has made the advancement [Not Quite "Nine" Lives]
+[20:16:40] [Server thread/INFO]: Isakb04 was killed by [Intentional Game Design]
+[20:17:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-413, y=66, z=847} class_2338{x=-414, y=66, z=847}
+[20:17:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-413, y=66, z=847} class_2338{x=-414, y=66, z=847}
+[20:17:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-413, y=66, z=847} class_2338{x=-414, y=66, z=847}
+[20:19:33] [Server thread/WARN]: Isakb04 moved too quickly! -10.268443737229612,-0.7531999805212024,-0.5556339270625861
+[20:20:04] [Server thread/INFO]: Isakb04 has made the advancement [Stone Age]
+[20:20:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[20:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4232ms or 84 ticks behind
+[20:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[20:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[20:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[20:24:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[20:25:11] [User Authenticator #22/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[20:25:10] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[20:25:05] [User Authenticator #21/INFO]: UUID of player Isakb04 is 9a14385c-db74-4cd9-9f00-a2dc9078068e
+[20:25:31] [User Authenticator #23/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:25:32] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:24:48] [User Authenticator #20/INFO]: UUID of player Isakb04 is 9a14385c-db74-4cd9-9f00-a2dc9078068e
+[20:24:47] [User Authenticator #19/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[20:25:33] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-12-07_20.25.33-server.txt
+[20:25:33] [Server thread/INFO]: Isakb04 lost connection: Disconnected
+[20:25:33] [Server thread/INFO]: Isakb04 left the game
+[20:25:33] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[20:25:33] [Server thread/INFO]: SKAF_PathFinder left the game
+[20:25:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@5cbf9ce0[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@4a61868f]},legacy=false] (/85.220.31.107:55738) lost connection: Disconnected
+[20:25:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@31c59183[id=9a14385c-db74-4cd9-9f00-a2dc9078068e,name=Isakb04,properties={textures=[com.mojang.authlib.properties.Property@37e1e1b2]},legacy=false] (/213.121.3.48:62581) lost connection: Disconnected
+[20:25:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@552f267d[id=<null>,name=A11y_UwU,properties={},legacy=false] (/127.0.0.1:59864) lost connection: Disconnected
+[20:25:33] [Server thread/INFO]: Isakb04[/213.121.3.48:62589] logged in with entity id 165063 at (-491.49586573070417, 68.0, 301.6640097236785)
+[20:25:33] [Server thread/INFO]: Isakb04 joined the game
+[20:25:33] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:55747] logged in with entity id 165064 at (-380.209573831871, 63.0, 745.6392536546977)
+[20:25:33] [Server thread/INFO]: SKAF_PathFinder joined the game
+[20:25:34] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59935] logged in with entity id 165065 at (-425.9378447649169, 75.5, 341.0325172248122)
+[20:25:34] [Server thread/INFO]: A11y_UwU joined the game
+[20:25:34] [Server thread/INFO]: Stopping server
+[20:25:35] [Server thread/INFO]: Saving players
+[20:25:35] [Server thread/INFO]: Isakb04 lost connection: Internal Exception: java.lang.StackOverflowError
+[20:25:35] [Server thread/INFO]: Isakb04 left the game
+[20:25:35] [Server thread/INFO]: Saving worlds
+[20:25:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:25:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:25:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

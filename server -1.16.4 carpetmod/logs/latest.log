@@ -1,191 +1,23 @@
-[00:02:43] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
-[00:04:11] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
-[00:04:37] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:04:37] [Server thread/INFO]: A11y_UwU left the game
-[08:44:49] [User Authenticator #6/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[08:44:49] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:50166] logged in with entity id 35544 at (-381.2936503566806, 64.0, 820.4102524205999)
-[08:44:49] [Server thread/INFO]: SKAF_PathFinder joined the game
-[08:45:32] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 0.0,-10.358242895121823,0.0
-[08:49:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=73, z=814} class_2338{x=-356, y=72, z=835}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-373, y=69, z=829}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=69, z=830} class_2338{x=-358, y=70, z=836}
-[08:53:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=69, z=833} class_2338{x=-364, y=68, z=833}
-[08:57:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=69, z=848} class_2338{x=-343, y=68, z=847}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[08:59:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=68, z=834} class_2338{x=-339, y=69, z=834}
-[09:24:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-364, y=67, z=812} class_2338{x=-363, y=67, z=813}
-[09:24:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-364, y=67, z=812} class_2338{x=-363, y=67, z=813}
-[09:24:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-364, y=67, z=812} class_2338{x=-363, y=67, z=813}
-[09:24:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-364, y=67, z=812} class_2338{x=-363, y=67, z=813}
-[09:24:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-364, y=67, z=812} class_2338{x=-363, y=67, z=813}
-[09:24:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=68, z=827} class_2338{x=-356, y=68, z=826}
-[09:25:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=67, z=823} class_2338{x=-355, y=67, z=822}
-[09:25:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=67, z=823} class_2338{x=-355, y=67, z=822}
-[09:25:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=67, z=823} class_2338{x=-355, y=67, z=822}
-[09:25:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=67, z=823} class_2338{x=-355, y=67, z=822}
-[09:27:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-354, y=63, z=802} class_2338{x=-354, y=62, z=803}
-[09:29:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=66, z=838} class_2338{x=-334, y=67, z=837}
-[09:30:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-350, y=70, z=844} class_2338{x=-350, y=70, z=845}
-[09:30:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-350, y=70, z=844} class_2338{x=-350, y=70, z=845}
-[09:30:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-350, y=70, z=844} class_2338{x=-348, y=68, z=846}
-[09:30:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-360, y=66, z=842} class_2338{x=-362, y=67, z=841}
-[09:32:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-347, y=63, z=851} class_2338{x=-341, y=65, z=844}
-[09:36:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=63, z=823} class_2338{x=-341, y=62, z=823}
-[09:36:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=63, z=823} class_2338{x=-341, y=62, z=823}
-[09:36:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=63, z=823} class_2338{x=-341, y=62, z=823}
-[09:36:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=63, z=823} class_2338{x=-341, y=62, z=823}
-[09:36:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=63, z=810} class_2338{x=-344, y=63, z=815}
-[09:36:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=63, z=810} class_2338{x=-344, y=63, z=815}
-[09:36:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=63, z=810} class_2338{x=-344, y=63, z=815}
-[09:36:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=63, z=810} class_2338{x=-344, y=63, z=815}
-[10:22:46] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[10:22:46] [Server thread/INFO]: SKAF_PathFinder left the game
-[11:52:47] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[11:52:47] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51195] logged in with entity id 58043 at (-408.48876052820935, 63.0, 827.313843909142)
-[11:52:47] [Server thread/INFO]: SKAF_PathFinder joined the game
-[11:54:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-382, y=89, z=818} class_2338{x=-379, y=84, z=818}
-[11:54:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-384, y=64, z=814} class_2338{x=-383, y=64, z=814}
-[12:37:37] [User Authenticator #8/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
-[12:37:37] [Server thread/INFO]: RuKlo[/157.157.141.64:59607] logged in with entity id 63663 at (-116.21751465037734, 64.0, 89.52629339689949)
-[12:37:37] [Server thread/INFO]: RuKlo joined the game
-[12:39:54] [Server thread/INFO]: <RuKlo> hallo
-[12:40:00] [Server thread/INFO]: <SKAF_PathFinder> Hello
-[12:44:34] [Server thread/INFO]: RuKlo lost connection: Disconnected
-[12:44:34] [Server thread/INFO]: RuKlo left the game
-[12:46:55] [User Authenticator #9/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
-[12:46:55] [Server thread/INFO]: RuKlo[/157.157.141.64:63141] logged in with entity id 66682 at (53.980433239703245, 64.0, 838.2649458177175)
-[12:46:55] [Server thread/INFO]: RuKlo joined the game
-[13:03:20] [Server thread/INFO]: RuKlo lost connection: Disconnected
-[13:03:20] [Server thread/INFO]: RuKlo left the game
-[13:08:36] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[13:08:36] [Server thread/INFO]: SKAF_PathFinder left the game
-[14:18:53] [User Authenticator #10/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[14:18:53] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:51884] logged in with entity id 71079 at (-338.12840317551803, 63.0, 830.2499370965629)
-[14:18:53] [Server thread/INFO]: SKAF_PathFinder joined the game
-[15:08:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-322, y=72, z=846} class_2338{x=-320, y=71, z=849}
-[15:08:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-322, y=72, z=846} class_2338{x=-320, y=71, z=849}
-[15:08:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-322, y=72, z=846} class_2338{x=-320, y=71, z=849}
-[15:08:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-322, y=72, z=846} class_2338{x=-320, y=71, z=849}
-[15:08:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-325, y=67, z=844} class_2338{x=-325, y=64, z=843}
-[15:11:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=70, z=854} class_2338{x=-335, y=72, z=863}
-[15:11:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-358, y=70, z=863} class_2338{x=-357, y=69, z=863}
-[15:11:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-358, y=70, z=863} class_2338{x=-357, y=69, z=863}
-[15:13:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-375, y=66, z=864} class_2338{x=-374, y=65, z=864}
-[15:13:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=861} class_2338{x=-382, y=66, z=860}
-[15:13:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=861} class_2338{x=-382, y=66, z=860}
-[15:13:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=861} class_2338{x=-382, y=66, z=860}
-[15:13:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=861} class_2338{x=-382, y=66, z=860}
-[15:13:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=67, z=861} class_2338{x=-382, y=66, z=860}
-[15:13:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-370, y=68, z=861} class_2338{x=-373, y=67, z=862}
-[15:13:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-370, y=68, z=861} class_2338{x=-373, y=67, z=862}
-[15:13:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-370, y=68, z=861} class_2338{x=-373, y=67, z=862}
-[15:13:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-370, y=68, z=861} class_2338{x=-373, y=67, z=862}
-[15:14:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=68, z=860} class_2338{x=-339, y=67, z=860}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-349, y=68, z=857} class_2338{x=-349, y=69, z=859}
-[15:14:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=67, z=860} class_2338{x=-358, y=67, z=859}
-[15:14:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=67, z=860} class_2338{x=-358, y=67, z=859}
-[15:14:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=67, z=860} class_2338{x=-358, y=67, z=859}
-[15:14:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=67, z=860} class_2338{x=-358, y=67, z=859}
-[15:14:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=67, z=860} class_2338{x=-358, y=67, z=859}
-[15:15:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=64, z=855} class_2338{x=-391, y=64, z=856}
-[15:15:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=64, z=855} class_2338{x=-391, y=64, z=856}
-[15:15:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-387, y=63, z=859} class_2338{x=-383, y=65, z=858}
-[15:15:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-387, y=63, z=859} class_2338{x=-383, y=65, z=858}
-[15:15:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-387, y=63, z=859} class_2338{x=-383, y=65, z=858}
-[15:15:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-387, y=63, z=859} class_2338{x=-383, y=65, z=858}
-[15:15:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-387, y=63, z=859} class_2338{x=-383, y=65, z=858}
-[15:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-356, y=64, z=855} class_2338{x=-355, y=64, z=858}
-[15:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:16:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=65, z=855} class_2338{x=-354, y=65, z=858}
-[15:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-360, y=64, z=857} class_2338{x=-360, y=64, z=856}
-[15:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-360, y=64, z=857} class_2338{x=-360, y=64, z=856}
-[15:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-360, y=64, z=857} class_2338{x=-360, y=64, z=856}
-[15:22:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=73, z=833} class_2338{x=-434, y=73, z=837}
-[15:22:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=73, z=833} class_2338{x=-434, y=73, z=837}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=65, z=853} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=65, z=853} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=65, z=853} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=65, z=853} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=65, z=853} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=65, z=853} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=66, z=851} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=66, z=851} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=66, z=851} class_2338{x=-415, y=65, z=852}
-[16:20:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-415, y=66, z=851} class_2338{x=-415, y=65, z=852}
-[16:27:48] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[16:27:48] [Server thread/INFO]: SKAF_PathFinder left the game
-[17:10:48] [User Authenticator #11/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[17:10:48] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:52725] logged in with entity id 111927 at (-439.4963909764987, 65.0, 833.4796536726362)
-[17:10:48] [Server thread/INFO]: SKAF_PathFinder joined the game
-[17:11:51] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[17:11:51] [Server thread/INFO]: SKAF_PathFinder left the game
-[17:16:04] [User Authenticator #12/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[17:16:04] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:52765] logged in with entity id 112454 at (-448.1932570019837, 65.0, 817.563048817616)
-[17:16:04] [Server thread/INFO]: SKAF_PathFinder joined the game
-[17:38:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-393, y=65, z=864} class_2338{x=-399, y=63, z=862}
-[17:39:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=61, z=856} class_2338{x=-464, y=61, z=856}
-[17:39:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-461, y=63, z=862} class_2338{x=-459, y=63, z=863}
-[18:16:42] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[18:16:42] [Server thread/INFO]: SKAF_PathFinder left the game
-[18:31:14] [Server thread/INFO]: Stopping the server
-[18:31:14] [Server thread/INFO]: Stopping server
-[18:31:14] [Server thread/INFO]: Saving players
-[18:31:14] [Server thread/INFO]: Saving worlds
-[18:31:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:31:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:31:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:31:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:31:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:31:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:31:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:31:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:31:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:11:59] [User Authenticator #6/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[08:13:05] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[08:12:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@71d417bf[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@b9a454b]},legacy=false] (/85.220.31.107:50311) lost connection: Disconnected
+[10:10:47] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[10:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7121784ms or 142435 ticks behind
+[10:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a0958e[id=<null>,name=SKAF_PathFinder,properties={},legacy=false] (/85.220.31.107:50336) lost connection: Disconnected
+[10:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@232f2c0d[id=<null>,name=SKAF_PathFinder,properties={},legacy=false] (/85.220.31.107:50378) lost connection: Disconnected
+[10:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@f5312ee[id=<null>,name=SKAF_PathFinder,properties={},legacy=false] (/85.220.31.107:50412) lost connection: Disconnected
+[10:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@5eeb9554[id=<null>,name=SKAF_PathFinder,properties={},legacy=false] (/85.220.31.107:50497) lost connection: Disconnected
+[10:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@586167e2[id=<null>,name=SKAF_PathFinder,properties={},legacy=false] (/85.220.31.107:51514) lost connection: Disconnected
+[10:10:48] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-12-09_10.10.48-server.txt
+[10:10:48] [Server thread/INFO]: Stopping server
+[10:10:48] [Server thread/INFO]: Saving players
+[10:10:48] [Server thread/INFO]: Saving worlds
+[10:10:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:10:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:10:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:10:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:10:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:10:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:10:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

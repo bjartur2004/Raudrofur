@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2020-12-08 20:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-11-04 21:19:47 +0000"

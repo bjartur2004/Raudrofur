@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-12-13 00:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-11-24 00:21:15 +0000"
@@ -424,9 +430,11 @@
       "chicken": "2020-11-11 22:42:49 +0000",
       "sweet_berries": "2020-11-29 01:34:49 +0000",
       "cooked_beef": "2020-11-23 01:26:44 +0000",
+      "baked_potato": "2020-12-12 23:18:15 +0000",
       "potato": "2020-11-23 00:44:14 +0000",
       "pumpkin_pie": "2020-11-28 23:52:01 +0000",
       "rotten_flesh": "2020-11-23 22:27:14 +0000",
+      "cookie": "2020-12-12 23:10:59 +0000",
       "carrot": "2020-11-23 00:53:37 +0000"
     },
     "done": false
@@ -716,6 +724,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2020-11-23 00:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-12-13 00:58:56 +0000"
     },
     "done": true
   },
@@ -1351,6 +1365,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-11-25 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-12-13 00:19:29 +0000"
     },
     "done": true
   },

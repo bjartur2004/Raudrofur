@@ -1,17 +1,158 @@
-[21:37:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@742bd80a[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@38ec6db2]},legacy=false] (/89.160.178.238:57225): Took too long to log in
-[05:34:20] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[05:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28585725ms or 571714 ticks behind
-[05:34:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@742bd80a[id=34be5799-440b-49fe-8da9-356b3246eb51,name=Ravle1,properties={textures=[com.mojang.authlib.properties.Property@38ec6db2]},legacy=false] (/89.160.178.238:57225) lost connection: Disconnected
-[05:34:22] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-12-12_05.34.22-server.txt
-[05:34:22] [Server thread/INFO]: Stopping server
-[05:34:22] [Server thread/INFO]: Saving players
-[05:34:22] [Server thread/INFO]: Saving worlds
-[05:34:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:34:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:34:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:34:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-394, y=72, z=58} class_2338{x=-394, y=72, z=57}
+[00:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[00:09:50] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:09:50] [Server thread/INFO]: A11y_UwU left the game
+[00:11:29] [User Authenticator #20/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:11:29] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49773] logged in with entity id 92520 at (-422.69999998807907, 69.0, 59.36625330721323)
+[00:11:29] [Server thread/INFO]: A11y_UwU joined the game
+[00:11:29] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:11:44] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:11:44] [Server thread/INFO]: A11y_UwU left the game
+[00:12:49] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[00:12:49] [Server thread/INFO]: SKAF_PathFinder left the game
+[00:13:00] [User Authenticator #21/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:13:00] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49893] logged in with entity id 92914 at (-418.30000001192093, 69.0, 59.55896692065074)
+[00:13:00] [Server thread/INFO]: A11y_UwU joined the game
+[00:13:01] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:13:08] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:13:08] [Server thread/INFO]: A11y_UwU left the game
+[00:13:45] [User Authenticator #22/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:13:45] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49960] logged in with entity id 93112 at (-424.45562649118926, 69.0, 56.23516442676913)
+[00:13:45] [Server thread/INFO]: A11y_UwU joined the game
+[00:13:45] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:13:46] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:13:46] [Server thread/INFO]: A11y_UwU left the game
+[00:14:08] [User Authenticator #23/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:14:09] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49999] logged in with entity id 93300 at (-424.45562649118926, 69.0, 56.23516442676913)
+[00:14:09] [Server thread/INFO]: A11y_UwU joined the game
+[00:14:09] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:19:24] [User Authenticator #24/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[00:19:24] [Server thread/INFO]: togga99[/89.160.212.94:61148] logged in with entity id 95719 at (-413.8026177506584, 74.9375, 342.6103040378003)
+[00:19:24] [Server thread/INFO]: togga99 joined the game
+[00:19:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/96284, l='ServerLevel[world]', x=-442.20, y=76.00, z=295.57]
+[00:19:29] [Server thread/INFO]: togga99 has reached the goal [Beaconator]
+[00:19:29] [Server thread/INFO]: togga99 has made the advancement [Bring Home the Beacon]
+[00:20:04] [Server thread/INFO]: A11y_UwU has completed the challenge [Serious Dedication]
+[00:20:54] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:20:54] [Server thread/INFO]: A11y_UwU left the game
+[00:21:54] [User Authenticator #25/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:21:54] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50525] logged in with entity id 97465 at (-458.12299143305114, 75.0, 297.96626572211085)
+[00:21:54] [Server thread/INFO]: A11y_UwU joined the game
+[00:21:55] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:22:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/98095, l='ServerLevel[world]', x=-462.25, y=76.00, z=284.17]
+[00:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[00:32:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/101701, l='ServerLevel[world]', x=-443.29, y=76.00, z=296.23]
+[00:32:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/101701, l='ServerLevel[world]', x=-443.29, y=76.00, z=296.23]
+[00:33:48] [User Authenticator #26/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[00:33:48] [Server thread/INFO]: RuKlo[/157.157.141.64:50205] logged in with entity id 102132 at (60.77287223219981, 68.875, 832.6646556863509)
+[00:33:48] [Server thread/INFO]: RuKlo joined the game
+[00:34:17] [Server thread/INFO]: <A11y_UwU> hiiiiii
+[00:34:20] [Server thread/INFO]: <togga99> huihgliuedsk.
+[00:34:28] [Server thread/INFO]: <RuKlo> Halló!
+[00:35:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/102892, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.74]
+[00:35:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/102892, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.74]
+[00:36:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/103317, l='ServerLevel[world]', x=-442.63, y=76.00, z=295.69]
+[00:36:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/103317, l='ServerLevel[world]', x=-442.63, y=76.00, z=295.69]
+[00:39:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=41, y=63, z=817}
+[00:39:26] [Server thread/INFO]: <togga99> i sedder he ha de hey
+[00:39:40] [Server thread/INFO]: <RuKlo> spænska?
+[00:39:48] [Server thread/INFO]: <togga99> sí'
+[00:45:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=32, y=66, z=802} class_2338{x=30, y=67, z=804}
+[00:46:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/108430, l='ServerLevel[world]', x=-462.36, y=76.00, z=283.71]
+[00:46:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/108430, l='ServerLevel[world]', x=-462.36, y=76.00, z=283.71]
+[00:52:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=29, y=64, z=809} class_2338{x=29, y=67, z=806}
+[00:54:30] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[00:54:30] [Server thread/INFO]: RuKlo left the game
+[00:54:36] [Server thread/INFO]: <togga99> va luði
+[00:55:45] [User Authenticator #27/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[00:55:45] [Server thread/INFO]: RuKlo[/157.157.141.64:59839] logged in with entity id 112056 at (33.50867104746931, 63.0, 824.818851784537)
+[00:55:45] [Server thread/INFO]: RuKlo joined the game
+[00:56:06] [Server thread/INFO]: <togga99> hi
+[00:56:15] [Server thread/INFO]: <RuKlo> halló
+[00:56:27] [Server thread/INFO]: <togga99> hihtii
+[00:56:43] [Server thread/INFO]: <RuKlo> romm og kokacola!!
+[00:56:48] [Server thread/INFO]: <togga99> same
+[00:58:46] [Server thread/INFO]: RuKlo lost connection: Timed out
+[00:58:46] [Server thread/INFO]: RuKlo left the game
+[00:58:52] [User Authenticator #28/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[00:58:53] [Server thread/INFO]: RuKlo[/157.157.141.64:49545] logged in with entity id 113192 at (35.13266740237296, 63.0, 825.6761621451093)
+[00:58:53] [Server thread/INFO]: RuKlo joined the game
+[00:58:56] [Server thread/INFO]: <togga99> hihihih
+[00:59:03] [Server thread/WARN]: RuKlo moved too quickly! 8.225976277566104,0.0,5.841636936808641
+[00:59:13] [Server thread/INFO]: <RuKlo> halló
+[00:59:29] [Server thread/INFO]: <togga99> er það satt sem bjartur segir?
+[00:59:38] [Server thread/INFO]: <RuKlo> hvað sagði hann?
+[00:59:54] [Server thread/INFO]: <togga99> að þú og steve ætluðuð að giftast
+[01:00:01] [Server thread/INFO]: <RuKlo> já
+[01:00:08] [Server thread/INFO]: <RuKlo> var ég ekki búin að segja þér frá því?
+[01:00:12] [Server thread/INFO]: <togga99> hvar?
+[01:00:18] [Server thread/INFO]: <RuKlo> heima hjá mér
+[01:01:00] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[01:01:00] [Server thread/INFO]: RuKlo left the game
+[01:01:04] [User Authenticator #29/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[01:01:04] [Server thread/INFO]: RuKlo[/157.157.141.64:53524] logged in with entity id 114409 at (36.883874686447555, 63.0, 838.3745682319523)
+[01:01:04] [Server thread/INFO]: RuKlo joined the game
+[01:01:13] [Server thread/INFO]: <RuKlo> halló fyrirgefðu
+[01:01:24] [Server thread/INFO]: <togga99> sæll kv stína
+[01:02:20] [Server thread/INFO]: RuKlo was slain by Piglin
+[01:02:36] [Server thread/INFO]: <RuKlo> haha fallegt
+[01:02:50] [Server thread/INFO]: Steve was slain by Zombie
+[01:02:50] [Server thread/INFO]: Steve lost connection: Killed
+[01:02:50] [Server thread/INFO]: Steve left the game
+[01:02:55] [Server thread/INFO]: <RuKlo> ;(
+[01:03:47] [Server thread/INFO]: RuKlo fell from a high place
+[01:04:10] [Server thread/INFO]: <RuKlo> já.. ég nenni þessu ekki kl eitt
+[01:04:15] [Server thread/INFO]: <RuKlo> bæ :D
+[01:04:17] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[01:04:17] [Server thread/INFO]: RuKlo left the game
+[01:04:19] [Server thread/INFO]: <togga99> hverju
+[01:04:23] [Server thread/INFO]: <togga99> blessaður
+[01:10:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/119573, l='ServerLevel[world]', x=-461.78, y=76.00, z=287.28]
+[01:10:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/119581, l='ServerLevel[world]', x=-461.76, y=76.00, z=283.74]
+[01:10:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/119581, l='ServerLevel[world]', x=-461.76, y=76.00, z=283.74]
+[01:10:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/119662, l='ServerLevel[world]', x=-461.70, y=76.00, z=284.17]
+[01:10:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/119662, l='ServerLevel[world]', x=-461.70, y=76.00, z=284.17]
+[01:11:07] [Server thread/INFO]: A11y_UwU fell from a high place
+[01:13:43] [Server thread/INFO]: togga99 lost connection: Disconnected
+[01:13:43] [Server thread/INFO]: togga99 left the game
+[01:15:13] [User Authenticator #30/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[01:15:13] [Server thread/INFO]: togga99[/89.160.212.94:61418] logged in with entity id 120513 at (-427.74536313633735, 75.0, 344.7463269718836)
+[01:15:13] [Server thread/INFO]: togga99 joined the game
+[01:17:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121355, l='ServerLevel[world]', x=-462.66, y=76.00, z=284.17]
+[01:17:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121355, l='ServerLevel[world]', x=-462.66, y=76.00, z=284.17]
+[01:20:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122304, l='ServerLevel[world]', x=-461.69, y=76.00, z=287.77]
+[01:20:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122304, l='ServerLevel[world]', x=-461.69, y=76.00, z=287.77]
+[01:21:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122333, l='ServerLevel[world]', x=-461.84, y=76.00, z=284.17]
+[01:21:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-544, y=64, z=348} class_2338{x=-543, y=62, z=349}
+[01:21:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-544, y=64, z=348} class_2338{x=-543, y=62, z=349}
+[01:21:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-544, y=64, z=348} class_2338{x=-543, y=62, z=349}
+[01:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-516, y=64, z=349} class_2338{x=-515, y=62, z=348}
+[01:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-513, y=64, z=348} class_2338{x=-512, y=62, z=349}
+[01:21:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-513, y=64, z=348} class_2338{x=-512, y=62, z=349}
+[01:21:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=64, z=348} class_2338{x=-503, y=62, z=349}
+[01:21:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=64, z=348} class_2338{x=-503, y=62, z=349}
+[01:21:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=64, z=348} class_2338{x=-503, y=62, z=349}
+[01:22:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-534, y=64, z=351} class_2338{x=-536, y=62, z=351}
+[01:40:21] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[01:40:21] [Server thread/INFO]: A11y_UwU left the game
+[01:41:20] [Server thread/INFO]: togga99 lost connection: Disconnected
+[01:41:20] [Server thread/INFO]: togga99 left the game
+[01:44:23] [User Authenticator #31/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[01:44:23] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55612] logged in with entity id 128348 at (-428.78593836854657, 76.0, 317.76249998807907)
+[01:44:23] [Server thread/INFO]: A11y_UwU joined the game
+[01:44:23] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[01:56:45] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[01:56:45] [Server thread/INFO]: A11y_UwU left the game
+[03:12:37] [Server thread/INFO]: Stopping the server
+[03:12:37] [Server thread/INFO]: Stopping server
+[03:12:37] [Server thread/INFO]: Saving players
+[03:12:37] [Server thread/INFO]: Saving worlds
+[03:12:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:12:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:12:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:12:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:12:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

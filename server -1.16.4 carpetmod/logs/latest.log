@@ -1,23 +1,97 @@
-[00:07:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1066, y=64, z=247} class_2338{x=-1071, y=63, z=246}
-[00:07:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1066, y=64, z=247} class_2338{x=-1071, y=63, z=246}
-[00:07:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1066, y=64, z=247} class_2338{x=-1071, y=63, z=246}
-[00:10:31] [Server thread/WARN]: A11y_UwU moved too quickly! 8.810838442786917,15.184734391340825,5.710555366690585
-[00:20:31] [Server thread/WARN]: A11y_UwU moved too quickly! -17.694593252535356,-1.414248159972928,1.4701134775210107
-[00:20:36] [Server thread/INFO]: togga99 lost connection: Disconnected
-[00:20:36] [Server thread/INFO]: togga99 left the game
-[00:26:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17746, l='ServerLevel[world]', x=-461.77, y=76.00, z=287.06]
-[00:28:55] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:28:55] [Server thread/INFO]: A11y_UwU left the game
-[02:20:49] [Server thread/INFO]: Stopping the server
-[02:20:49] [Server thread/INFO]: Stopping server
-[02:20:49] [Server thread/INFO]: Saving players
-[02:20:49] [Server thread/INFO]: Saving worlds
-[02:20:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:20:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:20:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:20:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:20:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:20:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:20:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:20:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:20:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:24] [Server thread/INFO]: [A11y_UwU: Gave 64 [Golden Carrot] to A11y_UwU]
+[00:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=11, z=477} class_2338{x=96, y=12, z=484}
+[00:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=11, z=477} class_2338{x=96, y=12, z=484}
+[00:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=11, z=477} class_2338{x=96, y=12, z=484}
+[00:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=11, z=477} class_2338{x=96, y=12, z=484}
+[00:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=11, z=477} class_2338{x=96, y=12, z=484}
+[00:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=11, z=477} class_2338{x=96, y=12, z=484}
+[00:06:36] [Server thread/INFO]: A11y_UwU was blown up by Creeper
+[00:06:38] [Server thread/WARN]: A11y_UwU moved too quickly! -507.80000001192093,64.0,-227.27720599956058
+[00:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[00:07:43] [Server thread/WARN]: A11y_UwU moved too quickly! 9.61663406339764,-0.41999998688697815,2.9053781927098044
+[00:08:50] [Server thread/INFO]: A11y_UwU fell from a high place
+[00:08:51] [Server thread/WARN]: A11y_UwU moved too quickly! -490.19999998807907,60.0,-178.1092735562596
+[00:08:55] [Server thread/INFO]: [A11y_UwU: Set own game mode to Spectator Mode]
+[00:08:59] [Server thread/WARN]: A11y_UwU moved too quickly! 23.766212362338393,0.0,10.453696900611476
+[00:08:59] [Server thread/WARN]: A11y_UwU moved too quickly! 19.81726601691949,0.0,8.670759302826866
+[00:09:02] [Server thread/WARN]: A11y_UwU moved too quickly! 21.119902688868848,-2.7360001087188692,9.308114915002648
+[00:09:02] [Server thread/WARN]: A11y_UwU moved too quickly! 18.21745598561938,-1.5600000619888306,8.025722311786694
+[00:09:02] [Server thread/WARN]: A11y_UwU moved too quickly! 18.21745598561938,-1.5600000619888306,8.025722311786694
+[00:09:12] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[00:25:44] [User Authenticator #7/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[00:25:44] [Server thread/INFO]: togga99[/89.160.212.94:56063] logged in with entity id 54261 at (-421.44163010151107, 75.0, 321.1934547757307)
+[00:25:44] [Server thread/INFO]: togga99 joined the game
+[00:25:50] [Server thread/INFO]: <A11y_UwU> hæ
+[00:25:53] [Server thread/INFO]: <togga99> hi
+[00:29:31] [Server thread/INFO]: <togga99> slpep
+[00:29:39] [Server thread/INFO]: <A11y_UwU> er ekki heima
+[00:30:06] [Server thread/INFO]: <togga99> ok skal bara bua i jörð
+[00:30:21] [Server thread/INFO]: <A11y_UwU> lul það er pínu sad
+[00:30:23] [Server thread/INFO]: <A11y_UwU> sory
+[00:31:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=8, z=557} class_2338{x=51, y=8, z=557}
+[00:31:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=51, y=13, z=542} class_2338{x=52, y=12, z=538}
+[00:31:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=51, y=13, z=542} class_2338{x=52, y=11, z=538}
+[00:31:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=51, y=13, z=542} class_2338{x=52, y=11, z=538}
+[00:32:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=11, z=509} class_2338{x=52, y=11, z=505}
+[00:33:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=10, z=485} class_2338{x=49, y=12, z=488}
+[00:33:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=10, z=485} class_2338{x=49, y=12, z=488}
+[00:33:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=10, z=485} class_2338{x=49, y=12, z=488}
+[00:33:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=50, y=10, z=485} class_2338{x=49, y=12, z=488}
+[00:37:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=41, y=11, z=564} class_2338{x=41, y=12, z=562}
+[00:37:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=41, y=11, z=564} class_2338{x=41, y=12, z=562}
+[00:37:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=41, y=11, z=564} class_2338{x=41, y=12, z=562}
+[00:37:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=11, z=556} class_2338{x=38, y=10, z=556}
+[00:37:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=11, z=556} class_2338{x=38, y=10, z=556}
+[00:37:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=37, y=13, z=516} class_2338{x=37, y=12, z=517}
+[00:38:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=12, z=509} class_2338{x=38, y=11, z=508}
+[00:38:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=12, z=509} class_2338{x=38, y=11, z=508}
+[00:38:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=38, y=12, z=509} class_2338{x=38, y=11, z=508}
+[00:41:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=29, y=11, z=520} class_2338{x=29, y=11, z=519}
+[00:41:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=29, y=11, z=520} class_2338{x=29, y=11, z=519}
+[00:41:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=29, y=11, z=520} class_2338{x=29, y=11, z=519}
+[00:41:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=29, y=11, z=534} class_2338{x=29, y=12, z=533}
+[00:41:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=29, y=11, z=534} class_2338{x=29, y=12, z=533}
+[00:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=14, z=503} class_2338{x=16, y=12, z=502}
+[00:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=14, z=503} class_2338{x=16, y=12, z=502}
+[00:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=14, z=503} class_2338{x=16, y=12, z=502}
+[00:45:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=12, z=556} class_2338{x=14, y=11, z=555}
+[00:45:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=12, z=556} class_2338{x=14, y=11, z=555}
+[00:45:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=13, z=555} class_2338{x=14, y=13, z=552}
+[00:47:41] [Server thread/INFO]: togga99 was blown up by Creeper
+[00:47:56] [Server thread/INFO]: <A11y_UwU> æ æ
+[00:49:37] [Server thread/INFO]: <togga99> a
+[00:52:15] [Server thread/INFO]: <togga99> potato
+[00:52:20] [Server thread/INFO]: <A11y_UwU> potato
+[00:52:57] [Server thread/INFO]: <togga99> eg var að fatta eitt ógnvekjandi potato og potato er skrifað alveg eins
+[00:53:20] [Server thread/INFO]: <togga99> tlvan dauð er farin gn
+[00:53:26] [Server thread/INFO]: <A11y_UwU> gn
+[00:54:12] [Server thread/INFO]: <togga99> °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°¨¨¨¨¨¨¨¨¨¨¨¨¨
+[00:54:15] [Server thread/INFO]: togga99 lost connection: Disconnected
+[00:54:15] [Server thread/INFO]: togga99 left the game
+[00:57:43] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[00:57:53] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[01:17:58] [Server thread/WARN]: A11y_UwU moved too quickly! -75.66642583959093,-8.890990259372714,68.80085637032039
+[01:19:12] [Server thread/WARN]: A11y_UwU moved too quickly! -5.41648175128671,-2.170493807755051,-16.61569884585083
+[01:29:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-390, y=71, z=67} class_2338{x=-389, y=71, z=66}
+[01:32:43] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[01:32:43] [Server thread/INFO]: A11y_UwU left the game
+[01:35:49] [User Authenticator #8/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[01:35:49] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50300] logged in with entity id 75864 at (-382.01162125484143, 71.0, 129.81039242257955)
+[01:35:49] [Server thread/INFO]: A11y_UwU joined the game
+[01:35:49] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[01:49:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81100, l='ServerLevel[world]', x=-456.81, y=76.00, z=272.80]
+[01:55:18] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[01:55:18] [Server thread/INFO]: A11y_UwU left the game
+[01:55:31] [Server thread/INFO]: Stopping the server
+[01:55:31] [Server thread/INFO]: Stopping server
+[01:55:31] [Server thread/INFO]: Saving players
+[01:55:31] [Server thread/INFO]: Saving worlds
+[01:55:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:55:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:55:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:55:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:55:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:55:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:55:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2020-12-16 21:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 01:36:10 +0000"
@@ -442,6 +448,7 @@
       "rotten_flesh": "2020-11-23 22:27:14 +0000",
       "cookie": "2020-12-12 23:10:59 +0000",
       "cooked_chicken": "2020-12-13 15:38:50 +0000",
+      "cod": "2020-12-16 23:39:37 +0000",
       "carrot": "2020-11-23 00:53:37 +0000"
     },
     "done": false
@@ -473,6 +480,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-11-23 00:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-12-16 21:59:43 +0000"
     },
     "done": true
   },
@@ -1099,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2020-12-16 21:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-11-24 00:32:53 +0000"
@@ -1222,6 +1241,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-11-11 22:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-12-16 21:59:43 +0000"
     },
     "done": true
   },
@@ -2020,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-12-16 21:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2020-11-11 22:03:35 +0000"
@@ -2119,6 +2150,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-11-23 00:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-12-16 21:59:43 +0000"
     },
     "done": true
   },

@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2020-12-17 21:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-12-17 21:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-11-16 00:52:44 +0000"
@@ -21,6 +33,13 @@
     "criteria": {
       "minecraft:nether_wastes": "2020-11-16 00:52:45 +0000",
       "minecraft:soul_sand_valley": "2020-11-27 13:27:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-12-17 19:40:23 +0000",
+      "minecraft:dark_forest": "2020-12-17 20:02:13 +0000"
     },
     "done": false
   },

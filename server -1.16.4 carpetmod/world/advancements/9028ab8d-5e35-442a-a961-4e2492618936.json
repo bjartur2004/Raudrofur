@@ -635,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-11-04 17:51:06 +0000"
@@ -1685,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2020-12-19 01:40:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-04 17:51:12 +0000"
@@ -1706,6 +1718,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2020-11-04 17:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
     },
     "done": true
   },
@@ -1816,6 +1834,7 @@
       "minecraft:stone_shore": "2020-11-12 21:06:01 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-12-05 23:46:54 +0000",
       "minecraft:wooded_badlands_plateau": "2020-11-12 21:21:28 +0000",
+      "minecraft:mushroom_field_shore": "2020-12-19 01:54:10 +0000",
       "minecraft:swamp": "2020-11-04 22:40:51 +0000",
       "minecraft:savanna": "2020-11-13 13:00:06 +0000",
       "minecraft:plains": "2020-11-03 21:00:53 +0000"
@@ -2640,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-12-19 01:40:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-11-04 17:32:22 +0000"
@@ -2969,6 +2994,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-11-04 17:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
     },
     "done": true
   },
@@ -3440,6 +3471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-11-07 17:00:20 +0000"
@@ -3500,6 +3537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-11-04 17:28:08 +0000"
@@ -3509,6 +3552,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-04 18:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
     },
     "done": true
   },
@@ -3695,6 +3744,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-11-13 13:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2020-12-19 01:57:56 +0000"
     },
     "done": true
   },
@@ -4190,6 +4245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-11-04 20:55:24 +0000"
@@ -4313,6 +4374,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2020-11-04 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2020-12-19 01:57:56 +0000"
     },
     "done": true
   },

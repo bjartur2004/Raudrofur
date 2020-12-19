@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-12-18 16:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-11-15 01:15:53 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-11-15 01:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-12-19 19:31:30 +0000"
     },
     "done": true
   },
@@ -856,6 +868,7 @@
       "minecraft:guardian": "2020-12-18 00:41:31 +0000",
       "minecraft:magma_cube": "2020-11-15 02:38:45 +0000",
       "minecraft:spider": "2020-11-14 22:26:16 +0000",
+      "minecraft:piglin_brute": "2020-12-18 16:53:04 +0000",
       "minecraft:creeper": "2020-11-14 22:25:54 +0000",
       "minecraft:slime": "2020-11-18 14:19:05 +0000",
       "minecraft:zombified_piglin": "2020-11-21 14:38:04 +0000",
@@ -865,6 +878,7 @@
       "minecraft:shulker": "2020-11-25 15:44:35 +0000",
       "minecraft:piglin": "2020-11-17 18:36:17 +0000",
       "minecraft:enderman": "2020-11-15 01:00:30 +0000",
+      "minecraft:endermite": "2020-12-18 16:16:02 +0000",
       "minecraft:zombie": "2020-11-14 21:39:12 +0000",
       "minecraft:drowned": "2020-11-15 01:58:20 +0000",
       "minecraft:zombie_villager": "2020-11-23 12:26:23 +0000"
@@ -1677,6 +1691,7 @@
       "minecraft:lukewarm_ocean": "2020-11-14 22:48:36 +0000",
       "minecraft:birch_forest_hills": "2020-11-14 21:48:48 +0000",
       "minecraft:wooded_mountains": "2020-11-15 01:30:13 +0000",
+      "minecraft:bamboo_jungle_hills": "2020-12-18 18:15:36 +0000",
       "minecraft:wooded_hills": "2020-11-15 01:16:58 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-11-15 01:04:05 +0000",
       "minecraft:stone_shore": "2020-12-17 17:37:19 +0000",
@@ -1848,6 +1863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-12-18 16:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-11-15 00:02:52 +0000"
@@ -1937,9 +1958,10 @@
       "minecraft:crimson_forest": "2020-11-16 12:47:30 +0000",
       "minecraft:nether_wastes": "2020-11-14 21:34:37 +0000",
       "minecraft:soul_sand_valley": "2020-11-14 21:34:57 +0000",
-      "minecraft:basalt_deltas": "2020-11-14 22:09:27 +0000"
+      "minecraft:basalt_deltas": "2020-11-14 22:09:27 +0000",
+      "minecraft:warped_forest": "2020-12-19 19:58:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -3100,6 +3122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-12-19 16:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-11-14 21:34:03 +0000"
@@ -3742,6 +3770,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-12-19 16:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2020-12-18 16:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-11-15 01:22:36 +0000"
@@ -3829,6 +3869,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2020-11-25 15:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-12-19 19:31:30 +0000"
     },
     "done": true
   },

@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-12-20 01:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2020-11-28 01:35:59 +0000"
@@ -2131,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2020-12-19 23:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-11-04 16:25:12 +0000"
@@ -2242,6 +2254,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2020-11-11 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2020-12-20 02:03:24 +0000"
     },
     "done": true
   },
@@ -3397,6 +3415,7 @@
       "minecraft:cold_ocean": "2020-11-03 22:24:59 +0000",
       "minecraft:forest": "2020-11-03 21:22:58 +0000",
       "minecraft:mountains": "2020-11-04 16:34:48 +0000",
+      "minecraft:mushroom_fields": "2020-12-19 23:20:40 +0000",
       "minecraft:taiga": "2020-11-04 17:27:46 +0000",
       "minecraft:desert_hills": "2020-11-03 22:18:59 +0000",
       "minecraft:giant_tree_taiga": "2020-11-05 16:10:02 +0000",
@@ -3412,6 +3431,7 @@
       "minecraft:warm_ocean": "2020-11-14 21:29:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-11-11 16:38:09 +0000",
       "minecraft:badlands": "2020-11-16 21:29:58 +0000",
+      "minecraft:savanna_plateau": "2020-12-19 23:12:45 +0000",
       "minecraft:beach": "2020-11-03 22:24:54 +0000",
       "minecraft:dark_forest": "2020-11-03 22:24:00 +0000",
       "minecraft:river": "2020-11-03 21:24:05 +0000",
@@ -3421,6 +3441,7 @@
       "minecraft:wooded_hills": "2020-11-03 22:22:02 +0000",
       "minecraft:giant_tree_taiga_hills": "2020-11-05 16:10:13 +0000",
       "minecraft:stone_shore": "2020-11-07 19:22:11 +0000",
+      "minecraft:mushroom_field_shore": "2020-12-19 23:20:35 +0000",
       "minecraft:swamp": "2020-11-03 22:18:40 +0000",
       "minecraft:savanna": "2020-11-04 16:34:43 +0000",
       "minecraft:plains": "2020-11-03 21:01:37 +0000"

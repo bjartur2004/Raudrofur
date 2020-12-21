@@ -1,0 +1,209 @@
+[18:27:32] [main/INFO]: Loading for game Minecraft 1.16.4
+[18:27:32] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[18:27:32] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[18:27:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[18:27:41] [main/INFO]: [VanillaEnhanced] Hello there.
+[18:27:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:27:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:27:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:27:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:27:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:27:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:27:44] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip
+[18:27:46] [Worker-Main-4/INFO]: Loaded 7 recipes
+[18:27:46] [Worker-Main-4/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[18:27:46] [Worker-Main-4/INFO]: Loaded 927 advancements
+[18:27:47] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 2.338 ms
+[18:27:47] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[18:27:47] [Server thread/INFO]: Loading properties
+[18:27:47] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:47] [Server thread/INFO]: Generating keypair
+[18:27:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:27:47] [Server thread/INFO]: Using default channel type
+[18:27:48] [Server thread/INFO]: Preparing level "world"
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[18:27:48] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[18:27:49] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[18:27:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:52] [Server thread/INFO]: Time elapsed: 2809 ms
+[18:27:52] [Server thread/INFO]: Done (3.278s)! For help, type "help"
+[20:45:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:45:25] [Server thread/INFO]: n<--[HERE]
+[20:49:50] [User Authenticator #1/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[20:49:50] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:64462] logged in with entity id 74 at (-372.0407887911763, 9.0, 708.8483970864686)
+[20:49:50] [Server thread/INFO]: SKAF_PathFinder joined the game
+[20:53:04] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:53:04] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62637] logged in with entity id 891 at (-430.66461901651644, 76.0, 318.3709478615538)
+[20:53:04] [Server thread/INFO]: A11y_UwU joined the game
+[20:53:08] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20:53:20] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 15.084879191049197,1.4118213691116281,-10.1052514847147
+[20:53:21] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 13.747080139560694,-1.569693467332911,-11.38144246110744
+[20:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10478ms or 209 ticks behind
+[20:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:55:00] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:55:00] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[21:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[21:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[21:08:17] [Server thread/WARN]: A11y_UwU moved too quickly! 16.263192567847398,-0.26718340497693305,6.217953333752007
+[21:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[21:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[21:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6670ms or 133 ticks behind
+[21:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
+[21:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[21:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3352ms or 67 ticks behind
+[21:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5614ms or 112 ticks behind
+[21:18:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8396ms or 167 ticks behind
+[21:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8174ms or 163 ticks behind
+[21:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[21:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[21:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[21:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[21:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4093ms or 81 ticks behind
+[21:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6229ms or 124 ticks behind
+[21:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[21:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[21:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[21:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[21:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[21:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21:29:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-124, y=15, z=-117} class_2338{x=-124, y=14, z=-115}
+[21:29:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-125, y=14, z=-123} class_2338{x=-126, y=14, z=-123}
+[21:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:30:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[21:31:22] [Server thread/INFO]: <SKAF_PathFinder> LOL
+[21:31:28] [Server thread/INFO]: <SKAF_PathFinder> I am netherite mining
+[21:31:45] [Server thread/INFO]: <SKAF_PathFinder> And i forgot to put a block in between me and the bed
+[21:31:56] [Server thread/INFO]: <A11y_UwU> oh oof
+[21:32:01] [Server thread/INFO]: <SKAF_PathFinder> And I lost half my health
+[21:32:21] [Server thread/INFO]: <A11y_UwU> im prepering to go netherite mining too lul
+[21:32:31] [Server thread/INFO]: <A11y_UwU> need my pants back
+[21:32:45] [Server thread/INFO]: <SKAF_PathFinder> I have your pants?
+[21:32:55] [Server thread/INFO]: <A11y_UwU> no, i lost them
+[21:33:06] [Server thread/INFO]: <SKAF_PathFinder> OH FROM THE ZOMBIE
+[21:33:11] [Server thread/INFO]: <A11y_UwU> yee
+[21:35:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-162, y=12, z=-192} class_2338{x=-157, y=11, z=-191}
+[21:41:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-581, y=60, z=133} class_2338{x=-579, y=60, z=133}
+[21:44:25] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[21:44:25] [Server thread/INFO]: SKAF_PathFinder left the game
+[21:49:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-434, y=63, z=-69} class_2338{x=-434, y=62, z=-70}
+[21:50:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-71} class_2338{x=-431, y=61, z=-71}
+[21:50:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-71} class_2338{x=-431, y=61, z=-71}
+[21:50:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:50:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=62, z=-69} class_2338{x=-429, y=61, z=-69}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=59, z=-54} class_2338{x=-432, y=60, z=-55}
+[21:51:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-430, y=61, z=-53} class_2338{x=-429, y=59, z=-54}
+[21:51:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-418, y=62, z=-57} class_2338{x=-417, y=61, z=-57}
+[21:52:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-396, y=62, z=-154} class_2338{x=-395, y=61, z=-153}
+[21:52:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-397, y=62, z=-153} class_2338{x=-396, y=62, z=-152}
+[21:52:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-397, y=62, z=-153} class_2338{x=-396, y=62, z=-152}
+[21:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-402, y=63, z=-152} class_2338{x=-402, y=63, z=-153}
+[21:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-402, y=63, z=-152} class_2338{x=-402, y=63, z=-153}
+[21:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-402, y=63, z=-152} class_2338{x=-402, y=63, z=-153}
+[21:53:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-398, y=61, z=-159} class_2338{x=-396, y=62, z=-159}
+[21:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-404, y=63, z=-159} class_2338{x=-402, y=63, z=-159}
+[21:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-404, y=63, z=-159} class_2338{x=-402, y=63, z=-159}
+[21:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-404, y=63, z=-159} class_2338{x=-402, y=63, z=-159}
+[21:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-404, y=63, z=-159} class_2338{x=-402, y=63, z=-159}
+[22:02:31] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:02:31] [Server thread/INFO]: A11y_UwU left the game
+[22:03:07] [User Authenticator #3/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:03:08] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50478] logged in with entity id 28043 at (-429.9971432069492, 76.0, 312.5095298393949)
+[22:03:08] [Server thread/INFO]: A11y_UwU joined the game
+[22:03:08] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:03:43] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:03:43] [Server thread/INFO]: A11y_UwU left the game
+[22:04:47] [User Authenticator #4/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:04:47] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50600] logged in with entity id 28592 at (-429.60948738735755, 76.0, 312.96984241145975)
+[22:04:47] [Server thread/INFO]: A11y_UwU joined the game
+[22:04:47] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:40:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/62327, l='ServerLevel[world]', x=-291.55, y=253.00, z=109.29]
+[23:09:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-51, y=46, z=-14} class_2338{x=-51, y=45, z=-14}
+[23:09:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-51, y=45, z=-15} class_2338{x=-51, y=45, z=-14}
+[23:11:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=8, z=8} class_2338{x=-80, y=8, z=7}
+[23:11:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=8, z=8} class_2338{x=-80, y=8, z=7}
+[23:14:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=12, z=51} class_2338{x=-7, y=11, z=49}
+[23:14:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=12, z=51} class_2338{x=-7, y=11, z=49}
+[23:15:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=10, z=37} class_2338{x=-11, y=9, z=36}
+[23:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=9, z=8} class_2338{x=2, y=10, z=8}
+[23:16:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=9, z=8} class_2338{x=2, y=10, z=8}
+[23:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=11, z=1} class_2338{x=19, y=10, z=0}
+[23:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=69, y=10, z=19} class_2338{x=67, y=10, z=19}
+[23:23:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=69, y=10, z=19} class_2338{x=67, y=10, z=19}
+[23:24:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=10, z=30} class_2338{x=63, y=9, z=30}
+[23:25:41] [User Authenticator #5/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[23:25:42] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:49654] logged in with entity id 79814 at (-371.8344144101835, 9.0, 700.1249541058784)
+[23:25:42] [Server thread/INFO]: SKAF_PathFinder joined the game
+[23:25:52] [Server thread/INFO]: <A11y_UwU> hellu
+[23:30:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=9, z=95} class_2338{x=117, y=14, z=95}
+[23:30:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=9, z=95} class_2338{x=117, y=14, z=95}
+[23:30:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=9, z=95} class_2338{x=117, y=14, z=95}
+[23:30:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=9, z=95} class_2338{x=117, y=14, z=95}
+[23:30:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=128, y=9, z=95} class_2338{x=117, y=14, z=95}
+[23:39:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[23:39:57] [Server thread/INFO]: <SKAF_PathFinder> My friend
+[23:41:43] [Server thread/INFO]: <A11y_UwU> ya
+[23:41:51] [Server thread/INFO]: <SKAF_PathFinder> A gift
+[23:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[23:43:06] [Server thread/INFO]: <A11y_UwU> thank
+[23:43:49] [Server thread/INFO]: <A11y_UwU> var að lesa discord uwu
+[23:43:53] [Server thread/INFO]: <SKAF_PathFinder> uwu
+[23:47:16] [Server thread/INFO]: Steve[local] logged in with entity id 92519 at (-291.2476645448107, 222.0, 111.48047230192336)
+[23:47:16] [Server thread/INFO]: Steve joined the game
+[23:47:23] [Server thread/INFO]: <A11y_UwU> its for gold
+[23:47:32] [Server thread/INFO]: <SKAF_PathFinder> OK
+[23:50:04] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 17.437186048753574,-1.1811786547471002,-0.711127752635548
+[23:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[23:52:45] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[23:52:45] [Server thread/INFO]: SKAF_PathFinder left the game

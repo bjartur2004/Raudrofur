@@ -1,107 +1,74 @@
-[00:03:50] [Server thread/INFO]: togga99 lost connection: Disconnected
-[00:03:50] [Server thread/INFO]: togga99 left the game
-[00:03:50] [User Authenticator #5/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
-[00:03:50] [Server thread/INFO]: Ravle1[/89.160.178.238:50380] logged in with entity id 46680 at (-102.3595964494154, 84.0, -1623.444816464793)
-[00:03:50] [Server thread/INFO]: Ravle1 joined the game
-[00:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
-[00:15:39] [Server thread/WARN]: Ravle1 moved wrongly!
-[00:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[00:18:16] [Server thread/WARN]: A11y_UwU moved too quickly! 2071.252897587171,14.392604549951344,373.897007961037
-[00:18:16] [Server thread/WARN]: A11y_UwU moved too quickly! 2071.252897587171,14.392604549951344,373.897007961037
-[00:18:16] [Server thread/WARN]: A11y_UwU moved too quickly! 2071.252897587171,14.392604549951344,373.897007961037
-[00:18:16] [Server thread/WARN]: A11y_UwU moved too quickly! 2071.252897587171,14.392604549951344,373.897007961037
-[00:18:16] [Server thread/WARN]: A11y_UwU moved too quickly! 2071.252897587171,14.392604549951344,373.897007961037
-[00:18:16] [Server thread/WARN]: A11y_UwU moved too quickly! 2071.252897587171,14.392604549951344,373.897007961037
-[00:18:16] [Server thread/WARN]: Entity class_3222['A11y_UwU'/17409, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[00:18:17] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[00:18:17] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[00:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[00:22:15] [Server thread/INFO]: Ravle1 lost connection: Disconnected
-[00:22:15] [Server thread/INFO]: Ravle1 left the game
-[00:24:29] [Server thread/INFO]: <A11y_UwU> do you know who has the dragon egg?
-[00:25:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/58693, l='ServerLevel[world]', x=-234.28, y=83.00, z=604.44]
-[00:25:35] [Server thread/WARN]: A11y_UwU moved too quickly! -1.9991456429912375,-1.9527146739824701,17.232287221257025
-[00:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[00:29:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-414, y=66, z=302} class_2338{x=-419, y=67, z=303}
-[00:30:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/60423, l='ServerLevel[world]', x=-462.02, y=76.00, z=287.52]
-[00:31:41] [Server thread/WARN]: A11y_UwU moved too quickly! -15.62049894836116,-0.8960165897245673,10.51746593164603
-[00:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
-[00:33:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-671, y=71, z=689} class_2338{x=-672, y=72, z=689}
-[00:38:26] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:38:26] [Server thread/INFO]: A11y_UwU left the game
-[00:39:20] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[00:39:20] [Server thread/INFO]: A11y_UwU[/127.0.0.1:57423] logged in with entity id 64437 at (-683.2930090630776, 81.0, 644.5809287296937)
-[00:39:20] [Server thread/INFO]: A11y_UwU joined the game
-[00:39:21] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
-[00:40:39] [Server thread/WARN]: A11y_UwU moved too quickly! -16.012446843103334,1.807540485722697,-8.401324565740993
-[00:42:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/65942, l='ServerLevel[world]', x=-235.80, y=83.00, z=603.56]
-[00:50:38] [Server thread/WARN]: A11y_UwU moved too quickly! -18.288131135457206,0.10086741929791287,-0.04878198662558475
-[00:51:53] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:51:53] [Server thread/INFO]: A11y_UwU left the game
-[01:01:51] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[01:01:52] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:61298] logged in with entity id 73090 at (-291.3806453171361, 222.0, 111.69999998807907)
-[01:01:52] [Server thread/INFO]: SKAF_PathFinder joined the game
-[01:04:07] [User Authenticator #8/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[01:04:07] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59174] logged in with entity id 75098 at (-458.07104808850727, 74.0, 332.504755086142)
-[01:04:07] [Server thread/INFO]: A11y_UwU joined the game
-[01:04:08] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
-[01:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
-[01:07:48] [Server thread/INFO]: A11y_UwU has reached the goal [The Next Generation]
-[01:10:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81262, l='ServerLevel[world]', x=1067.95, y=64.00, z=2196.59]
-[01:10:42] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -0.9863449832797642,0.0,-10.167509388343547
-[01:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[01:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11144ms or 222 ticks behind
-[01:12:30] [Server thread/WARN]: A11y_UwU moved too quickly! -4.614412210144337,-1.9694864722960403,16.92910223020226
-[01:16:07] [Server thread/INFO]: <A11y_UwU> -508 34 5487
-[01:32:06] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 17.095370118989308,0.1317986181839359,-6.450293634815893
-[01:40:54] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 15.53450979860088,-1.5605665973531018,-8.724538343256086
-[01:48:28] [Server thread/INFO]: Steve[local] logged in with entity id 110573 at (-504.45948035057313, 37.0, 5410.439757610539)
-[01:48:28] [Server thread/INFO]: Steve joined the game
-[01:48:29] [Server thread/INFO]: Steve has made the advancement [Eye Spy]
-[01:48:41] [Server thread/INFO]: Steve has made the advancement [The End?]
-[01:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7059ms or 141 ticks behind
-[01:49:12] [Server thread/INFO]: Alex[local] logged in with entity id 110825 at (-500.47685820397317, 33.0, 5406.490141560082)
-[01:49:12] [Server thread/INFO]: Alex joined the game
-[01:49:13] [Server thread/INFO]: Alex has made the advancement [Eye Spy]
-[01:49:21] [Server thread/WARN]: A11y_UwU moved too quickly! 605.3638564717587,15.580000013113022,-5409.256586500951
-[01:49:21] [Server thread/WARN]: A11y_UwU moved too quickly! 605.3638564717587,15.580000013113022,-5409.256586500951
-[01:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5282ms or 105 ticks behind
-[01:49:25] [Server thread/INFO]: Steve was slain by A11y_UwU
-[01:49:25] [Server thread/INFO]: Steve lost connection: Killed
-[01:49:25] [Server thread/INFO]: Steve left the game
-[01:51:25] [Server thread/INFO]: Alex was slain by A11y_UwU
-[01:51:25] [Server thread/INFO]: Alex lost connection: Killed
-[01:51:25] [Server thread/INFO]: Alex left the game
-[01:52:19] [Server thread/WARN]: A11y_UwU moved too quickly! 605.293198001374,15.580000013113022,-5408.911396665486
-[01:52:19] [Server thread/WARN]: A11y_UwU moved too quickly! 605.293198001374,15.580000013113022,-5408.911396665486
-[01:52:19] [Server thread/WARN]: A11y_UwU moved too quickly! 605.293198001374,15.580000013113022,-5408.911396665486
-[01:52:19] [Server thread/WARN]: Entity class_3222['A11y_UwU'/75098, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[01:56:08] [Server thread/WARN]: A11y_UwU moved too quickly! 0.0,-10.20745695971,0.0
-[01:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01:57:29] [Server thread/WARN]: A11y_UwU moved wrongly!
-[01:59:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/117245, l='ServerLevel[world]', x=-461.40, y=76.00, z=287.30]
-[02:03:24] [Server thread/INFO]: SKAF_PathFinder has reached the goal [The End... Again...]
-[02:03:24] [Server thread/INFO]: A11y_UwU has reached the goal [The End... Again...]
-[02:09:13] [Server thread/INFO]: A11y_UwU was slain by Ender Dragon
-[02:10:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121274, l='ServerLevel[world]', x=-233.83, y=83.00, z=605.17]
-[02:12:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121674, l='ServerLevel[world]', x=-235.80, y=83.00, z=603.68]
-[02:12:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121674, l='ServerLevel[world]', x=-235.80, y=83.00, z=603.68]
-[02:13:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121721, l='ServerLevel[world]', x=-235.80, y=83.00, z=605.45]
-[02:13:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121721, l='ServerLevel[world]', x=-235.80, y=83.00, z=605.45]
-[02:15:08] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[02:15:08] [Server thread/INFO]: SKAF_PathFinder left the game
-[02:15:29] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[02:15:29] [Server thread/INFO]: A11y_UwU left the game
-[02:15:35] [Server thread/INFO]: Stopping the server
-[02:15:35] [Server thread/INFO]: Stopping server
-[02:15:35] [Server thread/INFO]: Saving players
-[02:15:35] [Server thread/INFO]: Saving worlds
-[02:15:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:15:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:15:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:15:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:37:15] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:37:15] [Server thread/INFO]: A11y_UwU left the game
+[00:51:06] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:51:06] [Server thread/INFO]: A11y_UwU[/127.0.0.1:60726] logged in with entity id 163904 at (-3362.6379926890286, 63.0, 533.6162976607689)
+[00:51:06] [Server thread/INFO]: A11y_UwU joined the game
+[00:51:07] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=61, z=537} class_2338{x=-3360, y=60, z=537}
+[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=61, z=537} class_2338{x=-3360, y=60, z=537}
+[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
+[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
+[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
+[00:54:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
+[00:54:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
+[00:54:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=60, z=541} class_2338{x=-3360, y=61, z=537}
+[01:19:39] [Server thread/INFO]: [A11y_UwU: Initial point set to: [ -3362.0, 63.0, 533.0]]
+[01:25:05] [Server thread/WARN]: A11y_UwU moved too quickly! -10.505481924167839,10.07197883312125,-11.075513602441816
+[02:12:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Rotten Flesh'/233052, l='ServerLevel[world]', x=-291.95, y=222.00, z=109.70]
+[02:47:38] [Server thread/INFO]: Steve was slain by A11y_UwU
+[02:47:38] [Server thread/INFO]: Steve lost connection: Killed
+[02:47:38] [Server thread/INFO]: Steve left the game
+[03:00:07] [Server thread/INFO]: [A11y_UwU: A11y_UwU subscribed to mobcaps.]
+[14:21:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/925922, l='ServerLevel[world]', x=-291.38, y=252.92, z=109.70]
+[15:28:32] [Server thread/INFO]: Steve[local] logged in with entity id 986786 at (-291.3364897510917, 222.0, 111.45637124378017)
+[15:28:32] [Server thread/INFO]: Steve joined the game
+[15:41:11] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[15:41:11] [Server thread/INFO]: A11y_UwU left the game
+[17:28:45] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[17:28:45] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:50250] logged in with entity id 1107704 at (4103.472562327646, 62.0, 3050.382548691641)
+[17:28:45] [Server thread/INFO]: SKAF_PathFinder joined the game
+[17:31:01] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 3.0176203424280175,-20.0,3.038088292260909
+[17:51:37] [Server thread/WARN]: Trying to add entity with duplicated UUID c119e180-bffe-49e9-865c-27568568d7d0. Existing minecraft:armor_stand#1134199, new: minecraft:armor_stand#1134199
+[18:07:29] [Server thread/WARN]: SKAF_PathFinder moved wrongly!
+[18:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-746, y=63, z=926} class_2338{x=-747, y=64, z=928}
+[18:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-746, y=63, z=926} class_2338{x=-747, y=64, z=928}
+[18:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-746, y=63, z=926} class_2338{x=-747, y=64, z=928}
+[18:27:09] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[18:27:09] [Server thread/INFO]: SKAF_PathFinder left the game
+[20:39:55] [User Authenticator #8/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:39:55] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49925] logged in with entity id 1309163 at (-420.1861910208696, 76.0, 317.03158619279066)
+[20:39:55] [Server thread/INFO]: A11y_UwU joined the game
+[20:39:55] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:40:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-449, y=112, z=228} class_2338{x=-450, y=114, z=228}
+[20:44:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=63, z=170} class_2338{x=-479, y=64, z=174}
+[20:44:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=63, z=170} class_2338{x=-479, y=64, z=174}
+[20:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
+[20:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
+[20:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
+[20:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
+[20:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
+[20:52:07] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:52:07] [Server thread/INFO]: A11y_UwU left the game
+[21:20:29] [User Authenticator #9/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:20:29] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52540] logged in with entity id 1351561 at (-435.00797137427554, 76.0, 302.6855396490659)
+[21:20:29] [Server thread/INFO]: A11y_UwU joined the game
+[21:20:29] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:22:52] [Server thread/WARN]: A11y_UwU moved wrongly!
+[22:09:39] [Server thread/WARN]: A11y_UwU moved too quickly! -22.755219237057247,-0.775616685735713,-48.03932501330212
+[22:10:00] [Server thread/WARN]: A11y_UwU moved too quickly! -58.24530890924217,-0.2420136737086125,30.290374387947352
+[22:22:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Nugget'/1411158, l='ServerLevel[world]', x=-290.88, y=222.00, z=109.36]
+[22:26:40] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:26:40] [Server thread/INFO]: A11y_UwU left the game
+[22:39:21] [Server thread/INFO]: Stopping the server
+[22:39:21] [Server thread/INFO]: Stopping server
+[22:39:21] [Server thread/INFO]: Saving players
+[22:39:21] [Server thread/INFO]: Saving worlds
+[22:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:39:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:39:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:39:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

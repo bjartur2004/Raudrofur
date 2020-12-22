@@ -1,74 +1,71 @@
-[00:37:15] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:37:15] [Server thread/INFO]: A11y_UwU left the game
-[00:51:06] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[00:51:06] [Server thread/INFO]: A11y_UwU[/127.0.0.1:60726] logged in with entity id 163904 at (-3362.6379926890286, 63.0, 533.6162976607689)
-[00:51:06] [Server thread/INFO]: A11y_UwU joined the game
-[00:51:07] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
-[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=61, z=537} class_2338{x=-3360, y=60, z=537}
-[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=61, z=537} class_2338{x=-3360, y=60, z=537}
-[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
-[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
-[00:54:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
-[00:54:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
-[00:54:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=58, z=538} class_2338{x=-3360, y=61, z=537}
-[00:54:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3360, y=60, z=541} class_2338{x=-3360, y=61, z=537}
-[01:19:39] [Server thread/INFO]: [A11y_UwU: Initial point set to: [ -3362.0, 63.0, 533.0]]
-[01:25:05] [Server thread/WARN]: A11y_UwU moved too quickly! -10.505481924167839,10.07197883312125,-11.075513602441816
-[02:12:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Rotten Flesh'/233052, l='ServerLevel[world]', x=-291.95, y=222.00, z=109.70]
-[02:47:38] [Server thread/INFO]: Steve was slain by A11y_UwU
-[02:47:38] [Server thread/INFO]: Steve lost connection: Killed
-[02:47:38] [Server thread/INFO]: Steve left the game
-[03:00:07] [Server thread/INFO]: [A11y_UwU: A11y_UwU subscribed to mobcaps.]
-[14:21:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/925922, l='ServerLevel[world]', x=-291.38, y=252.92, z=109.70]
-[15:28:32] [Server thread/INFO]: Steve[local] logged in with entity id 986786 at (-291.3364897510917, 222.0, 111.45637124378017)
-[15:28:32] [Server thread/INFO]: Steve joined the game
-[15:41:11] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[15:41:11] [Server thread/INFO]: A11y_UwU left the game
-[17:28:45] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[17:28:45] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:50250] logged in with entity id 1107704 at (4103.472562327646, 62.0, 3050.382548691641)
-[17:28:45] [Server thread/INFO]: SKAF_PathFinder joined the game
-[17:31:01] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 3.0176203424280175,-20.0,3.038088292260909
-[17:51:37] [Server thread/WARN]: Trying to add entity with duplicated UUID c119e180-bffe-49e9-865c-27568568d7d0. Existing minecraft:armor_stand#1134199, new: minecraft:armor_stand#1134199
-[18:07:29] [Server thread/WARN]: SKAF_PathFinder moved wrongly!
-[18:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-746, y=63, z=926} class_2338{x=-747, y=64, z=928}
-[18:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-746, y=63, z=926} class_2338{x=-747, y=64, z=928}
-[18:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-746, y=63, z=926} class_2338{x=-747, y=64, z=928}
-[18:27:09] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[18:27:09] [Server thread/INFO]: SKAF_PathFinder left the game
-[20:39:55] [User Authenticator #8/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[20:39:55] [Server thread/INFO]: A11y_UwU[/127.0.0.1:49925] logged in with entity id 1309163 at (-420.1861910208696, 76.0, 317.03158619279066)
-[20:39:55] [Server thread/INFO]: A11y_UwU joined the game
-[20:39:55] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
-[20:40:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-449, y=112, z=228} class_2338{x=-450, y=114, z=228}
-[20:44:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=63, z=170} class_2338{x=-479, y=64, z=174}
-[20:44:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=63, z=170} class_2338{x=-479, y=64, z=174}
-[20:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
-[20:44:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
-[20:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
-[20:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
-[20:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-475, y=65, z=171} class_2338{x=-475, y=65, z=172}
-[20:52:07] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[20:52:07] [Server thread/INFO]: A11y_UwU left the game
-[21:20:29] [User Authenticator #9/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[21:20:29] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52540] logged in with entity id 1351561 at (-435.00797137427554, 76.0, 302.6855396490659)
-[21:20:29] [Server thread/INFO]: A11y_UwU joined the game
-[21:20:29] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
-[21:22:52] [Server thread/WARN]: A11y_UwU moved wrongly!
-[22:09:39] [Server thread/WARN]: A11y_UwU moved too quickly! -22.755219237057247,-0.775616685735713,-48.03932501330212
-[22:10:00] [Server thread/WARN]: A11y_UwU moved too quickly! -58.24530890924217,-0.2420136737086125,30.290374387947352
-[22:22:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Nugget'/1411158, l='ServerLevel[world]', x=-290.88, y=222.00, z=109.36]
-[22:26:40] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[22:26:40] [Server thread/INFO]: A11y_UwU left the game
-[22:39:21] [Server thread/INFO]: Stopping the server
-[22:39:21] [Server thread/INFO]: Stopping server
-[22:39:21] [Server thread/INFO]: Saving players
-[22:39:21] [Server thread/INFO]: Saving worlds
-[22:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:39:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:39:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:39:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:55:07] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[18:55:07] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[18:55:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[18:55:18] [main/INFO]: [VanillaEnhanced] Hello there.
+[18:55:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:55:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:55:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:55:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:55:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:55:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:55:21] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip
+[18:55:23] [Worker-Main-4/INFO]: Loaded 7 recipes
+[18:55:23] [Worker-Main-4/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[18:55:23] [Worker-Main-4/INFO]: Loaded 927 advancements
+[18:55:24] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.647 ms
+[18:55:24] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[18:55:24] [Server thread/INFO]: Loading properties
+[18:55:24] [Server thread/INFO]: Default game type: SURVIVAL
+[18:55:24] [Server thread/INFO]: Generating keypair
+[18:55:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:55:24] [Server thread/INFO]: Using default channel type
+[18:55:25] [Server thread/INFO]: Preparing level "world"
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[18:55:25] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[18:55:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[18:55:29] [Server thread/INFO]: Time elapsed: 3469 ms
+[18:55:29] [Server thread/INFO]: Done (3.787s)! For help, type "help"
+[19:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4082ms or 81 ticks behind
+[19:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[20:08:21] [Server thread/INFO]: Stopping the server
+[20:08:22] [Server thread/INFO]: Stopping server
+[20:08:22] [Server thread/INFO]: Saving players
+[20:08:22] [Server thread/INFO]: Saving worlds
+[20:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:08:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:08:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:08:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:08:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

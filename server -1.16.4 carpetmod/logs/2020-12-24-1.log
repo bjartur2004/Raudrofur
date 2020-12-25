@@ -1,0 +1,45 @@
+[00:10:55] [User Authenticator #16/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:10:55] [Server thread/INFO]: A11y_UwU[/127.0.0.1:60086] logged in with entity id 180464 at (-402.3364628313221, 39.0, 345.7879008012361)
+[00:10:55] [Server thread/INFO]: A11y_UwU joined the game
+[00:10:55] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:15:59] [Server thread/INFO]: Steve[local] logged in with entity id 185506 at (-291.2548053511956, 222.0, 111.50898517466753)
+[00:15:59] [Server thread/INFO]: Steve joined the game
+[00:32:58] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:32:58] [Server thread/INFO]: A11y_UwU left the game
+[06:05:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/538628, l='ServerLevel[world]', x=-291.01, y=253.00, z=108.97]
+[08:10:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/666145, l='ServerLevel[world]', x=-291.65, y=222.00, z=113.30]
+[15:00:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:00:45] [Server thread/INFO]: y<--[HERE]
+[22:00:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[22:01:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:01:59] [Server thread/INFO]: g<--[HERE]
+[22:30:47] [User Authenticator #17/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:30:47] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62922] logged in with entity id 1540793 at (-304.58735852850793, 128.0, 129.3959483044063)
+[22:30:47] [Server thread/INFO]: A11y_UwU joined the game
+[22:30:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Nugget'/1540791, l='ServerLevel[world]', x=-291.21, y=222.00, z=109.70]
+[22:30:50] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[22:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[22:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:41:02] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:41:02] [Server thread/INFO]: A11y_UwU left the game
+[22:50:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[23:00:17] [User Authenticator #18/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:00:17] [Server thread/INFO]: A11y_UwU[/127.0.0.1:63184] logged in with entity id 1570475 at (-435.8279096967203, 76.0, 320.9462269960079)
+[23:00:17] [Server thread/INFO]: A11y_UwU joined the game
+[23:00:18] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[23:04:26] [Server thread/WARN]: A11y_UwU moved too quickly! -0.3685952160787451,2.0381404582874865,17.85200105469903
+[23:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4203ms or 84 ticks behind
+[23:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[23:28:16] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:28:16] [Server thread/INFO]: A11y_UwU left the game
+[23:46:57] [User Authenticator #19/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:46:57] [Server thread/INFO]: A11y_UwU[/127.0.0.1:63572] logged in with entity id 1624408 at (-235.2118059840819, 68.5, 665.6498379878648)
+[23:46:57] [Server thread/INFO]: A11y_UwU joined the game
+[23:46:58] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[23:59:10] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:59:10] [Server thread/INFO]: A11y_UwU left the game

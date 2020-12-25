@@ -1,0 +1,165 @@
+[03:38:05] [User Authenticator #3/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[03:38:05] [Server thread/INFO]: togga99[/89.160.212.94:55369] logged in with entity id 81125 at (-435.21230764071817, 80.0, 341.63674867071325)
+[03:38:05] [Server thread/INFO]: togga99 joined the game
+[04:07:08] [Server thread/INFO]: togga99 lost connection: Disconnected
+[04:07:08] [Server thread/INFO]: togga99 left the game
+[19:02:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:02:26] [Server thread/INFO]: v<--[HERE]
+[19:24:11] [User Authenticator #4/INFO]: UUID of player Api1000 is ed6de807-630f-41e0-bf2b-57c6f2a58ca7
+[19:24:11] [Server thread/INFO]: Api1000[/157.157.186.201:49386] logged in with entity id 86077 at (-136.66858625873104, 66.0, 678.9035727065163)
+[19:24:11] [Server thread/INFO]: Api1000 joined the game
+[19:26:54] [Server thread/INFO]: Api1000 was blown up by Creeper
+[19:29:56] [Server thread/INFO]: Api1000 lost connection: Disconnected
+[19:29:56] [Server thread/INFO]: Api1000 left the game
+[21:21:24] [User Authenticator #5/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:21:25] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58967] logged in with entity id 87451 at (-426.9370288267948, 75.0, 340.3017966494203)
+[21:21:25] [Server thread/INFO]: A11y_UwU joined the game
+[21:21:26] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[21:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8066ms or 161 ticks behind
+[21:22:17] [Server thread/WARN]: A11y_UwU moved too quickly! -17.679835100035177,-2.486300875825691,4.394601269299642
+[21:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[21:23:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/88490, l='ServerLevel[world]', x=-461.92, y=76.00, z=286.83]
+[21:33:46] [Server thread/WARN]: A11y_UwU moved too quickly! 10.866483072279777,6.926616496542906,12.267562094732455
+[21:57:05] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:57:05] [Server thread/INFO]: A11y_UwU left the game
+[22:01:19] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:01:19] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59215] logged in with entity id 105969 at (-407.66540236270475, 56.0, 346.4735252220565)
+[22:01:19] [Server thread/INFO]: A11y_UwU joined the game
+[22:01:20] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:14:36] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:14:36] [Server thread/INFO]: A11y_UwU left the game
+[22:26:40] [User Authenticator #7/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[22:26:40] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:55520] logged in with entity id 109630 at (-370.7764342004945, 9.0, 699.841570634724)
+[22:26:40] [Server thread/INFO]: SKAF_PathFinder joined the game
+[22:27:39] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[22:27:39] [Server thread/INFO]: SKAF_PathFinder left the game
+[22:27:51] [User Authenticator #8/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
+[22:27:51] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:55545] logged in with entity id 110095 at (-373.0674924863514, 9.0, 700.2775438595298)
+[22:27:51] [Server thread/INFO]: SKAF_PathFinder joined the game
+[22:28:09] [User Authenticator #9/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[22:28:10] [Server thread/INFO]: endertad[/89.160.244.218:54112] logged in with entity id 110464 at (-1759.300000011921, 66.0, -451.2161310179006)
+[22:28:10] [Server thread/INFO]: endertad joined the game
+[22:30:23] [User Authenticator #10/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:30:23] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59365] logged in with entity id 113021 at (-405.0600862118419, 44.0, 342.30000001192093)
+[22:30:23] [Server thread/INFO]: A11y_UwU joined the game
+[22:30:24] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:30:52] [Server thread/INFO]: <A11y_UwU> vá.. bara taddi online
+[22:30:57] [Server thread/INFO]: <SKAF_PathFinder> He is
+[22:31:01] [Server thread/INFO]: <endertad> ja
+[22:31:30] [Server thread/INFO]: endertad lost connection: Disconnected
+[22:31:30] [Server thread/INFO]: endertad left the game
+[22:31:45] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/114718, l='ServerLevel[world]', x=-242.37, y=71.49, z=682.69]
+[22:32:50] [Server thread/INFO]: <SKAF_PathFinder> Hey
+[22:32:53] [Server thread/INFO]: <A11y_UwU> hio
+[22:33:01] [Server thread/INFO]: <SKAF_PathFinder> Wanna see my work on the elytra race?
+[22:33:10] [Server thread/INFO]: <A11y_UwU> yes
+[22:33:15] [Server thread/INFO]: <SKAF_PathFinder> follow me
+[22:33:47] [Server thread/INFO]: <A11y_UwU> um.. ok but were ya at
+[22:33:56] [Server thread/INFO]: <SKAF_PathFinder> castle
+[22:34:00] [Server thread/INFO]: <A11y_UwU> k
+[22:34:18] [User Authenticator #11/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[22:34:18] [Server thread/INFO]: endertad[/89.160.244.218:54504] logged in with entity id 115685 at (-244.4742161397556, 63.0, 653.8282735591844)
+[22:34:18] [Server thread/INFO]: endertad joined the game
+[22:34:27] [Server thread/INFO]: endertad lost connection: Disconnected
+[22:34:27] [Server thread/INFO]: endertad left the game
+[22:34:51] [Server thread/INFO]: <SKAF_PathFinder> still a work in progress
+[22:35:11] [Server thread/INFO]: <A11y_UwU> that.. looks low key not possible
+[22:35:26] [Server thread/INFO]: <SKAF_PathFinder> we will have rockets with also
+[22:35:33] [Server thread/INFO]: <A11y_UwU> ye
+[22:36:02] [User Authenticator #12/INFO]: UUID of player endertad is fdcf66c3-a2b9-42db-81e9-59a74d9badae
+[22:36:02] [Server thread/INFO]: endertad[/89.160.244.218:54706] logged in with entity id 116929 at (-244.30000001192093, 63.0, 654.5634971877744)
+[22:36:02] [Server thread/INFO]: endertad joined the game
+[22:36:05] [Server thread/INFO]: <A11y_UwU> whatcha doing endertad
+[22:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[22:38:49] [Server thread/WARN]: SKAF_PathFinder moved too quickly! -15.797142189533474,-1.1066911678363311,8.314682701116112
+[22:38:49] [Server thread/WARN]: endertad moved too quickly! -16.03663343586129,-6.1053612041754945,5.8424112585715875
+[22:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:39:31] [Server thread/INFO]: endertad fell from a high place
+[22:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
+[22:44:54] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:44:54] [Server thread/INFO]: A11y_UwU left the game
+[22:45:05] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:45:06] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59499] logged in with entity id 122751 at (-381.29862414576075, 47.875, 341.6066149706134)
+[22:45:06] [Server thread/INFO]: A11y_UwU joined the game
+[22:45:06] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:47:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Blackstone'/125349, l='ServerLevel[world]', x=-312.88, y=134.94, z=102.13]
+[22:48:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-357, y=47, z=336} class_2338{x=-360, y=46, z=334}
+[22:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[22:53:43] [Server thread/INFO]: endertad lost connection: Disconnected
+[22:53:43] [Server thread/INFO]: endertad left the game
+[22:54:01] [Server thread/WARN]: SKAF_PathFinder moved too quickly! 0.0,17.70568603204449,0.0
+[22:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[22:58:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-353, y=45, z=348} class_2338{x=-353, y=46, z=347}
+[22:58:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-353, y=45, z=348} class_2338{x=-353, y=46, z=347}
+[22:58:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-353, y=45, z=348} class_2338{x=-353, y=46, z=347}
+[22:58:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-353, y=45, z=348} class_2338{x=-353, y=46, z=347}
+[23:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-350, y=47, z=343} class_2338{x=-350, y=50, z=340}
+[23:08:54] [Server thread/WARN]: A11y_UwU moved too quickly! 15.29415395878874,-2.3048861108118075,-8.679592273343019
+[23:09:02] [Server thread/WARN]: A11y_UwU moved too quickly! 16.592748279446507,-1.9541896052945589,-5.644633393143749
+[23:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23:15:34] [Server thread/INFO]: <A11y_UwU> i really have to get my storage system up.. but i desided to make it super damn big... that was a misstake
+[23:15:55] [Server thread/INFO]: <A11y_UwU> but im kinda.. to far in to make it smaller
+[23:16:38] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:16:38] [Server thread/INFO]: A11y_UwU left the game
+[23:19:20] [User Authenticator #14/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:19:20] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59713] logged in with entity id 162518 at (-429.37282520601093, 76.875, 319.2466752225599)
+[23:19:20] [Server thread/INFO]: A11y_UwU joined the game
+[23:19:21] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:20:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=42, z=338} class_2338{x=-406, y=42, z=339}
+[23:20:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=42, z=338} class_2338{x=-406, y=42, z=339}
+[23:20:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=42, z=338} class_2338{x=-406, y=42, z=339}
+[23:20:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-407, y=42, z=338} class_2338{x=-406, y=42, z=339}
+[23:20:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=44, z=334} class_2338{x=-358, y=43, z=334}
+[23:20:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=44, z=334} class_2338{x=-358, y=43, z=334}
+[23:20:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=44, z=334} class_2338{x=-358, y=43, z=334}
+[23:20:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=44, z=334} class_2338{x=-358, y=43, z=334}
+[23:20:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=44, z=334} class_2338{x=-358, y=43, z=334}
+[23:20:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=44, z=334} class_2338{x=-358, y=43, z=334}
+[23:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-333, y=43, z=334} class_2338{x=-334, y=42, z=334}
+[23:21:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-333, y=43, z=334} class_2338{x=-334, y=42, z=334}
+[23:22:15] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
+[23:22:15] [Server thread/INFO]: SKAF_PathFinder left the game
+[23:22:24] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:22:24] [Server thread/INFO]: A11y_UwU left the game
+[23:23:36] [User Authenticator #15/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:23:37] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59754] logged in with entity id 166895 at (-405.1683962939691, 45.0, 348.4551346322525)
+[23:23:37] [Server thread/INFO]: A11y_UwU joined the game
+[23:23:37] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:35:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=44, z=342} class_2338{x=-359, y=41, z=350}
+[23:35:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=44, z=342} class_2338{x=-359, y=41, z=350}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=43, z=352} class_2338{x=-381, y=42, z=353}
+[23:35:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-386, y=43, z=350} class_2338{x=-387, y=42, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:36:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-401, y=44, z=350} class_2338{x=-402, y=43, z=350}
+[23:37:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-396, y=42, z=341} class_2338{x=-397, y=43, z=341}
+[23:37:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-396, y=42, z=341} class_2338{x=-397, y=43, z=341}
+[23:37:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-396, y=42, z=341} class_2338{x=-397, y=43, z=341}
+[23:38:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-390, y=44, z=343} class_2338{x=-391, y=44, z=343}
+[23:39:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-392, y=41, z=344} class_2338{x=-393, y=44, z=345}
+[23:39:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-392, y=41, z=344} class_2338{x=-393, y=44, z=345}
+[23:39:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/176503, l='ServerLevel[world]', x=-461.13, y=76.00, z=286.83]
+[23:48:15] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:48:15] [Server thread/INFO]: A11y_UwU left the game

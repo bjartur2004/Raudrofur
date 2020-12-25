@@ -1,689 +1,112 @@
-[00:11:37] [User Authenticator #20/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[00:11:37] [Server thread/INFO]: A11y_UwU[/127.0.0.1:63724] logged in with entity id 1652196 at (-435.79321432087056, 76.33964672503153, 301.4586836788079)
-[00:11:37] [Server thread/INFO]: A11y_UwU joined the game
-[00:11:37] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
-[00:14:37] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:14:37] [Server thread/INFO]: A11y_UwU left the game
-[00:37:33] [User Authenticator #21/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[00:37:33] [Server thread/INFO]: A11y_UwU[/127.0.0.1:63850] logged in with entity id 1679710 at (-585.350552750025, 73.0, -214.35492077854295)
-[00:37:33] [Server thread/INFO]: A11y_UwU joined the game
-[00:37:33] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
-[00:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[01:00:03] [Server thread/INFO]: Alex[local] logged in with entity id 1710441 at (-576.6999999880791, 67.0, -251.6482430758595)
-[01:00:03] [Server thread/INFO]: Alex joined the game
-[01:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:01:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1713615, l='ServerLevel[world]', x=-451.47, y=73.00, z=298.41]
-[01:01:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1713616, l='ServerLevel[world]', x=-451.47, y=73.00, z=298.41]
-[01:08:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=40, z=341} class_2338{x=-374, y=40, z=343}
-[01:08:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=40, z=341} class_2338{x=-374, y=40, z=343}
-[01:08:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=40, z=341} class_2338{x=-374, y=40, z=343}
-[01:08:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=40, z=341} class_2338{x=-374, y=40, z=343}
-[01:08:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-374, y=40, z=340} class_2338{x=-375, y=39, z=342}
-[01:13:48] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[01:13:48] [Server thread/INFO]: A11y_UwU left the game
-[01:14:39] [User Authenticator #22/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[01:14:39] [Server thread/INFO]: A11y_UwU[/127.0.0.1:64062] logged in with entity id 1733622 at (-351.74218579570095, 36.60931986682442, 335.35795015595625)
-[01:14:39] [Server thread/INFO]: A11y_UwU joined the game
-[01:14:39] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
-[01:21:32] [User Authenticator #23/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[01:21:33] [Server thread/INFO]: togga99[/89.160.212.94:56503] logged in with entity id 1744004 at (-432.3403368167976, 84.0, 330.8728197611773)
-[01:21:33] [Server thread/INFO]: togga99 joined the game
-[01:21:36] [Server thread/INFO]: <A11y_UwU> hææ
-[01:21:51] [Server thread/INFO]: <togga99> hi
-[01:22:04] [Server thread/INFO]: <togga99> vo jolalegt
-[01:22:15] [Server thread/INFO]: <A11y_UwU> hvar
-[01:22:19] [Server thread/INFO]: <togga99> kisturnar
-[01:22:25] [Server thread/INFO]: <A11y_UwU> æ ja
-[01:22:35] [Server thread/INFO]: <togga99> afh eru sona margar hænur
-[01:22:45] [Server thread/INFO]: <A11y_UwU> ég þarf fjöðrir
-[01:22:52] [Server thread/INFO]: <A11y_UwU> fjaðrir
-[01:23:22] [Server thread/INFO]: <togga99> hvaða hljoðfæri kanntu á?
-[01:23:30] [Server thread/INFO]: <A11y_UwU> píano
-[01:23:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1747511, l='ServerLevel[world]', x=-450.64, y=73.00, z=298.80]
-[01:23:45] [Server thread/INFO]: <togga99> kanntu svona að spila hljoma vel?
-[01:23:51] [Server thread/INFO]: <A11y_UwU> jaja
-[01:24:18] [Server thread/INFO]: <togga99> ok lol segi þer kannski seinna afh
-[01:24:25] [Server thread/INFO]: <A11y_UwU> okok
-[01:25:54] [Server thread/INFO]: <A11y_UwU> takk fyrira að sofa
-[01:26:12] [Server thread/INFO]: <togga99> ekkert mal
-[01:26:17] [Server thread/INFO]: <togga99> er enginn annar að spila
-[01:26:22] [Server thread/INFO]: <A11y_UwU> ne
-[01:26:27] [Server thread/INFO]: <togga99> oh sad
-[01:26:33] [Server thread/INFO]: Alex was slain by A11y_UwU
-[01:26:33] [Server thread/INFO]: Alex lost connection: Killed
-[01:26:33] [Server thread/INFO]: Alex left the game
-[01:26:42] [Server thread/INFO]: <togga99> ok blessaður þa
-[01:27:07] [Server thread/INFO]: <togga99> hví settirðu rum niður aftiur
-[01:27:21] [Server thread/INFO]: <A11y_UwU> til að sofa..
-[01:27:30] [Server thread/INFO]: <togga99> oooooooooooooooooooooh
-[01:27:44] [Server thread/INFO]: <A11y_UwU> haha
-[01:27:47] [Server thread/INFO]: <togga99> eg setti rumi upp
-[01:27:54] [Server thread/INFO]: <A11y_UwU> oh..
-[01:27:55] [Server thread/INFO]: <togga99> og færði arininn þinn
-[01:28:03] [Server thread/INFO]: <A11y_UwU> em.. ég vissi ekki af því lol
-[01:28:11] [Server thread/INFO]: <togga99> ertu svaka pirraður
-[01:28:16] [Server thread/INFO]: <A11y_UwU> ne
-[01:28:35] [Server thread/INFO]: <togga99> skilurðu ef eg á að lifa þarf eg stærra herbergi
-[01:28:39] [Server thread/INFO]: <A11y_UwU> var smá hissa þegar eg hélt þú hefðir bara stolið rúmmunum
-[01:28:47] [Server thread/INFO]: <togga99> oh ahhaah lol
-[01:28:59] [Server thread/INFO]: <togga99> nei gerði bara svona rúm
-[01:29:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1755553, l='ServerLevel[world]', x=-461.72, y=76.00, z=286.83]
-[01:29:35] [Server thread/INFO]: <A11y_UwU> af hverju heldur youtube að ég elski 21 pælots
-[01:29:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1756302, l='ServerLevel[world]', x=-455.37, y=73.00, z=294.20]
-[01:29:57] [Server thread/INFO]: <A11y_UwU> hlusta ekki einusinni á neitt líka tónlist
-[01:29:59] [Server thread/INFO]: <togga99> utaf þu horfðir örg á 1 video tengt þvi og 21 pilots fans eru crayvray
-[01:31:14] [Server thread/INFO]: <togga99> ups............
-[01:31:27] [Server thread/INFO]: <A11y_UwU> hvað
-[01:31:34] [Server thread/INFO]: <A11y_UwU> á ég að koma?
-[01:31:40] [Server thread/INFO]: <togga99> afh
-[01:31:48] [Server thread/WARN]: A11y_UwU moved wrongly!
-[01:31:57] [Server thread/INFO]: <A11y_UwU> "ubs............"
-[01:32:03] [Server thread/INFO]: <togga99> lol
-[01:33:43] [Server thread/INFO]: <togga99> hefurðu einhvertimann drepið manneskju
-[01:33:55] [Server thread/INFO]: <A11y_UwU> á serverinu?
-[01:34:05] [Server thread/INFO]: <togga99> nei í raunvöruleikanum
-[01:34:13] [Server thread/INFO]: <A11y_UwU> ekki svo ég viti
-[01:34:23] [Server thread/INFO]: <togga99> eg veit sannleikann
-[01:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:35:17] [Server thread/INFO]: <togga99> á havða hæð eru demantar aftur?
-[01:35:34] [Server thread/INFO]: <A11y_UwU> i need a lawyer
-[01:35:37] [Server thread/INFO]: <A11y_UwU> 11
-[01:35:56] [Server thread/INFO]: <togga99> pabbi getur reddað þér örg ef þu vilt
-[01:36:32] [Server thread/INFO]: <togga99> til hvers þarftu?
-[01:36:37] [Server thread/INFO]: <A11y_UwU> efast um að hann vilji tengja sig mögulegum morðingja í máli
-[01:37:06] [Server thread/INFO]: <togga99> ef þu borgar vel þa held eg að þeim se liklega sama sumum lol
-[01:37:07] [Server thread/INFO]: <A11y_UwU> defending my case if you sue uwu
-[01:37:28] [Server thread/INFO]: <togga99> ha ætlarðu að drepa mig nuna?
-[01:37:31] [Server thread/INFO]: <A11y_UwU> nei
-[01:37:42] [Server thread/INFO]: <togga99> skil þig þa ekki alveg
-[01:38:10] [Server thread/INFO]: <togga99> oooh ja eg er ekki að fara segja neitt á móti þer lol hvað heldurðu að eg sé
-[01:38:28] [Server thread/INFO]: <togga99> það gera nu ekki vinir
-[01:39:21] [Server thread/INFO]: <A11y_UwU> eins gott fyrir þig uwu
-[01:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:39:37] [Server thread/INFO]: <togga99> ef þu ætlar að fara að hota mer þa mun eg gera það lol
-[01:39:55] [Server thread/INFO]: <A11y_UwU> ekki hótun.. ok jú en bara í gríni
-[01:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01:40:16] [Server thread/INFO]: <togga99> vonandi hvar var morðið?
-[01:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
-[01:40:36] [Server thread/INFO]: <A11y_UwU> það var ekkert morð
-[01:40:43] [Server thread/INFO]: <togga99> ju lol
-[01:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[01:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[01:41:50] [Server thread/INFO]: <A11y_UwU> núna er ég að pæla hvort ég hafi myrt einhvern lmao
-[01:41:54] [Server thread/INFO]: <togga99> þu varst að segja að þú myrtir einhvern
-[01:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[01:42:17] [Server thread/INFO]: <A11y_UwU> nei ég tók aldrei fram hvort að ég hafi gert það
-[01:42:26] [Server thread/INFO]: <togga99> en eg veit það
-[01:43:34] [Server thread/INFO]: <togga99> hvað fekkstu i jolagjof
-[01:44:53] [Server thread/INFO]: <A11y_UwU> midi dótið, usb míkrafón, 3 bækur, þó nokkrar flíkur, ljósaveggskraut og.. fleyra
-[01:45:10] [Server thread/INFO]: <togga99> uuu mikrafon
-[01:45:23] [Server thread/INFO]: Cane[local] logged in with entity id 1778827 at (-576.5153417999833, 67.0, -251.67951853294795)
-[01:45:23] [Server thread/INFO]: Cane joined the game
-[01:45:29] [Server thread/INFO]: <togga99> hvaða hæð voru aftur demantar
-[01:45:33] [Server thread/INFO]: <A11y_UwU> 11
-[01:45:44] [Server thread/INFO]: <A11y_UwU> er best að minea á
-[01:46:06] [Server thread/INFO]: <A11y_UwU> eru tæknilega milli 0 og 15
-[01:46:21] [Server thread/INFO]: <A11y_UwU> ekkert tæknilega lol bara eru
-[01:46:45] [Server thread/INFO]: <togga99> ugh havr se eg hæðina
-[01:46:47] [Server thread/INFO]: <togga99> hiiiiiiiii
-[01:47:01] [Server thread/INFO]: <A11y_UwU> tala 2 í xyz:
-[01:47:40] [Server thread/INFO]: <A11y_UwU> saknaðiru cane
-[01:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[01:47:50] [Server thread/INFO]: <togga99> jaaaaaaaa
-[01:48:06] [Server thread/INFO]: <togga99> ok takk eru þa demantar á 1110
-[01:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
-[01:48:23] [Server thread/INFO]: <togga99> oh nvm
-[01:48:40] [Server thread/INFO]: <A11y_UwU> er að búa til suger cane farm og cane verður þar
-[01:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:48:51] [Server thread/INFO]: <togga99> aww en sætt
-[01:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6617ms or 132 ticks behind
-[01:49:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[01:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
-[01:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5461ms or 109 ticks behind
-[01:50:40] [Server thread/INFO]: <togga99> um leið og eg fer í þessa námu dey eg
-[01:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:50:55] [Server thread/INFO]: <A11y_UwU> æ æ
-[01:51:04] [Server thread/INFO]: <togga99> ætla að reyna að deyja ekki
-[01:51:12] [Server thread/INFO]: <A11y_UwU> ja það er smart
-[01:51:31] [Server thread/INFO]: <togga99> það eru svona 100 lestir her
-[01:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:51:51] [Server thread/INFO]: <togga99> veistu eg held að þetta se minig thingið herna fyrir neðan mig lol
-[01:51:56] [Server thread/INFO]: <togga99> ætla að tékka
-[01:51:57] [Server thread/INFO]: <A11y_UwU> ja þetta er risa tækið mutt
-[01:52:11] [Server thread/INFO]: <togga99> ætla að hoppa niður
-[01:52:15] [Server thread/INFO]: <togga99> virkar það?
-[01:52:19] [Server thread/INFO]: <A11y_UwU> ekki snerta epa sprengja það plz
-[01:52:22] [Server thread/INFO]: <A11y_UwU> ja..
-[01:52:33] [Server thread/INFO]: <togga99> jebbs þetta var það
-[01:52:51] [Server thread/INFO]: <A11y_UwU> en bara.. treysti þér ekki til að kunna á það þannig ekki snerta það plzzzzzzzzz
-[01:53:05] [Server thread/WARN]: A11y_UwU moved too quickly! 37.593342940140985,-8.786356682813533,20.404111633634784
-[01:53:18] [Server thread/INFO]: <togga99> lol myndi ekki einu sinni reyna að gera einhvað við það myndi liklega verða drepin strax lika lol
-[01:53:31] [Server thread/INFO]: <A11y_UwU> lul
-[01:53:36] [Server thread/INFO]: <togga99> er það tilbuið
-[01:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[01:53:53] [Server thread/INFO]: <A11y_UwU> já
-[01:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
-[01:54:08] [Server thread/INFO]: <togga99> hvernig virkar það
-[01:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
-[01:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3343ms or 66 ticks behind
-[01:55:22] [Server thread/INFO]: <A11y_UwU> maður ýtir á áhveðin note kubb, þá værist allt áfram um kobb svo dulicatear það tnt og skítur því framm fyrir sig og sprengir allt fyrir framan sig
-[01:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2465ms or 49 ticks behind
-[01:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
-[01:56:01] [Server thread/INFO]: <togga99> það er kreikrei
-[01:56:12] [Server thread/INFO]: <A11y_UwU> rosa
-[01:56:53] [Server thread/INFO]: <togga99> hvaða bláa stuffe r þetta?
-[01:57:05] [Server thread/INFO]: <togga99> eða fjolublaa
-[01:57:24] [Server thread/INFO]: <A11y_UwU> ég veit ekki hvað þú ert að horfa á togga mín
-[01:57:36] [Server thread/INFO]: <togga99> amethyst
-[01:57:52] [Server thread/INFO]: <togga99> hvað gerir það
-[01:57:54] [Server thread/INFO]: <A11y_UwU> oh já.. það er í midinu
-[01:58:11] [Server thread/INFO]: <togga99> ja en til hvers er það
-[01:58:16] [Server thread/INFO]: <A11y_UwU> tools of armor.. það er ekkert svaka nytamlegt en lítur cool út
-[01:58:26] [Server thread/INFO]: <A11y_UwU> *og
-[01:58:40] [Server thread/INFO]: <togga99> ú fan gullinbrú
-[01:58:58] [Server thread/INFO]: <A11y_UwU> um.. ok
-[01:59:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01:59:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[02:00:03] [Server thread/INFO]: <togga99> ú rædstón
-[02:00:14] [Server thread/INFO]: <A11y_UwU> yeyyy
-[02:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6216ms or 124 ticks behind
-[02:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5091ms or 101 ticks behind
-[02:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[02:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[02:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
-[02:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
-[02:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
-[02:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
-[02:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
-[02:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5992ms or 119 ticks behind
-[02:03:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
-[02:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
-[02:04:12] [Server thread/INFO]: <togga99> rædstón
-[02:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
-[02:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[02:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
-[02:05:05] [Server thread/INFO]: <togga99> díá´mó´n´d
-[02:05:09] [Server thread/INFO]: <A11y_UwU> yey
-[02:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
-[02:05:47] [Server thread/INFO]: <togga99> bara 1 not cool'd
-[02:06:00] [Server thread/INFO]: <A11y_UwU> oh ja ekki cool
-[02:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[02:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[02:06:57] [Server thread/INFO]: <togga99> írón
-[02:07:03] [Server thread/INFO]: <togga99> ´ré´d´st´´o´n
-[02:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[02:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
-[02:10:48] [Server thread/INFO]: <togga99> ætlarðu nuna að fara að semja lög
-[02:10:55] [Server thread/INFO]: <togga99> er svaka spennt að heyra
-[02:11:06] [Server thread/INFO]: <A11y_UwU> nei lol þori því eiginlega ekki
-[02:11:28] [Server thread/INFO]: <A11y_UwU> en.. skelli örugglega í cover idk
-[02:11:30] [Server thread/INFO]: <togga99> jujuuuuuuu reyndu allavega eitt veit að þú munt verða svo góður með æfingu
-[02:11:38] [Server thread/INFO]: <togga99> jaaaa gott að byrja á cover
-[02:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[02:11:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1809579, l='ServerLevel[world]', x=-460.83, y=76.00, z=288.17]
-[02:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
-[02:12:17] [Server thread/INFO]: <togga99> þu ert no joke eitt af hæfileikastaríkasta folki sem ég þekki veit bara að þú værir geggjaður að semja löggg og bara gera allt skilurðu
-[02:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6997ms or 139 ticks behind
-[02:12:35] [Server thread/INFO]: <A11y_UwU> ok takk lol
-[02:13:00] [Server thread/INFO]: <A11y_UwU> ég er að fara að drepa 4 withera
-[02:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[02:13:16] [Server thread/INFO]: <togga99> er það með 3 hausa?
-[02:13:22] [Server thread/INFO]: <A11y_UwU> 12
-[02:13:27] [Server thread/INFO]: <togga99> omæ
-[02:13:28] [Server thread/INFO]: <togga99> kreisi
-[02:13:30] [Server thread/INFO]: <togga99> hl
-[02:13:35] [Server thread/INFO]: <A11y_UwU> eða.. nei er með 13
-[02:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:18:32] [Server thread/INFO]: <togga99> loksins náma
-[02:18:49] [Server thread/INFO]: <togga99> fekk næstum hjartaáfall helt eg væri buin að tina ættargripnum
-[02:19:07] [Server thread/INFO]: <A11y_UwU> oh va það væri oof
-[02:19:13] [Server thread/INFO]: <togga99> hvað geryr ruby
-[02:19:36] [Server thread/INFO]: <togga99> nei lol það er lika eini alvöru demants hringurinn minn:(
-[02:19:36] [Server thread/INFO]: <A11y_UwU> sama og fjólublaa
-[02:19:38] [Server thread/INFO]: <togga99> held eg
-[02:19:40] [Server thread/INFO]: <togga99> oh
-[02:20:04] [Server thread/INFO]: <A11y_UwU> -890 75
-[02:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4390ms or 87 ticks behind
-[02:21:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1823118, l='ServerLevel[world]', x=-461.24, y=76.00, z=288.17]
-[02:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
-[02:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
-[02:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:22:39] [Server thread/INFO]: <A11y_UwU> ok er að fara að fremja wither fjöldamorð.. vonandi
-[02:22:44] [Server thread/INFO]: <togga99> omæ
-[02:22:46] [Server thread/INFO]: <A11y_UwU> þannig get ekki talað í sma
-[02:22:53] [Server thread/INFO]: <togga99> enieiii heyri i beinagrind
-[02:22:54] [Server thread/INFO]: <togga99> ok
-[02:25:47] [Server thread/INFO]: <A11y_UwU> ok er búin að myrða 1
-[02:25:50] [Server thread/INFO]: <togga99> vel gert
-[02:26:05] [Server thread/INFO]: <A11y_UwU> hann gerði 2 hjörtu af damage
-[02:26:05] [Server thread/INFO]: <togga99> nooooooooooooooooj
-[02:26:08] [Server thread/INFO]: <togga99> enderman
-[02:26:10] [Server thread/INFO]: <togga99> im ded
-[02:26:16] [Server thread/INFO]: <A11y_UwU> rip
-[02:27:03] [Server thread/INFO]: <togga99> gonna go fihht
-[02:27:26] [Server thread/INFO]: <togga99> kannski ef eg stennd kyr
-[02:27:29] [Server thread/INFO]: togga99 was slain by Enderman
-[02:27:37] [Server thread/INFO]: <A11y_UwU> ffff
-[02:27:37] [Server thread/INFO]: <togga99> það virkaði alls ekki
-[02:29:56] [Server thread/INFO]: <togga99> þþetta er jafn hræðilegt og að spila fnf
-[02:30:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1835693, l='ServerLevel[world]', x=-895.40, y=14.68, z=-16.60]
-[02:32:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/1839591, l='ServerLevel[world]', x=-896.27, y=13.75, z=19.39]
-[02:33:02] [Server thread/INFO]: <A11y_UwU> ok búin
-[02:34:38] [Server thread/WARN]: A11y_UwU moved too quickly! -2.330718953455971,11.211331146091922,13.453056769184272
-[02:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
-[02:36:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1844495, l='ServerLevel[world]', x=-371.14, y=9.00, z=679.90]
-[02:36:30] [Server thread/INFO]: <A11y_UwU> yeeyyyyyyyyyyyyyyyyyyyyyy
-[02:36:34] [Server thread/INFO]: <togga99> hva
-[02:36:45] [Server thread/INFO]: <A11y_UwU> ég er með 4 becona í viðbót
-[02:36:52] [Server thread/INFO]: <togga99> hva er það
-[02:36:56] [Server thread/INFO]: <A11y_UwU> á núna 7
-[02:37:07] [Server thread/INFO]: <togga99> ohh það er svaka kul
-[02:37:07] [Server thread/INFO]: <A11y_UwU> friðarsúlu dótið
-[02:37:11] [Server thread/INFO]: <togga99> oooooooooooooh
-[02:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[02:38:57] [Server thread/INFO]: <togga99> eg er bara einhverstaðar og eg grof þar sem einhver hefur verið
-[02:39:00] [Server thread/INFO]: <togga99> no cool
-[02:39:28] [Server thread/INFO]: <A11y_UwU> örugglega ég
-[02:39:44] [Server thread/INFO]: <togga99> ja liklega það liggur í sjoinn
-[02:40:02] [Server thread/INFO]: <A11y_UwU> passar
-[02:40:11] [Server thread/INFO]: <togga99> vonandi ekki svindl duddin þvi þa eru engir demantar
-[02:40:50] [Server thread/INFO]: <A11y_UwU> hann myndi ekki nenna að minea lengi
-[02:41:00] [Server thread/INFO]: <A11y_UwU> x-rey er boring
-[02:41:04] [Server thread/INFO]: <togga99> oh
-[02:41:12] [Server thread/INFO]: <togga99> veistu hver mike oldfield er?
-[02:41:25] [Server thread/INFO]: <A11y_UwU> nope held ekki
-[02:41:32] [Server thread/INFO]: <togga99> oh ok
-[02:42:10] [Server thread/INFO]: <togga99> var bara að hugsa hvort það se stelpa eða strakur eða bara lagahöfundur
-[02:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[02:43:11] [Server thread/INFO]: <A11y_UwU> ég ætti að selja fullan beacon til einhvers
-[02:43:15] [Server thread/INFO]: <togga99> jaja
-[02:43:29] [Server thread/INFO]: <A11y_UwU> það.. myndi kosta mikið
-[02:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[02:44:03] [Server thread/INFO]: <A11y_UwU> kannski.. 10 diamond blocks
-[02:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[02:44:09] [Server thread/INFO]: <A11y_UwU> 90 diamonds
-[02:44:23] [Server thread/INFO]: <togga99> oooooooooooooooh'
-[02:44:29] [Server thread/INFO]: <togga99> kreisi+
-[02:44:49] [Server thread/INFO]: <A11y_UwU> eh.. kannski ekki alveg svo hátt ég þarf í rauninni ekki demanta
-[02:45:10] [Server thread/INFO]: <A11y_UwU> nema bara af því að það er cool og gaman að eiga marga demanta
-[02:45:16] [Server thread/INFO]: <togga99> jaaaaaa
-[02:45:30] [Server thread/INFO]: <togga99> hver heldurðu að se ríkastur herna?
-[02:45:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[02:45:38] [Server thread/INFO]: <A11y_UwU> ég
-[02:45:49] [Server thread/INFO]: <A11y_UwU> er samt ekki viss
-[02:46:17] [Server thread/INFO]: <togga99> kreisi
-[02:46:33] [Server thread/INFO]: <togga99> eigum við bæði að fara semja lög_?
-[02:46:41] [Server thread/INFO]: <A11y_UwU> ja
-[02:47:30] [Server thread/INFO]: <A11y_UwU> omg ég sé nafnið þitt
-[02:47:42] [Server thread/INFO]: <togga99> eg se ekki þitt
-[02:49:07] [Server thread/INFO]: <togga99> ætla að reyna að deyja ekki
-[02:49:17] [Server thread/INFO]: <A11y_UwU> það er gott
-[02:49:27] [Server thread/INFO]: A11y_UwU has made the advancement [Country Lode, Take Me Home]
-[02:50:24] [Server thread/INFO]: <togga99> er name tag sjaldgjæft?
-[02:50:41] [Server thread/INFO]: <A11y_UwU> jáá´´aáá
-[02:50:43] [Server thread/INFO]: <A11y_UwU> mjög
-[02:50:44] [Server thread/INFO]: <togga99> fann 1
-[02:50:51] [Server thread/INFO]: <A11y_UwU> omg nææs
-[02:51:17] [Server thread/INFO]: <A11y_UwU> það er reyndar hægt að fá mörg með villigerum en það er.. pain
-[02:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[02:51:40] [Server thread/INFO]: <togga99> ooh er i lestanamu það er svaka margar köngulær her
-[02:51:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
-[02:52:01] [Server thread/INFO]: <A11y_UwU> já það eru cave spider spawners
-[02:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3254ms or 65 ticks behind
-[02:52:18] [Server thread/INFO]: <togga99> var bitin ekki gaman
-[02:52:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
-[02:52:31] [Server thread/INFO]: <A11y_UwU> ja ég hata það
-[02:52:43] [Server thread/INFO]: <togga99> ma eg skemma spawnerinn
-[02:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4682ms or 93 ticks behind
-[02:52:56] [Server thread/INFO]: <A11y_UwU> já í gvuðana bænum
-[02:53:10] [Server thread/INFO]: <A11y_UwU> enga aðra en cave spider spawnera samt
-[02:53:27] [Server thread/INFO]: <togga99> ja ok lol hann er svaka pirrandi þarf samt að komast að honum endalausar köngulær
-[02:53:36] [Server thread/INFO]: <togga99> eur hinir sjaldgæfir??
-[02:53:48] [Server thread/INFO]: <A11y_UwU> nei hinir eru bara nytsamlegir lol
-[02:53:55] [Server thread/INFO]: <togga99> ooooooh
-[02:54:02] [Server thread/INFO]: <A11y_UwU> og jú meyra rare
-[02:54:09] [Server thread/INFO]: <A11y_UwU> *sjaldgæfari
-[02:54:23] [Server thread/INFO]: <A11y_UwU> mæ gott ég þarf að vinna í þessu
-[02:54:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-487, y=75, z=322} class_2338{x=-486, y=75, z=322}
-[02:54:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-487, y=75, z=322} class_2338{x=-486, y=75, z=322}
-[02:54:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-487, y=75, z=322} class_2338{x=-486, y=75, z=322}
-[02:54:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[02:55:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[02:55:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1869216, l='ServerLevel[world]', x=-373.80, y=9.00, z=682.01]
-[02:55:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[02:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[02:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
-[02:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[02:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[02:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
-[02:57:11] [Server thread/INFO]: <togga99> jaaaaaaaa aramota heitin verður að tala islensku
-[02:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[02:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[02:58:27] [Server thread/INFO]: <togga99> eg elska nik kershaw
-[02:58:38] [Server thread/INFO]: <A11y_UwU> ok
-[02:58:55] [Server thread/INFO]: <togga99> eða tonlistina hans lol hef farið a tonleika með honum
-[02:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[02:59:09] [Server thread/INFO]: <A11y_UwU> cooool
-[02:59:14] [Server thread/INFO]: <togga99> það var gggggggggg gaman
-[02:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[02:59:28] [Server thread/INFO]: <togga99> þu þekkir örg nokkur með honum lol
-[02:59:44] [Server thread/INFO]: <A11y_UwU> ok.. það er líklegt
-[02:59:44] [Server thread/INFO]: <togga99> veit samt ekki þu hlutar á allt öðruvísi tónlist
-[03:00:31] [Server thread/INFO]: <togga99> liður eins og þu gætir þekkt það sem eg er nuna að hlusta á
-[03:00:47] [Server thread/INFO]: <A11y_UwU> hvað er það?
-[03:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[03:01:06] [Server thread/INFO]: <togga99> uumm man ekki nafnið biidu ætla að biða eftri aðal partinum
-[03:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
-[03:01:15] [Server thread/INFO]: <togga99> wouldint it be good kannski?
-[03:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[03:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5420ms or 108 ticks behind
-[03:01:56] [Server thread/INFO]: <A11y_UwU> Nik Kershaw - Wouldn't It Be Good
-[03:02:00] [Server thread/INFO]: <togga99> juh
-[03:02:14] [Server thread/INFO]: <togga99> gætir lika þekkt wont let the sun go down on me
-[03:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4801ms or 96 ticks behind
-[03:02:21] [Server thread/INFO]: <A11y_UwU> er að hlusta, man ekki eftir vídjóinu
-[03:02:34] [Server thread/INFO]: <togga99> hann er alveg mep soldið mörg fræg lög þannig vtk
-[03:02:45] [Server thread/INFO]: <togga99> wont let the sun go down on me er örg frægasta
-[03:02:47] [Server thread/INFO]: <togga99> idk
-[03:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[03:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[03:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[03:04:19] [Server thread/INFO]: <A11y_UwU> hef heyrt þetta en örugglega bara í bíl eða hjá pabba einhvertíman
-[03:04:29] [Server thread/INFO]: <togga99> ja meikar sense lol
-[03:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[03:04:46] [Server thread/INFO]: <togga99> get ekki sægt að hann sé frægur hja unglingum 2020
-[03:04:51] [Server thread/WARN]: A11y_UwU moved too quickly! 16.45963042652994,4.873542048301388,-3.5421393108121606
-[03:04:51] [Server thread/WARN]: togga99 moved too quickly! -0.43437020689123074,4.001335979112149,9.360503643106654
-[03:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
-[03:05:12] [Server thread/INFO]: <A11y_UwU> nee sínist það ekki vera lul
-[03:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[03:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[03:06:02] [Server thread/INFO]: <A11y_UwU> langar að sína þér flugelda sem ég gerði
-[03:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[03:06:23] [Server thread/INFO]: <togga99> jaa maske bara seinn þegar eg er á jörð
-[03:06:36] [Server thread/INFO]: <A11y_UwU> yamms
-[03:06:42] [Server thread/INFO]: <togga99> yamaha
-[03:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[03:06:55] [Server thread/INFO]: <togga99> er lika svona vont veður hja þþer
-[03:07:05] [Server thread/INFO]: <A11y_UwU> smá
-[03:07:13] [Server thread/INFO]: <togga99> það er brjálað her
-[03:07:17] [Server thread/INFO]: <A11y_UwU> eða.. veit ekki en hljómar þannig
-[03:07:20] [Server thread/INFO]: <A11y_UwU> ye
-[03:07:23] [Server thread/INFO]: <togga99> heyri varla í tónlistinni
-[03:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[03:07:38] [Server thread/INFO]: <A11y_UwU> ekki svo klikk hjá mér
-[03:08:33] [Server thread/INFO]: <togga99> omggg þessar köngulær hata þær innilega
-[03:08:39] [Server thread/INFO]: <A11y_UwU> same
-[03:09:03] [Server thread/INFO]: togga99 was slain by Cave Spider
-[03:09:10] [Server thread/WARN]: A11y_UwU moved too quickly! 10.837344510316598,-2.8850187733841466,-13.30983853810767
-[03:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[03:09:16] [Server thread/INFO]: <A11y_UwU> :P
-[03:09:17] [Server thread/INFO]: <togga99> á
-[03:10:08] [Server thread/WARN]: A11y_UwU moved too quickly! 16.023047432302292,8.486207957745108,-2.272185240359761
-[03:10:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[03:11:05] [Server thread/WARN]: A11y_UwU moved wrongly!
-[03:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
-[03:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
-[03:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
-[03:11:58] [Server thread/INFO]: <togga99> ertu með stillt á slenderman mod eða einhvað
-[03:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
-[03:12:11] [Server thread/INFO]: <togga99> not funny
-[03:12:14] [Server thread/INFO]: <togga99> scared
-[03:12:27] [Server thread/INFO]: <A11y_UwU> nei.. en það er á hard
-[03:13:02] [Server thread/INFO]: <togga99> GREINILEGA EKKI VERIÐ AÐ HUGA AÐ MER
-[03:13:44] [Server thread/INFO]: <A11y_UwU> um.. í rauninni nei var ég ekki beint að husa til þín þegar ég gerði stillingarnar
-[03:13:54] [Server thread/INFO]: <togga99> va takk
-[03:13:59] [Server thread/INFO]: <A11y_UwU> vissi ekki að þú myndir koma
-[03:14:05] [Server thread/INFO]: <togga99> vaaa
-[03:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[03:15:00] [Server thread/INFO]: <togga99> ok þetta var bara uppvakningur
-[03:15:16] [Server thread/WARN]: A11y_UwU moved too quickly! 3.2970113055807815,-1.5048830813186669,17.2662704850502
-[03:16:01] [Server thread/INFO]: togga99 was slain by Zombie
-[03:16:15] [Server thread/INFO]: <togga99> bitch þau mega eiga stuffið mitt eg gefst upp
-[03:16:33] [Server thread/INFO]: <A11y_UwU> æ æ :///
-[03:17:15] [Server thread/INFO]: <togga99> eriufhhfo.sefhi
-[03:17:27] [Server thread/INFO]: <togga99> fekk allavega 1 demant+
-[03:17:34] [Server thread/INFO]: <A11y_UwU> cool
-[03:17:41] [Server thread/INFO]: <togga99> og name tag
-[03:17:52] [Server thread/INFO]: <A11y_UwU> ja það er gott
-[03:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
-[03:18:51] [Server thread/WARN]: A11y_UwU moved too quickly! 16.98521330333068,-4.052611161134891,2.995793307123563
-[03:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
-[03:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
-[03:19:38] [Server thread/WARN]: togga99 moved too quickly! -3.8144324231008113,0.7967356006687112,-9.36939273186772
-[03:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
-[03:20:01] [Server thread/INFO]: <togga99> eg elska að minecraft er ekki ennþa buið að krassa eins og alltaf hja mer
-[03:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
-[03:20:29] [Server thread/INFO]: <A11y_UwU> það er gootttt
-[03:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[03:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3215ms or 64 ticks behind
-[03:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
-[03:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
-[03:22:07] [Server thread/INFO]: <togga99> afh er auka dót í krigum biflugurnar fullt af hænum
-[03:22:33] [Server thread/INFO]: <A11y_UwU> ég ættla að búa til minn egin biome og get ekki áhveðið milli að gera það í plains biome me fjöllum í bakruninum epa á í fjöllum með skurðum :P
-[03:22:46] [Server thread/INFO]: <togga99> ha hvað er það
-[03:23:02] [Server thread/INFO]: <A11y_UwU> biome...
-[03:23:13] [Server thread/INFO]: <A11y_UwU> en em.. honey slimes
-[03:23:19] [Server thread/INFO]: <togga99> oooooooh
-[03:23:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[03:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3866ms or 77 ticks behind
-[03:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[03:24:17] [Server thread/INFO]: <A11y_UwU> ég nenni ekki mountan biome lol
-[03:24:23] [Server thread/INFO]: <togga99> meiar sene
-[03:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[03:24:49] [Server thread/INFO]: <togga99> hvort myndirðu treysta mer eða pizzu fyrir lifinu þinu
-[03:24:51] [Server thread/WARN]: A11y_UwU moved too quickly! 12.988307048611318,4.672272398668966,11.792344765312919
-[03:24:58] [Server thread/WARN]: A11y_UwU moved too quickly! 13.498179031050313,0.3418470373222533,12.319161783068921
-[03:24:58] [Server thread/WARN]: A11y_UwU moved too quickly! 12.891505074496877,0.32307356684853517,11.765478608237345
-[03:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19437ms or 388 ticks behind
-[03:25:05] [Server thread/INFO]: <A11y_UwU> þér
-[03:25:27] [Server thread/INFO]: <togga99> dan
-[03:25:27] [Server thread/WARN]: A11y_UwU moved too quickly! 13.18176149832584,-1.9068198993645353,12.030382180452307
-[03:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[03:25:53] [Server thread/INFO]: <A11y_UwU> pizza myndi gefa mér meltingar hvirfla í hefndarskyni fyrir allt sem ég hef gert
-[03:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
-[03:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[03:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[03:27:07] [Server thread/INFO]: <togga99> attu gull sem þu vilt losna við?
-[03:27:25] [Server thread/INFO]: <A11y_UwU> ég á allavega nóg af því lol
-[03:27:32] [Server thread/INFO]: <togga99> ma eg taka 41?
-[03:27:35] [Server thread/INFO]: <A11y_UwU> yamms
-[03:27:40] [Server thread/INFO]: <togga99> atakk
-[03:27:47] [Server thread/INFO]: <togga99> kreisi veður það bara versnar
-[03:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
-[03:29:50] [Server thread/INFO]: <togga99> ma eg fa 9x9x9 meira gull?
-[03:30:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1917088, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.70]
-[03:30:09] [Server thread/INFO]: <A11y_UwU> taktu allt sem þú villt af gulli
-[03:30:16] [Server thread/INFO]: <togga99> yoko þakkir
-[03:30:25] [Server thread/INFO]: <A11y_UwU> ég á nær óendanlegt magn af gulli
-[03:31:32] [Server thread/INFO]: <togga99> oktayjpik
-[03:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[03:33:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
-[03:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[03:33:58] [Server thread/INFO]: <togga99> er þessi br eiginlega ekki bara tilbuinn?
-[03:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
-[03:34:13] [Server thread/INFO]: <A11y_UwU> br?
-[03:34:14] [Server thread/INFO]: <togga99> kannksi eg byggi fjós
-[03:34:17] [Server thread/INFO]: <togga99> bær
-[03:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:34:22] [Server thread/INFO]: <A11y_UwU> oh
-[03:34:59] [Server thread/INFO]: <A11y_UwU> held það vanti kannski 1 - 2 hús já eins og fjós og eða gróðurhús
-[03:35:29] [Server thread/INFO]: <A11y_UwU> með gróðurhúsi meina eg bara.. fallegt farmland
-[03:35:30] [Server thread/INFO]: <togga99> jaaaaa ok ætla að gera fjos en hvernig skrifar maður það á ensku .arf hugmyndir
-[03:35:56] [Server thread/INFO]: <A11y_UwU> bara... farm?
-[03:36:05] [Server thread/INFO]: <A11y_UwU> idk
-[03:36:14] [Server thread/INFO]: <togga99> vinir þinir eru bunir að ræna bátnum minum
-[03:36:22] [Server thread/INFO]: <A11y_UwU> æ æ
-[03:36:41] [Server thread/INFO]: <togga99> þeir eru svaka sætir
-[03:36:43] [Server thread/INFO]: <A11y_UwU> flestir eru ekkert beint vinir mínir lol
-[03:37:04] [Server thread/INFO]: <togga99> nei er að tala um það eru tveir munka dúddar með lásboga í bátnum minum
-[03:37:18] [Server thread/INFO]: <A11y_UwU> æ jááááá
-[03:37:25] [Server thread/INFO]: <A11y_UwU> lol
-[03:37:34] [Server thread/INFO]: <togga99> á
-[03:37:37] [Server thread/INFO]: <A11y_UwU> btw.. ertu að gera ice path??
-[03:37:51] [Server thread/INFO]: <togga99> ja en hætti við
-[03:37:54] [Server thread/INFO]: <togga99> leiidist bara
-[03:37:56] [Server thread/INFO]: <A11y_UwU> okok
-[03:37:59] [Server thread/INFO]: <togga99> og hræð leið
-[03:38:27] [Server thread/INFO]: <A11y_UwU> því það er einhvað sem ég geri einhvertíman í netherinu fyrir rest
-[03:39:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1928566, l='ServerLevel[world]', x=-465.99, y=76.00, z=284.18]
-[03:39:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1929061, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.76]
-[03:40:04] [Server thread/INFO]: <togga99> uhfffefoiaqhheo
-[03:40:05] [Server thread/INFO]: <togga99> jaaaaaaaaaaaaaaaaaaaa
-[03:41:06] [Server thread/INFO]: <togga99> finn ekkert cool þannig ætla bara að byggja fjósið í sveitinni
-[03:41:19] [Server thread/INFO]: <A11y_UwU> nett
-[03:43:11] [Server thread/INFO]: <togga99> ma ég færa sugar cane dotið á annan stað og setja fjó s þar?
-[03:43:18] [Server thread/INFO]: <A11y_UwU> já
-[03:43:26] [Server thread/INFO]: <togga99> ok fanks
-[03:43:29] [Server thread/INFO]: <A11y_UwU> er komin með farm fyrir það annarstaðar
-[03:43:37] [Server thread/INFO]: <A11y_UwU> þannig ekkert vera að seta það aftur
-[03:43:47] [Server thread/INFO]: <togga99> oh ok
-[03:43:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=74, z=372} class_2338{x=-470, y=72, z=372}
-[03:45:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1937329, l='ServerLevel[world]', x=-461.28, y=76.00, z=287.81]
-[03:45:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1938060, l='ServerLevel[world]', x=-461.75, y=76.00, z=288.17]
-[03:45:45] [Server thread/INFO]: <togga99> var duddin sem singur tarzan lögin i genisis?
-[03:45:56] [Server thread/INFO]: <A11y_UwU> idk
-[03:46:08] [Server thread/INFO]: <togga99> not cool
-[03:47:45] [Server thread/WARN]: A11y_UwU was kicked for floating too long!
-[03:47:45] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[03:47:45] [Server thread/INFO]: A11y_UwU left the game
-[03:47:45] [Server thread/WARN]: handleDisconnection() called twice
-[03:47:49] [User Authenticator #24/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[03:47:49] [Server thread/INFO]: A11y_UwU[/127.0.0.1:64829] logged in with entity id 1941193 at (2492.8220252436577, 103.25220334025373, 1441.4271952564065)
-[03:47:49] [Server thread/INFO]: A11y_UwU joined the game
-[03:47:49] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
-[03:49:53] [Server thread/INFO]: <togga99> hi
-[03:50:02] [Server thread/INFO]: <A11y_UwU> hi
-[03:50:41] [Server thread/INFO]: <togga99> stundum skil eg ekki foreldra mine eg er no joke að blasta tonlist og þeim er alveg sama
-[03:50:57] [Server thread/INFO]: <A11y_UwU> ahahhaha
-[03:51:43] [Server thread/INFO]: <togga99> d
-[03:51:46] [Server thread/INFO]: <togga99> ddddddddddddddddddddddddddddddddddddddddddd
-[03:52:04] [Server thread/INFO]: <togga99> attu mkið af rauðu timbri?
-[03:52:15] [Server thread/INFO]: <A11y_UwU> veit eki
-[03:52:25] [Server thread/INFO]: <A11y_UwU> en þú mátt taka allt sem þú finnur
-[03:52:31] [Server thread/INFO]: <togga99> danke
-[03:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[03:59:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2323, y=72, z=1414} class_2338{x=2322, y=72, z=1413}
-[04:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[04:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[04:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[04:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[04:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[04:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5627ms or 112 ticks behind
-[04:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[04:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[04:12:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[04:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
-[04:12:40] [Server thread/INFO]: <togga99> öm
-[04:12:45] [Server thread/INFO]: <A11y_UwU> hva
-[04:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[04:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[04:13:38] [Server thread/INFO]: <A11y_UwU> togga?
-[04:13:39] [Server thread/INFO]: <togga99> það eru 3 gæjar með áras herna
-[04:13:47] [Server thread/INFO]: <A11y_UwU> ok
-[04:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[04:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
-[04:14:20] [Server thread/INFO]: <togga99> fer bara að sofa
-[04:16:42] [Server thread/INFO]: <togga99> eg held eg heyri i móður minni
-[04:17:04] [Server thread/INFO]: <A11y_UwU> gaman
-[04:17:06] [Server thread/INFO]: <togga99> nnei
-[04:17:12] [Server thread/INFO]: <A11y_UwU> lol
-[04:17:23] [Server thread/INFO]: <togga99> eg er ekki tilbuin að deyja
-[04:18:12] [Server thread/INFO]: <A11y_UwU> um... ég fór 3000 block í burtu og byrjðai á þessu biomei............. og var að finna neðanjarðar base hérna hahahahahhahahaha
-[04:18:22] [Server thread/INFO]: <togga99> u hver a það
-[04:18:38] [Server thread/INFO]: <A11y_UwU> 2345 1450
-[04:19:08] [Server thread/INFO]: <togga99> ttaktu það í eigur þinar
-[04:19:44] [Server thread/INFO]: <A11y_UwU> nei kannski er þetta bara mine
-[04:20:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1984068, l='ServerLevel[world]', x=-464.17, y=76.00, z=283.71]
-[04:20:14] [Server thread/INFO]: <A11y_UwU> ég ættla samt að spyrjast um hvort þetta sé ekki örugglega allt í lagi að ég eigni mæer svæðið
-[04:20:56] [Server thread/INFO]: <togga99> ja
-[04:21:48] [Server thread/INFO]: <A11y_UwU> nene það er ekkert herna nema 4 kistur með koli og einhverju
-[04:21:52] [Server thread/INFO]: <A11y_UwU> þetta er bara mine
-[04:22:00] [Server thread/INFO]: <A11y_UwU> findið
-[04:22:30] [Server thread/INFO]: <togga99> meiksenns
-[04:24:21] [Server thread/INFO]: <A11y_UwU> ég þarf víst að fara að sofa áður en pabbi kemur inn að kíkja eins og lúði >:(
-[04:24:49] [Server thread/INFO]: <togga99> ja eg ætla lika að fara að sofa er örg að fara i kaffi einhvert á mrg þannig sjaumst og gn
-[04:24:57] [Server thread/INFO]: <A11y_UwU> ja same
-[04:24:58] [Server thread/INFO]: <A11y_UwU> gn
-[04:25:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1990841, l='ServerLevel[world]', x=-456.20, y=76.00, z=271.45]
-[04:25:36] [Server thread/INFO]: togga99 lost connection: Disconnected
-[04:25:36] [Server thread/INFO]: togga99 left the game
-[04:26:35] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[04:26:35] [Server thread/INFO]: A11y_UwU left the game
-[06:29:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2123136, l='ServerLevel[world]', x=-291.57, y=253.00, z=114.03]
-[07:09:31] [User Authenticator #25/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[07:09:31] [Server thread/INFO]: togga99[/89.160.212.94:58037] logged in with entity id 2163587 at (-432.064070939789, 75.0, 335.82027794071297)
-[07:09:31] [Server thread/INFO]: togga99 joined the game
-[07:12:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-459, y=74, z=361} class_2338{x=-459, y=75, z=361}
-[07:13:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2169221, l='ServerLevel[world]', x=-461.23, y=76.00, z=288.17]
-[07:19:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2175712, l='ServerLevel[world]', x=-461.36, y=76.00, z=286.83]
-[07:22:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2179515, l='ServerLevel[world]', x=-461.70, y=76.00, z=286.83]
-[07:28:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2185407, l='ServerLevel[world]', x=-461.78, y=76.00, z=287.42]
-[07:29:59] [Server thread/INFO]: togga99 lost connection: Disconnected
-[07:29:59] [Server thread/INFO]: togga99 left the game
-[07:35:07] [User Authenticator #26/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[07:35:07] [Server thread/INFO]: togga99[/89.160.212.94:58171] logged in with entity id 2192807 at (-433.4671859163371, 84.5625, 326.59782720454115)
-[07:35:07] [Server thread/INFO]: togga99 joined the game
-[07:35:12] [Server thread/INFO]: <togga99> sssss
-[07:42:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2201996, l='ServerLevel[world]', x=-462.17, y=76.00, z=288.17]
-[07:48:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2209000, l='ServerLevel[world]', x=-456.83, y=76.00, z=272.68]
-[07:51:30] [Server thread/INFO]: <togga99> if i die just look up to the sky and say bye felicia
-[07:56:12] [Server thread/INFO]: togga99 has made the advancement [Voluntary Exile]
-[07:59:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2221940, l='ServerLevel[world]', x=-460.83, y=76.00, z=286.83]
-[08:03:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2226308, l='ServerLevel[world]', x=-461.33, y=76.00, z=287.42]
-[08:18:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2244557, l='ServerLevel[world]', x=-460.83, y=76.00, z=287.29]
-[08:31:31] [Server thread/INFO]: togga99 lost connection: Disconnected
-[08:31:31] [Server thread/INFO]: togga99 left the game
-[12:41:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2526931, l='ServerLevel[world]', x=-291.50, y=253.00, z=114.07]
-[15:54:43] [User Authenticator #27/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[15:54:43] [Server thread/INFO]: togga99[/89.160.212.94:53762] logged in with entity id 2732815 at (289.300000011921, 77.0, 531.3000000119209)
-[15:54:43] [Server thread/INFO]: togga99 joined the game
-[16:22:13] [Server thread/INFO]: togga99 lost connection: Disconnected
-[16:22:13] [Server thread/INFO]: togga99 left the game
-[16:49:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:49:40] [Server thread/INFO]: <--[HERE]
-[16:51:22] [User Authenticator #28/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
-[16:51:22] [Server thread/INFO]: togga99[/89.160.212.94:54002] logged in with entity id 2797520 at (-428.6667003031476, 75.0, 341.0887167856817)
-[16:51:22] [Server thread/INFO]: togga99 joined the game
-[16:59:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-461, y=72, z=348} class_2338{x=-461, y=73, z=348}
-[16:59:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-461, y=71, z=348} class_2338{x=-461, y=73, z=348}
-[17:02:18] [Server thread/INFO]: <togga99> sssssssssss
-[17:08:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-470, y=71, z=348} class_2338{x=-470, y=70, z=349}
-[17:08:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-470, y=71, z=348} class_2338{x=-470, y=70, z=349}
-[17:08:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-471, y=70, z=356} class_2338{x=-468, y=70, z=356}
-[17:13:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2825283, l='ServerLevel[world]', x=-461.77, y=76.00, z=287.75]
-[17:13:21] [Server thread/INFO]: <togga99> ssssssssssss
-[17:20:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2833529, l='ServerLevel[world]', x=-461.77, y=76.00, z=287.75]
-[17:20:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2834397, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.27]
-[17:24:14] [Server thread/INFO]: <togga99> asssssssssssss
-[17:34:47] [Server thread/INFO]: <togga99> ssssssssssssss
-[17:37:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2853895, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.27]
-[17:45:42] [Server thread/INFO]: <togga99> sssssssssssss
-[17:57:30] [Server thread/INFO]: <togga99> ssssssssssssss
-[18:05:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2887506, l='ServerLevel[world]', x=-456.20, y=76.00, z=272.80]
-[18:08:59] [Server thread/INFO]: <togga99> sssssssssssss
-[18:19:54] [Server thread/INFO]: <togga99> ssssssssssssss
-[18:20:06] [Server thread/INFO]: togga99 lost connection: Disconnected
-[18:20:06] [Server thread/INFO]: togga99 left the game
-[22:08:14] [Server thread/INFO]: Stopping the server
-[22:08:14] [Server thread/INFO]: Stopping server
-[22:08:14] [Server thread/INFO]: Saving players
-[22:08:14] [Server thread/INFO]: Saving worlds
-[22:08:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:08:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:08:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:08:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:08:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:08:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:08:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:11:20] [main/INFO]: Loading for game Minecraft 1.16.4
+[22:11:20] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[22:11:20] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+8724984195, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-commands-v0@0.2.0+52d3083695, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, fabric-loot-tables-v1@1.0.1+432ea18895, carpet-extra@1.4.14, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[22:11:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[22:11:31] [main/INFO]: [VanillaEnhanced] Hello there.
+[22:11:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:11:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:11:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:11:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:11:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:11:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:11:34] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip
+[22:11:36] [Worker-Main-5/INFO]: Loaded 7 recipes
+[22:11:36] [Worker-Main-5/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[22:11:36] [Worker-Main-5/INFO]: Loaded 927 advancements
+[22:11:37] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 2.115 ms
+[22:11:37] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:11:37] [Server thread/INFO]: Loading properties
+[22:11:37] [Server thread/INFO]: Default game type: SURVIVAL
+[22:11:37] [Server thread/INFO]: Generating keypair
+[22:11:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:11:38] [Server thread/INFO]: Using default channel type
+[22:11:42] [Server thread/INFO]: Preparing level "world"
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[22:11:42] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[22:11:43] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[22:11:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:11:44] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:44] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:44] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:44] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:45] [Server thread/INFO]: Time elapsed: 2353 ms
+[22:11:45] [Server thread/INFO]: Done (3.137s)! For help, type "help"
+[22:31:17] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:31:18] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50021] logged in with entity id 77 at (2332.422483799363, 71.0, 1487.9582118023689)
+[22:31:18] [Server thread/INFO]: A11y_UwU joined the game
+[22:31:28] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[22:31:59] [Server thread/WARN]: A11y_UwU moved too quickly! 14.216554468842332,-0.41999998688697815,10.082164157563284
+[22:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7716ms or 154 ticks behind
+[22:36:06] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:36:07] [Server thread/INFO]: A11y_UwU left the game
+[22:36:24] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:36:25] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50090] logged in with entity id 765 at (2353.515720886553, 70.0, 1469.5567011938651)
+[22:36:25] [Server thread/INFO]: A11y_UwU joined the game
+[22:36:25] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[22:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[22:45:05] [Server thread/WARN]: A11y_UwU moved wrongly!
+[22:46:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3548, l='ServerLevel[world]', x=-464.55, y=76.00, z=282.97]
+[23:00:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7920, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.74]
+[23:02:52] [Server thread/WARN]: A11y_UwU was kicked for floating too long!
+[23:02:52] [Server thread/INFO]: A11y_UwU lost connection: Flying is not enabled on this server
+[23:02:52] [Server thread/INFO]: A11y_UwU left the game
+[23:02:52] [Server thread/WARN]: handleDisconnection() called twice
+[23:02:56] [User Authenticator #3/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:02:56] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50283] logged in with entity id 8898 at (-499.2105675621023, 85.7531999805212, 237.09249569207694)
+[23:02:57] [Server thread/INFO]: A11y_UwU joined the game
+[23:02:57] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:14:04] [Server thread/WARN]: A11y_UwU moved wrongly!
+[23:20:45] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:20:45] [Server thread/INFO]: A11y_UwU left the game
+[23:20:48] [User Authenticator #4/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:20:48] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50387] logged in with entity id 19771 at (-487.716528901043, 79.0, 255.83199200292978)
+[23:20:48] [Server thread/INFO]: A11y_UwU joined the game
+[23:20:49] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:22:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20956, l='ServerLevel[world]', x=-493.80, y=65.07, z=384.20]
+[23:25:39] [User Authenticator #5/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[23:25:39] [Server thread/INFO]: togga99[/89.160.212.94:55356] logged in with entity id 21864 at (-460.5, 73.0, 366.5)
+[23:25:39] [Server thread/INFO]: togga99 joined the game
+[23:25:58] [Server thread/INFO]: <togga99> vhvað er raid
+[23:26:17] [Server thread/INFO]: togga99 lost connection: Disconnected
+[23:26:17] [Server thread/INFO]: togga99 left the game
+[23:26:46] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:26:46] [Server thread/INFO]: A11y_UwU left the game
+[23:27:03] [Server thread/INFO]: Stopping the server
+[23:27:03] [Server thread/INFO]: Stopping server
+[23:27:03] [Server thread/INFO]: Saving players
+[23:27:03] [Server thread/INFO]: Saving worlds
+[23:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:27:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:27:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:27:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:27:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

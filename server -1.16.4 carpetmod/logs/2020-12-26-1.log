@@ -1,0 +1,33 @@
+[00:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[00:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[00:07:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/60721, l='ServerLevel[world]', x=-461.77, y=76.00, z=288.17]
+[00:07:59] [Server thread/WARN]: A11y_UwU moved too quickly! 8.076430492770498,-8.353344796851161,13.688744161839224
+[00:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4252ms or 85 ticks behind
+[00:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[00:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[00:11:09] [Server thread/WARN]: A11y_UwU moved too quickly! 6.445088170348868,-5.898332301597833,15.433856827494083
+[00:11:13] [Server thread/WARN]: A11y_UwU moved too quickly! 8.816941817878984,-1.613735790357822,16.28737414785803
+[00:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[00:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[00:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5859ms or 117 ticks behind
+[00:13:20] [Server thread/WARN]: A11y_UwU moved too quickly! 6.16026497923292,-0.47315544943730004,-16.365398836343957
+[00:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:15:27] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:15:27] [Server thread/INFO]: A11y_UwU left the game
+[00:16:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:16:41] [Server thread/INFO]: 4stop<--[HERE]
+[00:16:47] [Server thread/INFO]: Stopping the server
+[00:16:47] [Server thread/INFO]: Stopping server
+[00:16:47] [Server thread/INFO]: Saving players
+[00:16:47] [Server thread/INFO]: Saving worlds
+[00:16:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:16:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:16:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:16:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

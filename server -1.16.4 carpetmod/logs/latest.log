@@ -1,25 +1,124 @@
-[00:40:13] [Server thread/INFO]: Reloading!
-[00:40:13] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:40:13] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:40:13] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:40:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:40:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:40:14] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip, afk display v1.1.0.zip, dragon drops v1.3.0.zip, durability ping v1.1.0.zip, fast leaf decay v2.0.3.zip, multiplayer sleep v2.5.2.zip, real time clock v1.1.0.zip
-[00:40:17] [Server thread/INFO]: Loaded 7 recipes
-[00:40:17] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[00:40:17] [Server thread/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
-[00:40:17] [Server thread/INFO]: Loaded 1000 advancements
-[00:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
-[00:41:29] [Server thread/INFO]: Stopping the server
-[00:41:29] [Server thread/INFO]: Stopping server
-[00:41:29] [Server thread/INFO]: Saving players
-[00:41:29] [Server thread/INFO]: Saving worlds
-[00:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:41:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:41:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:41:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:46:48] [main/INFO]: Loading for game Minecraft 1.16.4
+[00:47:44] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[00:47:44] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[00:47:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[00:47:55] [main/INFO]: [VanillaEnhanced] Hello there.
+[00:47:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:47:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:47:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:47:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:47:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:47:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:47:59] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip, afk display v1.1.0.zip, dragon drops v1.3.0.zip, durability ping v1.1.0.zip, real time clock v1.1.0.zip
+[00:48:02] [Worker-Main-4/INFO]: Loaded 7 recipes
+[00:48:03] [Worker-Main-4/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[00:48:03] [Worker-Main-4/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[00:48:03] [Worker-Main-4/INFO]: Loaded 997 advancements
+[00:48:04] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 1.839 ms
+[00:48:05] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[00:48:05] [Server thread/INFO]: Loading properties
+[00:48:05] [Server thread/INFO]: Default game type: SURVIVAL
+[00:48:05] [Server thread/INFO]: Generating keypair
+[00:48:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:48:05] [Server thread/INFO]: Using default channel type
+[00:48:08] [Server thread/INFO]: Preparing level "world"
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[00:48:08] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[00:48:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:48:10] [Server thread/INFO]: Preparing spawn area: 0%
+[00:48:10] [Server thread/INFO]: Preparing spawn area: 0%
+[00:48:10] [Server thread/INFO]: Preparing spawn area: 0%
+[00:48:10] [Server thread/INFO]: Preparing spawn area: 0%
+[00:48:10] [Server thread/INFO]: Preparing spawn area: 0%
+[00:48:15] [Server thread/INFO]: Time elapsed: 6895 ms
+[00:48:15] [Server thread/INFO]: Done (7.431s)! For help, type "help"
+[00:49:32] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:49:33] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52431] logged in with entity id 77 at (-293.6808679080676, 128.0, 124.55245075106458)
+[00:49:33] [Server thread/INFO]: A11y_UwU joined the game
+[00:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[00:49:35] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20619ms or 412 ticks behind
+[00:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[00:59:21] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:59:21] [Server thread/INFO]: A11y_UwU left the game
+[03:46:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:46:04] [Server thread/INFO]: dragon dropsbstop<--[HERE]
+[15:40:59] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[15:41:00] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54248] logged in with entity id 47556 at (-315.6466309254885, 128.0, 122.29973895058335)
+[15:41:01] [Server thread/INFO]: A11y_UwU joined the game
+[15:41:05] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[15:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[15:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[15:42:47] [Server thread/INFO]: Steve[local] logged in with entity id 48621 at (-291.3423590634365, 222.0, 111.50992940837604)
+[15:42:47] [Server thread/INFO]: Steve joined the game
+[15:42:52] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[15:42:52] [Server thread/INFO]: A11y_UwU left the game
+[15:43:04] [User Authenticator #3/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[15:43:05] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54288] logged in with entity id 48967 at (-294.4757670267459, 221.5, 111.00318694920698)
+[15:43:05] [Server thread/INFO]: A11y_UwU joined the game
+[15:43:07] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[15:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[15:56:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[15:59:11] [User Authenticator #4/INFO]: UUID of player RuKlo is b5f86e02-8cbf-4c87-bc12-cfcce3b3100e
+[15:59:12] [Server thread/INFO]: RuKlo[/157.157.141.64:62819] logged in with entity id 64538 at (62.81572773726659, 65.5625, 834.1713679862859)
+[15:59:12] [Server thread/INFO]: RuKlo joined the game
+[15:59:19] [Server thread/INFO]: <A11y_UwU> helluuu
+[15:59:23] [Server thread/INFO]: <RuKlo> hello
+[15:59:28] [Server thread/INFO]: <RuKlo> er bara aðeins að skoða :D
+[15:59:38] [Server thread/INFO]: <A11y_UwU> cul cul
+[16:00:27] [Server thread/INFO]: RuKlo lost connection: Disconnected
+[16:00:27] [Server thread/INFO]: RuKlo left the game
+[16:03:14] [Server thread/WARN]: A11y_UwU moved too quickly! -10.007193870696483,13.150488479419565,-8.22825898890892
+[16:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[16:12:56] [Server thread/INFO]: [A11y_UwU: Triggered [show clock display]]
+[16:13:23] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[16:13:23] [Server thread/INFO]: A11y_UwU left the game
+[16:14:11] [User Authenticator #5/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[16:14:12] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54460] logged in with entity id 84282 at (2350.631048712018, 72.0, 1487.710499957086)
+[16:14:12] [Server thread/INFO]: A11y_UwU joined the game
+[16:14:12] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[16:18:57] [Server thread/WARN]: A11y_UwU moved too quickly! -5.714377565321229,-2.934737589135338,-16.407053835972647
+[16:24:59] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[16:24:59] [Server thread/INFO]: A11y_UwU left the game
+[16:29:56] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[16:28:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[20:31:55] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:31:58] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2020-12-28_20.31.58-server.txt
+[20:31:58] [Server thread/INFO]: Stopping server
+[20:31:58] [Server thread/INFO]: Saving players
+[20:31:58] [Server thread/INFO]: Saving worlds
+[20:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:32:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:32:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

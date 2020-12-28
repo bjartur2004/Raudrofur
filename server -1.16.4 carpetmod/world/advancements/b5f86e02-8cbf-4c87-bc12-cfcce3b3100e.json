@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-28 15:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2020-11-13 15:03:21 +0000"
@@ -728,6 +734,12 @@
       "minecraft:zombie": "2020-11-09 22:20:53 +0000"
     },
     "done": false
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2020-12-28 15:59:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -1029,6 +1041,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2020-12-28 15:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2020-11-16 18:35:05 +0000"
@@ -1290,6 +1308,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-11-15 01:53:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2020-12-28 15:59:12 +0000"
     },
     "done": true
   },
@@ -2159,6 +2183,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-11-10 12:41:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2020-12-28 15:59:12 +0000"
     },
     "done": true
   },

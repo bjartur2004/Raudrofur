@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2020-12-28 15:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-20 01:48:42 +0000"
@@ -187,6 +193,12 @@
     },
     "done": true
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2020-12-28 15:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-11-19 17:02:39 +0000"
@@ -230,6 +242,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-28 15:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-12-20 01:48:41 +0000"
@@ -245,6 +263,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2020-11-19 21:27:42 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2020-12-28 15:42:47 +0000"
     },
     "done": true
   },
@@ -293,6 +317,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2020-12-20 01:48:41 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2020-12-28 15:42:47 +0000"
     },
     "done": true
   },

@@ -1,15 +1,25 @@
-[15:00:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:00:23] [Server thread/INFO]: j<--[HERE]
-[18:31:22] [Server thread/INFO]: Stopping the server
-[18:31:22] [Server thread/INFO]: Stopping server
-[18:31:22] [Server thread/INFO]: Saving players
-[18:31:22] [Server thread/INFO]: Saving worlds
-[18:31:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:31:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:31:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:31:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:40:13] [Server thread/INFO]: Reloading!
+[00:40:13] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:40:13] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:40:13] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:40:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:40:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:40:14] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip, afk display v1.1.0.zip, dragon drops v1.3.0.zip, durability ping v1.1.0.zip, fast leaf decay v2.0.3.zip, multiplayer sleep v2.5.2.zip, real time clock v1.1.0.zip
+[00:40:17] [Server thread/INFO]: Loaded 7 recipes
+[00:40:17] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[00:40:17] [Server thread/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[00:40:17] [Server thread/INFO]: Loaded 1000 advancements
+[00:40:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
+[00:41:29] [Server thread/INFO]: Stopping the server
+[00:41:29] [Server thread/INFO]: Stopping server
+[00:41:29] [Server thread/INFO]: Saving players
+[00:41:29] [Server thread/INFO]: Saving worlds
+[00:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

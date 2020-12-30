@@ -1,9 +1,40 @@
 {
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2020-12-29 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-29 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2020-12-29 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2020-12-29 21:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest_hills": "2020-12-29 21:56:01 +0000",
       "minecraft:plains": "2020-11-05 17:47:25 +0000"
     },
     "done": false
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2020-12-29 21:56:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2584
 }

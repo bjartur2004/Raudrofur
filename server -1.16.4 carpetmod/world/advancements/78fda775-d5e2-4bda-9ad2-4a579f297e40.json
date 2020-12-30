@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-29 21:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-11-12 15:36:58 +0000"
@@ -725,6 +731,12 @@
     },
     "done": false
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2020-12-29 21:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-11-15 21:21:03 +0000"
@@ -1007,6 +1019,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2020-12-29 21:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-12 15:41:40 +0000"
@@ -1268,6 +1286,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-11-18 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2020-12-29 21:13:37 +0000"
     },
     "done": true
   },
@@ -2212,6 +2236,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-11-12 19:10:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2020-12-29 21:13:37 +0000"
     },
     "done": true
   },

@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-01-01 02:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-11-04 18:06:23 +0000"
@@ -392,6 +398,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-11-04 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:47 +0000"
     },
     "done": true
   },
@@ -706,6 +718,12 @@
     },
     "done": false
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-11-11 21:21:06 +0000"
@@ -970,6 +988,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-18 20:48:43 +0000"
@@ -1213,6 +1237,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-11-16 20:43:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:47 +0000"
     },
     "done": true
   },
@@ -2103,6 +2133,12 @@
     },
     "done": true
   },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-11-04 18:19:04 +0000"
@@ -2426,6 +2462,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-11-11 20:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-01-01 02:42:38 +0000"
     },
     "done": true
   },
@@ -3134,6 +3176,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2020-11-11 16:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-01-01 02:42:38 +0000"
     },
     "done": true
   },

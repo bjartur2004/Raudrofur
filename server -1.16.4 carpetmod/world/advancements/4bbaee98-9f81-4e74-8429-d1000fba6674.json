@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-11-06 14:51:48 +0000"
@@ -708,6 +714,12 @@
     },
     "done": false
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-11-10 13:44:32 +0000"
@@ -984,6 +996,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-11-06 14:11:02 +0000"
@@ -1209,6 +1227,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-11-10 14:14:22 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:53 +0000"
     },
     "done": true
   },
@@ -2136,6 +2160,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-11-05 15:21:12 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:53 +0000"
     },
     "done": true
   },

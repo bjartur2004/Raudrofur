@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2020-11-11 16:23:07 +0000"
@@ -903,6 +909,12 @@
     },
     "done": false
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-11-11 13:40:13 +0000"
@@ -1275,6 +1287,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-16 18:43:22 +0000"
@@ -1635,6 +1653,12 @@
     },
     "done": true
   },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-11-04 18:49:01 +0000"
@@ -1813,6 +1837,7 @@
       "minecraft:desert_hills": "2020-11-04 16:34:43 +0000",
       "minecraft:giant_tree_taiga": "2020-11-11 16:07:41 +0000",
       "minecraft:deep_cold_ocean": "2020-12-23 22:39:29 +0000",
+      "minecraft:taiga_hills": "2021-01-01 02:15:30 +0000",
       "minecraft:desert": "2020-11-04 16:26:59 +0000",
       "minecraft:deep_frozen_ocean": "2020-12-23 22:42:31 +0000",
       "minecraft:jungle": "2020-11-04 16:35:53 +0000",
@@ -2588,6 +2613,7 @@
       "baked_potato": "2020-11-08 16:33:28 +0000",
       "porkchop": "2020-11-11 19:51:26 +0000",
       "cooked_cod": "2020-11-24 13:27:05 +0000",
+      "pumpkin_pie": "2021-01-01 02:22:48 +0000",
       "bread": "2020-11-21 18:01:45 +0000",
       "rotten_flesh": "2020-11-04 16:17:19 +0000",
       "suspicious_stew": "2020-11-09 19:08:04 +0000",
@@ -2753,6 +2779,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-11-10 13:33:49 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-01 02:03:49 +0000"
     },
     "done": true
   },

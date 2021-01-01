@@ -1,16 +1,16 @@
-[00:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[01:26:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:26:48] [Server thread/INFO]: eastersb<--[HERE]
-[01:26:54] [Server thread/INFO]: Stopping the server
-[01:26:54] [Server thread/INFO]: Stopping server
-[01:26:54] [Server thread/INFO]: Saving players
-[01:26:54] [Server thread/INFO]: Saving worlds
-[01:26:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:26:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:26:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:08:03] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[01:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[02:00:44] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[02:00:46] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2021-01-01_02.00.46-server.txt
+[02:00:46] [Server thread/INFO]: Stopping server
+[02:00:46] [Server thread/INFO]: Saving players
+[02:00:46] [Server thread/INFO]: Saving worlds
+[02:00:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

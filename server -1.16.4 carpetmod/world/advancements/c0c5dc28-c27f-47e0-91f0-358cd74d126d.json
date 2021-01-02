@@ -1,4 +1,16 @@
 {
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-11-28 23:34:45 +0000"
@@ -17,12 +29,30 @@
     },
     "done": true
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-11-28 21:33:32 +0000",
       "minecraft:lukewarm_ocean": "2020-11-27 23:07:35 +0000"
     },
     "done": false
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2584
 }

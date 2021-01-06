@@ -1,0 +1,36 @@
+[12:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[21:02:50] [User Authenticator #4/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:02:50] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51710] logged in with entity id 7619 at (-455.8965074024505, 75.0, 297.683542750829)
+[21:02:50] [Server thread/INFO]: A11y_UwU joined the game
+[21:02:51] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[21:04:38] [Server thread/INFO]: A11y_UwU has completed the challenge [Sniper Duel]
+[21:05:16] [Server thread/WARN]: A11y_UwU moved too quickly! -4.888649138207143,-17.179628119029076,-1.9324007519374504
+[21:33:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14259, l='ServerLevel[world]', x=-461.33, y=76.00, z=287.27]
+[21:43:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-487, y=61, z=336} class_2338{x=-487, y=60, z=337}
+[22:05:10] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:05:10] [Server thread/INFO]: A11y_UwU left the game
+[22:06:57] [User Authenticator #5/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:06:57] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51966] logged in with entity id 19095 at (-484.2846707104736, 62.0, 332.5848235304898)
+[22:06:57] [Server thread/INFO]: A11y_UwU joined the game
+[22:06:58] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:22:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23517, l='ServerLevel[world]', x=-466.55, y=68.00, z=367.74]
+[22:40:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26064, l='ServerLevel[world]', x=-461.71, y=76.00, z=286.83]
+[22:40:38] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:40:38] [Server thread/INFO]: A11y_UwU left the game
+[23:14:41] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:14:41] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52316] logged in with entity id 26100 at (-484.2306367030221, 63.0, 334.0392516650006)
+[23:14:41] [Server thread/INFO]: A11y_UwU joined the game
+[23:14:41] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:20:04] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:20:04] [Server thread/INFO]: A11y_UwU left the game
+[23:21:56] [User Authenticator #7/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:21:57] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52380] logged in with entity id 27169 at (-484.37557765534234, 63.0, 334.69999998807907)
+[23:21:57] [Server thread/INFO]: A11y_UwU joined the game
+[23:21:57] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:22:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27764, l='ServerLevel[world]', x=-464.91, y=61.00, z=362.70]
+[23:45:58] [Server thread/INFO]: Cobble[local] logged in with entity id 31259 at (-488.56170001097905, 68.0, 332.30000001192093)
+[23:45:58] [Server thread/INFO]: Cobble joined the game
+[23:46:55] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:46:55] [Server thread/INFO]: A11y_UwU left the game
+[23:53:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/32423, l='ServerLevel[world]', x=-461.28, y=76.00, z=287.75]

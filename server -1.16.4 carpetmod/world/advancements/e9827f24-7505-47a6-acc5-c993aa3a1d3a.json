@@ -1,0 +1,39 @@
+{
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-05 23:45:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-01-05 23:45:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-05 23:45:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-05 23:45:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-05 23:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2021-01-05 23:45:58 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

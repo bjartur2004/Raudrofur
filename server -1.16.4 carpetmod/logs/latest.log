@@ -1,36 +1,13 @@
-[00:10:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/34963, l='ServerLevel[world]', x=-464.51, y=68.00, z=366.60]
-[00:26:12] [User Authenticator #8/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[00:26:12] [Server thread/INFO]: A11y_UwU[/127.0.0.1:52641] logged in with entity id 37231 at (-487.35337910911625, 67.0, 336.7646587053451)
-[00:26:12] [Server thread/INFO]: A11y_UwU joined the game
-[00:26:14] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
-[00:41:19] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[00:41:19] [Server thread/INFO]: A11y_UwU left the game
-[00:56:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43997, l='ServerLevel[world]', x=-462.17, y=76.00, z=287.71]
-[00:59:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/44430, l='ServerLevel[world]', x=-467.70, y=67.39, z=367.70]
-[01:01:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/44701, l='ServerLevel[world]', x=-461.76, y=76.00, z=288.17]
-[01:23:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/47851, l='ServerLevel[world]', x=-467.70, y=68.00, z=368.16]
-[01:30:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48803, l='ServerLevel[world]', x=-466.70, y=67.77, z=368.70]
-[01:30:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48840, l='ServerLevel[world]', x=-461.35, y=76.00, z=286.83]
-[01:31:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/48878, l='ServerLevel[world]', x=-466.84, y=68.00, z=365.85]
-[01:52:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51866, l='ServerLevel[world]', x=-467.50, y=67.92, z=365.41]
-[02:29:02] [User Authenticator #9/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
-[02:29:02] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58521] logged in with entity id 56816 at (-422.9743213722669, 76.0, 317.3914721523145)
-[02:29:02] [Server thread/INFO]: A11y_UwU joined the game
-[02:29:03] [Netty Server IO #2/INFO]: Player A11y_UwU joined with a matching carpet client
-[02:29:13] [Server thread/INFO]: Cobble lost connection: Killed
-[02:29:13] [Server thread/INFO]: Cobble left the game
-[02:42:18] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
-[02:42:18] [Server thread/INFO]: A11y_UwU left the game
-[03:09:00] [Server thread/INFO]: Stopping the server
-[03:09:00] [Server thread/INFO]: Stopping server
-[03:09:00] [Server thread/INFO]: Saving players
-[03:09:00] [Server thread/INFO]: Saving worlds
-[03:09:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:09:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:09:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:09:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:09:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:09:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:09:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:09:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:09:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:41] [Server thread/INFO]: Stopping the server
+[00:36:41] [Server thread/INFO]: Stopping server
+[00:36:41] [Server thread/INFO]: Saving players
+[00:36:41] [Server thread/INFO]: Saving worlds
+[00:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

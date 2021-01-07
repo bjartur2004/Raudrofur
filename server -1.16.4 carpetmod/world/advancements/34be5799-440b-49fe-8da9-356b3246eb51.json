@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-01-06 17:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-11-14 21:49:45 +0000"
@@ -885,6 +891,12 @@
     },
     "done": false
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-06 17:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-11-16 12:27:27 +0000"
@@ -1197,6 +1209,12 @@
     },
     "done": true
   },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-06 17:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-17 21:17:10 +0000"
@@ -1500,6 +1518,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-11-15 17:07:13 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-06 17:19:42 +0000"
     },
     "done": true
   },
@@ -2572,6 +2596,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-11-15 23:22:54 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-06 17:19:42 +0000"
     },
     "done": true
   },

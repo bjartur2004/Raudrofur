@@ -1,0 +1,397 @@
+[15:33:44] [main/INFO]: Loading for game Minecraft 1.16.4
+[15:33:44] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:33:44] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-models-v0@0.1.1+f8ac1db295, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[15:33:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[15:33:53] [main/INFO]: [VanillaEnhanced] Hello there.
+[15:33:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:33:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:56] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip, afk display v1.1.0.zip, dragon drops v1.3.0.zip, durability ping v1.1.0.zip, real time clock v1.1.0.zip
+[15:33:58] [Worker-Main-5/INFO]: Loaded 7 recipes
+[15:33:58] [Worker-Main-5/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[15:33:58] [Worker-Main-5/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[15:33:58] [Worker-Main-5/INFO]: Loaded 997 advancements
+[15:33:59] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 3.834 ms
+[15:33:59] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:33:59] [Server thread/INFO]: Loading properties
+[15:33:59] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:59] [Server thread/INFO]: Generating keypair
+[15:33:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:59] [Server thread/INFO]: Using default channel type
+[15:34:01] [Server thread/INFO]: Preparing level "world"
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[15:34:01] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[15:34:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:34:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 53%
+[15:34:05] [Server thread/INFO]: Time elapsed: 2787 ms
+[15:34:05] [Server thread/INFO]: Done (3.843s)! For help, type "help"
+[15:34:32] [User Authenticator #1/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[15:34:33] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:56906] logged in with entity id 75 at (-25.145219918049428, 76.0, 83.50420399518848)
+[15:34:33] [Server thread/INFO]: Gamerfirl_420 joined the game
+[16:06:38] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[16:06:38] [Server thread/INFO]: Gamerfirl_420 left the game
+[17:03:59] [User Authenticator #2/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[17:03:59] [Server thread/INFO]: Sminky52[/89.17.139.9:61267] logged in with entity id 6548 at (-677.5540145969746, 69.0, 657.4192342584603)
+[17:03:59] [Server thread/INFO]: Sminky52 joined the game
+[17:04:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-681, y=74, z=643}
+[17:04:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-680, y=75, z=641} class_2338{x=-681, y=75, z=643}
+[17:05:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-674, y=73, z=655} class_2338{x=-673, y=73, z=655}
+[17:16:36] [User Authenticator #3/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[17:16:36] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:59485] logged in with entity id 8350 at (-167.81172744488907, 64.0, 831.5179876811098)
+[17:16:36] [Server thread/INFO]: Gamerfirl_420 joined the game
+[17:19:42] [User Authenticator #4/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[17:19:42] [Server thread/INFO]: Ravle1[/89.160.178.238:63542] logged in with entity id 9469 at (703.2375000119209, 70.0, -1772.286050176524)
+[17:19:42] [Server thread/INFO]: Ravle1 joined the game
+[17:20:13] [Server thread/INFO]: <Sminky52> OWO
+[17:25:32] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[17:25:32] [Server thread/INFO]: Sminky52 left the game
+[17:25:34] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[17:25:34] [Server thread/INFO]: Gamerfirl_420 left the game
+[17:25:50] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[17:25:50] [Server thread/INFO]: Ravle1 left the game
+[17:44:43] [User Authenticator #5/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:44:43] [Server thread/INFO]: A11y_UwU[/127.0.0.1:61123] logged in with entity id 13465 at (2336.2128326510187, 72.0, 1518.9593036350968)
+[17:44:43] [Server thread/INFO]: A11y_UwU joined the game
+[17:44:46] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[17:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[17:45:22] [Server thread/INFO]: <A11y_UwU> -167 830
+[17:45:45] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[17:45:45] [Server thread/INFO]: A11y_UwU left the game
+[17:52:38] [User Authenticator #6/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:52:39] [Server thread/INFO]: A11y_UwU[/127.0.0.1:61182] logged in with entity id 13737 at (2336.2128326510187, 72.0, 1518.9593036350968)
+[17:52:39] [Server thread/INFO]: A11y_UwU joined the game
+[17:52:39] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[17:53:07] [Server thread/INFO]: <A11y_UwU> -167 830
+[17:53:13] [Server thread/WARN]: A11y_UwU moved too quickly! -13.00757182176767,3.191336825233222,-12.13557620317556
+[17:54:08] [Server thread/WARN]: A11y_UwU moved too quickly! -13.562351605890854,-3.142372551600843,-11.823564023549466
+[17:54:39] [User Authenticator #7/INFO]: UUID of player Ravle1 is 34be5799-440b-49fe-8da9-356b3246eb51
+[17:54:39] [Server thread/INFO]: Ravle1[/89.160.178.238:63794] logged in with entity id 16763 at (700.9260239168137, 83.0, -1780.3769347867724)
+[17:54:39] [Server thread/INFO]: Ravle1 joined the game
+[17:54:45] [Server thread/INFO]: Ravle1 lost connection: Disconnected
+[17:54:45] [Server thread/INFO]: Ravle1 left the game
+[17:54:46] [Server thread/INFO]: <A11y_UwU> hellu
+[17:55:58] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[17:55:58] [Server thread/INFO]: A11y_UwU left the game
+[18:00:19] [User Authenticator #8/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[18:00:19] [Server thread/INFO]: togga99[/89.160.212.94:56725] logged in with entity id 18542 at (-462.0647789952787, 67.0625, 344.5635988449793)
+[18:00:19] [Server thread/INFO]: togga99 joined the game
+[18:00:54] [User Authenticator #9/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[18:00:54] [Server thread/INFO]: A11y_UwU[/127.0.0.1:61237] logged in with entity id 19124 at (-126.64352733675811, 73.0, 861.6999999880791)
+[18:00:54] [Server thread/INFO]: A11y_UwU joined the game
+[18:00:54] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[18:00:58] [Server thread/INFO]: <A11y_UwU> hæææ
+[18:01:02] [Server thread/INFO]: <togga99> hi
+[18:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[18:01:30] [Server thread/INFO]: <togga99> svo miklir flugeldar
+[18:01:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5964ms or 119 ticks behind
+[18:01:43] [Server thread/INFO]: <A11y_UwU> ok
+[18:01:50] [Server thread/INFO]: <togga99> er ekk hja þer?
+[18:02:02] [Server thread/INFO]: <A11y_UwU> ju smá
+[18:02:12] [Server thread/INFO]: <A11y_UwU> svona af og til nokkrar sprengjur
+[18:03:10] [Server thread/INFO]: <A11y_UwU> það komu 3 dúddar á serverið áðan og ég er einhvernvegin smá hræddur um að þeir geri einhvað leiðinlegt
+[18:03:24] [Server thread/INFO]: <togga99> hverjir eru þeir
+[18:03:29] [Server thread/INFO]: <A11y_UwU> og svo kom einn aftur þegar ég var og fór strax
+[18:03:39] [Server thread/INFO]: <togga99> oh nuna rett áðan
+[18:04:00] [Server thread/INFO]: <A11y_UwU> ravle1 sminky og gamerfirl
+[18:04:14] [Server thread/INFO]: <togga99> oh ravel er samt oft her held eg
+[18:04:21] [Server thread/INFO]: <A11y_UwU> ja stundum
+[18:04:55] [Server thread/INFO]: <togga99> a g0ngustígurinn að vera svona?
+[18:05:03] [Server thread/INFO]: <A11y_UwU> ..hann var með invis potion í inventoryinu sínu sem er spes en gæti verið bara til að mob sjái hann ekki
+[18:05:22] [Server thread/INFO]: <togga99> oh ja það er sma spes
+[18:05:22] [Server thread/INFO]: <A11y_UwU> idk var að prófa og finnst það alveg fínn grunnur
+[18:05:40] [Server thread/INFO]: <togga99> ja þetta er sætt svona
+[18:06:43] [Server thread/INFO]: <togga99> manneksjan sem gerði undertale tonlistina er einvað annað hæfileikaríkur
+[18:06:56] [Server thread/INFO]: <A11y_UwU> já án djóks
+[18:10:01] [Server thread/INFO]: <togga99> öm Max er horfinn
+[18:10:07] [Server thread/INFO]: <A11y_UwU> uu
+[18:10:08] [Server thread/INFO]: <togga99> oh nvm
+[18:10:13] [Server thread/INFO]: <A11y_UwU> ok gott
+[18:10:15] [Server thread/INFO]: <togga99> hann situr inni hinum hundinum
+[18:10:28] [Server thread/INFO]: <A11y_UwU> max þó
+[18:16:54] [Server thread/INFO]: <togga99> en sætt
+[18:16:58] [Server thread/INFO]: <A11y_UwU> ja
+[18:18:17] [Server thread/INFO]: <A11y_UwU> lol
+[18:18:43] [Server thread/INFO]: <togga99> þu veist að eg kemst ekki upp!!!!!!!!!!!!!
+[18:18:49] [Server thread/INFO]: <A11y_UwU> gangi þér vel
+[18:18:51] [Server thread/INFO]: <A11y_UwU> :P
+[18:19:06] [Server thread/INFO]: <togga99> hættu a gera holur í jörpðina!!!!!!!!!!
+[18:19:12] [Server thread/INFO]: <A11y_UwU> okok
+[18:19:13] [Server thread/INFO]: <togga99> wugfilwugefiewuhlfbhjedskoddsal
+[18:19:20] [Server thread/INFO]: <togga99> HÆTUUU
+[18:19:28] [Server thread/INFO]: <A11y_UwU> jaja er hættur lololo
+[18:19:39] [Server thread/INFO]: <togga99> EG KOMST
+[18:19:42] [Server thread/INFO]: <A11y_UwU> yeyyy
+[18:19:48] [Server thread/INFO]: <togga99> bjartur
+[18:19:51] [Server thread/INFO]: <A11y_UwU> ja
+[18:20:00] [Server thread/INFO]: <togga99> eg drap óvart egg lampann þinn óvart+
+[18:20:03] [Server thread/INFO]: <togga99> ÓVART
+[18:20:18] [Server thread/INFO]: <A11y_UwU> oh allt í lagi
+[18:20:30] [Server thread/INFO]: <A11y_UwU> það teleportar bara
+[18:20:34] [Server thread/INFO]: <togga99> eg biðst afsökunar hægri smellti og hann flaug á brott
+[18:20:39] [Server thread/INFO]: <A11y_UwU> það fór í garðin lol
+[18:20:50] [Server thread/INFO]: <togga99> en sætt
+[18:20:52] [Server thread/INFO]: <A11y_UwU> ég skal laga það
+[18:21:17] [Server thread/INFO]: <togga99> mig líður eins og það vanti einhvað hús
+[18:21:23] [Server thread/INFO]: <togga99> eða einhvað
+[18:21:30] [Server thread/INFO]: <togga99> veit ekki hvað en einhvað
+[18:21:42] [Server thread/INFO]: <A11y_UwU> var að pæla í að gera fallegri garð
+[18:21:49] [Server thread/INFO]: <togga99> jaaaaaaaaaaaaaaa
+[18:22:06] [Server thread/INFO]: <A11y_UwU> við getum gert það saman
+[18:22:17] [Server thread/INFO]: <togga99> nei eg mun fara rífast eg er frek
+[18:22:28] [Server thread/INFO]: <A11y_UwU> þú mátt ráða
+[18:22:40] [Server thread/INFO]: <A11y_UwU> villtu koma í vc?
+[18:22:49] [Server thread/INFO]: <togga99> nei eg skal bara fjölga dýrum og svo drepa foreldrana
+[18:22:55] [Server thread/INFO]: <togga99> jaja
+[18:23:01] [Server thread/INFO]: <togga99> ætla að klara þetta lag
+[18:23:09] [Server thread/INFO]: <A11y_UwU> keke
+[18:24:21] [Server thread/INFO]: <A11y_UwU> ef ég geri garð get ég loksins notað daðey í einhvað
+[18:24:28] [User Authenticator #10/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:24:29] [Server thread/INFO]: Sminky52[/89.17.139.9:61730] logged in with entity id 23988 at (-682.1037053920242, 73.0, 659.4195731263383)
+[18:24:29] [Server thread/INFO]: Sminky52 joined the game
+[18:24:36] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:24:36] [Server thread/INFO]: Sminky52 left the game
+[18:24:40] [Server thread/INFO]: <A11y_UwU> hæjo
+[18:25:29] [Server thread/INFO]: <togga99> er í vc
+[18:25:32] [Server thread/INFO]: <togga99> talaðu
+[18:27:40] [User Authenticator #11/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:27:40] [Server thread/INFO]: Sminky52[/89.17.139.9:61882] logged in with entity id 24820 at (-678.7986779885882, 73.0, 663.6099822497292)
+[18:27:40] [Server thread/INFO]: Sminky52 joined the game
+[18:28:14] [Server thread/INFO]: <togga99> heyri ekkett
+[18:28:17] [Server thread/INFO]: <A11y_UwU> :P
+[18:28:20] [Server thread/INFO]: <togga99> heyrði hvísl
+[18:28:26] [Server thread/INFO]: <A11y_UwU> ekki ég heldur'
+[18:28:29] [Server thread/INFO]: <A11y_UwU> ok
+[18:29:29] [Server thread/INFO]: <togga99> eg er særð
+[18:29:38] [Server thread/INFO]: <togga99> fr aftur að litter til musik
+[18:29:51] [Server thread/INFO]: <A11y_UwU> okok
+[18:30:29] [Server thread/INFO]: <togga99> ma eg gull
+[18:30:33] [Server thread/INFO]: <A11y_UwU> ja
+[18:31:51] [Server thread/INFO]: <togga99> þessi maskari er að myrða í mer augun
+[18:32:07] [Server thread/INFO]: <A11y_UwU> uff
+[18:33:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26623, l='ServerLevel[world]', x=-461.54, y=76.00, z=287.29]
+[18:33:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26623, l='ServerLevel[world]', x=-461.54, y=76.00, z=287.29]
+[18:34:37] [Server thread/INFO]: <togga99> hví ertu að kasta öll þessu gulli á glæ?
+[18:34:53] [Server thread/INFO]: <A11y_UwU> ég á nóg treystu mér
+[18:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[18:38:50] [Server thread/INFO]: <togga99> eg hata svo mikið að það seu ekki til hundabrynjur
+[18:39:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[18:39:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28743, l='ServerLevel[world]', x=-459.25, y=61.00, z=352.11]
+[18:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:42:14] [Server thread/INFO]: <togga99> wtf
+[18:42:31] [Server thread/INFO]: <A11y_UwU> hva
+[18:42:44] [Server thread/INFO]: <togga99> bjart það er komin einhver sjáfarperla sem gerir mér kleift að anda í vatni
+[18:43:09] [Server thread/INFO]: <A11y_UwU> ja
+[18:43:18] [Server thread/INFO]: <A11y_UwU> ég setti það
+[18:43:25] [Server thread/INFO]: <togga99> oh ok sniðugt
+[18:43:35] [Server thread/INFO]: <A11y_UwU> þú getur fært það
+[18:43:43] [Server thread/INFO]: <togga99> neinei þetta er sætt
+[18:44:16] [Server thread/INFO]: <A11y_UwU> uu.. ég myndi færa hanatil hliðar eða byggja einhvað í kringum það eða einhvað
+[18:44:55] [Server thread/INFO]: <togga99> ja eg kann ekkert á þetta
+[18:45:14] [Server thread/INFO]: <A11y_UwU> get gert það fyrir þig ef du villt
+[18:45:26] [Server thread/INFO]: <togga99> þu ræður alveg
+[18:45:38] [Server thread/INFO]: <A11y_UwU> þeta er þín bygging
+[18:45:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:46:04] [Server thread/INFO]: <A11y_UwU> má ég taka treð nyður?
+[18:46:13] [Server thread/INFO]: <togga99> endilega nn ekki að taka það
+[18:46:18] [Server thread/INFO]: <A11y_UwU> k
+[18:48:41] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:48:41] [Server thread/INFO]: Sminky52 left the game
+[18:48:54] [Server thread/INFO]: <A11y_UwU> spes gaurar
+[18:50:09] [User Authenticator #12/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:50:09] [Server thread/INFO]: Sminky52[/89.17.139.9:63171] logged in with entity id 32354 at (-684.5156802105845, 70.0, 644.6693456699679)
+[18:50:09] [Server thread/INFO]: Sminky52 joined the game
+[18:50:12] [Server thread/INFO]: <togga99> hiiiiii
+[18:50:18] [Server thread/INFO]: <Sminky52> hi
+[18:53:35] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:53:35] [Server thread/INFO]: Sminky52 left the game
+[18:53:38] [User Authenticator #13/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:53:38] [Server thread/INFO]: Sminky52[/89.17.139.9:65010] logged in with entity id 34615 at (-218.1130703589939, 63.90290000319481, 842.9250000119209)
+[18:53:38] [Server thread/INFO]: Sminky52 joined the game
+[18:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:55:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/36278, l='ServerLevel[world]', x=-459.05, y=61.00, z=354.92]
+[18:55:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/36278, l='ServerLevel[world]', x=-459.05, y=61.00, z=354.92]
+[18:55:35] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:55:35] [Server thread/INFO]: Sminky52 left the game
+[18:55:46] [User Authenticator #14/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:55:46] [Server thread/INFO]: Sminky52[/89.17.139.9:65099] logged in with entity id 36296 at (-682.7849098408428, 73.0, 658.7951057066497)
+[18:55:46] [Server thread/INFO]: Sminky52 joined the game
+[18:56:06] [Server thread/INFO]: <togga99> luði
+[18:56:14] [Server thread/INFO]: <togga99> til bjarts lol
+[18:56:27] [Server thread/INFO]: <A11y_UwU> :'(
+[18:56:40] [Server thread/INFO]: <togga99> takk fyrir timbrið sæti
+[18:56:53] [Server thread/INFO]: <A11y_UwU> ekki málið <3
+[18:57:06] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:57:06] [Server thread/INFO]: Sminky52 left the game
+[18:58:00] [Server thread/INFO]: <togga99> eg trui ekki að þú hafir síðast hlustað á spotify fyrir 6 dögum
+[18:58:21] [Server thread/INFO]: <A11y_UwU> uu
+[18:58:34] [Server thread/INFO]: <A11y_UwU> ég hlusta oft á youtube
+[18:58:40] [Server thread/INFO]: <togga99> not cool
+[18:58:53] [Server thread/INFO]: <togga99> ertu með youtube premium+
+[18:58:58] [Server thread/INFO]: <A11y_UwU> haha nei
+[19:01:10] [Server thread/INFO]: <togga99> eg ætla að borða kem efftri sma
+[19:01:13] [Server thread/INFO]: togga99 lost connection: Disconnected
+[19:01:13] [Server thread/INFO]: togga99 left the game
+[19:07:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39132, l='ServerLevel[world]', x=-461.25, y=76.00, z=287.77]
+[19:09:01] [User Authenticator #15/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[19:09:01] [Server thread/INFO]: togga99[/89.160.212.94:57110] logged in with entity id 39539 at (-534.6465558270374, 72.0, 239.32133369910832)
+[19:09:01] [Server thread/INFO]: togga99 joined the game
+[19:09:06] [Server thread/INFO]: <togga99> hiiiiiiiiiiii
+[19:09:10] [Server thread/INFO]: <A11y_UwU> hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii+
+[19:10:00] [Server thread/INFO]: <togga99> eg for í horntima og kennarinn helt að eg væri buin að æfa mig
+[19:10:13] [Server thread/INFO]: <A11y_UwU> vááá
+[19:10:16] [Server thread/INFO]: <A11y_UwU> magnað
+[19:10:32] [Server thread/INFO]: <togga99> alltaf þegar eg æfi mig ekki hljomar eins og eg se betri útaf þá er eg ekki jafn þreytt og þá kemst ég hærra
+[19:10:43] [Server thread/INFO]: <A11y_UwU> lol
+[19:11:06] [Server thread/INFO]: <A11y_UwU> hvað ætti myndi gerast ef þú æfðir þig á dagin :]
+[19:11:22] [Server thread/INFO]: <togga99> éve hef aldrei prufað
+[19:11:38] [Server thread/INFO]: <togga99> alltaf þegar eg er buin i tima r eg svo þreytt
+[19:12:01] [Server thread/INFO]: <togga99> að eg get ekki lft mig eins og nuna ef eg væri ekki að spila minecraft væri eg sofnuð
+[19:12:36] [Server thread/INFO]: <A11y_UwU> cút
+[19:15:15] [Server thread/INFO]: <togga99> það hljomar skringilega en aqua er hljomsveit sem eg get hlustað 'a endalaust eða þegar eg fæ ógeð af henni þoli eg að hlusta a hana aftur eftir nokkra manuði
+[19:15:36] [Server thread/INFO]: <A11y_UwU> nett
+[19:15:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41599, l='ServerLevel[world]', x=-461.71, y=76.00, z=287.51]
+[19:16:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41887, l='ServerLevel[world]', x=-461.27, y=76.00, z=287.51]
+[19:16:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41887, l='ServerLevel[world]', x=-461.27, y=76.00, z=287.51]
+[19:16:26] [Server thread/INFO]: <togga99> omg eg og ilo erum saman i ensku hahahhaha
+[19:16:44] [Server thread/INFO]: <A11y_UwU> oh hahaha það er gg cool
+[19:17:13] [Server thread/INFO]: <togga99> ja nuna get eg fengið hjalp
+[19:17:22] [Server thread/INFO]: <A11y_UwU> haha
+[19:17:44] [Server thread/INFO]: <togga99> skalf alveg áðan eftir ensku tima hann var svo stressandi
+[19:17:58] [Server thread/INFO]: <A11y_UwU> úf
+[19:18:09] [Server thread/INFO]: <togga99> jaaa einu sinni leið mer alltaf svona
+[19:18:23] [Server thread/INFO]: <togga99> gat ekki einu sinni haldið á horninu skalf svo mikið
+[19:18:38] [Server thread/INFO]: <A11y_UwU> það er ves
+[19:18:52] [Server thread/INFO]: <togga99> jebs allar nóturnar hristust hahahah
+[19:21:30] [Server thread/INFO]: <togga99> ú sætt
+[19:21:47] [Server thread/INFO]: <A11y_UwU> ættla að seta alvöru undir
+[19:21:52] [Server thread/INFO]: <togga99> aa
+[19:22:11] [Server thread/INFO]: <togga99> hata að þegar maður labbar ofaná þetta hoppast maður stundum sjálfkrafa
+[19:22:30] [Server thread/INFO]: <A11y_UwU> ertu með autojumb?
+[19:24:25] [Server thread/INFO]: <togga99> þetta skoffín er svaka hægt en hratt á sama tima
+[19:24:34] [Server thread/INFO]: <togga99> liklega lol
+[19:24:43] [Server thread/INFO]: <A11y_UwU> ullabjakk
+[19:24:55] [Server thread/INFO]: <togga99> omg ja það er hahaha
+[19:27:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-448, y=58, z=338} class_2338{x=-448, y=61, z=340}
+[19:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-456, y=58, z=332} class_2338{x=-456, y=57, z=332}
+[19:27:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-455, y=58, z=340} class_2338{x=-455, y=58, z=339}
+[19:28:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/45724, l='ServerLevel[world]', x=-461.79, y=61.00, z=353.90]
+[19:28:53] [Server thread/INFO]: <togga99> eg held no joke að þau ætli bara að sprengja all tu pp
+[19:29:14] [Server thread/INFO]: <A11y_UwU> perlu er svo sama um sprengjurnar að það er findið
+[19:29:25] [Server thread/INFO]: <togga99> hvernig <max er að deyja
+[19:29:36] [Server thread/INFO]: <A11y_UwU> ég líka
+[19:29:39] [Server thread/INFO]: <togga99> eða ekki svo mikið lengur
+[19:29:49] [Server thread/INFO]: <togga99> eg heyri ekkert i tonlistinni minni'
+[19:29:58] [Server thread/INFO]: <A11y_UwU> sad
+[19:30:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-449, y=57, z=335} class_2338{x=-460, y=56, z=341}
+[19:31:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46658, l='ServerLevel[world]', x=-461.70, y=76.00, z=287.33]
+[19:31:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46658, l='ServerLevel[world]', x=-461.70, y=76.00, z=287.33]
+[19:32:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-456, y=55, z=341} class_2338{x=-456, y=54, z=341}
+[19:32:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-456, y=55, z=341} class_2338{x=-456, y=54, z=341}
+[19:32:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-456, y=55, z=341} class_2338{x=-456, y=54, z=341}
+[19:32:12] [Server thread/INFO]: <togga99> nuna ætla eg að hlusta a öll eurovision lögin 2020
+[19:32:17] [Server thread/INFO]: <A11y_UwU> nett
+[19:32:29] [Server thread/INFO]: <A11y_UwU> perla varð smá pirruð núna
+[19:32:35] [Server thread/INFO]: <togga99> ohhhhh
+[19:32:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-460, y=55, z=340} class_2338{x=-460, y=54, z=340}
+[19:32:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-460, y=55, z=340} class_2338{x=-460, y=54, z=340}
+[19:32:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-460, y=55, z=340} class_2338{x=-460, y=54, z=340}
+[19:32:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-460, y=55, z=340} class_2338{x=-460, y=54, z=340}
+[19:32:40] [Server thread/INFO]: <togga99> eg skil hana
+[19:33:03] [Server thread/INFO]: <A11y_UwU> það var mjög hávær flugeldur beint fyrir framan
+[19:33:07] [Server thread/INFO]: <togga99> oh
+[19:33:10] [Server thread/INFO]: <A11y_UwU> og hún var sofandi
+[19:33:14] [Server thread/INFO]: <togga99> ohh
+[19:33:25] [Server thread/INFO]: <A11y_UwU> og nú starir hún haturfullum augum á gluggan
+[19:34:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-453, y=53, z=336} class_2338{x=-454, y=54, z=336}
+[19:34:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-453, y=53, z=336} class_2338{x=-454, y=54, z=336}
+[19:34:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-453, y=53, z=336} class_2338{x=-454, y=54, z=336}
+[19:34:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-453, y=53, z=336} class_2338{x=-454, y=54, z=336}
+[19:34:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-453, y=53, z=336} class_2338{x=-454, y=54, z=336}
+[19:34:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-459, y=52, z=330} class_2338{x=-459, y=51, z=330}
+[19:34:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-459, y=52, z=330} class_2338{x=-459, y=51, z=330}
+[19:34:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-459, y=52, z=330} class_2338{x=-459, y=51, z=330}
+[19:34:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-459, y=52, z=330} class_2338{x=-459, y=51, z=330}
+[19:36:37] [Server thread/INFO]: <togga99> gafst upp á eurovision 2020 d´´i næstum
+[19:36:41] [Server thread/INFO]: <togga99> oh hahahah dullan
+[19:36:44] [Server thread/INFO]: <A11y_UwU> lol
+[19:37:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:37:59] [Server thread/INFO]: <togga99> 20
+[19:40:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/49468, l='ServerLevel[world]', x=-459.56, y=61.00, z=353.91]
+[19:40:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/49486, l='ServerLevel[world]', x=-458.30, y=61.00, z=356.01]
+[19:44:05] [Server thread/INFO]: <A11y_UwU> þarf að fara +i min
+[19:44:08] [Server thread/INFO]: <togga99> ok
+[19:44:10] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:44:10] [Server thread/INFO]: A11y_UwU left the game
+[19:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[19:48:03] [User Authenticator #16/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:48:04] [Server thread/INFO]: A11y_UwU[/127.0.0.1:61863] logged in with entity id 50869 at (-436.09613669504085, 77.0, 305.1358853240912)
+[19:48:04] [Server thread/INFO]: A11y_UwU joined the game
+[19:48:06] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:48:11] [Server thread/INFO]: <togga99> hi
+[19:48:16] [Server thread/INFO]: <A11y_UwU> hellu
+[19:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-451, y=57, z=342} class_2338{x=-448, y=57, z=344}
+[19:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-451, y=57, z=342} class_2338{x=-448, y=57, z=344}
+[19:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-451, y=57, z=342} class_2338{x=-448, y=57, z=344}
+[19:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-451, y=57, z=342} class_2338{x=-448, y=57, z=344}
+[19:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-451, y=57, z=342} class_2338{x=-448, y=57, z=344}
+[19:54:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-453, y=58, z=343} class_2338{x=-455, y=57, z=342}
+[19:55:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-441, y=60, z=340} class_2338{x=-441, y=59, z=339}
+[19:55:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-447, y=61, z=333} class_2338{x=-447, y=60, z=332}
+[19:55:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-447, y=61, z=333} class_2338{x=-447, y=60, z=332}
+[19:55:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-447, y=61, z=333} class_2338{x=-447, y=60, z=332}
+[19:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-446, y=56, z=342} class_2338{x=-447, y=55, z=341}
+[19:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-446, y=56, z=342} class_2338{x=-447, y=55, z=341}
+[19:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-446, y=56, z=342} class_2338{x=-447, y=55, z=341}
+[19:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-446, y=56, z=342} class_2338{x=-447, y=55, z=341}
+[20:08:50] [Server thread/INFO]: <A11y_UwU> er að fara að borða
+[20:09:25] [Server thread/INFO]: <A11y_UwU> bæ bæ
+[20:09:27] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:09:27] [Server thread/INFO]: A11y_UwU left the game
+[20:09:29] [Server thread/INFO]: <togga99> ble
+[20:10:11] [Server thread/INFO]: togga99 lost connection: Disconnected
+[20:10:11] [Server thread/INFO]: togga99 left the game
+[20:26:24] [User Authenticator #17/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:26:24] [Server thread/INFO]: A11y_UwU[/127.0.0.1:62014] logged in with entity id 57376 at (-456.10857618857375, 58.0, 340.6102477971467)
+[20:26:24] [Server thread/INFO]: A11y_UwU joined the game
+[20:26:26] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:26:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/58010, l='ServerLevel[world]', x=-465.86, y=65.50, z=363.45]
+[20:40:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/60132, l='ServerLevel[world]', x=-58.28, y=69.00, z=42.13]
+[20:50:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/62898, l='ServerLevel[world]', x=-464.56, y=61.00, z=362.51]
+[21:05:32] [User Authenticator #18/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[21:05:32] [Server thread/INFO]: Sminky52[/89.17.139.9:50719] logged in with entity id 65301 at (-682.2495219121676, 73.0, 657.1105258399406)
+[21:05:32] [Server thread/INFO]: Sminky52 joined the game
+[21:05:41] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[21:05:41] [Server thread/INFO]: Sminky52 left the game
+[21:07:03] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:07:03] [Server thread/INFO]: A11y_UwU left the game

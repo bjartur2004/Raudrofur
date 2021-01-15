@@ -1,0 +1,231 @@
+[18:38:35] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[18:38:35] [main/INFO]: [FabricLoader] Loading 48 mods: fabric-renderer-api-v1@0.3.3+a4467d2a95, fabric-screen-handler-api-v1@1.1.0+8724984195, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b95, fabric-keybindings-v0@0.2.0+3fa9f7c595, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+a4467d2a95, fabricloader@0.10.6+build.214, fabric-tool-attribute-api-v1@1.2.4+2b46237995, fabric-structure-api-v1@1.1.0+f8ac1db295, fabric-renderer-indigo@0.4.3+a4467d2a95, fabric-containers-v0@0.1.8+045df74f95, fabric-object-builder-api-v1@1.9.2+a89534ab95, fabric-crash-report-info-v1@0.1.2+b7f9825d95, fabric-events-interaction-v0@0.4.1+f8ac1db295, fabric-item-api-v1@1.2.0+f8ac1db295, fabric-game-rule-api-v1@1.0.3+a4467d2a95, fabric-api-base@0.2.0+9f0fb4b895, fabric-rendering-v0@1.1.1+f8ac1db295, fabric-rendering-v1@1.3.1+f8ac1db295, fabric-key-binding-api-v1@1.0.1+730711c695, cloth-config2@4.8.1, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db295, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.3.1+facf3bbf95, cloth-dynamic-registry-api-v1@1.4.8, fabric-textures-v0@1.0.5+a4467d2a95, fabric-content-registries-v0@0.1.9+059ea86695, fabric-tag-extensions-v0@1.0.3+ac8e8c5995, fabric-rendering-fluids-v1@0.1.12+f8ac1db295, fabric-biome-api-v1@3.0.0+8367596d95, fabric-commands-v0@0.2.0+52d3083695, fabric-registry-sync-v0@0.6.1+a4467d2a95, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8995, fabric-lifecycle-events-v1@1.2.0+74cc3b2095, vanillaenhanced@1.3.0, fabric-mining-levels-v0@0.1.2+b764ce9995, fabric-renderer-registries-v1@2.2.0+f8ac1db295, carpet-extra@1.4.14, fabric-loot-tables-v1@1.0.1+432ea18895, fabric-events-lifecycle-v0@0.2.0+16acbe5b95, fabric@0.25.0+build.415-1.16, carpet@1.4.12, fabric-particles-v1@0.2.2+fb0d9b0e95, fabric-models-v0@0.1.1+f8ac1db295, fabric-item-groups-v0@0.2.1+a4467d2a95, fabric-networking-v0@0.1.10+e00ecb5f95, fabric-object-builders-v0@0.7.1+a4467d2a95
+[18:38:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/bjartur2004/gits/Raudrofur/server%20-1.16.4%20carpetmod/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[18:38:45] [main/INFO]: [VanillaEnhanced] Hello there.
+[18:38:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:38:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:38:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:38:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:38:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:38:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:38:48] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), VanillaEnhanced, Tools v. Luki2811, Tools by Luki2811, raudrofur.zip, afk display v1.1.0.zip, dragon drops v1.3.0.zip, durability ping v1.1.0.zip, real time clock v1.1.0.zip
+[18:38:50] [Worker-Main-5/INFO]: Loaded 7 recipes
+[18:38:50] [Worker-Main-5/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[18:38:50] [Worker-Main-5/ERROR]: Couldn't load function tag minecraft:tick as it is missing following references: example:loop (from raudrofur.zip)
+[18:38:50] [Worker-Main-5/INFO]: Loaded 997 advancements
+[18:38:51] [main/INFO]: Applied 0 biome modifications to 0 of 85 new biomes in 3.161 ms
+[18:38:51] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[18:38:51] [Server thread/INFO]: Loading properties
+[18:38:51] [Server thread/INFO]: Default game type: SURVIVAL
+[18:38:51] [Server thread/INFO]: Generating keypair
+[18:38:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:38:51] [Server thread/INFO]: Using default channel type
+[18:38:52] [Server thread/INFO]: Preparing level "world"
+[18:38:52] [Server thread/INFO]: [CM]: loaded setting carpets as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting renewableBlackstone as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting renewableSponges as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting desertShrubs as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting missingTools as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting maxEntityCollisions as 2 from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting movableBlockEntities as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting accurateBlockPlacement as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting huskSpawningInTemples as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting renewableCoral as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting dispenserPlacesBlocks as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting portalSurvivalDelay as 1 from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[18:38:53] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[18:38:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:38:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:55] [Server thread/INFO]: Preparing spawn area: 48%
+[18:38:56] [Server thread/INFO]: Time elapsed: 2621 ms
+[18:38:56] [Server thread/INFO]: Done (3.266s)! For help, type "help"
+[18:39:02] [User Authenticator #1/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[18:39:03] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58793] logged in with entity id 77 at (200.21499802885316, 61.0, -339.9283497253804)
+[18:39:03] [Server thread/INFO]: A11y_UwU joined the game
+[18:39:04] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[18:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[18:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[18:40:04] [Server thread/WARN]: A11y_UwU moved too quickly! -14.430120293201753,-2.9150287327298656,12.111679246491235
+[18:45:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=93, z=-257} class_2338{x=-47, y=94, z=-257}
+[18:45:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=93, z=-257} class_2338{x=-47, y=94, z=-257}
+[18:45:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=93, z=-257} class_2338{x=-47, y=94, z=-257}
+[18:45:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=104, z=-257} class_2338{x=-47, y=105, z=-257}
+[18:45:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=104, z=-257} class_2338{x=-47, y=105, z=-257}
+[18:45:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=104, z=-257} class_2338{x=-47, y=105, z=-257}
+[18:48:49] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[18:48:49] [Server thread/INFO]: A11y_UwU left the game
+[18:49:45] [User Authenticator #2/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[18:49:45] [Server thread/INFO]: A11y_UwU[/127.0.0.1:58880] logged in with entity id 4757 at (-43.93153858210444, 119.0, -257.3450016020582)
+[18:49:45] [Server thread/INFO]: A11y_UwU joined the game
+[18:49:46] [Netty Server IO #0/INFO]: Player A11y_UwU joined with a matching carpet client
+[18:52:40] [User Authenticator #3/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:52:40] [Server thread/INFO]: Sminky52[/89.17.139.9:49946] logged in with entity id 6371 at (-682.2495219121676, 73.0, 657.1105258399406)
+[18:52:40] [Server thread/INFO]: Sminky52 joined the game
+[18:52:54] [Server thread/INFO]: <A11y_UwU> wtf
+[18:53:00] [Server thread/INFO]: <Sminky52> ?
+[18:53:28] [Server thread/INFO]: <A11y_UwU> the server hasnt been on for days and when i come back.. somone comes 5 min later
+[18:53:47] [Server thread/INFO]: <Sminky52> lol
+[18:58:09] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:58:09] [Server thread/INFO]: Sminky52 left the game
+[18:58:12] [User Authenticator #4/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:58:12] [Server thread/INFO]: Sminky52[/89.17.139.9:49982] logged in with entity id 7904 at (-687.2297950255812, 70.0, 642.4138568938746)
+[18:58:12] [Server thread/INFO]: Sminky52 joined the game
+[19:00:01] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[19:00:01] [Server thread/INFO]: Sminky52 left the game
+[19:00:04] [User Authenticator #5/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[19:00:04] [Server thread/INFO]: Sminky52[/89.17.139.9:50005] logged in with entity id 8881 at (-675.4838831719129, 69.25220334025373, 651.7511833608197)
+[19:00:04] [Server thread/INFO]: Sminky52 joined the game
+[19:01:23] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[19:01:23] [Server thread/INFO]: Sminky52 left the game
+[19:02:37] [User Authenticator #6/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[19:02:37] [Server thread/INFO]: Sminky52[/89.17.139.9:50257] logged in with entity id 10499 at (-676.9699973593858, 68.0, 651.5969308141503)
+[19:02:37] [Server thread/INFO]: Sminky52 joined the game
+[19:03:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-679, y=59, z=651} class_2338{x=-674, y=68, z=652}
+[19:03:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=652} class_2338{x=-674, y=69, z=652}
+[19:03:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=652} class_2338{x=-674, y=69, z=653}
+[19:03:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=652} class_2338{x=-673, y=69, z=653}
+[19:03:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=652} class_2338{x=-673, y=68, z=653}
+[19:03:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=652} class_2338{x=-674, y=68, z=653}
+[19:04:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=653} class_2338{x=-673, y=68, z=654}
+[19:04:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-673, y=67, z=653} class_2338{x=-673, y=69, z=654}
+[19:05:46] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[19:05:46] [Server thread/INFO]: Sminky52 left the game
+[19:06:54] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:06:54] [Server thread/INFO]: A11y_UwU left the game
+[19:07:24] [User Authenticator #7/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:07:24] [Server thread/INFO]: A11y_UwU[/127.0.0.1:59020] logged in with entity id 14803 at (130.8234076908911, 77.1212968405392, 160.7414899082722)
+[19:07:24] [Server thread/INFO]: A11y_UwU joined the game
+[19:07:25] [Netty Server IO #6/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:07:34] [User Authenticator #8/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[19:07:34] [Server thread/INFO]: Sminky52[/89.17.139.9:50354] logged in with entity id 15054 at (-677.8143576049328, 68.5, 650.816965142791)
+[19:07:34] [Server thread/INFO]: Sminky52 joined the game
+[19:09:57] [Server thread/INFO]: Sminky52 tried to swim in lava
+[19:11:00] [Server thread/WARN]: Sminky52 moved too quickly! -0.046381019897978604,0.25799910351527444,-10.201868760601315
+[19:11:19] [Server thread/INFO]: Sminky52 lost connection: Timed out
+[19:11:19] [Server thread/INFO]: Sminky52 left the game
+[19:11:19] [Server thread/WARN]: handleDisconnection() called twice
+[19:11:47] [User Authenticator #10/INFO]: Disconnecting com.mojang.authlib.GameProfile@16aed623[id=<null>,name=Sminky52,properties={},legacy=false] (/89.17.139.9:50393): Authentication servers are down. Please try again later, sorry!
+[19:11:47] [User Authenticator #9/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c747212[id=<null>,name=Sminky52,properties={},legacy=false] (/89.17.139.9:50408): Authentication servers are down. Please try again later, sorry!
+[19:11:47] [User Authenticator #10/ERROR]: Couldn't verify username because servers are unavailable
+[19:11:47] [User Authenticator #9/ERROR]: Couldn't verify username because servers are unavailable
+[19:11:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c747212[id=<null>,name=Sminky52,properties={},legacy=false] (/89.17.139.9:50408) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:11:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@16aed623[id=<null>,name=Sminky52,properties={},legacy=false] (/89.17.139.9:50393) lost connection: Authentication servers are down. Please try again later, sorry!
+[19:11:59] [User Authenticator #11/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[19:11:59] [Server thread/INFO]: Sminky52[/89.17.139.9:50425] logged in with entity id 17787 at (-87.54293071648287, 64.0, 64.30000001192093)
+[19:11:59] [Server thread/INFO]: Sminky52 joined the game
+[19:14:01] [Server thread/WARN]: A11y_UwU moved too quickly! 17.813360445314743,-0.1668300966196341,-0.020708700169450367
+[19:15:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:15:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[19:18:17] [Server thread/INFO]: Sminky52 hit the ground too hard
+[19:18:21] [Server thread/INFO]: <A11y_UwU> f
+[19:18:29] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[19:18:29] [Server thread/INFO]: Sminky52 left the game
+[19:27:50] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:27:50] [Server thread/INFO]: A11y_UwU left the game
+[19:48:43] [User Authenticator #12/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:48:43] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55112] logged in with entity id 30057 at (-499.04714266564963, 65.0, -246.98589077602983)
+[19:48:43] [Server thread/INFO]: A11y_UwU joined the game
+[19:48:44] [Netty Server IO #7/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:49:51] [Server thread/INFO]: Cane[local] logged in with entity id 30525 at (-576.6999999880791, 67.0, -251.69999998807907)
+[19:49:51] [Server thread/INFO]: Cane joined the game
+[20:00:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/35957, l='ServerLevel[world]', x=-465.14, y=65.00, z=364.74]
+[20:09:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-50, y=119, z=-284} class_2338{x=-49, y=118, z=-282}
+[20:13:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-51, y=118, z=-286} class_2338{x=-55, y=118, z=-286}
+[20:13:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:13:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=120, z=-275} class_2338{x=-55, y=119, z=-275}
+[20:15:45] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:15:45] [Server thread/INFO]: A11y_UwU left the game
+[20:24:17] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:24:17] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55236] logged in with entity id 45823 at (-57.38379256378791, 114.0, -287.7541107848799)
+[20:24:17] [Server thread/INFO]: A11y_UwU joined the game
+[20:24:17] [Netty Server IO #4/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:25:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=115, z=-320} class_2338{x=-53, y=117, z=-320}
+[20:25:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=115, z=-320} class_2338{x=-53, y=117, z=-320}
+[20:26:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-41, y=117, z=-320} class_2338{x=-40, y=117, z=-316}
+[20:26:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-41, y=117, z=-320} class_2338{x=-40, y=117, z=-316}
+[20:36:31] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:36:31] [Server thread/INFO]: A11y_UwU left the game
+[21:06:15] [User Authenticator #14/INFO]: UUID of player Gamerfirl_420 is 0277d7e0-b804-4b25-b4d0-8ccac6eb86c7
+[21:06:15] [Server thread/INFO]: Gamerfirl_420[/89.160.187.248:59112] logged in with entity id 55204 at (-196.98299285281945, 64.0, 850.6973448462288)
+[21:06:15] [Server thread/INFO]: Gamerfirl_420 joined the game
+[21:07:18] [Server thread/INFO]: <Gamerfirl_420> HVAÐ GERPIST VIÐ KIRKJUNA!!!!!!!!!!!!!
+[21:07:24] [Server thread/INFO]: Gamerfirl_420 lost connection: Disconnected
+[21:07:24] [Server thread/INFO]: Gamerfirl_420 left the game
+[21:25:51] [User Authenticator #15/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:25:51] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55533] logged in with entity id 57785 at (-43.81348104078057, 114.0, -262.7416637058145)
+[21:25:51] [Server thread/INFO]: A11y_UwU joined the game
+[21:25:51] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:25:55] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:25:55] [Server thread/INFO]: A11y_UwU left the game
+[21:29:51] [User Authenticator #16/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:29:51] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55560] logged in with entity id 58469 at (-43.81348104078057, 114.0, -262.7416637058145)
+[21:29:51] [Server thread/INFO]: A11y_UwU joined the game
+[21:29:51] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:30:06] [Server thread/INFO]: <A11y_UwU> -202/63/826
+[21:32:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Sugar Cane'/60503, l='ServerLevel[world]', x=-212.38, y=35.01, z=920.13]
+[21:41:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63321, l='ServerLevel[world]', x=-467.62, y=61.00, z=362.67]
+[21:44:48] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:44:48] [Server thread/INFO]: A11y_UwU left the game
+[22:08:37] [User Authenticator #17/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[22:08:37] [Server thread/INFO]: togga99[/89.160.212.94:59750] logged in with entity id 66794 at (-537.2134299250027, 76.0, 226.27157136950282)
+[22:08:37] [Server thread/INFO]: togga99 joined the game
+[22:12:15] [Server thread/INFO]: togga99 lost connection: Disconnected
+[22:12:15] [Server thread/INFO]: togga99 left the game
+[22:12:37] [User Authenticator #18/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:12:37] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55814] logged in with entity id 68075 at (-464.6374022158821, 73.0, 339.04520289834466)
+[22:12:37] [Server thread/INFO]: A11y_UwU joined the game
+[22:12:37] [Netty Server IO #3/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:19:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/70525, l='ServerLevel[world]', x=-461.64, y=76.00, z=286.97]
+[22:32:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/79847, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[22:35:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-585, y=58, z=261} class_2338{x=-584, y=58, z=261}
+[22:35:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-585, y=58, z=261} class_2338{x=-584, y=58, z=261}
+[22:35:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-585, y=58, z=261} class_2338{x=-584, y=58, z=261}
+[22:35:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-585, y=58, z=261} class_2338{x=-584, y=58, z=261}
+[22:41:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/97575, l='ServerLevel[world]', x=-461.77, y=76.00, z=286.83]
+[22:43:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/102677, l='ServerLevel[world]', x=-460.85, y=61.00, z=353.95]
+[22:44:12] [Server thread/INFO]: Steve[local] logged in with entity id 103959 at (-432.5, 84.5, 326.5)
+[22:44:12] [Server thread/INFO]: Steve joined the game
+[22:55:17] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:55:17] [Server thread/INFO]: A11y_UwU left the game
+[23:09:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113255, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[23:14:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/114534, l='ServerLevel[world]', x=-466.64, y=65.00, z=366.15]
+[23:15:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/114771, l='ServerLevel[world]', x=-464.70, y=65.12, z=363.92]
+[23:21:37] [User Authenticator #19/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:21:37] [Server thread/INFO]: A11y_UwU[/127.0.0.1:56063] logged in with entity id 116183 at (-41.297922466636834, 114.0, -264.108783656025)
+[23:21:37] [Server thread/INFO]: A11y_UwU joined the game
+[23:21:37] [Netty Server IO #1/INFO]: Player A11y_UwU joined with a matching carpet client
+[23:28:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=120, z=-265} class_2338{x=-37, y=118, z=-265}
+[23:28:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-34, y=116, z=-266} class_2338{x=-33, y=115, z=-265}
+[23:28:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-34, y=116, z=-266} class_2338{x=-33, y=115, z=-265}
+[23:41:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123085, l='ServerLevel[world]', x=-465.13, y=65.00, z=364.29]
+[23:42:57] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[23:42:57] [Server thread/INFO]: A11y_UwU left the game
+[23:43:15] [User Authenticator #20/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[23:43:15] [Server thread/INFO]: A11y_UwU[/127.0.0.1:56160] logged in with entity id 123598 at (-41.69409694338078, 118.5, -262.9995836353358)
+[23:43:15] [Server thread/INFO]: A11y_UwU joined the game
+[23:43:16] [Netty Server IO #5/INFO]: Player A11y_UwU joined with a matching carpet client

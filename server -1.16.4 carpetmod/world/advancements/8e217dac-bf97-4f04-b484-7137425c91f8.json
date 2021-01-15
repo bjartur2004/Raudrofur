@@ -5,15 +5,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "vanillatweaks:root": {
     "criteria": {
-      "has_coal": "2020-12-17 21:22:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2020-11-16 00:52:44 +0000"
+      "tick": "2021-01-14 00:06:33 +0000"
     },
     "done": true
   },
@@ -23,14 +17,63 @@
     },
     "done": true
   },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-14 00:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-11-16 00:52:44 +0000"
     },
     "done": true
   },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-14 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-14 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2021-01-14 00:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-12-17 21:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-01-14 00:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-11-16 00:52:44 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-01-14 00:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-01-14 00:57:30 +0000",
       "minecraft:nether_wastes": "2020-11-16 00:52:45 +0000",
       "minecraft:soul_sand_valley": "2020-11-27 13:27:40 +0000"
     },

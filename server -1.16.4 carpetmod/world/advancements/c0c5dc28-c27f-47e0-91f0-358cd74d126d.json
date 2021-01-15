@@ -1,7 +1,7 @@
 {
-  "vanillatweaks:real_clock": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "tick": "2021-01-02 00:52:09 +0000"
+      "has_andesite": "2021-01-13 19:49:51 +0000"
     },
     "done": true
   },
@@ -17,9 +17,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "killed_by_something": "2020-11-27 23:53:51 +0000"
+      "has_andesite": "2021-01-13 19:49:51 +0000"
     },
     "done": true
   },
@@ -35,6 +35,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-02 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2021-01-13 19:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-11-27 23:53:51 +0000"
+    },
+    "done": true
+  },
   "vanillatweaks:dragon_drops": {
     "criteria": {
       "tick": "2021-01-02 00:52:09 +0000"
@@ -47,12 +113,6 @@
       "minecraft:lukewarm_ocean": "2020-11-27 23:07:35 +0000"
     },
     "done": false
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2021-01-02 00:52:09 +0000"
-    },
-    "done": true
   },
   "DataVersion": 2584
 }

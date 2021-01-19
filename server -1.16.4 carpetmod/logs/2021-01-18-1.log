@@ -1,0 +1,835 @@
+[00:02:14] [User Authenticator #10/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:02:14] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50177] logged in with entity id 34468 at (-1816.8124148443785, 64.5, 2613.925582653005)
+[00:02:14] [Server thread/INFO]: A11y_UwU joined the game
+[00:02:14] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:03:18] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:03:18] [Server thread/INFO]: A11y_UwU left the game
+[00:04:12] [User Authenticator #11/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[00:04:12] [Server thread/INFO]: A11y_UwU[/127.0.0.1:50194] logged in with entity id 34843 at (-1808.4108441102178, 64.0, 2631.619291963503)
+[00:04:12] [Server thread/INFO]: A11y_UwU joined the game
+[00:04:13] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[00:09:10] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[00:09:10] [Server thread/INFO]: A11y_UwU left the game
+[09:07:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:07:13] [Server thread/INFO]: 5<--[HERE]
+[09:35:07] [User Authenticator #12/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[09:35:07] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51930] logged in with entity id 69776 at (-1808.5152103274736, 64.0, 2628.23215739161)
+[09:35:08] [Server thread/INFO]: A11y_UwU joined the game
+[09:35:08] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[09:39:44] [Server thread/INFO]: [A11y_UwU: Gave 1 [TNT] to A11y_UwU]
+[09:41:52] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[09:41:52] [Server thread/INFO]: A11y_UwU left the game
+[09:45:18] [User Authenticator #13/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[09:45:18] [Server thread/INFO]: A11y_UwU[/127.0.0.1:51965] logged in with entity id 71980 at (-1806.935861928285, 64.0, 2627.8883646163304)
+[09:45:18] [Server thread/INFO]: A11y_UwU joined the game
+[09:45:18] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[09:47:17] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[09:47:17] [Server thread/INFO]: A11y_UwU left the game
+[15:55:50] [User Authenticator #14/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[15:55:50] [Server thread/INFO]: A11y_UwU[/127.0.0.1:53290] logged in with entity id 128128 at (-1807.300000011921, 64.0, 2629.1501629331524)
+[15:55:50] [Server thread/INFO]: A11y_UwU joined the game
+[15:55:50] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[15:56:25] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[15:56:25] [Server thread/INFO]: A11y_UwU left the game
+[15:59:50] [User Authenticator #15/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[15:59:50] [Server thread/INFO]: A11y_UwU[/127.0.0.1:53470] logged in with entity id 128705 at (-1817.1921227515445, 64.5, 2614.949015880407)
+[15:59:50] [Server thread/INFO]: A11y_UwU joined the game
+[15:59:51] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[16:04:47] [Server thread/WARN]: A11y_UwU moved too quickly! 0.14609719270447385,-16.547593610879147,-0.17455228724611516
+[16:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1678['Shulker Bullet'/130475, l='ServerLevel[world]', x=-1813.50, y=110.50, z=2610.50]
+[16:12:17] [Server thread/WARN]: Fetching packet for removed entity class_1678['Shulker Bullet'/130475, l='ServerLevel[world]', x=-1813.50, y=110.50, z=2610.50]
+[16:17:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-676, y=62, z=488} class_2338{x=-676, y=62, z=487}
+[16:19:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134285, l='ServerLevel[world]', x=-468.69, y=61.00, z=355.12]
+[16:21:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135152, l='ServerLevel[world]', x=-461.76, y=76.00, z=286.83]
+[16:26:10] [Server thread/INFO]: Steve[local] logged in with entity id 137267 at (-516.5614449598781, 78.125, -260.4693851124729)
+[16:26:10] [Server thread/INFO]: Steve joined the game
+[16:28:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139287, l='ServerLevel[world]', x=-466.53, y=65.00, z=366.40]
+[16:29:12] [Server thread/WARN]: A11y_UwU moved too quickly! -18.39423814771783,-0.3185037015536665,-0.12530297576181937
+[16:34:32] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[16:34:32] [Server thread/INFO]: A11y_UwU left the game
+[17:16:19] [User Authenticator #16/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:16:19] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54036] logged in with entity id 157098 at (-292.0640590778428, 222.0, 111.45532693139148)
+[17:16:19] [Server thread/INFO]: A11y_UwU joined the game
+[17:16:19] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[17:31:25] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[17:31:25] [Server thread/INFO]: A11y_UwU left the game
+[17:41:44] [User Authenticator #17/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[17:41:44] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54222] logged in with entity id 173989 at (-415.60824012176806, 34.0, 647.3436330219695)
+[17:41:44] [Server thread/INFO]: A11y_UwU joined the game
+[17:41:44] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[18:05:12] [User Authenticator #18/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[18:05:12] [Server thread/INFO]: Sminky52[/89.17.139.9:64889] logged in with entity id 186728 at (-680.2356207064662, 69.0, 646.8833450229957)
+[18:05:12] [Server thread/INFO]: Sminky52 joined the game
+[18:05:21] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[18:05:21] [Server thread/INFO]: Sminky52 left the game
+[18:20:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/193355, l='ServerLevel[world]', x=-371.21, y=9.00, z=679.52]
+[18:28:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/198265, l='ServerLevel[world]', x=-373.25, y=9.00, z=681.95]
+[18:29:51] [Server thread/INFO]: uwu[local] logged in with entity id 199388 at (-415.3003072435428, 33.5, 635.4982695136508)
+[18:29:51] [Server thread/INFO]: uwu joined the game
+[18:31:47] [Server thread/INFO]: uwu was shot by A11y_UwU
+[18:31:47] [Server thread/INFO]: uwu lost connection: Killed
+[18:31:47] [Server thread/INFO]: uwu left the game
+[18:31:55] [Server thread/INFO]: uwu[local] logged in with entity id 200344 at (-415.69999998807907, 33.5, 635.5074069087889)
+[18:31:55] [Server thread/INFO]: uwu joined the game
+[18:32:39] [Server thread/INFO]: uwu has made the advancement [Monster Hunter]
+[18:34:59] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/201748, l='ServerLevel[world]', x=-50.25, y=67.00, z=87.97]
+[18:34:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Golden Sword'/201751, l='ServerLevel[world]', x=-50.37, y=67.00, z=88.60]
+[18:43:33] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[18:43:33] [Server thread/INFO]: A11y_UwU left the game
+[19:11:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/219205, l='ServerLevel[world]', x=-373.80, y=9.00, z=681.66]
+[19:16:22] [User Authenticator #19/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:16:22] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54880] logged in with entity id 220824 at (-432.5, 84.5, 326.5)
+[19:16:22] [Server thread/INFO]: A11y_UwU joined the game
+[19:16:23] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:17:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/221273, l='ServerLevel[world]', x=-461.40, y=61.00, z=351.57]
+[19:20:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/222939, l='ServerLevel[world]', x=-462.17, y=76.00, z=286.83]
+[19:20:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/223122, l='ServerLevel[world]', x=-374.13, y=9.00, z=683.97]
+[19:23:53] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:23:53] [Server thread/INFO]: A11y_UwU left the game
+[19:25:08] [User Authenticator #20/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:25:09] [Server thread/INFO]: A11y_UwU[/127.0.0.1:54952] logged in with entity id 225173 at (-443.35695057041664, 75.0, 304.7079430936582)
+[19:25:09] [Server thread/INFO]: A11y_UwU joined the game
+[19:25:09] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[19:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[19:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[19:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[19:42:15] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[19:42:15] [Server thread/INFO]: A11y_UwU left the game
+[19:46:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/255087, l='ServerLevel[world]', x=-374.09, y=9.00, z=682.20]
+[19:50:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/256644, l='ServerLevel[world]', x=-373.25, y=9.00, z=681.95]
+[19:58:06] [User Authenticator #21/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[19:58:07] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55108] logged in with entity id 259387 at (-445.02990123615393, 75.0, 305.64248935673845)
+[19:58:07] [Server thread/INFO]: A11y_UwU joined the game
+[19:58:07] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:06:36] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:06:36] [Server thread/INFO]: A11y_UwU left the game
+[20:08:34] [User Authenticator #22/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:08:34] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55186] logged in with entity id 269753 at (-444.6618873510319, 75.0, 304.70918740130276)
+[20:08:34] [Server thread/INFO]: A11y_UwU joined the game
+[20:08:34] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:08:42] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:08:42] [Server thread/INFO]: A11y_UwU left the game
+[20:36:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279797, l='ServerLevel[world]', x=-374.65, y=9.00, z=684.13]
+[20:38:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/280684, l='ServerLevel[world]', x=-373.80, y=9.00, z=681.20]
+[20:49:06] [User Authenticator #23/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:49:06] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55339] logged in with entity id 284537 at (-444.6618873510319, 75.0, 304.70918740130276)
+[20:49:06] [Server thread/INFO]: A11y_UwU joined the game
+[20:49:07] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/284620, l='ServerLevel[world]', x=-465.10, y=65.00, z=365.39]
+[20:49:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/284621, l='ServerLevel[world]', x=-464.71, y=65.00, z=365.94]
+[20:50:33] [Server thread/INFO]: Steve was slain by A11y_UwU
+[20:50:33] [Server thread/INFO]: Steve lost connection: Killed
+[20:50:33] [Server thread/INFO]: Steve left the game
+[20:51:24] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[20:51:24] [Server thread/INFO]: A11y_UwU left the game
+[20:51:46] [User Authenticator #24/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[20:51:47] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55364] logged in with entity id 286384 at (-474.5, 72.0, 341.097939733935)
+[20:51:47] [Server thread/INFO]: A11y_UwU joined the game
+[20:51:47] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[20:52:28] [Server thread/INFO]: uwu was slain by A11y_UwU
+[20:52:28] [Server thread/INFO]: uwu lost connection: Killed
+[20:52:28] [Server thread/INFO]: uwu left the game
+[20:52:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287123, l='ServerLevel[world]', x=-374.09, y=9.00, z=682.20]
+[20:52:50] [Server thread/INFO]: uwu[local] logged in with entity id 287159 at (-415.30000001192093, 33.5, 635.4865903759354)
+[20:52:50] [Server thread/INFO]: uwu joined the game
+[20:53:00] [Server thread/INFO]: uwu was slain by A11y_UwU
+[20:53:00] [Server thread/INFO]: uwu lost connection: Killed
+[20:53:00] [Server thread/INFO]: uwu left the game
+[20:53:19] [Server thread/INFO]: uwu[local] logged in with entity id 287332 at (-415.30000001192093, 33.5, 635.3000000119209)
+[20:53:19] [Server thread/INFO]: uwu joined the game
+[20:57:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/288513, l='ServerLevel[world]', x=-374.13, y=9.00, z=683.97]
+[20:57:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/288513, l='ServerLevel[world]', x=-374.13, y=9.00, z=683.97]
+[21:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289361, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.48]
+[21:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289361, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.48]
+[21:00:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289722, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.55]
+[21:00:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289978, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:01:43] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:01:43] [Server thread/INFO]: A11y_UwU left the game
+[21:01:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/290534, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:01:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/290541, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:02:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/290694, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:02:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/290886, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:03:22] [User Authenticator #25/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:03:22] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55436] logged in with entity id 291019 at (-432.18097550868725, 76.5095865988374, 302.4413806742869)
+[21:03:22] [Server thread/INFO]: A11y_UwU joined the game
+[21:03:23] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:03:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/291248, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:03:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/291251, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:03:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/291307, l='ServerLevel[world]', x=-417.48, y=35.06, z=635.51]
+[21:04:05] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:04:05] [Server thread/INFO]: A11y_UwU left the game
+[21:04:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/291411, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:04:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/291416, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:04:24] [User Authenticator #26/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:04:25] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55462] logged in with entity id 291452 at (-433.69999998807907, 74.0, 299.69999998807907)
+[21:04:25] [Server thread/INFO]: A11y_UwU joined the game
+[21:04:25] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:04:39] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[21:04:39] [Server thread/INFO]: A11y_UwU left the game
+[21:04:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/291742, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:05:16] [User Authenticator #27/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[21:05:16] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55484] logged in with entity id 291837 at (-433.69999998807907, 74.0, 299.69999998807907)
+[21:05:16] [Server thread/INFO]: A11y_UwU joined the game
+[21:05:16] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[21:05:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/292114, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:05:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/292192, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:06:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/292248, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.49]
+[21:06:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/292306, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:06:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/292311, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:07:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/292860, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:08:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/293130, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:08:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/293134, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:08:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/293307, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:08:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/293311, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:08:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/293454, l='ServerLevel[world]', x=-465.99, y=61.00, z=362.75]
+[21:12:39] [User Authenticator #28/INFO]: UUID of player togga99 is 3df4725c-55ba-4ca9-a0cd-b0aaef0d3d0a
+[21:12:39] [Server thread/INFO]: togga99[/89.160.212.94:49904] logged in with entity id 295732 at (-536.9994271638839, 72.0, 242.00572228734205)
+[21:12:39] [Server thread/INFO]: togga99 joined the game
+[21:12:45] [Server thread/INFO]: <A11y_UwU> hæææ
+[21:12:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/296039, l='ServerLevel[world]', x=-373.35, y=9.00, z=681.20]
+[21:12:55] [Server thread/INFO]: <togga99> hæ girl
+[21:13:51] [Server thread/INFO]: <togga99> mannst einu sinni að ef að maður let ekki hundana standa nogu oft festust þeir sitjandi
+[21:14:14] [Server thread/INFO]: <A11y_UwU> nei
+[21:14:21] [Server thread/INFO]: <togga99> særpð
+[21:14:26] [Server thread/INFO]: <A11y_UwU> same
+[21:15:01] [Server thread/INFO]: <togga99> svona 2009 eða 10 eða einh :,(
+[21:15:37] [Server thread/INFO]: <A11y_UwU> gæti verið.. ég hef nær aldrei átt hunda :P
+[21:15:46] [Server thread/INFO]: <togga99> eigriiiiii
+[21:15:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/297868, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:16:12] [Server thread/INFO]: <togga99> eigum við ekkert redwood?
+[21:16:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298053, l='ServerLevel[world]', x=-417.47, y=35.06, z=635.51]
+[21:16:19] [Server thread/INFO]: <A11y_UwU> idk
+[21:16:23] [Server thread/INFO]: <togga99> fann
+[21:16:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298140, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:16:26] [Server thread/INFO]: <A11y_UwU> cul
+[21:16:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298244, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.55]
+[21:16:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298367, l='ServerLevel[world]', x=-417.47, y=35.06, z=635.39]
+[21:17:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298519, l='ServerLevel[world]', x=-417.42, y=35.06, z=635.56]
+[21:17:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298606, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:17:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/298679, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[21:18:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/299151, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:18:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/299155, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:18:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/299220, l='ServerLevel[world]', x=-373.80, y=9.00, z=681.66]
+[21:18:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/299409, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:18:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/299551, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:18:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/299555, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:19:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/300154, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:19:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/300683, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:20:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/301119, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.43]
+[21:20:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/301166, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:20:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/302159, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.49]
+[21:20:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/302368, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.59]
+[21:21:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/302434, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:21:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/302437, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/302680, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/302684, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[21:30:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/308192, l='ServerLevel[world]', x=-460.45, y=61.00, z=360.45]
+[21:33:35] [Server thread/INFO]: <A11y_UwU> hvar ertu
+[21:33:57] [Server thread/INFO]: <togga99> se þig
+[21:34:06] [Server thread/INFO]: <A11y_UwU> hææ
+[21:34:10] [Server thread/INFO]: <togga99> hvað
+[21:34:14] [Server thread/INFO]: <togga99> og hi
+[21:34:35] [Server thread/INFO]: <A11y_UwU> bara var að pæla hvað þú værir að gera
+[21:34:48] [Server thread/INFO]: <togga99> oh
+[21:35:02] [Server thread/INFO]: <togga99> ekkert merkilegt svow
+[21:35:15] [Server thread/INFO]: <A11y_UwU> ok
+[21:36:10] [Server thread/INFO]: <A11y_UwU> finnst þér hobbita holur fallegar?
+[21:36:20] [Server thread/INFO]: <togga99> hvað er það
+[21:36:50] [Server thread/INFO]: <A11y_UwU> það eru svona holur ó hólum og hobbitar búa í þeim
+[21:37:06] [Server thread/INFO]: <togga99> hlomar fyndið
+[21:37:30] [Server thread/INFO]: <A11y_UwU> -1815 2612
+[21:37:34] [Server thread/INFO]: <togga99> same
+[21:39:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/315824, l='ServerLevel[world]', x=-371.39, y=9.00, z=680.12]
+[21:39:26] [Server thread/WARN]: A11y_UwU moved too quickly! -14.05702040115193,-2.3807268244752464,10.415920220665157
+[21:42:52] [Server thread/INFO]: <A11y_UwU> ..tókstu rúmið mitt :)
+[21:42:58] [Server thread/INFO]: <togga99> ups
+[21:43:09] [Server thread/INFO]: <togga99> dostu'
+[21:43:15] [Server thread/INFO]: <A11y_UwU> lmao ég var að koma úr endinu
+[21:43:23] [Server thread/INFO]: <togga99> ooh
+[21:43:30] [Server thread/INFO]: <A11y_UwU> lulul
+[21:44:06] [Server thread/INFO]: <togga99> setti steina i staðinn
+[21:44:16] [Server thread/INFO]: <A11y_UwU> ok takk
+[21:44:32] [Server thread/INFO]: <A11y_UwU> lol
+[21:44:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/319476, l='ServerLevel[world]', x=-417.47, y=35.06, z=635.48]
+[21:44:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/319559, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.37]
+[21:45:56] [Server thread/INFO]: <togga99> þegar michael jackson deyr verð eg leið
+[21:46:04] [Server thread/INFO]: <A11y_UwU> ok
+[21:46:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320390, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:46:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320394, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:46:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320549, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:47:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320750, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[21:47:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320828, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:47:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320836, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:47:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/320839, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:48:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321049, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:48:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321052, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:48:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321126, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:48:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321134, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:48:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321424, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.54]
+[21:48:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321425, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.54]
+[21:49:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321503, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.51]
+[21:49:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/321504, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.51]
+[21:50:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322262, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[21:50:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322332, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322545, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:52:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322938, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[21:52:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/322939, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[21:52:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323148, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[21:52:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323149, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[21:52:53] [Server thread/INFO]: <togga99> eg myndi verða gg leið ef bowie dæji
+[21:52:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323232, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:52:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323235, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:52:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323236, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:53:02] [Server thread/INFO]: <A11y_UwU> ok
+[21:53:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323292, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:53:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323293, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:53:15] [Server thread/INFO]: <togga99> pls hættu vinsamlegaast
+[21:53:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323372, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:53:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323373, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:53:36] [Server thread/INFO]: <togga99> wtf hættu
+[21:53:40] [Server thread/INFO]: <togga99> not funny
+[21:53:53] [Server thread/INFO]: <A11y_UwU> ju >:)
+[21:53:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323608, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:53:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323609, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:54:03] [Server thread/INFO]: <togga99> lem bara loftið auli e
+[21:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323670, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323671, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:54:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323746, l='ServerLevel[world]', x=-417.42, y=35.06, z=635.50]
+[21:54:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323747, l='ServerLevel[world]', x=-417.42, y=35.06, z=635.50]
+[21:54:37] [Server thread/INFO]: <togga99> ja farðu bara
+[21:54:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323891, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:54:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323892, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:54:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323895, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:54:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323896, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:54:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/323948, l='ServerLevel[world]', x=-417.40, y=35.06, z=635.70]
+[21:54:50] [Server thread/INFO]: <A11y_UwU> hálft hjarta uwu
+[21:55:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324050, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:55:14] [Server thread/INFO]: <togga99> attir það skilið
+[21:55:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324125, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.50]
+[21:55:22] [Server thread/INFO]: <A11y_UwU> ha
+[21:55:41] [Server thread/INFO]: <togga99> afh þurfa öll ög að hafa sömu hljomana
+[21:55:45] [Server thread/INFO]: <togga99> meiðir mig
+[21:55:45] [Server thread/INFO]: <A11y_UwU> er ekki búin að deyja mjög lengi
+[21:55:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324324, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:55:53] [Server thread/INFO]: <togga99> serstaklega hja demi lovato
+[21:56:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324437, l='ServerLevel[world]', x=-374.09, y=9.00, z=682.20]
+[21:56:04] [Server thread/INFO]: <A11y_UwU> ja það er lame
+[21:56:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324627, l='ServerLevel[world]', x=-417.42, y=35.06, z=635.58]
+[21:56:46] [Server thread/INFO]: <togga99> heldurðu að svona söngvara eins og hun hugsi lögin sin gg mikið eða bara geri þau og bara gera einvað eða lata annað folk gera það og so gera pinu
+[21:56:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324819, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:56:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324822, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:56:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324907, l='ServerLevel[world]', x=-417.44, y=35.06, z=635.50]
+[21:57:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/324957, l='ServerLevel[world]', x=-466.70, y=65.00, z=366.70]
+[21:57:16] [Server thread/INFO]: <A11y_UwU> ekki hugmynd
+[21:57:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325173, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:57:32] [Server thread/INFO]: <togga99> ertu buin að skra þig i keppni
+[21:57:36] [Server thread/INFO]: <togga99> söng'
+[21:57:37] [Server thread/INFO]: <A11y_UwU> ja
+[21:57:47] [Server thread/INFO]: <togga99> hvaða lag ætlarðu að syngja?
+[21:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325317, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325320, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:57:53] [Server thread/INFO]: <A11y_UwU> ekki hugmynd
+[21:57:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325409, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:57:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325415, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[21:58:19] [Server thread/INFO]: <togga99> ef það væri horn keppni myndi eg ekki þora að keppa
+[21:58:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/325685, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[21:58:33] [Server thread/INFO]: <A11y_UwU> uf
+[21:58:50] [Server thread/INFO]: <togga99> skil ekki þig og þitt sjalfstraust
+[21:59:17] [Server thread/INFO]: <A11y_UwU> ja ég hef rosa mikið sjálfstraust lol
+[21:59:53] [Server thread/INFO]: <togga99> jebs skiljanlegt'+
+[22:00:21] [Server thread/INFO]: <A11y_UwU> má ég koma í heimsókn?
+[22:00:30] [Server thread/INFO]: <togga99> endilega
+[22:00:40] [Server thread/INFO]: <togga99> bara i minecraft samt herbergið mitt er i rust
+[22:00:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/326962, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:00:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/326966, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:01:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327040, l='ServerLevel[world]', x=-417.42, y=35.06, z=635.50]
+[22:01:11] [Server thread/INFO]: <A11y_UwU> ok veistu ég get spurt hvort ég meigi koma lol
+[22:01:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327092, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:01:29] [Server thread/INFO]: <togga99> langar ekkert serstaklega að fa ofbeldismann eins og þig i heimsokn
+[22:01:32] [Server thread/INFO]: <A11y_UwU> samt þau segja örugglega að það sé seint
+[22:01:41] [Server thread/INFO]: <togga99> hver
+[22:01:43] [Server thread/INFO]: <A11y_UwU> :'
+[22:01:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327298, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:01:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327302, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:01:50] [Server thread/INFO]: <A11y_UwU> foreldrar mínir
+[22:01:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327383, l='ServerLevel[world]', x=-417.46, y=35.06, z=635.39]
+[22:02:03] [Server thread/INFO]: <togga99> srullaðu .er ut
+[22:02:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327626, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[22:02:30] [Server thread/INFO]: <togga99> jaa helt að þu værir að tala um mina hahha þeim væru drull sama
+[22:02:44] [Server thread/INFO]: <togga99> þetta srullaðu er ut var i grini btw
+[22:02:48] [Server thread/INFO]: <togga99> farðu
+[22:02:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/327770, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:03:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328019, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:03:19] [Server thread/INFO]: <togga99> hættu þessu duduje+
+[22:03:29] [Server thread/INFO]: <A11y_UwU> ok
+[22:03:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328286, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.48]
+[22:03:42] [Server thread/INFO]: <A11y_UwU> vildi bara nota síðasta
+[22:03:51] [Server thread/INFO]: <togga99> fallegt utdini
+[22:03:57] [Server thread/INFO]: <togga99> er ekki skoli hja þer a mrg eða
+[22:03:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328368, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:03:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328376, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:04:02] [Server thread/INFO]: <A11y_UwU> ju
+[22:04:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328549, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.49]
+[22:04:31] [Server thread/INFO]: togga99 has completed the challenge [Serious Dedication]
+[22:04:38] [Server thread/INFO]: <togga99> jk
+[22:04:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328689, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.39]
+[22:04:43] [Server thread/INFO]: <A11y_UwU> lol
+[22:04:47] [Server thread/INFO]: <togga99> taktu hóruna þina
+[22:04:50] [Server thread/INFO]: <togga99> og farðu
+[22:04:53] [Server thread/INFO]: <A11y_UwU> ók
+[22:04:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/328822, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:05:13] [Server thread/INFO]: <A11y_UwU> villtu beacon í láni?
+[22:05:14] [Server thread/INFO]: <togga99> öm afskaði hvað ertu að gera her
+[22:05:23] [Server thread/INFO]: <A11y_UwU> chilla
+[22:05:23] [Server thread/INFO]: <togga99> hvað er það i oskopunum
+[22:05:53] [Server thread/INFO]: <togga99> nei takk kann ekkert a þetta og skemmir utini
+[22:05:59] [Server thread/INFO]: <togga99> þu vilt bara geta hlaupið
+[22:06:02] [Server thread/INFO]: <A11y_UwU> þá getur maður brotið hraðar
+[22:06:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/329412, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:06:20] [Server thread/INFO]: <togga99> hef það fingtssg
+[22:06:27] [Server thread/INFO]: <togga99> nema þu getir tekið það svo
+[22:06:45] [Server thread/INFO]: <A11y_UwU> ju éh get sett það upp og tekið nyður fyrir þig
+[22:06:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/329616, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:06:57] [Server thread/INFO]: <togga99> ja það væri fallega gert
+[22:07:02] [Server thread/INFO]: <A11y_UwU> ok
+[22:09:00] [Server thread/INFO]: <togga99> bei eg trui þessu ekki er bara i einum tim i mh hahahahaha
+[22:09:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/330656, l='ServerLevel[world]', x=-371.39, y=9.00, z=680.12]
+[22:09:19] [Server thread/INFO]: <A11y_UwU> cul/oof
+[22:10:04] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:10:04] [Server thread/INFO]: A11y_UwU left the game
+[22:10:06] [User Authenticator #29/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:10:06] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55775] logged in with entity id 331224 at (-524.0129737689109, 72.0, 262.9494061363158)
+[22:10:06] [Server thread/INFO]: A11y_UwU joined the game
+[22:10:08] [Server thread/INFO]: <togga99> ok bæ
+[22:10:08] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:10:11] [Server thread/INFO]: <togga99> ok hæ
+[22:10:25] [Server thread/INFO]: <togga99> ma eg stela diamond pickaxe+
+[22:10:30] [Server thread/INFO]: <A11y_UwU> ja
+[22:10:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331671, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:10:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331686, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:11:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/331904, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:11:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332255, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:11:35] [Server thread/INFO]: <togga99> en þessa
+[22:11:37] [Server thread/INFO]: <A11y_UwU> ja
+[22:11:40] [Server thread/INFO]: <togga99> tak
+[22:11:52] [Server thread/INFO]: <A11y_UwU> það er efficiancy V þannig.. instamine
+[22:11:53] [Server thread/INFO]: <togga99> fanks lauf
+[22:11:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332542, l='ServerLevel[world]', x=-417.38, y=35.06, z=635.50]
+[22:12:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332621, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.39]
+[22:12:10] [Server thread/INFO]: <togga99> enga hugmynd hvað það er en hljomar svaka cool
+[22:12:14] [Server thread/INFO]: <A11y_UwU> reyndu að brjóta hana ekki það er eina
+[22:12:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332723, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.45]
+[22:12:26] [Server thread/INFO]: <togga99> a eg þa ekki að nota hana?
+[22:12:29] [Server thread/INFO]: <A11y_UwU> ju
+[22:12:32] [Server thread/INFO]: <togga99> oh
+[22:12:37] [Server thread/INFO]: <togga99> bara ekki kalrara
+[22:12:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332922, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:12:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/332930, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:12:39] [Server thread/INFO]: <togga99> hana+a
+[22:12:40] [Server thread/INFO]: <A11y_UwU> bara ekki þannig að hún brotni
+[22:12:46] [Server thread/INFO]: <togga99> ok meikar sense
+[22:12:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333043, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.53]
+[22:13:01] [Server thread/INFO]: <A11y_UwU> að því að ég get repairað hana skiluru
+[22:13:08] [Server thread/INFO]: <togga99> oooooooooooooooooooooooh
+[22:13:11] [Server thread/INFO]: <togga99> sniðugt'+
+[22:13:16] [Server thread/INFO]: <togga99> omg
+[22:13:18] [Server thread/INFO]: <togga99> svo hratt
+[22:13:20] [Server thread/INFO]: <A11y_UwU> yebs
+[22:13:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333400, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:13:31] [Server thread/INFO]: <A11y_UwU> 20 kubba á sek
+[22:13:37] [Server thread/INFO]: <togga99> harað ar enn creathhive
+[22:13:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333547, l='ServerLevel[world]', x=-417.40, y=35.06, z=635.70]
+[22:13:43] [Server thread/INFO]: <A11y_UwU> yebs
+[22:13:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/333660, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.50]
+[22:13:55] [Server thread/INFO]: <togga99> kreisi
+[22:14:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334019, l='ServerLevel[world]', x=-459.37, y=61.00, z=351.85]
+[22:14:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334052, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:14:23] [Server thread/INFO]: <A11y_UwU> eða ef þú getur ýtt nógu hratt er hægt að brjóta jafn hratt í creative en 20/s er max
+[22:14:36] [Server thread/INFO]: <togga99> pkrjohhhhhhhhhhhhhhhhhhhhhhhhwoi
+[22:14:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334238, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:14:39] [Server thread/INFO]: <togga99> poooooooooooog
+[22:14:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334491, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.50]
+[22:15:18] [Server thread/INFO]: <togga99> þetta sparaði mig 100 min
+[22:15:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/334924, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[22:15:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335062, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.45]
+[22:15:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335169, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:15:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335172, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:16:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335431, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:16:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335466, l='ServerLevel[world]', x=-461.29, y=76.00, z=287.28]
+[22:16:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335466, l='ServerLevel[world]', x=-461.29, y=76.00, z=287.28]
+[22:16:32] [Server thread/INFO]: <togga99> eg er örg að fara að spila a tonleikum i mosos skolanum
+[22:16:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335785, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.47]
+[22:16:43] [Server thread/INFO]: <togga99> maske
+[22:16:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335873, l='ServerLevel[world]', x=-417.39, y=35.06, z=635.59]
+[22:16:49] [Server thread/INFO]: <togga99> með vink minni sem er þar
+[22:16:50] [Server thread/INFO]: <A11y_UwU> omæ cúúl
+[22:16:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/335995, l='ServerLevel[world]', x=-417.46, y=35.06, z=635.50]
+[22:17:36] [Server thread/INFO]: <A11y_UwU> má ég koma plz
+[22:17:52] [Server thread/INFO]: <togga99> held að það verði bara streimt
+[22:18:01] [Server thread/INFO]: <A11y_UwU> úúúúú
+[22:18:05] [Server thread/INFO]: <A11y_UwU> ennþá betra
+[22:18:10] [Server thread/INFO]: <A11y_UwU> má ég horfa
+[22:18:26] [Server thread/INFO]: <togga99> ja gaman að orfa am mig mistakast vtk samt hvort eg se að fara gera þaðw
+[22:18:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/337551, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:18:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/337551, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:19:41] [Server thread/INFO]: <A11y_UwU> ok en ef þið fáið að gera það þá horfi ég, ok cool
+[22:20:02] [Server thread/INFO]: <togga99> ja endilega
+[22:20:12] [Server thread/INFO]: <A11y_UwU> yeyyy yyeyyy yeyyy
+[22:20:40] [Server thread/INFO]: <togga99> teg er gg þreytt
+[22:20:55] [Server thread/INFO]: <A11y_UwU> æi æ
+[22:21:11] [Server thread/INFO]: <togga99> shakirA
+[22:22:20] [Server thread/INFO]: <A11y_UwU> ég ættla að minea
+[22:22:26] [Server thread/INFO]: <togga99> okokokok
+[22:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[22:26:09] [Server thread/INFO]: <togga99> eg ætla að fara að klara læra fyrir morgundaginn
+[22:26:10] [Server thread/INFO]: <togga99> seey
+[22:26:12] [Server thread/INFO]: <togga99> A
+[22:26:16] [Server thread/INFO]: <A11y_UwU> ok
+[22:26:18] [Server thread/INFO]: <A11y_UwU> gl
+[22:26:18] [Server thread/INFO]: <togga99> RELAX DONT DO IT
+[22:26:31] [Server thread/INFO]: <togga99> yeeee
+[22:26:35] [Server thread/INFO]: <togga99> you are my fire
+[22:26:40] [Server thread/INFO]: <togga99> my one disire
+[22:26:47] [Server thread/INFO]: <A11y_UwU> damn
+[22:26:47] [Server thread/INFO]: <togga99> belive
+[22:26:50] [Server thread/INFO]: <togga99> when i say
+[22:26:54] [Server thread/INFO]: <togga99> i want it that way
+[22:27:02] [Server thread/INFO]: <togga99> apaaaaart
+[22:27:07] [Server thread/INFO]: <togga99> your hart
+[22:27:14] [Server thread/INFO]: <togga99> when you say i want it that way
+[22:27:17] [Server thread/INFO]: <togga99> tell me why
+[22:27:24] [Server thread/INFO]: <togga99> aint nothing but a hartackuhe
+[22:27:26] [Server thread/INFO]: <togga99> noe w9 we87fih ojpao<dwæ
+[22:27:34] [Server thread/INFO]: <togga99> iii wanant oyt that way
+[22:27:39] [Server thread/INFO]: <togga99> am i your fire
+[22:27:43] [Server thread/INFO]: <togga99> your one disire
+[22:27:46] [Server thread/INFO]: <togga99> insichpajdoæ
+[22:27:49] [Server thread/INFO]: <togga99> its too late
+[22:27:54] [Server thread/INFO]: <togga99> but i want it thatw ay
+[22:27:56] [Server thread/INFO]: <A11y_UwU> ertu að tefja :[
+[22:27:57] [Server thread/INFO]: <togga99> tell me why
+[22:28:20] [Server thread/INFO]: Cane[local] logged in with entity id 344309 at (-452.1801799846406, 14.0, 429.5613098610988)
+[22:28:20] [Server thread/INFO]: Cane joined the game
+[22:28:23] [Server thread/INFO]: <togga99> aint nothing but a heartache aint nothing but a mistake i never wanna hear you say i want it tha way
+[22:28:25] [Server thread/INFO]: <togga99> nbrgyfhiedwlð+
+[22:28:44] [Server thread/INFO]: <togga99> ja nenni ekki ða læra
+[22:28:56] [Server thread/INFO]: <A11y_UwU> skamm
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gravel'/344952, l='ServerLevel[world]', x=-250.40, y=10.58, z=422.44]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/344958, l='ServerLevel[world]', x=-256.48, y=12.70, z=423.72]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/344961, l='ServerLevel[world]', x=-259.47, y=11.63, z=421.55]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/344980, l='ServerLevel[world]', x=-291.58, y=11.25, z=422.36]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/344981, l='ServerLevel[world]', x=-292.65, y=11.59, z=422.59]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/344990, l='ServerLevel[world]', x=-300.29, y=15.26, z=421.43]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Flint'/345005, l='ServerLevel[world]', x=-326.32, y=14.47, z=421.51]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345011, l='ServerLevel[world]', x=-333.48, y=11.47, z=422.51]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/345027, l='ServerLevel[world]', x=-362.26, y=15.60, z=420.29]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345044, l='ServerLevel[world]', x=-397.66, y=11.46, z=423.27]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345050, l='ServerLevel[world]', x=-411.69, y=13.30, z=422.56]
+[22:29:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345057, l='ServerLevel[world]', x=-419.66, y=15.68, z=420.65]
+[22:29:26] [Server thread/INFO]: <togga99> eg var buij að gleyma hvað þetta lag er gott
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/345192, l='ServerLevel[world]', x=-256.37, y=11.61, z=423.33]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345194, l='ServerLevel[world]', x=-257.74, y=11.68, z=423.36]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ore'/345218, l='ServerLevel[world]', x=-293.35, y=14.36, z=423.43]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345223, l='ServerLevel[world]', x=-298.63, y=11.74, z=423.45]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345229, l='ServerLevel[world]', x=-315.34, y=10.36, z=421.58]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gravel'/345242, l='ServerLevel[world]', x=-325.67, y=11.67, z=421.28]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345246, l='ServerLevel[world]', x=-335.62, y=13.60, z=421.32]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/345311, l='ServerLevel[world]', x=-432.65, y=12.27, z=423.36]
+[22:29:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345315, l='ServerLevel[world]', x=-439.58, y=15.61, z=421.74]
+[22:29:32] [Server thread/INFO]: <togga99> ekki þetta sem eg var að skrifa
+[22:29:40] [Server thread/INFO]: <togga99> heldur greta salome og jonsi lagið
+[22:29:43] [Server thread/INFO]: <A11y_UwU> ok
+[22:29:55] [Server thread/INFO]: <togga99> jaa never forget
+[22:30:14] [Server thread/INFO]: <togga99> er buin að hlusta a tonlist svo lengi kliður eins og það se að blæða ur eyrunum minum
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/345855, l='ServerLevel[world]', x=-271.49, y=15.53, z=424.53]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345856, l='ServerLevel[world]', x=-270.60, y=13.35, z=425.25]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345865, l='ServerLevel[world]', x=-286.32, y=11.69, z=422.74]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ore'/345868, l='ServerLevel[world]', x=-292.72, y=14.39, z=424.39]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345870, l='ServerLevel[world]', x=-301.57, y=13.28, z=423.63]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345874, l='ServerLevel[world]', x=-299.58, y=14.67, z=424.63]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['item.vanillaenhanced.sapphire'/345879, l='ServerLevel[world]', x=-305.56, y=13.50, z=424.63]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/345888, l='ServerLevel[world]', x=-333.51, y=11.69, z=424.68]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/345910, l='ServerLevel[world]', x=-362.49, y=14.35, z=425.75]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Ore'/345936, l='ServerLevel[world]', x=-405.41, y=14.49, z=424.27]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ore'/345947, l='ServerLevel[world]', x=-420.49, y=15.60, z=422.27]
+[22:30:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/345953, l='ServerLevel[world]', x=-433.48, y=13.33, z=423.73]
+[22:30:22] [Server thread/INFO]: <togga99> ok blessaður (3
+[22:30:29] [Server thread/INFO]: togga99 lost connection: Disconnected
+[22:30:29] [Server thread/INFO]: togga99 left the game
+[22:30:34] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:30:34] [Server thread/INFO]: A11y_UwU left the game
+[22:30:41] [User Authenticator #30/INFO]: UUID of player A11y_UwU is cdf70681-d8c8-4cdb-9b1a-97a236ce8b1a
+[22:30:42] [Server thread/INFO]: A11y_UwU[/127.0.0.1:55892] logged in with entity id 346107 at (-400.90882467568485, 9.267083968621238, 418.96018554299144)
+[22:30:42] [Server thread/INFO]: A11y_UwU joined the game
+[22:30:42] [Server thread/INFO]: Player A11y_UwU joined with a matching carpet client
+[22:30:43] [Server thread/INFO]: [A11y_UwU: Set own game mode to Creative Mode]
+[22:30:57] [Server thread/INFO]: [A11y_UwU: Set own game mode to Survival Mode]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/346462, l='ServerLevel[world]', x=-251.32, y=14.26, z=424.67]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/346473, l='ServerLevel[world]', x=-264.48, y=11.60, z=425.38]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/346509, l='ServerLevel[world]', x=-306.70, y=15.63, z=423.29]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/346551, l='ServerLevel[world]', x=-382.44, y=13.63, z=425.34]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/346552, l='ServerLevel[world]', x=-384.46, y=15.38, z=423.48]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gold Ore'/346564, l='ServerLevel[world]', x=-405.71, y=15.44, z=424.44]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/346566, l='ServerLevel[world]', x=-411.27, y=12.41, z=425.41]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/346572, l='ServerLevel[world]', x=-420.36, y=13.27, z=424.60]
+[22:31:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/346582, l='ServerLevel[world]', x=-433.32, y=15.43, z=422.38]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/347144, l='ServerLevel[world]', x=-270.26, y=12.58, z=426.26]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/347152, l='ServerLevel[world]', x=-286.35, y=13.25, z=425.33]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/347158, l='ServerLevel[world]', x=-291.37, y=13.39, z=426.41]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/347163, l='ServerLevel[world]', x=-299.27, y=15.65, z=425.33]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Flint'/347164, l='ServerLevel[world]', x=-299.40, y=12.59, z=427.36]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/347166, l='ServerLevel[world]', x=-307.60, y=13.74, z=425.40]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['item.vanillaenhanced.amethyst'/347169, l='ServerLevel[world]', x=-306.29, y=11.64, z=426.52]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/347215, l='ServerLevel[world]', x=-384.49, y=15.38, z=424.48]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/347217, l='ServerLevel[world]', x=-382.64, y=13.61, z=426.31]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/347224, l='ServerLevel[world]', x=-398.46, y=11.63, z=426.65]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/347231, l='ServerLevel[world]', x=-410.28, y=10.55, z=424.63]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/347246, l='ServerLevel[world]', x=-432.44, y=11.44, z=425.62]
+[22:32:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/347253, l='ServerLevel[world]', x=-441.49, y=15.43, z=425.39]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/348107, l='ServerLevel[world]', x=-252.68, y=14.56, z=425.50]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348134, l='ServerLevel[world]', x=-286.54, y=11.40, z=425.53]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/348164, l='ServerLevel[world]', x=-321.42, y=16.61, z=424.42]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348197, l='ServerLevel[world]', x=-376.33, y=15.68, z=424.67]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/348198, l='ServerLevel[world]', x=-375.71, y=12.73, z=427.49]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348200, l='ServerLevel[world]', x=-376.56, y=12.28, z=427.48]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/348211, l='ServerLevel[world]', x=-397.73, y=10.47, z=426.60]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/348213, l='ServerLevel[world]', x=-397.33, y=11.48, z=427.59]
+[22:34:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/348231, l='ServerLevel[world]', x=-425.68, y=13.72, z=427.57]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/348513, l='ServerLevel[world]', x=-251.38, y=13.55, z=427.61]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/348530, l='ServerLevel[world]', x=-272.33, y=15.67, z=426.67]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348543, l='ServerLevel[world]', x=-292.37, y=13.44, z=428.29]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/348547, l='ServerLevel[world]', x=-293.26, y=12.55, z=427.40]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348552, l='ServerLevel[world]', x=-306.61, y=15.73, z=426.31]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/348612, l='ServerLevel[world]', x=-378.74, y=11.25, z=427.56]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348633, l='ServerLevel[world]', x=-410.59, y=12.39, z=428.74]
+[22:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/348644, l='ServerLevel[world]', x=-424.75, y=10.72, z=427.56]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/349571, l='ServerLevel[world]', x=-250.38, y=15.29, z=428.38]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/349589, l='ServerLevel[world]', x=-279.73, y=13.26, z=428.61]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/349595, l='ServerLevel[world]', x=-284.25, y=12.69, z=429.46]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/349597, l='ServerLevel[world]', x=-284.46, y=13.28, z=429.65]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/349618, l='ServerLevel[world]', x=-312.65, y=12.27, z=429.69]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/349619, l='ServerLevel[world]', x=-312.46, y=11.27, z=429.32]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/349620, l='ServerLevel[world]', x=-312.73, y=14.53, z=429.40]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/349621, l='ServerLevel[world]', x=-313.41, y=12.39, z=429.72]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/349661, l='ServerLevel[world]', x=-363.75, y=11.69, z=429.66]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/349681, l='ServerLevel[world]', x=-397.31, y=10.27, z=429.30]
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/349696, l='ServerLevel[world]', x=-410.48, y=12.60, z=429.26]
+[22:37:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/349734, l='ServerLevel[world]', x=-459.32, y=61.00, z=363.25]
+[22:37:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/350103, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/350205, l='ServerLevel[world]', x=-251.36, y=13.51, z=429.45]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/350221, l='ServerLevel[world]', x=-272.34, y=13.66, z=430.57]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Redstone Dust'/350222, l='ServerLevel[world]', x=-271.62, y=10.70, z=429.63]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Redstone Dust'/350225, l='ServerLevel[world]', x=-270.55, y=10.44, z=429.37]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/350226, l='ServerLevel[world]', x=-271.55, y=9.62, z=428.64]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/350236, l='ServerLevel[world]', x=-286.65, y=12.57, z=429.34]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/350242, l='ServerLevel[world]', x=-284.30, y=11.61, z=430.45]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/350302, l='ServerLevel[world]', x=-371.28, y=11.72, z=429.62]
+[22:37:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/350323, l='ServerLevel[world]', x=-395.66, y=11.72, z=430.49]
+[22:38:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/350422, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:38:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/350463, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:38:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/350467, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Redstone Dust'/350651, l='ServerLevel[world]', x=-257.28, y=9.75, z=429.65]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/350666, l='ServerLevel[world]', x=-277.30, y=12.65, z=431.49]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/350678, l='ServerLevel[world]', x=-293.36, y=13.52, z=430.43]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/350698, l='ServerLevel[world]', x=-312.61, y=15.33, z=431.44]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/350706, l='ServerLevel[world]', x=-327.67, y=13.31, z=431.73]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/350708, l='ServerLevel[world]', x=-326.68, y=15.35, z=430.71]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/350727, l='ServerLevel[world]', x=-357.28, y=9.61, z=429.70]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/350740, l='ServerLevel[world]', x=-369.29, y=11.74, z=431.38]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/350741, l='ServerLevel[world]', x=-370.56, y=13.35, z=430.65]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Rotten Flesh'/350774, l='ServerLevel[world]', x=-412.51, y=12.00, z=430.18]
+[22:38:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/350776, l='ServerLevel[world]', x=-413.56, y=16.29, z=430.56]
+[22:38:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/350876, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:38:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/350879, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:39:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351142, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:39:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351154, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:39:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351223, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:39:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351226, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:39:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351231, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ore'/351458, l='ServerLevel[world]', x=-272.64, y=13.46, z=432.34]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/351460, l='ServerLevel[world]', x=-272.42, y=15.45, z=432.39]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/351487, l='ServerLevel[world]', x=-307.35, y=13.37, z=431.27]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/351495, l='ServerLevel[world]', x=-319.55, y=13.49, z=432.33]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/351501, l='ServerLevel[world]', x=-328.62, y=14.58, z=431.65]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/351502, l='ServerLevel[world]', x=-326.35, y=13.54, z=432.36]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.marble'/351512, l='ServerLevel[world]', x=-340.73, y=11.60, z=432.31]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['block.vanillaenhanced.dark_granite'/351528, l='ServerLevel[world]', x=-371.55, y=11.62, z=431.72]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Redstone Dust'/351550, l='ServerLevel[world]', x=-390.67, y=12.68, z=432.36]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/351556, l='ServerLevel[world]', x=-406.36, y=12.52, z=432.55]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/351559, l='ServerLevel[world]', x=-412.27, y=16.43, z=431.53]
+[22:39:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/351562, l='ServerLevel[world]', x=-410.49, y=12.35, z=432.63]
+[22:40:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351643, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:40:14] [Server thread/INFO]: A11y_UwU experienced kinetic energy
+[22:40:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/351777, l='ServerLevel[world]', x=-417.42, y=35.06, z=635.39]
+[22:40:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352005, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:40:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352008, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:41:03] [Server thread/WARN]: A11y_UwU moved wrongly!
+[22:41:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352390, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:41:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352404, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:41:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352411, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:41:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352416, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.70]
+[22:41:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352502, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:42:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/352787, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.49]
+[22:43:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/353138, l='ServerLevel[world]', x=-417.48, y=35.06, z=635.50]
+[22:47:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/355518, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.47]
+[22:48:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/355747, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:49:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/356544, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:49:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/356553, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:49:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/356899, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:49:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/356913, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:50:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/357032, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:50:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/357207, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[22:50:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/357471, l='ServerLevel[world]', x=-417.34, y=35.06, z=635.50]
+[22:51:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/357614, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:51:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/357622, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:51:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/357922, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:52:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358066, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.53]
+[22:52:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358136, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.52]
+[22:53:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358589, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:53:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358753, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.51]
+[22:53:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359096, l='ServerLevel[world]', x=-374.63, y=9.00, z=682.20]
+[22:53:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359126, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:53:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359127, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:53:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359130, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:53:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359137, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:53:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359138, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:54:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359346, l='ServerLevel[world]', x=-417.43, y=35.06, z=635.49]
+[22:54:21] [Server thread/INFO]: Cane lost connection: Killed
+[22:54:21] [Server thread/INFO]: Cane left the game
+[22:54:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359587, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.33]
+[22:55:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359689, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:55:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359690, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:55:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359740, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[22:55:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/359812, l='ServerLevel[world]', x=-417.48, y=35.06, z=635.41]
+[22:55:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/360123, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:56:08] [Server thread/INFO]: A11y_UwU lost connection: Disconnected
+[22:56:08] [Server thread/INFO]: A11y_UwU left the game
+[22:56:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/360302, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:56:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/360490, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:57:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/360726, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:57:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/360906, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:57:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/360910, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:57:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/361056, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.47]
+[22:57:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/361057, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.47]
+[22:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/361169, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.49]
+[22:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/361253, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:58:47] [User Authenticator #31/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
+[22:58:47] [Server thread/INFO]: Sminky52[/89.17.139.9:58765] logged in with entity id 361333 at (-678.3856464508242, 69.0, 657.410700178552)
+[22:58:47] [Server thread/INFO]: Sminky52 joined the game
+[22:59:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/361999, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[22:59:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/362190, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:00:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/362309, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.48]
+[23:00:18] [Server thread/INFO]: Sminky52 lost connection: Disconnected
+[23:00:18] [Server thread/INFO]: Sminky52 left the game
+[23:00:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/362440, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:00:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/362531, l='ServerLevel[world]', x=-417.48, y=35.06, z=635.49]
+[23:00:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/362625, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:01:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/363056, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:05:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/364963, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:05:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/364969, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:05:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365300, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:06:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365393, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:06:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365577, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:06:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365585, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:06:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365660, l='ServerLevel[world]', x=-417.41, y=35.06, z=635.50]
+[23:07:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365924, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:07:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/365925, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:07:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366058, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:07:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366059, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:07:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366279, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:07:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366280, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:08:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366487, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:08:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366488, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:08:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366495, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:08:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366496, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:08:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366501, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[23:08:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366733, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:08:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366734, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:09:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366935, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:09:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/366936, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:10:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367102, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.48]
+[23:10:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367103, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.48]
+[23:10:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367268, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:10:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367269, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:10:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367340, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:10:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367341, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:11:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367553, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.49]
+[23:11:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367554, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.49]
+[23:11:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367750, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:11:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367751, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:11:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367765, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:11:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/367766, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:12:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368193, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:12:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368194, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:13:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368473, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:13:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368474, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:13:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368705, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[23:13:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368706, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[23:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/368881, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:14:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/369186, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:14:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/369287, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:14:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/369288, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:18:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/370817, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:37:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/379875, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:38:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/380137, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:38:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/380151, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:38:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/380263, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.41]
+[23:38:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/380586, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:39:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/380836, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:39:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/380905, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.51]
+[23:39:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/381009, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:40:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/381277, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:40:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/381752, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:40:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/381769, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:41:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/381997, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:41:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382190, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:42:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382335, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.52]
+[23:42:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382396, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:42:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382522, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:42:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382531, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:42:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382642, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:42:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382643, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:43:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382751, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[23:43:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/382752, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[23:43:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383020, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383157, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383158, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:44:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383219, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:44:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383319, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:44:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383320, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:44:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383461, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:45:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383748, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:45:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/383842, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[23:46:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/384111, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:46:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/384118, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:47:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/384828, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:48:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/385797, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.50]
+[23:49:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/385933, l='ServerLevel[world]', x=-417.45, y=35.06, z=635.50]
+[23:49:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386208, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:49:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386209, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:50:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386537, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:51:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386790, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:51:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386791, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:51:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386980, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.49]
+[23:51:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/386981, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.49]
+[23:52:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/387475, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:52:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/387620, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:52:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/387624, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/388307, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:54:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/388720, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.70]
+[23:56:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/390327, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:56:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/390328, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:57:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/390689, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:57:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/390690, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:57:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/390956, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:57:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/391333, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]
+[23:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/391858, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.49]
+[23:58:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/391930, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.43]
+[23:58:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/392185, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.66]
+[23:58:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/392237, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.45]
+[23:58:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/392238, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.45]
+[23:59:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/392542, l='ServerLevel[world]', x=-417.30, y=35.06, z=635.30]

@@ -1,7 +1,19 @@
 {
-  "vanillatweaks:real_clock": {
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
-      "tick": "2021-01-14 00:07:20 +0000"
+      "has_purpur_block": "2021-01-17 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 20:33:16 +0000"
     },
     "done": true
   },
@@ -14,6 +26,66 @@
   "vanillatweaks:root": {
     "criteria": {
       "tick": "2021-01-14 00:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2021-01-14 00:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2020-11-16 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-17 20:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-11-16 00:53:02 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-01-14 00:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-17 20:32:42 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-01-14 00:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-01-17 20:33:16 +0000"
     },
     "done": true
   },
@@ -35,21 +107,9 @@
     },
     "done": true
   },
-  "vanillatweaks:durability_ping": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "tick": "2021-01-14 00:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_wood_slab": "2020-11-16 00:59:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2020-11-16 00:53:02 +0000"
+      "in_city": "2021-01-17 20:32:43 +0000"
     },
     "done": true
   },
@@ -66,12 +126,6 @@
       "minecraft:soul_sand_valley": "2020-11-27 13:27:49 +0000"
     },
     "done": false
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2021-01-14 00:07:20 +0000"
-    },
-    "done": true
   },
   "DataVersion": 2584
 }

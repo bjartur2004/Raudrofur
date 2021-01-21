@@ -1,121 +1,13 @@
-[07:25:44] [User Authenticator #4/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[07:25:44] [Server thread/INFO]: Sminky52[/89.17.139.9:53729] logged in with entity id 120533 at (-676.3000000119209, 67.16600041359523, 652.3000000119209)
-[07:25:44] [Server thread/INFO]: Sminky52 joined the game
-[07:25:52] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[07:25:52] [Server thread/INFO]: Sminky52 left the game
-[15:33:30] [User Authenticator #5/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:33:30] [Server thread/INFO]: Sminky52[/89.17.139.9:50598] logged in with entity id 203331 at (-676.3000000119209, 66.9820377659511, 652.3000000119209)
-[15:33:30] [Server thread/INFO]: Sminky52 joined the game
-[15:36:13] [Server thread/INFO]: Sminky52 was shot by Skeleton
-[15:36:39] [Server thread/INFO]: Sminky52 tried to swim in lava
-[15:36:48] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:36:48] [Server thread/INFO]: Sminky52 left the game
-[15:36:52] [User Authenticator #6/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:36:52] [Server thread/INFO]: Sminky52[/89.17.139.9:50630] logged in with entity id 205831 at (-95.22107460195987, 27.194521687578867, 57.793803076983096)
-[15:36:52] [Server thread/INFO]: Sminky52 joined the game
-[15:36:57] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:36:57] [Server thread/INFO]: Sminky52 left the game
-[15:36:59] [User Authenticator #7/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:37:00] [Server thread/INFO]: Sminky52[/89.17.139.9:50647] logged in with entity id 205860 at (-95.22107460195987, 28.764521474194236, 57.793803076983096)
-[15:37:00] [Server thread/INFO]: Sminky52 joined the game
-[15:37:02] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:37:02] [Server thread/INFO]: Sminky52 left the game
-[15:37:35] [User Authenticator #8/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:37:35] [Server thread/INFO]: Sminky52[/89.17.139.9:50686] logged in with entity id 206185 at (-95.22107460195987, 30.4032714339611, 57.793803076983096)
-[15:37:35] [Server thread/INFO]: Sminky52 joined the game
-[15:37:38] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:37:38] [Server thread/INFO]: Sminky52 left the game
-[15:37:42] [User Authenticator #9/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:37:42] [Server thread/INFO]: Sminky52[/89.17.139.9:50710] logged in with entity id 206412 at (-95.22107460195987, 30.16327140661747, 57.793803076983096)
-[15:37:42] [Server thread/INFO]: Sminky52 joined the game
-[15:37:45] [Server thread/INFO]: Sminky52 tried to swim in lava
-[15:38:32] [Server thread/INFO]: Sminky52 fell from a high place
-[15:38:49] [Server thread/INFO]: Sminky52 was shot by Skeleton
-[15:39:02] [Server thread/INFO]: Sminky52 tried to swim in lava to escape Skeleton
-[15:39:13] [Server thread/INFO]: Sminky52 tried to swim in lava to escape Hoglin
-[15:39:43] [Server thread/INFO]: Sminky52 fell from a high place
-[15:40:05] [Server thread/INFO]: Sminky52 was slain by Hoglin
-[15:40:17] [Server thread/INFO]: Sminky52 was slain by Hoglin
-[15:40:46] [Server thread/INFO]: Sminky52 tried to swim in lava
-[15:40:56] [Server thread/WARN]: Sminky52 moved wrongly!
-[15:41:05] [Server thread/INFO]: Sminky52 was slain by Zombified Piglin
-[15:41:15] [Server thread/INFO]: Sminky52 was slain by Hoglin
-[15:41:23] [Server thread/INFO]: Sminky52 was slain by Hoglin
-[15:41:45] [Server thread/INFO]: Sminky52 tried to swim in lava to escape Piglin
-[15:41:54] [Server thread/INFO]: Sminky52 fell from a high place
-[15:42:06] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:42:06] [Server thread/INFO]: Sminky52 left the game
-[15:42:09] [User Authenticator #10/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:42:09] [Server thread/INFO]: Sminky52[/89.17.139.9:50744] logged in with entity id 212817 at (-89.06583871743038, 26.76070103678109, 71.4199013484828)
-[15:42:09] [Server thread/INFO]: Sminky52 joined the game
-[15:42:11] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:42:11] [Server thread/INFO]: Sminky52 left the game
-[15:42:14] [User Authenticator #11/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:42:14] [Server thread/INFO]: Sminky52[/89.17.139.9:50757] logged in with entity id 212846 at (-89.06583871743038, 28.39820099744202, 71.4199013484828)
-[15:42:14] [Server thread/INFO]: Sminky52 joined the game
-[15:42:15] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:42:15] [Server thread/INFO]: Sminky52 left the game
-[15:42:17] [User Authenticator #12/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:42:17] [Server thread/INFO]: Sminky52[/89.17.139.9:50769] logged in with entity id 213067 at (-89.06583871743038, 29.038122850984347, 71.4199013484828)
-[15:42:17] [Server thread/INFO]: Sminky52 joined the game
-[15:42:19] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:42:19] [Server thread/INFO]: Sminky52 left the game
-[15:42:20] [User Authenticator #13/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:42:21] [Server thread/INFO]: Sminky52[/89.17.139.9:50781] logged in with entity id 213283 at (-89.06583871743038, 29.877966575950396, 71.4199013484828)
-[15:42:21] [Server thread/INFO]: Sminky52 joined the game
-[15:42:22] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:42:22] [Server thread/INFO]: Sminky52 left the game
-[15:42:24] [User Authenticator #14/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:42:24] [Server thread/INFO]: Sminky52[/89.17.139.9:50793] logged in with entity id 213494 at (-89.72446553104743, 30.995466548234234, 71.68760953371579)
-[15:42:24] [Server thread/INFO]: Sminky52 joined the game
-[15:42:27] [Server thread/INFO]: Sminky52 tried to swim in lava
-[15:42:27] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:42:27] [Server thread/INFO]: Sminky52 left the game
-[15:42:28] [User Authenticator #15/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:42:29] [Server thread/INFO]: Sminky52[/89.17.139.9:50805] logged in with entity id 213708 at (-92.09495624278776, 31.057388189573576, 72.80179830141323)
-[15:42:29] [Server thread/INFO]: Sminky52 joined the game
-[15:42:47] [Server thread/INFO]: Sminky52 tried to swim in lava to escape Skeleton
-[15:45:36] [Server thread/INFO]: <Sminky52> btw skeliton spanerin er ad lodast og er fuuleraf doti
-[15:46:00] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:46:00] [Server thread/INFO]: Sminky52 left the game
-[15:47:13] [User Authenticator #16/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[15:47:13] [Server thread/INFO]: Sminky52[/89.17.139.9:51063] logged in with entity id 217464 at (-415.2428235041957, 35.0, 636.2018912916369)
-[15:47:13] [Server thread/INFO]: Sminky52 joined the game
-[15:47:34] [Server thread/INFO]: Sminky52 tried to swim in lava
-[15:49:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/220164, l='ServerLevel[world]', x=-371.73, y=9.00, z=680.13]
-[15:52:30] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[15:52:30] [Server thread/INFO]: Sminky52 left the game
-[16:22:15] [User Authenticator #17/INFO]: UUID of player Sminky52 is 78fda775-d5e2-4bda-9ad2-4a579f297e40
-[16:22:15] [Server thread/INFO]: Sminky52[/89.17.139.9:51446] logged in with entity id 226356 at (-51.91617885621965, 67.0, 85.36647551386277)
-[16:22:15] [Server thread/INFO]: Sminky52 joined the game
-[16:22:45] [Server thread/INFO]: Sminky52 lost connection: Disconnected
-[16:22:45] [Server thread/INFO]: Sminky52 left the game
-[16:54:41] [User Authenticator #18/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[16:54:41] [Server thread/INFO]: SKAF_PathFinder[/85.220.31.107:59837] logged in with entity id 232493 at (-291.155921065986, 222.0, 111.30000001192093)
-[16:54:41] [Server thread/INFO]: SKAF_PathFinder joined the game
-[16:54:41] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/232501, l='ServerLevel[world]', x=-291.25, y=222.00, z=111.90]
-[17:00:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/237273, l='ServerLevel[world]', x=-371.80, y=9.00, z=679.64]
-[17:49:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=63, z=770} class_2338{x=-356, y=62, z=775}
-[17:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[17:52:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7031ms or 140 ticks behind
-[17:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
-[17:52:44] [Server thread/INFO]: SKAF_PathFinder lost connection: Disconnected
-[17:52:44] [Server thread/INFO]: SKAF_PathFinder left the game
-[18:54:51] [User Authenticator #19/INFO]: UUID of player SKAF_PathFinder is 9028ab8d-5e35-442a-a961-4e2492618936
-[18:56:07] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[18:55:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@fdbfcc9[id=9028ab8d-5e35-442a-a961-4e2492618936,name=SKAF_PathFinder,properties={textures=[com.mojang.authlib.properties.Property@3f12bc58]},legacy=false] (/85.220.31.107:63356) lost connection: Disconnected
-[19:06:28] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[19:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 681556ms or 13631 ticks behind
-[19:06:30] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\bjartur2004\gits\Raudrofur\server -1.16.4 carpetmod\.\crash-reports\crash-2021-01-20_19.06.30-server.txt
-[19:06:30] [Server thread/INFO]: Stopping server
-[19:06:30] [Server thread/INFO]: Saving players
-[19:06:30] [Server thread/INFO]: Saving worlds
-[19:06:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:06:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:06:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:06:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:06:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:25] [Server thread/INFO]: Stopping the server
+[01:05:25] [Server thread/INFO]: Stopping server
+[01:05:25] [Server thread/INFO]: Saving players
+[01:05:25] [Server thread/INFO]: Saving worlds
+[01:05:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

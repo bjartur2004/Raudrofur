@@ -1,13 +1,13 @@
-[01:05:25] [Server thread/INFO]: Stopping the server
-[01:05:25] [Server thread/INFO]: Stopping server
-[01:05:25] [Server thread/INFO]: Saving players
-[01:05:25] [Server thread/INFO]: Saving worlds
-[01:05:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:05:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:05:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:05:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:47] [Server thread/INFO]: Stopping the server
+[00:10:47] [Server thread/INFO]: Stopping server
+[00:10:47] [Server thread/INFO]: Saving players
+[00:10:47] [Server thread/INFO]: Saving worlds
+[00:10:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:10:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:10:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
